@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Plane debris flown out of Reunion</title>
+<description>A piece of debris that experts believe could be from missing flight MH370 is flown from Reunion in the Indian Ocean to France for analysis.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Extra fencing and dogs for Calais</title>
+<description>Extra fencing and sniffer dogs are to be offered to Calais to help deal with the migrant crisis, UK Prime Minister David Cameron says.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Country singer Lynn Anderson dies</title>
+<description>US country singer Lynn Anderson, best known for her 1971 hit (I Never Promised You a) Rose Garden, dies, aged 67.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Afghan militant leader 'has died'</title>
+<description>Jalaluddin Haqqani, the Afghan founder of the militant Haqqani network, died at least a year ago, sources tell the BBC.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Baghdad sees heatwave protests</title>
+<description>Hundreds take to the streets of Baghdad to protest as temperatures in Iraq hit over 50C.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Syria group 'seizes US-backed rebels'</title>
+<description>Syria's al-Qaeda affiliate, al-Nusra Front, claims it has captured members of the US-trained rebel group called Division 30.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>India and Bangladesh swap enclaves</title>
+<description>India and Bangladesh swap control of 160 pockets of land on each other's territory, ending a complex and long-running border dispute.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Putin 'ordered Litvinenko killing'</title>
+<description>Russian President Vladimir Putin "personally ordered" the killing of Alexander Litvinenko, the inquiry into the death of the former spy hears.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Hollande denies deal with Russia</title>
+<description>President Francois Hollande denies claims France has agreed to pay compensation to Russia for cancelling the sale of two warships.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Israel vows to find W Bank arsonists</title>
+<description>Israel vows to catch arsonists, suspected to be Jewish settlers, who killed a young Palestinian child in an attack on a West Bank village.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Argentine in Fifa 'not guilty' plea</title>
+<description>Alejandro Burzaco, a former Argentine sporting executive, pleads not guilty in the corruption case involving football's world governing body Fifa.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Zimbabwe 'seeks lion Cecil's killer'</title>
+<description>The US dentist who killed a lion in Zimbabwe should be extradited to face charges, the country's environment minister says.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>More people 'disappearing' in Egypt</title>
+<description>There has been a rise in the number of people gong missing at the hand of the security services in Egypt, according to human rights activists in the country.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Skydivers set 'giant flower' record</title>
+<description>A new record for the largest ever vertical skydiving formation has been set in Ottawa, Illinois, by 164 flyers who formed the shape of a flower in the sky.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Haka student: 'Humbled by reaction'</title>
+<description>A schoolboy who took part in a funeral "haka" that went viral tells the BBC how he feels about the reaction to the video and why students chose to do a haka for their teacher.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>The body collectors of eastern Ukraine</title>
+<description>Black Tulip an organisation working in Ukraine to find and identify the bodies of missing soldiers might have to stop because of funding</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Beijing to host 2022 Winter Olympics</title>
+<description>Beijing is chosen to host the 2022 Winter Olympics, becoming the first city ever to host both a summer and winter games.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Climbing frame searches for children</title>
+<description>A team of robotic developers has built an interactive robotic climbing frame, that can roam designated play areas, ready for children to play with it.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Does Merkel retain a stranglehold on power?</title>
+<description>It has been a bruising few months for the German chancellor, but she is still popular with the public, says Jenny Hill.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>It's one-way fight between Clinton and Bush - for now</title>
+<description>It was billed by some as a preview of next year's general election showdown, but Hillary Clinton was the only candidate looking for a fight - and it wasn't really about Jeb.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>What we know about the Litvinenko case</title>
+<description>Gordon Corera on what we have learned about the death of Alexander Litvinenko.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Why are Americans hooked on SoulCycle?</title>
+<description>The US indoor cycling craze, Soulcycle has filed for an IPO. But what makes it so popular?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Russia 'considers gay emoji ban'</title>
+<description>Russia may ban emojis depicting same-sex couples from social media if a state watchdog rules they infringe controversial "gay propaganda" laws.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Robbery thwarted by 'ignoring teens'</title>
+<description>Police are searching for a man who failed to rob a sandwich shop after being ignored by the teenage employees.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Eurozone inflation holds steady</title>
+<description>A drop in energy prices offset a rise in industrial goods and helped keep the eurozone's inflation rate at 0.2% in July.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Greek PM defends ex-finance minister</title>
+<description>Greek Prime Minister Alexis Tsipras defends his former finance minister in a row over an "emergency plan" in case of Greece's exit from the euro.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Ashley Madison hack aids spammers</title>
+<description>Spammers are exploiting the Ashley Madison hack by posting links that offer stolen data but lead to booby-trapped web pages and scams.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Rise of facial recognition queried</title>
+<description>A government-related agency in the US has published a report on privacy concerns relating to facial recognition.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Ai Weiwei to get six-month UK visa</title>
+<description>Home Secretary Theresa May orders officials to issue Chinese artist Ai Weiwei a full six-month visa, reversing an earlier decision to restrict his entry.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Studio collapse puts films in limbo</title>
+<description>The fates of around a dozen movies are up in the air after Hollywood studio Relativity Media filed for bankruptcy protection.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>US energy plan to boost renewables</title>
+<description>President Obama's clean power plan is likely to be delayed by 2 years but is also expected to push renewable energy.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Earth magnetic shield is much older</title>
+<description>Researchers have revealed that the Earth's magnetic field is 550 million years older than previously believed.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Ebola vaccine results 'remarkable'</title>
+<description>A vaccine against the deadly Ebola virus has led to 100% protection in a pioneering trial described as a "potential game-changer".</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Terror on the beach</title>
+<description>Thirty-eight people were killed by a gunman at the Tunisian resort of Sousse. Here survivors tell their story.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>A tourist in the land of the ayatollahs</title>
+<description>Iran hasn't presented an inviting face to the outside world over the last few decades, but the UK Foreign Office now says it's fine to visit - so what's it like?</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Mali 'religious sign' draws crowds</title>
+<description>Thousands of people in Mali's capital are flocking to see what it believed to be a religious sign that suddenly appeared on a wall of a toilet.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Chad imposes 'terror' death penalty</title>
+<description>Following attacks by Boko Haram militants, MPs in Chad vote to reinstate the death penalty for acts of terrorism six months after it was abolished.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Fukushima officials to face trial</title>
+<description>Three former executives at a Japanese power giant are to stand trial over the disaster at the Fukushima nuclear plant in 2011.</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>England win to take 2-1 Ashes lead</title>
+<description>England take a 2-1 lead in the Ashes series as Ian Bell's 65 not out guides them to victory in the third Test at Edgbaston.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Ukraine court backs self-rule plan</title>
+<description>Ukraine's top court says rebel-held areas in the east can get limited self-rule - but MPs are yet to vote on the changes.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Five killed in PKK attacks in Turkey</title>
+<description>Separate PKK attacks in Turkey on a police station and railway leave two police, two attackers, and a railway worker dead, officials say.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Fred, 22, tested positive - Brazil FA</title>
+<description>Brazil football chiefs confirm midfielder Fred tested positive for a banned diuretic at the recent Copa America in Chile.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Rare seabird returns to Dominica</title>
+<description>Scientists find colony of endangered black-capped petrels on Caribbean island.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Nato agrees support for Iraqi army</title>
+<description>Nato members agree measures to strengthen Iraq's security forces, which have suffered near-collapse in the face of an Islamic State offensive.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Sanctions lifted on two Iran oil firms</title>
+<description>The European Union has removed two Iranian oil companies from its sanctions list in the first such action since Iran's nuclear deal.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>US Good Samaritans killed by driver</title>
+<description>An 18-year-old man has been arrested after police say he shot and killed two people who stopped to help him along a road in a Montana Indian reservation.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Charleston gunman pleads not guilty</title>
+<description>Charleston gunman Dylann Roof pleads not guilty to federal charges including hate crimes</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Week in pictures: 25 - 31 July 2015</title>
+<description>A selection of the best news photographs from around the world taken over the past week.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Decoding the symbols on Satan's statue</title>
+<description>Decoding the symbols on the new monument to the Devil</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>India-Pakistan 'mango diplomacy' isn't fruitful</title>
+<description>Why India-Pakistan 'mango diplomacy' doesn't work</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>In pictures: Zimbabwe's Cecil the lion</title>
+<description>Cecil the lion as seen by tourists in Zimbabwe</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Famous writers on what NOT to say</title>
+<description>Famous writers on what NOT to say</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Ohio shooting: After the gun went off</title>
+<description>What really happened when Samuel DuBose was shot in Cincinnati?</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Turkey emerges from shadows in fight against Islamic State</title>
+<description>Could a once reluctant Turkey be a South Asia power broker?</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>10 things we didn't know last week</title>
+<description>The Beatles forgot dozens of their songs, and more nuggets</description>
+<sentiment>neutral</sentiment>
+</item>
+</news>

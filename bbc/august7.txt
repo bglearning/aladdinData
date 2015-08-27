@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Republican hopefuls ready for debate</title>
+<description>The top 10 Republican candidates, including Donald Trump, are gearing up for their first debate of the US 2016 election.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>At least eight dead in Kabul blast</title>
+<description>At least eight people are killed and more than 100 injured by a powerful car bomb in the Afghan capital Kabul, health officials tell the BBC.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>French hostage freed in Yemen</title>
+<description>Frenchwoman Isabelle Prime is released by her captors, after being taken hostage in Yemen in February, the French presidency says.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Russia bulldozes cheese mountain</title>
+<description>Russia has bulldozed a pile of Western-produced cheese and tonnes of other foodstuffs imported in violation of sanctions - sparking an outcry in the country.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Risk of further Nepal-India quake</title>
+<description>Scientists warn that Nepal's devastating April earthquake failed to release all of the stress built up underground, increasing the chance of a quake further west.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>F1's Jenson Button burgled in France</title>
+<description>Formula One driver Jenson Button and his wife Jessica have been burgled while on holiday on the French Riviera, his spokesman says.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Ex-Argentina president misses trial</title>
+<description>Former Argentine President Carlos Menem misses the opening day of a trial in which he is accused of obstructing the investigations into a deadly 1994 bomb attack.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Climbers' remains found after 45 years</title>
+<description>Remains found at the foot of Switzerland's Matterhorn glacier are identified as two Japanese climbers who disappeared 45 years ago.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Egypt opens Suez Canal expansion</title>
+<description>Egypt has opened a major expansion of the Suez Canal, which deepens the main waterway and provides ships with a 35km (22 mile) channel parallel to it.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>MH370 families vent anger at inquiry</title>
+<description>Relatives of those missing on flight MH370 vent anger at apparent mixed signals over whether part of the plane has been found.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Tunnel walker 'almost' got to England</title>
+<description>A Sudanese migrant was stopped inside the Channel Tunnel walking towards the British entrance, according to Eurotunnel.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>US offers $5m for 'Shorty' Guzman</title>
+<description>The US government announces that it will pay $5m (£3.2m) for information leading to the capture of fugitive Mexican cartel leader Joaquin Guzman.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Norway remembers Utoeya victims</title>
+<description>Four years after Norway's Utoeya massacre, Paul Adams visits the site of the old camp and the memorial to Anders Breivik's victims</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Turkish-Syria border 'much tighter'</title>
+<description>The BBC's Ian Pannell reports from the Turkish/Syrian border looking for evidence of the Turkish military build-up.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Lanterns light up Hiroshima river</title>
+<description>Thousands of paper lanterns are released to commemorate 70 years since an atomic bomb was dropped on Hiroshima.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>US trained Syria troops 'not supported'</title>
+<description>A US plan to build a moderate fighting force to take on the Islamic State (IS) group in Syria has been criticised by a senior rebel trained in the programme.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Stradivarius violin stolen in 1980 found</title>
+<description>A Stradivarius violin, stolen in 1980, has been recovered after a woman, having inherited it, had it appraised and discovered it had been illegally obtained.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Why the fate of Greece matters outside Greece</title>
+<description>From a geostrategic point of view, Greece matters far beyond its own borders, writes James Robbins.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Has the international community failed Haiti?</title>
+<description>Has the international community failed Haiti, asks Owen Bennett-Jones.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Are hackers helping or harming us?</title>
+<description>Should we fear or respect the people that are increasingly finding flaws in the devices and gadgets all around us?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Swedish pilot uses axe to open door</title>
+<description>A Swedish airline pilot had to prise open a toilet door with an axe, after a drunk passenger refused to leave the cubicle.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Drugs firms accused of overcharging</title>
+<description>Pharmaceutical firms Pfizer and Flynn Pharma are accused of charging "excessive and unfair" prices for an anti-epilepsy drug by the UK's competition watchdog.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Fitbit sees revenue more than triple</title>
+<description>Wearable technology company Fitbit sees its revenue beat expectations and more than triple to $400m (£256m) in the second quarter.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>AI decodes Islamic State strategy</title>
+<description>Researchers in the US have used artificial intelligence to better understand the military strategy of Islamic State in Iraq and Syria.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Security experts hack Tesla car</title>
+<description>Security researchers at the Def Con hackers' conference reveal another car's vulnerability to attack.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Minder star George Cole dies at 90</title>
+<description>Actor George Cole, best known for playing Arthur Daley in TV's Minder, dies at the age of 90.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Cosby ordered to give deposition</title>
+<description>Comedian Bill Cosby is ordered by a judge to give a sworn deposition in the civil case being brought by a woman accusing him of sexual assault.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Kenya tweeters pay for brain surgery</title>
+<description>A Kenyan man with a brain tumour uses a Twitter appeal to raise $60,000 in two days towards his treatment in India.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Sri Lanka's Rajapaksa vows poll win</title>
+<description>Former Sri Lankan President Mahinda Rajapaksa tells the BBC he will win an outright majority in general elections this month.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Rescued Med migrants arrive in Sicily</title>
+<description>Hundreds of migrants rescued from a vessel carrying around 600 of them that sank off Libya on Wednesday arrive on the Italian island of Sicily.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>New Polish President Duda sworn in</title>
+<description>Poland's new President, Andrzej Duda, is sworn in following his surprise victory in May, with his inauguration signalling the beginning of a political shift, correspondents say.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>IS claims Saudi mosque suicide blast</title>
+<description>A suicide attack on a mosque in Saudi Arabia used by the security forces has killed 15 people and has been claimed by a Islamic State group.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>IS 'captures key Syria town'</title>
+<description>Islamic State (IS) militants capture al-Qaryatain town, in the province of Homs, from pro-government forces, reports say.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Boy, 11, 'shot three year old'</title>
+<description>An 11-year-old boy is charged with manslaughter, accused of using his father's gun to shoot a three-year-old boy in Detroit, US media reports say.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Jennifer Aniston reportedly marries</title>
+<description>According to reports in the US it was a secret ceremony at their home in Los Angeles</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Utoeya hosts summer students again</title>
+<description>Students return four years on from Norway killings</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>The rise of Singlish</title>
+<description>The rise of Singlish - a uniquely Asian form of English</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Is Kama Sutra a feminist book of erotic love?</title>
+<description>Is Kama Sutra a feminist book of erotic love?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Buried beside Michael Brown</title>
+<description>Other young black lives laid to rest in Michael Brown's cemetery</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The architects building film careers</title>
+<description>Meet the architects breaking into the film industry</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>From TV blackout to football fortune</title>
+<description>From a TV pittance to Premier League fortune in 30 years</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>How the latest selfie craze divided feminists</title>
+<description>How the latest selfie craze divided feminists</description>
+<sentiment>article</sentiment>
+</item>
+</news>

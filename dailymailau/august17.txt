@@ -1,0 +1,972 @@
+<item>
+<title>
+	Tick of It's Chris Langham says: 'My ego led me to download child pornography'
+      </title>
+<description>
+	The 66-year-old father-of-five has revealed that his ‘arrogance’ and ‘ego’ led him to look at the videos, which he still maintains was research for a comedy series he was writing.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	X Factor promo slammed glorifying male judges over Dannii Minogue
+      </title>
+<description>
+	She's released five albums, hit the top 10 singles charts in the UK many a time, and even flaunted her acting chops on screen and stage. 
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Deputy mayor Salim Mehajer behind the ‘wedding of the century’ says he's got nothing to hide - and has his sights set on HOLLYWOOD
+      </title>
+<description>
+	The groom behind the so-called 'wedding of the century' has pledged to become a superstar, saying his sights are set on Hollywood... or the halls of Parliament.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Massive spider covers Australian electricity meter with HUNDREDS of its babies
+      </title>
+<description>
+	A huge wolf spider and hundreds of its babies have been found nestled on an electricity meter in Queensland.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sir Cliff Richard thanks fans for standing by him 'through the storms' ahead of 75th birthday tour
+      </title>
+<description>
+	The singer, who will play at eight venues around Britain and Ireland before performing a six-night stint at the Royal Albert Hall, said: 'It’s no great hassle for me to come out on tour.'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How Brad Pitt transformed the lives of New Orleans families after Hurricane Katrina
+      </title>
+<description>
+	On the tenth anniversary of Hurricane Katrina, Brad Pitt celebrates having built 109 brightly-colored ecofriendly homes in the worst hit neighborhood in New Orleans.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pictured: The sawn-off shotgun used by Man Monis in the Lindt siege terror attack in Sydney
+      </title>
+<description>
+	This is the sawn-off pump action shotgun used by gunman Man Monis when he entered the Lindt cafe  last December with the illegally shortened gun in a back and embarked on the fatal Sydney siege.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sex offender on work release drives Darwin prison bus to fish and chip shop with female inmate
+      </title>
+<description>
+	A sex offender from a Darwin prison, NT, has bought hot chips after breaching protocol and driving the prison bus to a tourist destination, Stokes Hill Wharf, with a female inmate.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	E-cigarettes are NOT encouraging young people to smoke, Ash reveals
+      </title>
+<description>
+	A health charity reported that in 2013, 4 per cent of 11 to 18-year-olds said they had tried e-cigarettes ‘once or twice’, but in 2015 the figure had risen to 10 per cent.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Victorian mother banned from IVF treatment after her record of bad parenting is revealed 
+      </title>
+<description>
+	Under Victorian law, the 45-year-old woman and her 58-year-old boyfriend were required to undergo a child protection order check before signing up for fertility treatment.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tipper truck driver crashes into Saudi Arabian motorway sign
+      </title>
+<description>
+	The incident - believed to have been filmed in the Middle East - saw the lorry slam into the sign, bringing it crashing to the ground and halting the traffic on the road.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Karen Walker joins the Fashion Targets Breast Cancer Campaign to support breast cancer research
+      </title>
+<description>
+	Fashion powerhouse Karen Walker has lent her signature arrow in support of cancer research. The designer collaborated with Fashion Targets Breast Cancer to design a t-shirt for the cause
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mark Latham after slur against transgender military officer Catherine McGregor amid speculation he 'uses a parody Twitter account to troll women'
+      </title>
+<description>
+	The Australian Financial Review newspaper has been called upon to sack columnist and former Labor leader Mark Latham amid allegations he uses a parody Twitter account to troll women.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sean Price pleads guilty to murder of schoolgirl Masa Vukotic in Melbourne
+      </title>
+<description>
+	A man has admitted murdering Melbourne teenager Masa Vukotic as she walked through a park near her home in March.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	U.S. Army skydiver Corey Hood dies after Chicago Air & Water Show collision
+      </title>
+<description>
+	Corey Hood of Cincinnati, Ohio, who had just turned 32 on Aug. 2, was pronounced dead Sunday afternoon at Northwestern Memorial Hospital in Chicago.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Men of Style list features Ryan Corr, Braith Anasta, Crown Prince Frederik and David Beckham
+      </title>
+<description>
+	Men's Style magazine will launch their Men of Style list, that see's Aussie hunks Ryan Corr and Braith Anasta alongside   David Beckham and Crown Prince Frederick, in Sydney on Tuesday night
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Queen's Speech book by Ingrid Seward reveals her majesty in her own words
+      </title>
+<description>
+	Controlled, unemotional and punctilious, the Queen still maintains such a dignified manner, it is impossible for outsiders to see deeply into her private world, writes INGRID SEWARD.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mark MacDonald's Why children make you FAT book reveals the truth about their bad habits
+      </title>
+<description>
+	Londoner Anna Maxted, above, has gone from a size eight to a size twelve since having children, while the average Britain gains 1½ stone per child. Fitness expert Mark Macdonald explains why.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Crown Princess Mary named 'most stylish young royal' - beating the Duchess of Cambridge for the second year running
+      </title>
+<description>
+	Crown Princess Mary of Denmark has been named the most stylish young royal by Hello! Magazine. The poll placed the Australian born royal ahead of Kate Middleton and Queen Maxima.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jarryd Hayne's spectacular debut in NFL trial impressed Colin Scotts
+      </title>
+<description>
+	Only serious injury can now stop Jarryd Hayne from playing in the NFL. That's the verdict from Colin Scotts, the Australian who successfully switched from rugby union to American Football in 1987.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Morgan Freeman's granddaughter E'Dena Hines 'stabbed to death by Lamar Davenport'
+      </title>
+<description>
+	E'Dena Hines, 33, was found dead after Lamar Davenport, 30, allegedly attacked her near her home in Washington Heights and stood over her body screaming.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Couple wake up to find naked Irishman in bed with them
+      </title>
+<description>
+	A shocked couple has woken up to find a naked stranger in their bed after the Irishman broke into their Maroubra home. The man is in hospital under police guard for possible drug related health issues
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jason Day's wife Ellie live tweets his PGA Championship win at Whistling Straits  
+      </title>
+<description>
+	A series of short tweets from Jason Day's wife Ellie has given an insight into the emotional roller coaster she faced nervously watching him win his first US PGA Championship.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Poop Cafe in South Korea serves lattes in a toilet mug
+      </title>
+<description>
+	A South Korean cafe is the latest in a string of quirky places on the country's dining scene. The poo-themed cafe serves lattes in a toilet-shaped mug and coiled scones served in a squat-toilet dish.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sarah-Jane Gaselee wishes she hadn't sold her Princess Diana's dress
+      </title>
+<description>
+	Princess Diana's bridesmaid Sarah-Jane Gaselee (circled) still regrets her decision to flog her Elizabeth Emanuel-designed dress, writes SEBASTIAN SHAKSPEARE.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Trigana Air flight TGN267 wreckage found after crash in the Indonesian jungle
+      </title>
+<description>
+	Search teams have found the wreckage of an Indonesian passenger plane that lost contact on Sunday and disappeared with 54 people on board.  It was found about 12km from Oksibil in Papua.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Game of Thrones fans 'responsible for stealing props from a Melbourne theatre'
+      </title>
+<description>
+	Victoria police are asking the public for any sightings of Game of Thrones re-enactments after thieves steal armour and swords from theatre's costume collection.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jason Day wins PGA Championship 2015 at Whistling Straits
+      </title>
+<description>
+	Australian Jason Day's rise up the golf world rankings was an uneasy journey after losing his father at the age of 12.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Why Bear Grylls is our new patron saint, by JAMES DELINGPOLE
+      </title>
+<description>
+	Bear Grylls is in trouble again, this time after purposely marooning his 12-year-old son Jesse on a rock out at sea as part of a lifeboat training exercise in north Wales, says JAMES DELINGPOLE.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Brighter men reach middle age in better shape, study finds
+      </title>
+<description>
+	The study comprised 2,848 males and tested balance, ‘chair-rise’ – the ease with which people get up from a sitting position – and hand grip strength, when measuring physical performance.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	90-year-old yachtsman convinces daughter to join him at Audi Hamilton Island Race Week
+      </title>
+<description>
+	Walter Jorgensen, from Perth in Western Australia, has been steering a sailboat around the race tracks over the past five decades - and he won't stop until he reaches the finish line.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Amazon workers say it's really like to work for the online retailer
+      </title>
+<description>
+	From employees crying at their desks to annual staff culls designed to foster a culture of fear, merciless conditions at Amazon have been described by more than 100 workers.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rumours emerge that The Bachelor's Heather Matlman was hired as a paid actress
+      </title>
+<description>
+	She introduced herself as working in film - and appearing on The Bachelor may be Heather Matlman's biggest acting gig yet.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Extremely rare brown panda bear's colour linked to conditions in Chinese mountains
+      </title>
+<description>
+	Qi Lai, a rare brown and white panda, was found as a two-month-old cub, weak and alone and taken to a nature reserve. His discovery was one of just five sightings of the species since 1985.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Liquid aluminium set the ROAD on fire when lorry carrying it crashed in Germany 
+      </title>
+<description>
+	The truck collided with the central reservation before tipping over, spilling three full containers of 800C liquid aluminium across the A1 near Schwerte, south of Dortmund.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	US is as snobby as the UK, says Sir Patrick Stewart
+      </title>
+<description>
+	The actor said he found that class was ‘such an essential part of the English way of life’ and hoped for a change in the US. But much to his disappointment, there was no ‘classless society’.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Wendy Leigh on why age anonymity is great
+      </title>
+<description>
+	Wendy Leigh has kept her age a secret since her 30s, insisting her silence means a better love life and more freedom. Like Sandra Bullock, she says all women should keep schtum
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New Charlie Hebdo scare in Paris after policeman is shot guarding government building
+      </title>
+<description>
+	Police said the officer – who is thought to have been wearing a bulletproof vest – had been taken to hospital but his life was not in danger.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump 'bombarded Princess Diana with flowers after her marriage broke up'
+      </title>
+<description>
+	Princess Diana (pictured with William) is said to have confided in veteran broadcaster Selina Scott, telling her that US presidential candidate and billionaire Donald Trump 'gives me the creeps'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Iowa boy adorably tries to herd kittens that keep wandering off 
+      </title>
+<description>
+	In a video uploaded to YouTube , a boy named Ryder (pictured), from Cedar Falls, Iowa, tries to herd five kittens on to a blanket after his parents challenged him to the overwhelming project.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Has Cecil the lion reappeared as a face in Cambridgeshire clouds?
+      </title>
+<description>
+	Heidi Webb, 41, was amazed when she looked up and spotted the head of majestic Cecil the lion forming in the clouds above her home in St Neots, Cambridgeshire.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Times Square's topless ladies criticized by tourists for hustling underage children
+      </title>
+<description>
+	The women usually charge about $10 per photo with tourists and have become a Times Square mainstay, but they have come under fire for targeting children and being 'inappropriate'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	National Circus performer Mohamed Sayed Elhelwe holds blade in his teeth as he feeds lion
+      </title>
+<description>
+	Mohamed Sayed Elhelwe could be seen sweating under the lights as his face came within inches of the lion's razor-sharp teeth during a performance of the National Circus in Mersa Matruh, Egypt.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Incredible pictures show barn owl fighting off hungry kestrel to snatch vole
+      </title>
+<description>
+	The two birds squawked over the prey mid-air, their majestic feathers flapping above the field beneath them in Cresswell, Northumberland.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	US PGA Championship leaderboard LIVE GOLF 2015: Jason Day beats Jordan Spieth to win his first major at Whistling Straits
+      </title>
+<description>
+	Jason Day claimed his first major championship victory and rewrote the record books by winning the 97th US PGA Championship at Whistling Straits.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Isle of Grunay is up for sale and it could be yours for just £85,000 
+      </title>
+<description>
+	The Isle of Grunay, the most easterly point of the Shetland Islands, goes on sale this week and is expected to attract a flurry of interest from prospective buyers.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Paul O'Grady recalls his nights out with Cilla Black and her £1million jewels 
+      </title>
+<description>
+	The TV presenter recalled his nights out in New York with the late singer in an interview with Sir Cliff Richard, who is making a comeback into the limelight for his 75th birthday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Margot Nguyen the French-Vietnamese tourist missing from Brizbane pictured
+      </title>
+<description>
+	It's understood Margot Nguyen had an argument with her mother on Holman Street in Kangaroo Point of Queensland on Sunday morning and she has not been seen since.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mick Fanning breezes through first round of Billabong Pro in Tahiti
+      </title>
+<description>
+	The three-time world Australian champion Mick Fanning proves the consummate professional in his first competition since his terrifying encounter with a great white shark last month.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump will ALL illegal immigrants, fight ISIS and says if Hillary Clinton survives it'll be a 'miracle
+      </title>
+<description>
+	Donald Trump unveiled his first policies on a number of issues including immigration and Middle East politics in a wide-ranging interview with NBC's Chuck Todd on Meet the Press.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Guardian Angels patrolling NY's Central Park again for first time in 2 decades
+      </title>
+<description>
+	The renewed patrols by the Guardian Angel volunteers  are bright-red signals of unease about whether New York is slipping crime-wise. It got better until recently, said Angels founder Curtis Sliwa.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Forrest Fenn 4-year hunt to find America’s last buried treasure worth $1M
+      </title>
+<description>
+	Seattle man Darrell Seyler, 50, has been searching for a secret treasure chest buried by eccentric millionaire Forrest Fenn since hearing about the story in 2011. He believes he is close to finding it.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Andrew Grace from the Grace Brothers chain saves drowning man at Bondi Beach
+      </title>
+<description>
+	A man drowning off the rocks at South Bondi beach, after going for a night swim on Sunday, has been heroically rescued by Andrew Grace, the great grandson of the founder of the Grace Brothers department store chain.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tony Abbott as Malcolm Turnbull is still WAY more popular as preferred leader
+      </title>
+<description>
+	Prime Minister Tony Abbott's government has seen a 7.5 per cent swing against it and would have been beaten badly if an election had been held at the weekend, according to a new poll.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Toy Story Land and Avatar-themed park slated to launch at Disney World alongside Star Wars Land
+      </title>
+<description>
+	Slinky Dog and little green alien-themed attractions will both be featured at the new 11-acre expansion at Disney's Hollywood Studios in Florida.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Models in incredible underwater 1950s photos shot by Bruce Mozert
+      </title>
+<description>
+	Bruce Mozert from Ohio was a leading pioneer of underwater photography. Several of his photos are currently on display in an exhibition in the Holden Luntz Gallery in Florida, until September 26.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Funeral held for Ian Jones, boyfriend of Annie Lennox's daughter Tali
+      </title>
+<description>
+	Ian Jones, 32, died on August 8 while kayaking with girlfriend Tali Lennox on the Hudson river. The funeral was held in Bensalem, Pennsylvania on Saturday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Albuquerque police arrest Donovan Maez over Jaydon Chavez-Silver shooting
+      </title>
+<description>
+	Donovan Maez, 18, was arrested by Albuquerque police on Friday in connection with the murder of Jaydon Chavez-Silver.  After he was shot, a 911 dispatcher hung up on one of his friends.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Transgender teen Riley Middlemore freezing his eggs before he makes transition
+      </title>
+<description>
+	College student Riley Middlemore, 16, (pictured) from Gloucester, was born a girl called Rebecca, but revealed to his family last year that he wanted to have a full gender change.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bride-to-be, 22, slams her critics as she prepares to walk down the aisle with her 58-year-old fiance - even though he has THREE children older than her 
+      </title>
+<description>
+	Carly King, 22, is preparing to tie the knot with her fiance 58-year-old Billy Potts in Woodbridge, near Ipswich despite the pair being criticised for the 36 year age gap between them.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	TripAdvisor reveals what travellers REALLY think of Australia’s attractions
+      </title>
+<description>
+	Some of Australia's most famous landmarks are seemingly not as popular as most people would believe, with some visitors hilariously lambasting the famous locations on the travel website, TripAdvisor.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	United Express passenger filmed being kicked off a plane whilst swearing at police
+      </title>
+<description>
+	After allegedly being asked by staff to put the dog into the box, the passenger refused. Police were then called to Salt Lake City Airport in the U.S. and ejected her off the plane.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	British photographer Peter Adams captures wildlife shots above the Okavango Delta
+      </title>
+<description>
+	London-born photographer Peter Adams was able to snap these amazing shots by leaning out of a Robinson R44 helicopter over the Okavango Delta, Botswana.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New York Yankees heir Jessica Steinbrenner files for divorce from third husband
+      </title>
+<description>
+	Felix Lopez, 61, was hired as the family's landscaper by Jessica's second husband Joe Molloy. And like Molloy, Lopez shot up to the executive level within the New York baseball franchise.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Middle Eastern migrants jam themselves onto trains from Macedonia to Serbia 
+      </title>
+<description>
+	Pushing and shoving each other, hundreds of migrants on an overflowing platform in southern Macedonia have been desperately trying to get aboard trains travelling to Serbia yesterday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Benjamin Peter Ashley shot dead by sheriff's deputies in California
+      </title>
+<description>
+	Sheriff's deputies in California shot and killed a man believed to be the target of a two-week-long manhunt. A man who matched the description of Benjamin Peter Ashley was shot dead by two deputies.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bromley neighbors despair over 40ft high rubbish mountain
+      </title>
+<description>
+	In March, Bromley Council signed an agreement with the Environment Agency to clear the abandoned tip at the end of a cul-de-sac in Bromley, south-east London, but as yet no action has been taken.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Queensland man armed with an axe charged after a tense seven-hour siege finally ends
+      </title>
+<description>
+	Emergency services were called to a property on Elk Street in Upper Coomera on the Gold Coast in Queensland at about 12.20pm on Sunday following reports of a disturbance.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	North Korea pictures show how Pyongyang's citizens live in the world most secretive state
+      </title>
+<description>
+	These images show the bleak everyday lives of the citizens of Pyongyang, the capital of North Korea - from balcony haircuts to bus stop queues and dreary high-rise apartment blocks.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Food blogger mocked on Twitter after creating nibbles from Birds Eye frozen waffles
+      </title>
+<description>
+	Birds Eye's attempt to give its frozen food range a high-end twist by asking family blogger Katie Bryson to come up with a  party recipe has viewers branding it the 'weirdest thing' and a 'joke'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	A woman's terrified reaction as a koala chases down her quad bike
+      </title>
+<description>
+	A koala was filmed chasing down a South Australian dairy farmer on her quad bike, ignoring her screams of fear and frightening her off the bike - only to saddle up for an innocent hug of the rear wheel.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sex worker's confessions about what life in a legal brothel is REALLY like
+      </title>
+<description>
+	Sex worker Sarah Greenmore, from Nevada, has revealed all on social networking site Reddit. She writes about what sex acts she refuses to do and how much money she can earn in a few days.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Alex Cearns captures the beauty of animals with disabilities in series of portraits
+      </title>
+<description>
+	Australian photographer Alex Cearns says taking pictures of cheerful dogs, cats, birds and a goat adapting to a disability, such as blindness or a missing limb has changed her attitude to life.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	University of Alabama Alpa Phi sorority slammed for racially-homogeneous video
+      </title>
+<description>
+	Alpha Phi, who are based at the Tuscaloosa campus, uploaded the footage to YouTube and it has since been viewed 500,000 times. But it has been condemned as 'ridiculous' and 'pathetic'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The GOP presidential debate in hilarious video 'Little Republicans'
+      </title>
+<description>
+	Funny or Die produced a segment called 'Little Republicans: Presidential Debate Highlights', which shows 10 kids re-enacting the highlights of the debate.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jimmy 'Orion' Ellis was blighted by his resemblance to Elvis Presley
+      </title>
+<description>
+	Singer Jimmy 'Orion' Ellis from Alabama sounded so much like Elvis Presley that he would never be appreciated for his own talents. A new documentary is out about his tragic life.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jeremy Clarkson and Top Gear stars were very expensive says Amazon's Jeff Bezos
+      </title>
+<description>
+	Jeff Bezos declined to say how much the three presenters were being paid but the deal is said to be worth around £160million over three years. He said he was 'very excited'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Strangers can tell if you are powerful, intelligent or even criminal by a quick glance
+      </title>
+<description>
+	Research shows those with higher IQs are usually good-looking, while those with wider faces are usually perceived as being more powerful and successful.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Celebrity chef Pete Evans and his Paleo diet are back in the news
+      </title>
+<description>
+	The Paleo diet is one of the most divisive food fads of recent years. As journalists for both Channel Nine and Seven take on the trend we look at some of the alternative recipes and ingredients.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kos immigrants queue for cruise ship paid for by Greece after waiting 2 days
+      </title>
+<description>
+	Rubber dinghies packed full of migrants continue to arrive at the Greek island of Kos as Syrian refugees started boarding a passenger ship last night.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	SNP leader Nicola Sturgeon's chandelier may have been looted by Nazi's in WWII
+      </title>
+<description>
+	A chandelier hanging in the drawing room of Nicola Sturgeon's official residence (pictured) is rumoured to be Nazi war treasure, smuggled into the UK in 1945 by an English art dealer.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Big game hunters legally fly a hippo head, leopard skulls and elephant tusks into the UK
+      </title>
+<description>
+	In the past 12 months, 16 licences were used to import so-called hunting trophies - which include tusks, heads, skulls and skins - into the UK.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Queen Mary 2 crew member feared drowned after falling overboard near Newfoundland
+      </title>
+<description>
+	Colleagues on the Cunard flagship  spent five hours looking for the man as the  vessel  made its way from Southampton to Halifax, Canada. The search has now being called off.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Drayton Manor's Thomas Land expands its rides and offers families VIP rooms
+      </title>
+<description>
+	Drayton Manor Park has opened VIP rooms for families visiting Thomas Land. They are part of a major expansion to Europe's only park dedicated to Thomas the Tank Engine.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Australia Diamonds defeat New Zealand at the Netball World Cup Final
+      </title>
+<description>
+	Australia has beaten New Zealand 58-55 in an intense clash to win the Netball World Cup, with the Diamonds cementing their status as the world's best team with a historic three-peat.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bog snorkelling in Llanwrtyd Wells in Wales is the craziest sport on earth
+      </title>
+<description>
+	MailOnline Travel's Chris Kitching visited a peat bog at Llanwrtyd Wells, Wales, and found out just how difficult it is to complete the 120-yard swim which has lured daredevil athletes from around the world.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Thanasi Kokkinakis shows that Nick Kyrgios is not Australia's only tennis bad boy at the Cincinnati Masters
+      </title>
+<description>
+	Thanassi Kokkinakis (pictured) got into trouble after an altercation at the ATP Cincinnati Masters. It came just a few days after Nick Kyrgios' rude sledging of Switzerland's Stan Wawrinka.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Startup companies selling FLAMETHROWERS despite the US Army banning them
+      </title>
+<description>
+	A startup in Cleveland is selling $1,599 flamethrowers that can shoot fire 50 feet, while a company in Detroit is selling devices for $900 that can shoot flames 25 feet.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Former Champion Ironman Zane Holmes with twin daughters reveals how to keep fit with a growing family
+      </title>
+<description>
+	Former Ironman world champion, Zane Holmes, retired three years ago and now spends his time exercising with his family after giving up his grueling 25 hours-a-week training regime.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Eureka Tower apartment on Melboune's Southbank boasts a $2M view
+      </title>
+<description>
+	An apartment perched more than 250 metres above Melbourne’s Southbank with panoramic views has failed to sell at auction on Saturday, with a vendor's bid $200,000 below reserve.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Michael and James Middleton may miss Princess Charlotte's Caribbean holiday
+      </title>
+<description>
+	The Duchess of Cambridge, her sister Pippa and their mother Carole have organised the trip to the island of Mustique, which is scheduled for November.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Duke and Duchess of Cambridge attend wedding together surprising friends
+      </title>
+<description>
+	The appearance of the Duke and Duchess of Cambridge at a friend's wedding in Devon took some by surprise - used to the Prince attending events alone since the arrival of the children.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump arrives by helicopter at the Iowa State Fair
+      </title>
+<description>
+	Shortly after 1pm on Saturday, Donald Trump arrived in his $7million Sikorsky S-76, landing in a parking lot in Des Moines, Iowa, which he has hired out so he can give free helicopter rides to kids.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Fat or lesbian? Then don't wear my dress, says UK Herve Leger boss Patrick Couderc
+      </title>
+<description>
+	Patrick Couderc, pictured, is the UK boss of fashion house Herve Leger, and in a stunning interview he suggested that lesbians prefer to look 'butch and leisurely' and older women should have less on show.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Humans of Newtown portraits taken on the streets one of Australia's most alternative suburbs
+      </title>
+<description>
+	Photojournalist Jo Wallace decided to start her own Humans of Newtown blog and photograph the different personalities in the suburb. The blog's success has led to a book which is due for release.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Salma Hayek in kidnap scare over daughter after women 'threaten to snatch child' 
+      </title>
+<description>
+	Actress Salma Hayek (pictured left) has been granted a restraining order against two women who allegedly ‘threatened to kidnap’ her seven-year-old daughter Valentina (right).
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Concours d'LeMon celebrates 'truly awful' autos where drivers compete for 'Worst in Show'
+      </title>
+<description>
+	The Concours d'Lemon held in Seaside, California on Saturday celebrates the 'oddball, mundane and truly awful' of the car world, awarding 'Worst in Show' and 'WTF Award' plaques to strange looking cars.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The princess and the pooches: Princess Katalin zu Windischgraetz is using her gilded connections to create a fairy-tale ending for Marbella’s stray dogs
+      </title>
+<description>
+	Liz meets Katalin zu Windischgraetz, fashion and bona fide royalty, who's creating a fairy-tale ending for stray dogs.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	'I breastfeed my girl of three AND my client's toddler... what's weird about that?'
+      </title>
+<description>
+	A small but growing band of British women regularly wet nurse other mothers’ children. Among them is Laura Merryweather, pictured with her own daughter Abbie and a friend's son.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tianjin explosion aerial photographs show devastation in Chinese city
+      </title>
+<description>
+	Shocking aerial pictures taken above the site of the colossal Tianjin explosion have revealed the full extent of the devastation wreaked by the chemical blast.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ferguson cop Todd J Bakula investigated for bragging of 'annual Michael Brown bonus'
+      </title>
+<description>
+	Todd J Bakula, a patrolman for St Louis Country Police, bragged online that he was using his 'bonus' to go on a cycling weekend trip with his 18-months pregnant wife.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How 'everything in Sicily is more' by Petronella Wyatt
+      </title>
+<description>
+	Sicily is the largest island in the Mediterranean, just off the Italian coast and one of the highlights is the impressive Taormina theatre features the striking Mount Etna in the background.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Alton Towers crash victims Leah Washington and Joe Pugh rebuild their lives and romance
+      </title>
+<description>
+	Leah Washington and Joe Pugh were on the Smiler when it crashed into a stationary carriage on the same track at Alton Towers. Both suffered life-changing injuries. Now, they are closer than ever.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	London Fitness Guide's Celia Learmonth on the 'wellness' blog craze
+      </title>
+<description>
+	Wellness bloggers like Celia Learmonth (pictured) have rocketed from ordinary enthusiasts to power players. But their seemingly perfect lifestyles are causing more sinister health problems.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Britain remembers VJ Day as the Queen leads the tributes
+      </title>
+<description>
+	The Duchess of Cornwall beamed with joy as Royal Navy veteran Jim Booth, 94, danced with her following today's ceremonies in London to mark the 70th anniversary of VJ Day.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	ISIS post pictures of 'Christian women kidnapped in Syria' 
+      </title>
+<description>
+	The names of at least two of the three women, including Susan Elias (pictured), resemble those of Assyrian families who lived near the villages which ISIS raided in February.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump puts $7m Sikorsky helicopter in parking lot near Iowa State Fair
+      </title>
+<description>
+	The GOP frontrunner has arranged to set up his $7million Sikorsky S-76 helicopter in a parking lot outside the Iowa State Fair in Des Moines - after being banned from landing the aircraft on fairgrounds.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Reece Harding's mother says 'Aussies SHOULD be allowed to fight ISIS'
+      </title>
+<description>
+	The mother of the Gold Coast man who died fighting against ISIS, Michele Harding, has asked the Federal Government to allow Australians to fight ISIS.
+      </description>
+<sentiment></sentiment>
+</item>

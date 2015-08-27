@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Plane debris being sent to France</title>
+<description>Debris found on the Indian Ocean island of Reunion is being taken to France so it can be identified as quickly as possible, Malaysia's PM says.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Ukraine pilot in Russia court hearing</title>
+<description>Ukrainian pilot Nadia Savchenko appears in Russian court, accused of involvement in the killing of two Russian journalists in eastern Ukraine.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Ai Weiwei denied six-month UK visa</title>
+<description>Dissident Chinese artist Ai Weiwei is refused a six-month visa by the British government amid claims he lied on his visa application form.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Cameron in warning to Calais migrants</title>
+<description>Britain will not become a "safe haven" for migrants in Calais, David Cameron warns, after hundreds continued attempts to reach the UK overnight.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>US lion killer 'sorry for disruption'</title>
+<description>Dentist Walter Palmer apologises to his patients for the disruption caused by the backlash against him over the killing of a lion in Zimbabwe.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>India executes Mumbai bomb plotter</title>
+<description>India has carried out the execution of Yakub Memon, the man convicted of financing the deadly 1993 Mumbai bombings.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Half of online world uses Facebook</title>
+<description>Half of the world's estimated online population now check in to the social networking giant Facebook at least once a month.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Rolling Stone sued over rape article</title>
+<description>University of Virginia fraternity members profiled in a false Rolling Stone piece about campus rape culture file a lawsuit against the magazine.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Top Gear: Ex-hosts sign Amazon deal</title>
+<description>Former Top Gear hosts Jeremy Clarkson, Richard Hammond and James May sign up to present a new show on Amazon's streaming service.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Mullah 'death' leaves talks in doubt</title>
+<description>The Taliban distance themselves from talks with the Afghan government, a day after Kabul announced the death of their leader Mullah Omar.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Runaway lorry kills Mexico pilgrims</title>
+<description>A lorry in central Mexico ploughs into a religious procession, killing at least 16 pilgrims and injuring about 30, officials say.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Aurora found beyond our Solar System</title>
+<description>An aurora resembling the 'northern lights' has been spotted outside the Solar System for the first time, scientists report.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Maradona accuses ex-wife of theft</title>
+<description>Argentine football legend Diego Maradona accuses ex-wife Claudia Villafane of stealing $9m (£6m) from his bank accounts, a claim she denies.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Royal Dutch Shell cuts 6,500 jobs</title>
+<description>Oil giant Royal Dutch Shell says it has shed 6,500 jobs as part of cost-cutting plans.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Sony's net profit more than triples</title>
+<description>Japanese tech giant Sony sees its net profit more than triple in the April-to-June quarter, helped by strong sales of its PlayStation 4 games.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Hackers tweet photos with hidden code</title>
+<description>A hack attack involving instructions hidden in photos, malicious tweets and the coding community Github is discovered by cybersecurity researchers.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Samsung suffers 8% profit drop</title>
+<description>Electronics giant Samsung sees its net profit drop by 8% for the second quarter of the year.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Zayn Malik signs solo record deal</title>
+<description>The former One Direction singer posts a picture of him signing a contract with RCA Records.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Tower poppies tour venues revealed</title>
+<description>Thousands of the Tower of London ceramic poppies are set to go on display in northern England this year.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Alarm over Cambodia 'timber grab'</title>
+<description>A new report says that highly valuable forests are being lost at an "unprecedented" rate from protected lands in Cambodia.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Bendy tech promise for graphene</title>
+<description>Scientists apply the paper art of kirigami to slice graphene, the world's thinnest material.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Prostate cancer: Five types 'found'</title>
+<description>Scientists identify five types of prostate cancer, each with a distinct genetic signature.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>South Korea declares 'end' to Mers</title>
+<description>South Korea's PM Hwang Kyo-ahn declares a "de facto end" to the Mers virus outbreak, after no new infections are reported for 23 days.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Crolla set for Perez rematch - Hearn</title>
+<description>British lightweight Anthony Crolla will have a WBA title rematch with Colombia's Darleys Perez, says promoter Eddie Hearn.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Joshua best in 25 years - Klitschko</title>
+<description>World heavyweight champion Wladimir Klitschko says Anthony Joshua is the most promising boxer he has seen in 25 years.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Why is the US still using a Nazi tall ship?</title>
+<description>The Eagle was built by the Nazis and fought for Hitler in World War Two - so how did it end up as a training vessel for all new US Coast Guard cadets?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>First English US founders identified</title>
+<description>Scientists identify the remains of four English men who were among the early leaders of Virginia's Jamestown settlement - the first successful British colony.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>'Tourism slump hits' Kenya Airways</title>
+<description>One of Africa's largest airlines Kenya Airways announces its biggest ever annual loss citing a slump in tourism and increased competition.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Al-Jazeera retrial verdicts delayed</title>
+<description>An Egyptian court delays verdicts in the retrial of three Al-Jazeera journalists previously jailed for allegedly aiding the Muslim Brotherhood.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>India state funeral for Abdul Kalam</title>
+<description>Tens of thousands of people attend the funeral of former Indian president APJ Abdul Kalam in the southern state of Tamil Nadu.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Chung wants to be Fifa president</title>
+<description>The major shareholder of South Korean industrial giant Hyundai wants to replace Sepp Blatter as Fifa president.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Russia vetoes MH17 tribunal at UN</title>
+<description>Russia uses its UN veto to block plans for an international tribunal to investigate last year's MH17 crash in Ukraine, drawing condemnation.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Russia warns US as NGO blacklisted</title>
+<description>Russia warns against "foreign interference" after blacklisting a US pro-democracy foundation.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Rio 2016 facing pollution challenge</title>
+<description>Organisers of the 2016 Rio Olympics are facing a serious challenge to clean polluted waters for sailing and windsurfing events.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Peru rescues 'Shining Path slaves'</title>
+<description>The Peruvian Army says it has rescued 39 people - most of them children - from a farm where Shining Path rebels kept them as slave workers.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Israeli Gaza action 'a war crime'</title>
+<description>There is "strong evidence" Israel committed war crimes in Gaza after a soldier was captured by Hamas in last year's war, Amnesty International says.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Kurds decry Turkish 'safe zone' move</title>
+<description>A "safe zone" Turkey and the US are creating in Syria is Ankara's attempt to stop Kurds from forming their own territory, a pro-Kurdish party leader says.</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>'Epidemic' of US children sold for sex</title>
+<description>The vast majority of children bought and sold for sex every night in the United States are American, a BBC investigation finds.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Murder charge for Ohio policeman</title>
+<description>A US police officer is charged with the murder of a driver who was shot in the head during a traffic stop over a missing licence plate.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>In pictures: Bamiyan Valley in Afghanistan</title>
+<description>Simon Norfolk's landscapes of Afghanistan</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>In pictures: Bamiyan Valley in Afghanistan</title>
+<description>Simon Norfolk's landscapes of Afghanistan</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Terror on the beach</title>
+<description>Survivors tell their stories of Tunisia massacre</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>A tourist in the land of the ayatollahs</title>
+<description>What is it like to visit the land of the ayatollahs?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Rio's favelas get Olympics B and B fever</title>
+<description>Rio's favelas to accommodate visitors to 2016 Olympics</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>VIDEO: How to blow up a car (in the movies)</title>
+<description>The secrets of film special effects revealed</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>VIDEO: 'Killer brew' addicts lose alcohol and privates</title>
+<description>The illegal alcohol driving wives to take desperate measures</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>How the 1993 blasts changed Mumbai forever</title>
+<description>How the 1993 blasts changed Mumbai for ever</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>A more subtle side of IS recruitment</title>
+<description>'How IS tried to radicalise me in... and how I resisted'</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>'Nazis secretly eat falafel': German town's pro-refugee posters</title>
+<description>The pro-refugee posters in a small German town</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The reinvention of an Australian circus</title>
+<description>A routine that is all jazz, ballet and acrobatics</description>
+<sentiment>article</sentiment>
+</item>
+</news>

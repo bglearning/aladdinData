@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>German prosecutor axed in treason row</title>
+<description>Germany's justice minister sacks the country's top prosecutor, who had accused the government of interfering with a treason investigation.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Heath investigated by five forces</title>
+<description>The late UK PM Sir Edward Heath is being investigated by several police forces as part of inquiries into allegations of historical child abuse.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Two trains derail in central India</title>
+<description>Two passenger trains in the Indian state of Madhya Pradesh have derailed within minutes of each other, causing unknown casualties, officials say.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Israel jails settler without trial</title>
+<description>Israel takes the unusual step of jailing a suspected Jewish militant without trial following the death of a Palestinian infant in an arson attack.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Perry misses out on Republican debate</title>
+<description>Rick Perry, the former governor of Texas, is not among the 10 White House hopefuls who will take part in the first Republican debate.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Gaddafi 'abuse' video investigated</title>
+<description>Authorities in the Libyan capital Tripoli investigate a video that appears to show Saadi Gaddafi and other prisoners being beaten in jail.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Russia renews bid for Arctic regions</title>
+<description>President Putin renews Russia's claim to about 1.2 million sq km (463,000 sq miles) of the Arctic shelf in a new submission to the United Nations.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Rock stacks reveal 'jumping' quakes</title>
+<description>Scientists solve the riddle of why precariously balanced rocks near the San Andreas fault have never been toppled by earthquakes - revealing crucial interactions between faultlines.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Sandra Bland's family sues police</title>
+<description>The family of a black woman who died in police custody announces legal action against Texas authorities.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Mother and six children found dead</title>
+<description>The bodies of six Russian children and their mother have been found in the city of Nizhny Novgorod, officials say.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Rebels 'driven from key Yemen base'</title>
+<description>Pro-government forces in Yemen recapture the country's largest airbase after a fierce battle with Houthi rebels, government officials say.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Doping claims sensationalist - IAAF</title>
+<description>Allegations of widespread doping in athletics are "sensationalist and confusing", according to the sport's governing body.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>US man saved from oncoming train</title>
+<description>A man in California has a lucky escape as a policeman drags him from a railway line, moments before a train ploughs into his car.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Dyson: 'Employ good engineers'</title>
+<description>Sir James Dyson offers the business advice he wishes he had when he started out, as part of the BBC News series, CEO Secrets.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>'Rocky' wildfire burns through wine country</title>
+<description>Evacuation orders are issued to thousands of residents in Northern California as firefighters struggle to contain a series of blazes in the area.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Outcry over Pakistan execution</title>
+<description>Pakistan executes a man convicted of murder eleven years ago, despite objections from human rights groups and the United Nations.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Islamic State: The UK's gap between rhetoric and reality</title>
+<description>There's a big gap between the UK government's rhetoric about combating Islamic State and its actions, says defence correspondent Jonathan Beale.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Family's despair after Pakistan convict hanged</title>
+<description>Shafqat Hussain met his family one last time before midnight, then was hanged shortly before dawn at the jail in Karachi, reports the BBC's Shaimaa Khalil.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>How do you transport a lion's head?</title>
+<description>Three US airlines say they will not transport animal "trophies" after the killing of Cecil the lion. But how would a hunter transport a dead lion around the world?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Has Yemen war reached a turning point?</title>
+<description>The recapture of al-Anad, a key airbase, is a major victory for the Yemeni government, writes Rusi research fellow Michael Stephens, with major implications for the war.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Bonobos' clue to speech evolution</title>
+<description>A study finds that wild bonobos use a single high-pitched call in a variety of contexts, showing a linguistic flexibility that was thought to be uniquely human.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Paltrow uncouples herself from quote</title>
+<description>Gwyneth Paltrow says it was her website editor who wrote the now infamous phrase "conscious uncoupling", in describing her split from Chris Martin.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Greek bank shares continue to fall</title>
+<description>Shares in Greek banks fall for a second day in Athens, but non-financial shares fare better.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Disney misses revenue expectations</title>
+<description>Disney posted a 5% increase in revenue, but missed expectations for the first time in eight quarters.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>First 3D-printed pill approved in US</title>
+<description>In a world first, the US Food and Drug Administration has given go-ahead for a 3D printed pill to go into production.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Hackers target internet address flaw</title>
+<description>Hackers are exploiting a serious flaw in the internet's architecture, according to a security firm.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Cilla died after stroke, says coroner</title>
+<description>Cilla Black died of natural causes after falling and having a stroke on the balcony of her Spanish home, a coroner confirms.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>London culture tops Google searches</title>
+<description>London is named the most googled city in the world for its art galleries, performing arts and innovative design, with the Science Museum is the most searched-for museum.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Loss of world's rarest ape charted</title>
+<description>The decline of the Hainan gibbon - the world's rarest primate - has been revealed by a trawl through historical Chinese documents.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Trouble in orbit: the growing problem of space junk</title>
+<description>Dr Hugh Lewis examines the threat posed by growing amounts of space junk, and outlines some possible solutions.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Sudan accused of bombing civilians</title>
+<description>Amnesty International accuses Sudan's army of committing war crimes by bombing and shelling civilian areas in its South Kordofan region.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Cecil the lion 'should be displayed'</title>
+<description>A Zimbabwe conservation group says it wants the head of Cecil the lion to be mounted in a case in Hwange National Park, where he was killed last month.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Australia court blocks giant mine</title>
+<description>A court in Australia overturns government approval for what would have been one of world's biggest coal mines.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>German MP opens home to migrants</title>
+<description>A German conservative MP, Martin Patzelt, is looking after two Eritrean refugees in his home and helping them find jobs.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>'Miracle' no-one hurt in crane crush</title>
+<description>The mayor of a Dutch town where two cranes toppled over and flattened buildings below says it was a "miracle" no-one was injured.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Mexico condemns journalist's murder</title>
+<description>Mexican officials say there will be no impunity in the case of five people, including journalist Ruben Espinosa, who were found murdered on Friday.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Colombia helicopter crash kills 16</title>
+<description>A Black Hawk police helicopter crashes in a remote jungle area of Colombia, killing at least 16 officers.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>US lawsuit over handcuffed pupils</title>
+<description>A new lawsuit alleges that school officials in Kentucky improperly restrained schoolchildren, causing them physical and emotional pain.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>How spy agencies hack mobile phones</title>
+<description>How intelligence agencies hack mobile phones</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The luxury watches that have caused international outcry</title>
+<description>Four luxury watches that have caused an outcry</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The day I ordered pizza that 'doesn't exist'</title>
+<description>The day I ordered a pizza that 'doesn't exist'</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Why might women feel temperature differently to men?</title>
+<description>Why might women feel temperature differently to men?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Making a vineyard out of a slag heap</title>
+<description>How France has learned to love its slag heaps</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Olympic odysseys: Five global stories</title>
+<description>Five remarkable stories from athletes on path to Rio</description>
+<sentiment>article</sentiment>
+</item>
+</news>

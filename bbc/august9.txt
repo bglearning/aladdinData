@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Japan remembers Nagasaki bomb</title>
+<description>The Japanese city of Nagasaki is holding ceremonies to mark 70 years since the US dropped an atomic bomb.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Singapore celebrates 50th anniversary</title>
+<description>Singapore is holding nationwide events and a military parade to mark 50 years since it became an independent nation.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Trump backlash over blood jibe</title>
+<description>A key US conservative forum drops Donald Trump as a speaker, saying he was wrong to suggest a journalist was tough on him because she was menstruating.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Ukraine blacklists Russian artists</title>
+<description>Ukraine names 14 Russian singers and actors, including French-born Gerard Depardieu, whose work will be banned from TV, radio and cinemas.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Scotland to ban GM crop growing</title>
+<description>Scotland is to ban the growing of genetically modified crops, the country's rural affairs secretary announces.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Vegemite 'abuse' prompts ban threat</title>
+<description>Australia's government is proposing banning the sale of the popular Vegemite spread in some communities because it is used to make alcohol.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Carphone Warehouse in data breach</title>
+<description>Personal details of up to 2.4 million Carphone Warehouse customers may have been accessed in a cyber-attack, the retailer says.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Heavy fighting for key Yemen city</title>
+<description>Pro-government forces in Yemen launch an offensive on Zinjibar, the rebel-held capital of southern Abyan province, sources say.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Thirteen dead as Mali siege ends</title>
+<description>Mali's security forces storm a hotel in the central town of Sevare, ending a deadly siege in which at least 13 people have been killed.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Rio Olympic water pollution protest</title>
+<description>A flotilla of more than 30 vessels cruises across Rio de Janeiro's Guanabara Bay to protest against water pollution a year before the 2016 Olympics.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Powerful Typhoon Soudelor hits China</title>
+<description>A powerful typhoon brings chaos to parts of south-eastern China, after earlier killing at least five people in Taiwan.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Uganda activists celebrate gay pride</title>
+<description>Ugandan activists celebrate gay pride, a year after a law requiring homosexuals be jailed for life was overturned.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Typhoon Soudelor barrels into China</title>
+<description>Typhoon Soudelor has crossed the Taiwan strait and has now hit parts of mainland China.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>UN workers killed in Mali siege</title>
+<description>At least 13 people, including five UN peacekeepers, are thought to have been killed in a hostage siege at a hotel in Mali.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Protest against Calais migrant fence</title>
+<description>People in Calais have staged a protest against the construction of a new fence, built to stop migrants from getting to the UK via the Channel Tunnel.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Kabul attacks blamed on 'infighting'</title>
+<description>Many people have been killed in the Afghan capital, Kabul, in a wave attacks blamed on 'infighting' within the Taliban.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Hackers gather for US desert shoot</title>
+<description>Ahead Def Con in Las Vegas, a convention dedicated to the art of subverting computer systems, some of the hackers drove to the desert to shoot guns.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Teacher 'swept out to sea' in Bulgaria</title>
+<description>A 24-year-old teacher from Nottingham is swept out to sea while on holiday in Bulgaria.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>The BBC man who was captured by Rommel</title>
+<description>The BBC man who was captured by Rommel</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>How much longer can sprawling TV box sets get?</title>
+<description>How much longer can sprawling TV box sets get?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The man making puzzles for hackers</title>
+<description>The man who must outwit the smartest hackers.</description>
+<sentiment>article</sentiment>
+</item>
+</news>

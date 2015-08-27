@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Obama Dances in Kenya Joining a Folk Dance Craze (WATCH)</title>
+<description>Not all formal state dinners have to be stuffy affairs with stiff toasts and stiffer collars. This one gave politicians and dignitaries a chance to move their hips to a traditional folk dance which is currently rocking African nightclubs. U.S. President Barack Obama joined Kenyan President Uhuru Kenyatta to perform the 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Author Judy Blume Saves His Marriage After Man Tosses Wife’s Prized Book</title>
+<description>Leonard Lasek set out some old books to give away, but didn’t realize one of those books — Judy Blume’s “Are You There God? It’s Me, Margaret” — was a prized possession of his wife, Katie, until it was gone.  Desperate to find it, he posted flyers around his Brooklyn, 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Clear Your Schedule: Baby Kitten Cuddling is a Real Volunteer Job</title>
+        <description>If kittens, cuddles, and saving lives are up your alley, we’ve got just the volunteer job for you. In hopes of making shelter kitties more adoptable—and providing them with the love and care they need early in life—Best Friends Animal Society in Salt Lake City, Utah and Los Angeles, California 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>“Who Ya Gonna Call” New All-Girl Cast of Ghostbusters Visits Kids in Hospital</title>
+        <description>A Boston children’s hospital is guaranteed “phantom-free” after the cast of the new “Ghostbusters” film showed up to cheer up kids. The movie is shooting in Boston and the the staff at the Floating Hospital for Children at Tufts Medical Center posted signs in the windows with the original movie’s 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Watch This Daredevil Actually Surfing Big Waves On a Dirt Bike</title>
+        <description>Riding a motorcycle over breaking ocean waves may sound like an impossible fantasy to surfers and bikers alike, but Australian stunt rider Robbie Maddison makes it a dream come true with his specially-built wave-walking dirt bike. He’s featured in the video below — “Robbie Maddison’s Pipe Dream” — racing through 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Police Hit the Dance Floor With City Youth to Find ‘Unity in Community’ (WATCH)</title>
+        <description>Last weekend, professional dancers in Greensboro, North Carolina, decided to turn National Dance Day into a show of unity between police officers and young people from the local Boys &#38; Girls Club. Cops and kids did the “nae nae” and other moves at the event, dubbed Unity in Community through 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Four Athletes Who Totally Crushed It At The 2015 Special Olympic Games</title>
+        <description>As closing ceremonies commence, we’d like to be able to shine a spotlight on all 6,500 Special Olympics competitor—but these four inspiring individuals stood out to us among many amazing people competing at the 2015 games in Los Angeles, California. Take a look. Olivia Quigley Quigley got what she came 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Michigan Man Follows Intuition to Become Hero in Life-Saving Rescue</title>
+        <description>A Michigan man on a Canada fishing trip noticed debris strewn on the side of the road leading to an embankment and almost kept going. But two miles down the road he decided to turn around and investigate. He found a car with two children passengers screaming as the vehicle 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>The Harvard Graduate Finding Tech Jobs for World’s Poorest People</title>
+        <description>A Harvard graduate has started a non-profit organization to find low-level tech jobs for the world’s poorest citizens. Leila Janah started Samasource—Sama is Sanskrit for “equal”—as an outsourcing company that hires people in Africa and Asia to perform digital tasks for companies like AOL, Ebay and Google. “It was important to me 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Ebola Vaccine Trial Proves 100% Successful in Guinea</title>
+        <description>A vaccine against Ebola has been shown to be 100% successful in trials conducted during the outbreak in Guinea and is likely to bring the west African epidemic to an end, the Guardian reported Friday. Scientists, doctors, donors and drug companies collaborated to race the vaccine through a process that 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        </news>

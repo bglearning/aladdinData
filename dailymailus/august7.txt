@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>
+Grover Connor arrested in the killing of Louisiana police officer Thomas LaValley
+</title>
+<description>
+Suspect Grover Deandre Cannon was wanted not only in the fatal shooting of Officer Thomas LaValley on Wednesday but also in connection with another shooting in July, Louisiana State Police said.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Android fingerprint warning as hackers say data can be stolen and used for fraud
+</title>
+<description>
+Hackers are set to demonstrate four different attacks at a Las Vegas conference showing how the data could be stolen and used for fraud.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+New deep-sea anglerfish discovered in the Gulf of Mexico
+</title>
+<description>
+The new fish was discovered by a researcher at the Nova Southeastern University's (NSU) Halmos College of Natural Sciences and Oceanography in the gulf of Mexico.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Mad Max theater gunman's mother reported him missing 2 days before he attacked
+</title>
+<description>
+Denise Pruett, the mother of Vincente David Montano, 29, contacted police in Murfreesboro, Tennessee, and revealed her son was diagnosed with paranoid schizophrenia in 2006.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Heroin addict, 23, dies of an overdose 'after giving birth to stillborn baby'
+</title>
+<description>
+Kimberly Ann Karosy, 23, died on Saturday at her home in North Royalton, Ohio in an apparent heroin overdose just hours after giving birth.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Four members of a Palestinian family are killed when an Israeli shell from the last year's war explodes, destroying their home
+</title>
+<description>
+Four Palestinians were killed and another 40 injured today when an unexploded Israeli missile detonated while workers clearing rubble from last summer's 50-day war.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+More than 3,500 people detained in secretive Chicago police warehouse
+</title>
+<description>
+New documents reveal that thousands of people have been held at the secretive Homan Square facility in west Chicago. People were detained for a range of offences - 82 percent of those held were black.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Hitman sent to kill his Russian girlfriend's office rival
+</title>
+<description>
+The 25-year-old woman was no more than bruised from the bullet and started screaming for help in a block of flats in Krasnodar, southern Russia. The man was arrested when police prized open the lift door.
+</description>
+<sentiment>negative</sentiment>
+</item>
+</news>

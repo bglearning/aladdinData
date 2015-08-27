@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>
+New Jersey mother of bisexual teens responds to anti-gay graffiti by painting it rainbow 
+</title>
+<description>
+Erin Kennedy DeLong of Villas, New Jersey, and her husband Joe, turned the door into a symbol of pride for their daughters after a vandal scrawled 'I'm gay' across it in black paint.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+A new Australian study shows that pears can lower alcohol levels
+</title>
+<description>
+An Australian scientific organisation has found a sure-fire way to pre-pear you for those nasty hangovers, in a study showing a natural cure to lowering alcohol levels in your body.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Kate Jakes who had received three new livers by the age of 22 dies
+</title>
+<description>
+Kate Jakes, who received three liver transplants in just five years, has tragically died while awaiting her fourth. A tireless campaigner for organ donation, Kate told her story on her blog.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Moment morbidly obese sisters walk unaided for the first time after weight loss
+</title>
+<description>
+Yogita Rameshbhai Nandwana (in red), five, weighed 5st 5lbs and sister Anisha (wearing green), three , 7st 8lbs, but the sisters from India have both lost 13 pounds thanks to a restricted diet.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Romantic floating restaurant opens in China's Zhejiang Province
+</title>
+<description>
+For anyone in search of a unique dining experience, look no further. The romantic restaurant is fashioned out of a wooden floating dock, and looks to only accommodate parties of two.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Glories of secret Britain: 20 enchanting gardens you MUST visit this season
+</title>
+<description>
+In a search for Britain's unsung sightseeing gems, we've chosen 20 glorious gardens for you to enjoy, from the intimate to the grand. We've avoided the most famous so you'll escape the hordes.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Cosplay competitions across Sydney show fans in intricate costumes
+</title>
+<description>
+SMASH! Annual Manga and Anime show has returned to Sydney, Australia. While another cosplay event will be held for League of Legends at Sydney's Luna Park.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+ISIS show off their latest batch of child soldier recruits in Syria
+</title>
+<description>
+Taking aim with his heavy machine gun in his hands, the young boy's childhood appears to have finished now that he is one of ISIS newest recruits in the Syrian province of Damascus.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Netflix set to overtake Foxtel as Australians  embrace video-on-demand streaming
+</title>
+<description>
+Netflix's surge in popularity within a mere five months, has seen it be one of the fastest adoptions of new technology in Australia's history with numbers in subscribers expecting to double by 2018.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Women make better magicians than men, claims president of the Magic Circle
+</title>
+<description>
+Scott Penrose says that women are better suited to some tricks, and TV magician Katherine Mills, pictured, joked she may even hire a male assistant and 'dress him in Spandex'.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Photographers flock to Instagram to share shots of weather rolling into Perth
+</title>
+<description>
+A captivating, but ominous looking cloud has cast a colossal shadow over Perth this weekend, bringing with it the promise of wild weather.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Princess Mary of Denmark graces the runway at Copenhagen fashion week
+</title>
+<description>
+Crown Princess Mary presents an award at Copenhagen fashion week on Friday
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Typhoon Soudelor hits Taiwan, killing six, as it approaches mainland China
+</title>
+<description>
+The eye of the storm passed over the island nation at around midday, injuring 101 and cancelling all domestic flights. The storm is approaching Zhejiang in China (pictured).
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Proof you DO look different in every changing room mirror, AMANDA PLATELL writes
+</title>
+<description>
+Why is it that some changing room mirrors seem to take a dress size off you and others add two? Femail's AMANDA PLATELL decided to find out.
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+Search underway for a man swept off rocks on Flinders Island
+</title>
+<description>
+A man has been washed off rocks on the northern tip of Flinders Island, off Tasmania, where an air and sea search is now under way.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Speech clinics help transgender patients find their voices
+</title>
+<description>
+The University of Connecticut's Speech and Hearing Clinic is one of a growing number of clinics with programs.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Married sex worker tackles Reddit's Ask Me Anything questions
+</title>
+<description>
+A woman has welcomed questions from complete strangers on what it’s really like to be an Australian sex worker. The 22 year-old posted an ‘Ask Me Anything’ on Reddit.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Pinata cake with sponge outside and sweets INSIDE is new baking craze
+</title>
+<description>
+As the Great British Bake Off kicks off, Cakeology author Juliet Sear explains how to make her brightly coloured 'surprise' cake, made from hollowed out sponge hiding a selection of sweets.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Will we soon spot Little Green PLANTS in space? Light from our closest star Alpha Centauri could reveal signs of alien life on its planets
+</title>
+<description>
+Astronomers have found that photosynthetic pigments in plants, algae and bacteria reflect light in distinctive ways, which may make it possible to spot life on planets orbiting distant stars.
+</description>
+<sentiment>positive</sentiment>
+</item>
+</news>

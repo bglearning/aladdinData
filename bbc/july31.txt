@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>'Repeat attack' at Jerusalem Gay Pride</title>
+<description>Six people are stabbed at a Gay Pride march in Jerusalem and police arrest an ultra-Orthodox Jewish man they say attacked marchers in 2005.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Move to end anti-icebreaker protest</title>
+<description>The US Coast Guard begins an operation to remove Greenpeace protesters blocking an icebreaker from departing Portland, Oregon.</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>HIV flushed out by cancer drug</title>
+<description>HIV can be flushed out of its hiding places in the body using a cancer drug, researchers show.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Plane debris to be sent to France</title>
+<description>Debris found on an Indian Ocean island is to be sent to France to determine if it is from the missing airliner MH370, Malaysia's PM says.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>US inquiry into African lion killer</title>
+<description>US officials launch an investigation into the killing of a lion in Zimbabwe but say they have been unable to reach the American involved.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Celebrity fitness chain to go public</title>
+<description>SoulCycle, the indoor cycling fitness chain with a celebrity following in the US, including David Beckham and Lady Gaga, plans to float on the stock market.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>IMF wary of third Greek bailout</title>
+<description>The International Monetary Fund is wary of any financial contribution to a third Greek bailout and is unlikely to provide funds at the first stage.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Taliban pick Mullah Omar's successor</title>
+<description>The Taliban appoint a successor to Mullah Omar and confirm that the veteran leader has died, as reported earlier by the Afghan government.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Soldiers guard El Salvador buses</title>
+<description>El Salvador provides security escorts for buses forced to observe a strike called by criminal gangs, after several drivers were killed.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>More arrests in Chile burning case</title>
+<description>A further five Chilean ex-army soldiers are charged over the burning of two teenagers during a 1986 protest against Gen Augusto Pinochet.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Facebook builds drone for net access</title>
+<description>The social network Facebook announces it has built its own drone to bring internet connectivity to remote parts of the world.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Plea for help over Calais crisis</title>
+<description>Police and social services in the UK say there are seeking urgent support to deal with the impact of the Calais migrant crisis.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>VIDEO: One night by the Calais security fence</title>
+<description>The BBC's Paul Adams spends one night with some of the migrants trying to gain access to the rail tracks that run through the Channel Tunnel.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>VIDEO: Inside Calais migrant camp 'village'</title>
+<description>The makeshift migrant camp in Calais is now equipped with a school room, a canteen, and its shelters are becoming more permanent. Christian Fraser looks around.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>VIDEO: MH370 relative torn over debris find</title>
+<description>Jacquita Gonzales, wife of MH370 passenger Patrick, is torn over whether to believe that plane debris found in Reunion is from the missing airliner.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>VIDEO: Philae may have found 'primordial soup'</title>
+<description>The Philae lander, after successfully landing on a comet in late 2014, may have made a significant discovery about the ingredients which create life.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>VIDEO: Protesters call for hunter's extradition</title>
+<description>A group of protestors hold a demonstration outside the office of the American dentist who killed the Zimbabwean lion Cecil.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>VIDEO: RAF 'intercepts Russian aircraft'</title>
+<description>The Ministry of Defence has released footage which it said shows RAF Typhoons intercepting 10 Russian aircraft.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>VIDEO: Just who is Taliban's Mullah Omar?</title>
+<description>The Taliban have confirmed that their long-time leader, Mullah Omar, is dead.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>VIDEO: Night patrols to deter Calais migrants</title>
+<description>Security forces in Calais have been working to prevent a third successive night of mass incursions into the Channel Tunnel by migrants trying to reach Britain.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>What do Trump and Corbyn have in common?</title>
+<description>Corbyn leading Labour? Trump in the White House? Such a world is far-fetched, but their popularity is telling about politics on both sides of the pond.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The Taliban enter uncharted territory</title>
+<description>With the death of leader Mullah Omar, and the appointment of a successor, the Afghan Taliban face their biggest challenge yet, writes Dawood Azami.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Great robotic missions to explore space</title>
+<description>Pallab Ghosh picks out five robotic missions which have inspired us and changed our perception of the Universe.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Could plane debris be MH370?</title>
+<description>The BBC examines whether an aeroplane part found in Reunion could belong to the missing Malaysia Airlines Flight 370.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>US baby gets lifetime hunting permit</title>
+<description>Daylen Brickley, a baby from the US state of New Hampshire, is the proud owner of a lifetime permit to hunt and fish - the first license holder under a new program.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Google to defy French privacy ruling</title>
+<description>Google is to defy a French ruling that the "right to be forgotten" should be applied globally and not just in Europe.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>US economic growth picks up to 2.3%</title>
+<description>The US economy grew at an annualised pace of 2.3% in the three months to June, official figures show.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Obama wants world's fastest computer</title>
+<description>President Obama has signed an executive order calling for the US to build the world's fastest computer by 2025.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Spy leaks website being investigated</title>
+<description>Germany's federal prosecutors are investigating if a website that covers digital rights issues committed an act of treason.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>AA joins protest at green changes</title>
+<description>The AA joins green groups in warning that recent changes in energy policy will harm the climate.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Wales surf wave generator starts up</title>
+<description>The first waves have peeled across an artificial surf lagoon built on the site of an old aluminium works on the edge of the Snowdonia National Park.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>'Abortion pill' legalised in Canada</title>
+<description>Canadian health authorities have approved the drug RU-486, commonly known as the abortion pill.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Finn puts England on brink of win</title>
+<description>Steven Finn takes 5-45 to reduce Australia to 168-7 in their second innings on the second day of the third Ashes Test at Edgbaston.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Burundi rival accepts top post</title>
+<description>Burundi's opposition leader Agathon Rwasa is elected as a deputy speaker of parliament, despite his criticism of recent controversial polls.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Kenya's Garissa campus 'must reopen'</title>
+<description>Peace activists in Kenya are calling for the reopening of the college where 148 people were killed by gunmen from the Somalia-based al-Shabab group.</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>India 'to overtake China' by 2022</title>
+<description>India is set to overtake China to become the most populous nation by 2022 - six years earlier than previously predicted, a new UN study finds.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>China ex-general in corruption probe</title>
+<description>Former high-ranking Chinese army figure Guo Boxiong is expelled from the Communist Party amid corruption allegations.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Israel allows force-feeding in jails</title>
+<description>The Israeli parliament passes a law allowing detainees to be force-fed, following cases of Palestinian inmates going on hunger strike.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Ohio police officer denies murder</title>
+<description>A police officer who killed an unarmed black man during a traffic stop pleads not guilty to murder, as his bond is set at $1m.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Rebel flags found at US black church</title>
+<description>Police say two white males were behind the placing of four Confederate flags outside a church near the Martin Luther King Jr Center in Atlanta.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>In pictures: Ecology photo prize</title>
+<description>BMC Ecology's 2015 competition winners</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>In pictures: Ecology photo prize</title>
+<description>BMC Ecology's 2015 competition winners</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>We told the king we had HIV</title>
+<description>We told the king we had HIV - and taught a country not to fear</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Quiz of the week's news</title>
+<description>Why was a Satanic statue unveiled in the US?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>VIDEO: 'Cajun John Wayne' calls out criminals</title>
+<description>The tough US cop's YouTube challenge to wanted criminals</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>From boom to bust in Swiss border towns</title>
+<description>From boom to bust in Swiss border towns</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Russian debtors despair as boom turns to bust</title>
+<description>Roubles dry up for millions of Russians</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Did Nepal temple ban animal sacrifice festival?</title>
+<description>Has a Nepal temple really banned mass sacrifices?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>NASL football looks to kick-start expansion</title>
+<description>The US football division seeking inspiration from the 1970s</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>'Phone farmers' reaping the benefits</title>
+<description>The tech helping Kenyan smallholders reap rich rewards</description>
+<sentiment>positive</sentiment>
+</item>
+</news>

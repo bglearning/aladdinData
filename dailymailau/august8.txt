@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>
+Colorado theater gunman James Holmes AVOIDS death sentence and jailed for life
+</title>
+<description>
+Jurors in Arapahoe County, Colorado, failed to reach a unanimous verdict on whether Holmes deserved capital punishment or not - meaning that he will spend life in prison instead.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Worker hit by falling scaffolding on a Barangaroo construction site
+</title>
+<description>
+A man has been seriously injured at a work site in Barangaroo after he was hit by metal scaffolding that fell from a fork lift.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Sydney girl who hanged herself at Kidz Klub Playland and Cafe was found by children
+</title>
+<description>
+A police investigation is underway after a young girl was rushed to hospital after she was found with her scarf wrapped around her neck and hanging from monkey bars in a play centre in Sydney's west.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+How washing your hands does ward off colds
+</title>
+<description>
+The spread of colds and other viruses could be slowed and winter pressures on the NHS reduced if people are encouraged to wash their hands more frequently, researchers say.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Why we've forgotten how to knit but can use Wi-Fi
+</title>
+<description>
+A study has revealed the top 20 traditional skills that are dying out in a world of convenience and technology - and they include knitting, reading a map and being able to change a tyre (pictured).
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+Science Advances reveals our eye shape helped turn humans into hunters
+</title>
+<description>
+A study found humans became successful hunters (file photo) because our eyes have circular pupils, as opposed to the elongated horizontal ones of plant-eating animals such as sheep.
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+After Fergus Hillman, there's now more bouffant babies! 
+</title>
+<description>
+Since MailOnline printed the picture of six-month-old Fergus Hillman, whose full head of hair needs near-constant trimming, hundreds of parents have sent in photos of their carefully coiffed cuties.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Django Unchained actress Daniele Watts ordered to rewrite apology letter to LAPD
+</title>
+<description>
+Daniele Watts' first note merely apologized to the police officer for disturbing 'your carefree coffee break' and thanked him for giving her the opportunity to shine a light on racial profiling.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Ohio man accused of setting fiancée on fire says it was an 'accident'
+</title>
+<description>
+Michael Slager, 40, allegedly set Judith Malinowski, 31, ablaze behind a Speedway gas station in Gahanna, Ohio, on Sunday, at 5.pm. The incident left Malinowski hospitalized.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Speech clinics help transgender patients find their voices
+</title>
+<description>
+The University of Connecticut's Speech and Hearing Clinic is one of a growing number of clinics with programs.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Telling a person they're fat makes them even fatter
+</title>
+<description>
+Psychologists found that believing you are overweight is counter productive – highlighting a problem for doctors trying to combat the obesity epidemic.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Man spends 20 years saving up to buy ring for childhood sweetheart
+</title>
+<description>
+On Saturday, Liang Liang used 12,000 yuan in coins to buy a proposal ring in Fuyang city, northwestern Anhui province, fulfilling his promise to one day marry his childhood sweetheart.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Dogs that sniff out prostate cancer can detect tumours with 93% accuracy 
+</title>
+<description>
+Dogs have been specially trained to detect prostate, bladder and kidney tumours to an accuracy rate of 93 per cent – far higher than current testing methods.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Princess Beatrice joins Oprah Winfrey on mega-yacht off Ibiza coast
+</title>
+<description>
+The 26-year-old was seen with her boyfriend Dave Clark on the Chelsea owner's luxury boat - once the world's largest superyacht - which was docked off the Spanish coast.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Mars salt flats could be last place water survived on the red planet
+</title>
+<description>
+Researchers have discovered evidence of an ancient lake that likely represents some of the last potentially habitable surface water ever to exist on the Red Planet.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Android flaw 'Certifi-gate' lets hackers listen in on conversations and steal data
+</title>
+<description>
+The flaw could allow hackers to 'steal personal data, track device locations, turn on microphones to record conversations', the firm that discovered it says.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Apple spends $700k-a-year on security for CEO Tim Cook
+</title>
+<description>
+Apple said the huge sum was for 'home and personal security' for Cook, but the huge sum is still less than half of the $1.6million that Amazon reportedly spends per year protecting Jeff Bezos.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Paraplegic Emma Carey overcame disability and is now a fitness role model
+</title>
+<description>
+Diagnosed as a paraplegic by her doctors in Switzerland after a freak skydiving accident, Australian Emma Carey amazed everyone when she got back on her feet just one year later.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Migrants scattered across Mediterranean Sea after fishing boat capsized
+</title>
+<description>
+These were the heart-rendering scenes 15 miles off the coast of Libya on Wednesday where a rescue mission went disastrously and tragically wrong, leading to the deaths of 200 migrants.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Two Georgia women arrested 'for keeping special needs siblings in cages
+</title>
+<description>
+Stephanie Stone (pictured), 34, and Wanda Redfern, 49, of Georgia, have been charged with cruelty to children and false imprisonment after officers found Stone's 11-year-old son caged.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Florida brothers Elias and D.C. Goutoufas hear each other for the first time
+</title>
+<description>
+Elias and D.C. Goutoufas, who are from Tampa,  Florida, have been deaf all their lives due to a congenital defect. The moment they heard each other for the first time was captured on video.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Couple of 68 years reunited while both are patients in Piedmont Fayette Hospital
+</title>
+<description>
+A hospital worker's actions brought a 96-year-old man to tears after she helped to reunite him with his beloved wife of 68 years. The couple was put in separate rooms at Piedmont Fayette Hospital.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Beverly Hills mansion with bullet-proof safe room on sale for $29million
+</title>
+<description>
+This European-style mansion in Beverly Hills, California, could be yours - if you are willing to fork out a whopping $29million. It is being sold by the estate of the late cardiologist Leonardo Berezovsky.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Cocoa motors reveal WalkCar, small enough to fit in a backpack
+</title>
+<description>
+The $800  'WalkCar' is small enough  to fit in a backpack, and has a top speed of 6.2 miles per hour. To steer, the user just shifts their weight.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Teen couple Dylan and Lexie survive lightning strike by holding hands
+</title>
+<description>
+A doctor told Dylan and Lexie of Claremont, California that holding hands helped diffuse the electrical current that hit them.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+SkyWest plane bursts into FLAMES at Nashville International Airport
+</title>
+<description>
+The Delta-operated regional jet, carrying dozens of passengers, caught fire after the pilot turned on its engine while departing Nashville International Airport in Tennessee on Friday.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Boars WASH their food before eating it at Basel Zoo, Switzerland
+</title>
+<description>
+When presented with grubby apples, a group of boars at Basel Zoo, Switzerland carry the treats to a river using their snouts and carefully wash them in the water.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Mackeral attacks surfer who suffers broken cheek and dislocated jaw
+</title>
+<description>
+A 27-year-old surfer fell from his board off the coast of Sao Vicente, Brazil, and suffered severe facial injuries. Surgeons  removed the jaw of a white snake mackerel (pictured) from his nasal cavity.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Predators have vertical slits for pupils, while prey have 'letterbox' shaped holes
+</title>
+<description>
+Scientists at the University of California at Berkeley studied the eyes of 214 land species to deduce that predators have differently shaped eyes to prey.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Super typhoon Soudelor to hit Taiwan and China with wind speeds of 100mph
+</title>
+<description>
+Full force of Typhoon Soudelor is expected to hit Taiwan August 7 and 8. South eastern coast of China will also be affected by the tropical storm. 2,000 people have been evacuated and two died.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Princess Mary leaves the family at home and shows off her royal style at Copenhagen fashion week in a glamorous floor length black gown 
+</title>
+<description>
+Princess Mary has proved she is the epitome of class and style after stepping out at Copenhagen fashion week with friend and actress Ellen Hillingsoe, donning an elegant black gown for the occasion.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Steve Jobs refused to pay Chrisann Brennan $25million she claims in letters
+</title>
+<description>
+The late Apple founder rebuffed the mother of his eldest daughter, Chrisann Brennan, when she asked him to set up a trust fund for her as compensation for raising Lisa.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Bigfoot sighting in North Carolina in Henderson County by Eric Walters and dog Zippy
+</title>
+<description>
+A man from Boone vacationing near Asheville claims to have captured video of Sasquatch crossing the road in Henderson County. Eric Walters was walking his dog Zippy when he saw it.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Inside Sonagachi, Asia's largest red light district with hundreds of brothels
+</title>
+<description>
+The seedy world of Sonagachi, in the western city of Kolkata, is swamped with hundreds of multi-storey brothels, housing roughly 14,000 prostitutes who travel work here from all over India.
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+Gary and Phil Neville’s father Neville has died after heart attack on flight to Australia
+</title>
+<description>
+Neville Neville flew to Sydney to watch his daughter Tracey, who is manager of the England netball team at the World Cup, but he suffered a suspected heart attack en route.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Violent domestic disputes are exposing Australian children to 'horrendous' scenes
+</title>
+<description>
+Family violence exposes children to appalling incidents with one mother's kids having to help to hold her organs in her body, an inquiry was told.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Shocking footage shows a giant whale shark being sawed into pieces and sold at a Chinese market while STILL ALIVE 
+</title>
+<description>
+The sickening clip shows the whale shark opening and closing its mouth as it's butchered in front a crowd, including young children, at a marketplace in China.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Queensland boy born with severe facial deformity has battled to survive
+</title>
+<description>
+Little 19-month-old Robbie Milne from Queensland has undergone more than the average person will in their entire lifetime after being born with cleft palate and an extremely rare genetic disorder.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Kenyan teen reveals how she was forced to undergo female genital mutilation
+</title>
+<description>
+Damaris Monty, 14, from Tangulbei, Kenya, was forced to undergo the procedure without anesthetic when she was just 11.  A year later, she fell pregnant with Chepkopus Domoren, two.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Could the position you SLEEP in affect your risk of Alzheimer's? 
+</title>
+<description>
+Those who sleep on their side, as opposed to on their back or front, appear able to clear our more of the day's chemical clutter from their brain while they rest, say Stony Brook University researchers.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Jukuja Dolly Snell wins $50,000 award for her spectacular painting
+</title>
+<description>
+Artist Jukuja Dolly Snell won a $50,000 prize for the overall 2015 National Aboriginal and Torres Strait Islander Art Award, while several other artists won awards in their fields.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+United Airlines passenger punched by 'drunk man who refused to turn off phone'
+</title>
+<description>
+Footage shows the unruly passenger at Chicago's O'Hare Airport removing his hand luggage from the overhead bin before he pauses, speaks to a man in the front row and then throws a punch.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Cristiano Ronaldo strips off to reveal his body in UNRETOUCHED photos
+</title>
+<description>
+The Portuguese  footballer, who plays for Real Madrid, can be seen modelling his favourite new CR7 Underwear styles as he demonstrates some of his signature moves.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Botswana elephants enjoy drinking from a toilet rather than their water hole
+</title>
+<description>
+Sneaking out for a quick call of nature, one camper got the surprise of her life when she came across an elephant drinking out of one of the campsite lavatories in Botswana.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Australian buyers borrowing on average $340,200 to secure a house 
+</title>
+<description>
+New home loan data has revealed that rising property prices across Australia forced first home buyers to take out an average loan of $340,200 to secure a house in June.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Uber forced to hike its prices by 10% after new ruling by tax office
+</title>
+<description>
+Drivers of the popular 'Uber' app are forced to charge 10% more for their fares, after a ruling by the Australian Taxation Office places the ride-sharing service in the same category as taxi operators.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+At least four dead as Mali gunmen 'try to kidnap' Western hotel guests
+</title>
+<description>
+The Malian army has surrounded the hotel in Sevare in the Mopti region of Mali, about 370 miles north of the capital Bamako.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Saudi Arabia women surrounded by jeering men as they walk along promenade
+</title>
+<description>
+In the minute-long video, the two young women - dressed in traditional burkhas and face veils - become visibly distressed as they are harassed and intimidated by the men.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Sydney thrilled to get a pop-up Kit Kat studio in Westfield
+</title>
+<description>
+Create-your-own Kit Kat Bar in Sydney, after a pop-up Kit Kat studio has opened up in Westfield, located in the heart of the city. Consumers can use up to 3 ingredients per creation.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Melbourne crane collapses with driver on board when hydraulic ram fails
+</title>
+<description>
+A huge crane has collapsed on itself just before 4pm in Southbank, inner Melbourne. Only one worker was seriously injured, but chaotic peak hour traffic is expected with several lanes closed.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Donald Trump's family photographed in Republican debate audience
+</title>
+<description>
+His wife Melania watched from the audience, and joined him on stage after his performance. She was joined by Trump siblings Ivanka, Eric and Tiffany at the Quicken Loans arena in Cleveland, Ohio.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Roman Abramovich agrees to lend £1.5bn superyacht to rapper Timati
+</title>
+<description>
+Russian rapper Timati has thanked Chelsea owner Roman Abramovich for the loan of his £1.5 billion super yacht Eclipse - and promised not to break the dishes or bring girls on board.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Sydney's Lorn Cheng jailed over failed drug smuggling attempt
+</title>
+<description>
+50-year-old Sydney Grandmother, Lorn Cheng, has been sentenced to eight years jails for swallowing 252 pellets of heroin weighing 643.6 grams (pictured) to pay of a $10,000 gambling debt.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Chongqing guest house listed for demolition remains open
+</title>
+<description>
+Hotel is situated in the South Bank district of Chongqing, south west China. Negotiation for the demolition compensation haven't been finalised yet to owners have decided to keep hotel open.
+</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>
+The foods that will give you a radiant glow in under a WEEK
+</title>
+<description>
+EXCLUSIVE: Nutritionist Fiona Kirk has devised a Super Skin Diet which she recommends following for 3 to 7 days before and/or after your long-awaited summer break for a glowing complexion.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Sydney's Taronga Zoo's brush-tailed rock wallabies emerge from mothers' pouches
+</title>
+<description>
+Two tiny Brush-tailed Rock Wallaby joey's have emerged from their mother's pouches at Sydney's Taronga Zoo, in Australia.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Siege in Caboolture ends as man hands himself in after 'bomb threats'
+</title>
+<description>
+A dramatic six-hour siege in the northern Brisbane suburb of Caboolture has ended, after a man who locked himself in an apartment block and made bomb threats to police surrendered at 5.35pm.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Women share misery of sexual harassment at work on secret-sharing app Whisper
+</title>
+<description>
+Women have taken to Whisper to confess anonymously to the day-to-day suffering they experience at the hands of their bosses and the colleagues who blame them for it.
+</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>
+Yazidi boy relives experience at ISIS jihad camp for lesson in BEHEADING
+</title>
+<description>
+Taha said the terror group tried to indoctrinate his class into becoming Islamic extremists, helping form an army they boasted would march on Rome, before defeating America and the west.
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+Did Carly McBride's killer close her Facebook account?
+</title>
+<description>
+Detectives hunting for missing - believed murdered - NSW mother Carly McBride have called on Facebook in the US to trace who shut down her Facebook page 24 hours after she vanished.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Paedophile Maurice Van Ryn dubbed the 'Big Cheese' wants sentence reduced
+</title>
+<description>
+A man who is facing courts over the repeated sexual abuse of a 15-year-old boy has complained of overcrowding in NSW jails during his sentencing.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Woman sues Emirates Airlines after she slipped on a blanket
+</title>
+<description>
+Marie Hobbs is suing Emirates Airlines over claims she was left permanently disabled after she slipped on an airline blanket while trying to help another passenger on a flight from Perth to Dubai.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Childcare worker Shannon Grant McCoole who sexually abused children jailed
+</title>
+<description>
+A former Families SA childcare worker who admitted to multiple child sex and child pornography offences has been jailed for up to 35 years.
+</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>
+Historic Canberra Hyatt hotel makes embarrassing typo on its menu
+</title>
+<description>
+Canberra's five star hotel the Hyatt has accidentally claimed to serve 'Grilled Moroccan Aborigine' in an extremely unfortunate error. The hotel only made the situation worse with their ignorant response.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Wellington man and his 2 kids escape sinking car after it crashed into the sea
+</title>
+<description>
+Neighbours woke up to the sound of a crash and children's screams in Wellington, New Zealand, after a car smashed through a fence and rolled into the ocean on Friday morning.
+</description>
+<sentiment>positive</sentiment>
+</item>
+</news>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>New debris, apparently suitcase remnants, also found</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>U.S.: Course change 'likely' deliberate</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>MH370 maps</title>
+<description>Malaysia Airlines flight 370 disappeared less than an hour after it took off from Kuala Lumpur. Here are maps showing what happened.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Police: 6 stabbed at Jerusalem pride parade</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Canadian pastor held in N. Korea speaks</title>
+<description></description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>'Dark Knight' killer jury deliberates</title>
+<description>Jurors began deliberating Thursday on whether to continue death penalty proceedings against convicted mass murderer James Holmes or to now sentence him to life in prison without the possibility of parole.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Recordings show Lafayette chaos</title>
+<description>The tension and adrenaline are audible.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Officials: 'Jihadi John' alive</title>
+<description>The U.S. government has "very recent indications" that "Jihadi John" -- the notorious, English-speaking, hooded ISIS executioner seen in violent hostage beheading videos -- is alive and most likely hiding in or near the self-declared ISIS capital of Raqqa, Syria, two U.S. officials told CNN on Thursday.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>White House blasts reps' vacations</title>
+<description>It's become a summer ritual in Washington: take a shot at the opposing party for taking a longer vacation than yours. </description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>'Legal status' OK by Trump</title>
+<description>Donald Trump, the Republican presidential hopeful who shot up to the head of the pack over his controversial comments about illegal immigrants, is finally starting to lay out an immigration policy.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Tough guy Perry challenges Trump</title>
+<description>The war of words between businessman Donald Trump and former Texas Gov. Rick Perry reached the jungle gym on Wednesday, when Perry challenged Trump to a pull-up contest.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Bolt: Time to ditch junk food</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>One mistake entrepreneurs should avoid</title>
+<description>Getting it wrong is part of starting a business -- so what should entrepreneurs avoid?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Does this man have U.S.' most dangerous job?</title>
+<description>Until you get to know Sean D. Tucker, it's hard to understand why he chooses to make a living by risking his life. </description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Woman who defied dictator behind bars in U.S.</title>
+<description>She personified courage as the woman who defied an iron-fisted dictator. Four years later, Eman al-Obeidi is just another inmate in a Colorado jail.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>The spread of ancient religion through 11 sculptures</title>
+<description>A new permanent gallery at Singapore's Asian Civilizations Museum traces 1,000 years of religious art and symbolism, looking at their spread out of India into China, Sri Lanka, and Southeast Asia.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Slaves on plane: 7 warning signs</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>The children for sale on U.S. streets</title>
+<description>The image sticks in my mind: A female defendant is escorted into the courtroom with shackles around her ankles, making it difficult to walk. Dressed in a jail-issued jumpsuit and flip-flops, she takes a seat at the appointed table up front, until the judge is gaveled in and we all rise. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Why Atlanta is hub of U.S. trafficking</title>
+<description>The pathway leading to the dark corners of human trafficking began in the fluorescent-flooded hallways of a Florida middle school.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Mets' shortstop weeps on field amid trade rumors</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Meet the soccer star with 'four birthdays'</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title> Glorious silks add extra glamor to Goodwood Ladies Day </title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Ruins of the Soviet space shuttle program </title>
+<description>What was once the gleaming pride and joy of the Soviet space program now lies covered in dirt and bird droppings in a disused hangar in Kazakhstan.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>NASA finds 'Earth's bigger, older cousin'</title>
+<description>NASA said Thursday that its Kepler spacecraft has spotted "Earth's bigger, older cousin": the first nearly Earth-size planet to be found in the habitable zone of a star similar to our own.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>The king with 100 wives</title>
+<description>Abumbi II, the 11th fon, or king, of Bafut, Cameroon, has close to 100 wives. They weren't all his to start. According to local tradition, when a fon dies, his successor inherits all his wives and then marries his own queens. </description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>10 watches that changed history</title>
+<description>Mechanical watchmaking is not a world of revolutions, it's a world of evolutions, where change comes only slowly and tradition is a sacred trust.
+In the five hundred or so years that watches have existed, however, there have been a few that have changed the watchmaking world. Some of these watches broke new ground in design, some in technology -- and some both. Here are ten that made history and became part of it at the same time. </description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Top 20 museums around the world</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Capturing beauty around the world</title>
+<description>To photographer Mihaela Noroc, beauty cannot be defined by one country, race or ethnicity. </description>
+<sentiment>positive</sentiment>
+</item>
+</news>

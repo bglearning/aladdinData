@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<news>
+<item>
+<title>Several passengers feared dead as two trains derail in Madhya Pradesh</title>
+<description>Several passengers were feared dead when two express trains on Tuesday night derailed while crossing a bridge on swollen Machak river near Harda in Madhya Pradesh, senior district officials said.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Govt backs down, asks to block only child porn</title>
+<description>Within four days of banning 857 websites deemed to be pornographic and having been accused of moral policing for it, the government reversed the order on Tuesday, making an exception only for websites engaged in child pornography.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Porn DVD sales up, prices hit the roof</title>
+<description>A day after the internet service providers blocked more than 800 pornographic websites, a number of cities across the country reported a spike in the cost of underground sale of porn DVDs, the demand for which headed north.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>‘Martyred’ Cong takes protest outside House</title>
+<description>Congress used the suspension of 25 of its MPs from Lok Sabha to step up its attack against the Modi government over ‘Lalitgate’ and Vyapam scandals, with party chief Sonia Gandhi leading the protest with clenched fists and slogans alongside Rahul Gandhi and former PM Manmohan Singh before the Gandhi statue in Parliament.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Gurdaspur jihadis planned to attack temples?</title>
+<description>The GPS devices recovered from the terrorists killed in the terror attack in Punjab last Monday had the coordinates of two temples and a college fed in them, a revelation which has forced the intelligence agencies to probe if these were the primary targets.
+</description>
+<sentiment>negative</sentiment>
+</item>
+</news>

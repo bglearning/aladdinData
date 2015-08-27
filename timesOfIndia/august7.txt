@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<news>
+<item>
+<title>Two injured in fresh encounter in Udhampur</title>
+<description>Suspected militants tonight attacked a police post in a remote area of Udhampur district of Jammu and Kashmir, injuring two special police officers (SPOs), a day after a terror strike there saw a Pakistani terrorist being captured by villagers.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>BSF bravehearts’ last stand saved lives</title>
+<description>At 7.30am on August 5, when a man holding a Kalashnikov stopped a BSF bus near Udhampur, constable Rocky stood like a rock between lethal bullets and certain death for all the 44 jawans in the vehicle.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>What would Sonia have done, Sushma asks LS</title>
+<description>Foreign minister Sushma Swaraj on Thursday offered an impassioned defence of her role in ‘Lalitgate’, asking if Congress chief Sonia Gandhi would have acted any differently in responding to a humanitarian appeal by Lalit Modi’s wife ahead of a potentially life-threatening surgery.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>SC calls for new law to regulate social media</title>
+<description>The Supreme Court on Thursday stressed the need for a new law to regulate social media to curb malicious and defamatory messages circulated online.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+</news>

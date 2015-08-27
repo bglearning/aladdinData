@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Michigan Man Follows Intuition to Become Hero in Live-Saving Rescue</title>
+<description>A Michigan man on a Canada fishing trip noticed debris strewn on the side of the road leading to an embankment and almost kept going. But two miles down the road he decided to turn around and investigate. He found a car with two children passengers screaming as the vehicle 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>The Harvard Graduate Finding Tech Jobs for World’s Poorest People</title>
+<description>A Harvard graduate has started a non-profit organization to find low-level tech jobs for the world’s poorest citizens. Leila Janah started Samasource—Sama is Sanskrit for “equal”—as an outsourcing company that hires people in Africa and Asia to perform digital tasks for companies like AOL, Ebay and Google. “It was important to me 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Ebola Vaccine Trial Proves 100% Successful in Guinea</title>
+<description>A vaccine against Ebola has been shown to be 100% successful in trials conducted during the outbreak in Guinea and is likely to bring the west African epidemic to an end, the Guardian reported Friday. Scientists, doctors, donors and drug companies collaborated to race the vaccine through a process that 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Keep On Livin,’ a Stranger Told Me After a Sweet Encounter</title>
+<description>I stopped at a local convenience store tonight to cash in some scratcher lottery tickets that have been on my desk for a few months. When I got inside there was an old Black gentleman with a cane making a purchase at the register. The cashier told him the items 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>World’s Largest Free Kitchen Feeds 100,000 a Day Inside a Golden Temple</title>
+<description>Feeding the hungry is a time-honored tradition among people of many faiths, all over the world. In Amritsar, India, the Sikh gather in a Golden Temple to serve 100,000 meals every single day of the year in a kitchen that never closes. The langar, or community kitchen, found in this temple is the 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Family Finds 300-yo Golden Treasure in Shallow Florida Waters</title>
+<description>Within days of the anniversary that a Spanish fleet wrecked in a hurricane off the coast of Florida 300 years ago, a family of treasure divers uncovered a million dollars in rare gold coins and artifacts hiding in just 15 feet of water. 1,000 feet off the coast of Fort Pierce, Eric Schmitt and his family 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Man Who Donated Son’s Organs Years Ago Gets Same Gift From Recipient’s Mom</title>
+<description>The gift of life that was given ten years ago is being paid back by a grateful mother to a now-ailing father. In 2005, Bill Millard and his wife decided to donate their son’s organs when he died in an accident. That donation saved the life of fellow San Francisco, 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        </news>

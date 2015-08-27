@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<news>
+<item>
+<title>Govt says 526 cases of sexual harassment of women at work reported in 2014</title>
+<description>About 526 cases of sexual harassment of women at workplace were reported during 2014, the government said on Friday.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>How much did Sushma's kin get from LaMo: Rahul</title>
+<description>Leveling a direct and personal allegation that all but ends any prospect of a resolution of the standoff in Parliament, Congress leader Rahul Gandhi on Friday asked external affairs minister Sushma Swaraj to reveal the amount of money her family received from controversial ex-IPL chief Lalit Modi.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Kabul blast kills 35, tests Ghani's peace plan</title>
+<description>Two massive attacks in Kabul on Friday, one striking near a government and military complex in a residential area and the other a suicide bombing outside a police academy, killed at least 35 people, sending the strongest message yet to Afghan President Ashraf Ghani — that militants are still able to strike at his heavily fortified seat of power.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>SC to rlys: Why new trains without safety steps?</title>
+<description>The Supreme Court on Friday slammed railways for the unmanned railway crossings which take a heavy toll of human lives and asked the government why it was introducing new trains without first ensuring the safety of the people.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Tirumala gets 80kg gold as interest annually</title>
+<description>The veil has been lifted, albeit partially, on one of the best kept secrets in the country: How rich is Tirumala Temple's Lord Venkateswara?
+</description>
+<sentiment>neutral</sentiment>
+</item>
+</news>

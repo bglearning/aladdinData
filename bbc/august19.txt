@@ -1,0 +1,315 @@
+<item>
+<title>Bangkok bomber 'is part of network'</title>
+<description>The bomb attack that killed 20 people at Bangkok's Erawan shrine on Monday was carried out by a "network", Thailand's chief of police says.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Female libido pill gets US approval</title>
+<description>The US Food and Drug Administration approves a libido-enhancing drug for women that has been dubbed "female Viagra".</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Palmyra archaeologist 'killed by IS'</title>
+<description>The archaeologist who looked after ancient ruins of Palmyra in Syria for 40 years is reported to have been murdered by Islamic State militants.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Turkish troops killed in bomb attack</title>
+<description>Eight Turkish soldiers are killed in a bomb attack in south-eastern Siirt province blamed by the army on Kurdish PKK militants.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>German MPs back Greek bailout deal</title>
+<description>German MPs approve a third eurozone bailout deal for Greece, after Finance Minister Wolfgang Schaeuble says it would be irresponsible to oppose it.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Pistorius early release put on hold</title>
+<description>South Africa's justice ministry suspends the decision to release Oscar Pistorius from prison on Friday.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Israel offers to free hunger-striker</title>
+<description>Israel offers to release a Palestinian man who has been on hunger strike for two months in protest at his indefinite detention without charge.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>South Sudan peace snub 'mind-boggling'</title>
+<description>South Sudanese President Salva Kiir's refusal to sign a deal to end an 18-month civil war was "mind-boggling", the chief mediator says.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Second plague case at Yosemite</title>
+<description>US health officials close a section of Yosemite National Park after it emerges that a second tourist may have contracted plague.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Cancer risk 'even from light drinking'</title>
+<description>Even light and moderate drinking - up to one drink a day for women and two drinks a day for men - could increase the risk of cancer, say researchers.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Russia jails seized Estonian 'spy'</title>
+<description>A court in Russia sentences Estonian security official Eston Kohver to 15 years in prison for spying in a case that sparked a diplomatic row.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Batgirl actress Yvonne Craig dies</title>
+<description>Yvonne Craig, the actress who played Batgirl in the 1960s Batman TV series, dies aged 78.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Suspect hunted as Bangkok shrine reopens</title>
+<description>The Erawan shrine in Bangkok which was hit by a deadly explosion on Monday has reopened to the public, while police continue to search for a suspect caught on CCTV leaving a backpack.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Bangkok victim 'always helped others'</title>
+<description>Tributes have been paid to Vivian Chan Wing-yan, the 19-year-old British law student who was killed in the Bangkok blast.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Hackers publish details from affairs site</title>
+<description>Names and details of more than 30 million people that use a site that facilitates extra-marital affairs are leaked onto the internet.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: 'Supercar season' hits central London</title>
+<description>It's known as the 'supercar season', when some of the world's richest descend on central London with their extraordinary cars in tow - but not everyone is happy. The Victoria Derbyshire programme went to see what is happening.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Stuntman speeds along fastest zip line</title>
+<description>British stuntman Nicholas Daines is used to high-adrenaline stunts on Hollywood film sets, but now he has taken on a challenge on home soil for charity.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Six arrested over contraband cheese</title>
+<description>Russian police say they have smashed a gang producing millions of dollars worth of contraband cheese.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: The Iranian woman seeking motocross glory</title>
+<description>The BBC meets Behnaz Shafiei, an Iranian motocross racer who dreams of one day becoming world champion, in a sport dominated by men.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Art that reacts to human singing</title>
+<description>The exhibition exploring the relationship between human physiology and vibrations of the voice</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Putin shows who is boss in Crimea</title>
+<description>The Russian President makes a controversial visit to Crimea, as citizens there adjust to life after annexation.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Charismatic bosses: A help or a hindrance?</title>
+<description>Do we really need charisma in the workplace?</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>What's in the Ashley Madison dump?</title>
+<description>It appears that hackers have released 10 gigabytes of data stolen from Ashley Madison, a dating website for married people.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>The messy theories behind the Thai bomb</title>
+<description>Who carried out the Bangkok bomb attack near the Erawan shrine is still not clear, but the scale is too great for it to be motivated by domestic politics, writes Pavin Chachavalpongpun.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Venice mayor rebuffs Elton John jibe</title>
+<description>Venice's mayor hits back after singer Elton John attacked the city's decision to withdraw school books which feature same-sex couples.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Have we underestimated our ancestors?</title>
+<description>Evidence from a variety of sources suggests that the first people to resettle Britain after the Ice Age were more sophisticated than we could have imagined.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Ashley Madison client data 'leaked'</title>
+<description>Customer data stolen from Ashley Madison, a dating website for married people who wish to cheat on their spouse, has reportedly been published.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Fault may have caused Dreamliner fire</title>
+<description>A fire on a parked Ethiopian Airlines Boeing 787 Dreamliner jet at Heathrow Airport in 2013 was probably caused by a short circuit, air accident investigators say.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Mumsnet founder suffers 'swat attack'</title>
+<description>Parenting site Mumsnet resets its users' passwords after a series of attacks, which involved armed police being called out to its co-founder's home.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Lightning strikes Google data centre</title>
+<description>Google has said data was wiped from disks at one of its data centres in Belgium - after it was struck by lightning four times.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Prisoner actress 'assaulted girl'</title>
+<description>Maggie Kirkpatrick, who starred in 1980s soap Prisoner Cell Block H, appears in court on child sex charges.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Festival censured over Jewish singer</title>
+<description>The Spanish government condemns a festival for cancelling a Jewish-American singer's concert because he refused to share his political views.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Secrets of mosquito-repelling grass</title>
+<description>Chemists isolate the pleasantly perfumed active chemicals in sweetgrass - a plant used by Native Americans to fend off mosquitoes.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Comet impacts cook up 'soup of life'</title>
+<description>New lab results show how collisions between comets and planets can make the molecules that are the essential building blocks of life.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Zero new Ebola cases in Sierra Leone</title>
+<description>For the first time since the Ebola outbreak was declared in Sierra Leone, the country has recorded zero new infections.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>MRI scans can deliver cancer therapy</title>
+<description>A hospital scan normally used to detect cancer could be used to steer tumour killing treatments to hard-to-reach targets in the body, say scientists.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Chelsea agree deal for Barca's Pedro</title>
+<description>Chelsea agree to sign Barcelona winger Pedro, who had been a Manchester United target, in a deal worth £21m.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Coe named head of world athletics</title>
+<description>Britain's Lord Coe says his appointment as president of world athletics' governing body, the IAAF, is "a big challenge but a great honour".</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>August 1985: The worst month for air disasters</title>
+<description>In one month more passengers died in crashes than any other.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>What was in Osama Bin Laden's tape collection?</title>
+<description>What was in his huge collection of audio cassettes?</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Tunisia hosts Afrobasket tournament</title>
+<description>Africa's biggest basketball tournament starts in Tunisia, after a venue change following two deadly attacks on tourists this year.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>'Dozens drown' fleeing Boko Haram</title>
+<description>Reports in Nigeria say as many as 60 people may have been killed after a raid on a village in the north-east by suspected Boko Haram militants.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Tianjin insurance bill warning</title>
+<description>Insurance claims after the deadly Tianjin blast could far exceed official estimates, Fitch ratings agency warns.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Rare Philippine eagle shot dead</title>
+<description>A rare Philippine eagle has been shot dead just two months after finishing treatment for a previous gunshot and being released into the wild, conservationists say.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Paris survivor sues French media</title>
+<description>A man who hid in a factory from the Charlie Hebdo gunmen is suing French media who revealed his whereabouts.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Migrant numbers at EU borders surge</title>
+<description>The number of migrants at the EU's borders reaches a monthly record of 107,500, as a sharp surge in expected asylum requests is reported in Germany.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Bolivia gold mine clash turns deadly</title>
+<description>A Bolivian police officer is killed as security forces try to evict local people from a gold mine they have occupied north-west of La Paz.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Mass fish death in Mexican lake</title>
+<description>Fishermen remove thousands of dead fish from the shores of Lake Cajititlan in western Mexico, as arguments rage about why the fish are dying.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Yemen deaths 'amount to war crimes'</title>
+<description>All sides in the conflict in Yemen have left a "trial of civilian death and destruction" and may have committed war crimes, Amnesty International says.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Iran 'to work with rivals for peace'</title>
+<description>Iran wants to work with regional powers to promote peace and security after last month's nuclear deal, Vice-President Masumeh Ebtekar tells the BBC.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Manning spared solitary confinement</title>
+<description>US army whistleblower Chelsea Manning is found guilty of breaching prison rules for possessing contraband items but is spared solitary confinement.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>US women pass Army Ranger training</title>
+<description>Two American women have passed the gruelling training programme of the Army Rangers - one of US military's most elite special operations forces.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VJ Day: In pictures</title>
+<description>70th anniversary commemorations</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>China explosions: Tianjin blasts aftermath in pictures</title>
+<description>Latest images of the aftermath of Wednesday's explosions</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Australia's audacious prison breaks</title>
+<description>Sydney's escape is just one of Australia's prison breaks</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Is it the beginning of the end for online comments?</title>
+<description>Is it the beginning of the end for online comments?</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Is it worth treating everyone who might get worms?</title>
+<description>Is it worth treating everyone who could get infected?</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>How one migrant made it in the US</title>
+<description>How one Japanese migrant made it in the US</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>The Mexican comedians with a serious civic message</title>
+<description>Fighting a lack of civic spirit with humour</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Hackers hijack the net's phone books</title>
+<description>How hackers hijack the internet's phone books</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Smugglers help enslaved Yazidis escape Islamic State</title>
+<description>How an Iraqi businessman secures the release of enslaved Yazidis</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: The death of a Russian revolutionary</title>
+<description>His grandson recalls the fateful day</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Is France’s supermarket waste law heading for Europe?</title>
+<description>The French law that will force supermarkets to give food away</description>
+<sentiment></sentiment>
+</item>

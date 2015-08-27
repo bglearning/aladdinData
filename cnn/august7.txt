@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Families confront officials</title>
+<description>Despite Malaysia's assurance that debris found in Reunion Island is from missing MH370, some of those with loved ones aboard the flight are still not convinced. CNN's Will Ripley reports.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>'Dark side' of the moon caught on camera</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Taiwan in cross hairs of typhoon</title>
+<description>Residents in Taiwan are making final preparations before typhoon Soudelor, expected to make a direct hit early Saturday. CNN's Meteorologist Tom Sater has the latest.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>ISIS claims deadly Saudi mosque blast</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Guru abused followers' children</title>
+<description>As young girls in the 1990s, Shyama Rose and sisters Kate and Vesla Tonnessen loved living in Barsana Dham, the Austin, Texas, ashram of the International Society for Divine Love.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Jennifer Aniston, Justin Theroux marry</title>
+<description>Hollywood's most famous engaged couple finally appears to have made it official. </description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Hundreds feared dead in shipwreck</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Plague victim dies in Colorado</title>
+<description>Centuries after ravaging millions, the plague has come to modern-day Colorado -- leaving a devastated family behind, after their loved one succumbed to the disease.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Taylor Swift spooked by fan</title>
+<description>Taylor Swift looks shocked as a fan reaches for her ankle during her concert in Edmonton, Canada.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Cops kill U.S. theater shooter</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>U.S. to have Gulf 'carrier gap' </title>
+<description>The U.S. Navy will not be able to keep an aircraft carrier in the Persian Gulf for much of the fall season, according to a Navy official.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Jury duty for George W. Bush</title>
+<description>Just call him Juror Number 43.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Colin Farrell joins 'Harry Potter'</title>
+<description>Colin Farrell is ready to cast a spell.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Richards: Beatles album 'rubbish'</title>
+<description>The Beatles' "Sgt. Pepper's Lonely Hearts Club Band" may be regularly ranked among the greatest albums of all time, but it's nowhere near the top of Keith Richards' list.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Hiroshima: Artifacts of the atomic bomb</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Jon Stewart, in his own words</title>
+<description>When Jon Stewart signs off Thursday night after 16 years of hosting "The Daily Show," he'll leave a a gaping void in the world of political satire.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Amazing proverbs, beautifully illustrated</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>NFL star breaks the sound barrier</title>
+<description>From being bullied in school to becoming a Super Bowl champion, Derrick Coleman's deafness hasn't got in the way of his dreams.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Would you stay in a Brazilian favela?</title>
+<description>Those attending next year's Olympics in Rio de Janeiro will have some interesting accommodation options, as CNN's Shasta Darlington reports.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Eating spicy foods the key to a longer life?</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>What the? Scary-looking fish found in ocean's depths</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>World's 12 best spots for wild swimming</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Skiing in the Dubai desert</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>9 must-ride trips for cyclists</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>What if the next big thing in fashion wasn't wearable?</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Windows 10: Revenge of Microsoft?</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Why we must never forget Hiroshima</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+</news>

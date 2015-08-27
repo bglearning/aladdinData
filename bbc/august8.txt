@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>US cinema gunman spared death penalty</title>
+<description>A jury in the US state of Colorado spares gunman James Holmes the death penalty for killing 12 people at a cinema and he will serve life in jail without parole.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>'Soviet Taliban' convicted in US</title>
+<description>A former Soviet army officer is convicted by a US jury of planning and leading a Taliban attack on American forces in Afghanistan in 2009.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Drought to cut Panama Canal ship size</title>
+<description>The Panama Canal says it will temporarily cut the size of ships allowed through because drought caused by El Nino has lowered water levels.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Anti-thalidomide hero dies at 101</title>
+<description>Frances Oldham Kelsey, the Canadian doctor who played a central role in preventing thalidomide being distributed in the US, dies at 101.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Nascar driver sued over race death</title>
+<description>The family of a racing driver who was struck and killed by Nascar star Tony Stewart file a wrongful death suit against him.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Argentine F1 legend Fangio exhumed</title>
+<description>A judge in Argentina orders the body of 1950s F1 legend, Juan Manuel Fangio, exhumed to try to resolve two paternity cases.</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>Fastest neutrino among new findings</title>
+<description>Physicists unveil a raft of new findings about neutrinos bombarding the Earth from above, below - and within.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>French train accident kills three</title>
+<description>Three people die after a train hits a car on a level crossing in the Normandy region of France.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Nigeria to establish weapons factory</title>
+<description>Nigeria is to set up a domestic weapons factory in an effort to cut its dependence on imported arms, President Muhammadu Buhari says.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Pinochet's spymaster dies at 86</title>
+<description>Manuel Contreras - who headed Chile's intelligence service during the Pinochet regime in the 1970s and 80s - dies in hospital, aged 86.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Gunmen stage deadly siege in Mali</title>
+<description>Gunmen attack a hotel in the Malian town of Sevare, taking hostages and killing at least five people.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>England on verge of Ashes glory</title>
+<description>England are close to regaining the Ashes after another dominant display against Australia on day two of the fourth Test.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Tensions as migrants arrive on Kos</title>
+<description>The BBC's James Reynolds speaks to migrants as they arrive on the Greek island of Kos, hoping for a better life.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Angry MH370 relatives demand answers</title>
+<description>Chinese relatives of passengers from the missing flight MH370 have staged a protest in Bejing for the third day running.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Utoeya survivor: 'I'm seeing the faces'</title>
+<description>Samuel Muyizzi was on Utoeya island when Anders Breivik attacked and murdered many of the people there, and he survived.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Hybrid solar balloon's inaugural flight</title>
+<description>The world's first hybrid hot air balloon to be powered by the sun has just completed its maiden flight over Bristol.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>'How I called space station from my shed'</title>
+<description>An amateur radio enthusiast managed to call astronauts on the International Space Station using simple equipment in his shed.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Saudi Arabia flexes its muscles</title>
+<description>Saudi Arabia has shed its laissez-faire attitude to Middle Eastern affairs in favour of a tougher, more assertive approach, writes Frank Gardner.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>The twisting tale of India's porn ban</title>
+<description>Sanjoy Majumder takes a look at the debate in India about whether to ban pornography websites.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Are hackers helping or harming us?</title>
+<description>Should we fear or respect the people that are increasingly finding flaws in the devices and gadgets all around us?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Man talks to space station from shed</title>
+<description>An amateur radio enthusiast manages a quick chat with the International Space Station (ISS) as it passes over his shed.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>North Korea creates new time zone</title>
+<description>North Korea will put its standard time back by half an hour on 15 August to break from the time zone imposed by "wicked" imperialist Japan.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>US economy adds 215,000 jobs in July</title>
+<description>The US economy added 215,000 jobs in July, while the unemployment rate held at a seven-year-low of 5.3%, official figures show.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Brazil inflation hits 12-year high</title>
+<description>Inflation in Brazil hits a 12-year high of 9.56%, largely because of rising electricity prices, official figures show.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>'Biggest update' to fix Android bug</title>
+<description>Samsung, LG and Google pledge to provide monthly security updates for smartphones running the Android operating system.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Stolen webcam footage 'not policed'</title>
+<description>YouTube should do more to police and remove video clips made using hijacked webcams, say digital safety campaigners.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>One Direction break chart records</title>
+<description>One Direction top the UK singles chart with Drag Me Down, while The Maccabees are number one in the album chart for their first time.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Spice Girl reunion 'not happening'</title>
+<description>Former Spice Girl Emma Bunton denies the group have agreed to reunite, saying "nothing's happening at the moment".</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Coasts 'final frontier' for study</title>
+<description>Archaeologists want the public's help as they attempt to tackle what they describe as the "final frontier" - England's coastline.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Ghana medics stop emergency services</title>
+<description>Doctors in Ghana stop providing emergency services as they continue their strike over conditions of service, including allowances.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>DR Congo earthquake kills children</title>
+<description>A small 5.6 magnitude earthquake hits eastern Democratic Republic of Congo, killing tow children, Information Minister Lambert Mende says.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Kabul rocked by deadly explosions</title>
+<description>At least 35 people have died and hundreds more have been wounded in separate bomb attacks across the day in the Afghan capital Kabul.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Bangladesh blogger hacked to death</title>
+<description>Niloy Neel, a Bangladeshi blogger known for his atheist views, is hacked to death in Dhaka - the fourth blogger to be murdered in recent months.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Migrant 'chaos' on Greek islands - UN</title>
+<description>The refugee crisis on three Greek islands is "total chaos", the UN refugee agency says, as Italian police arrest five in connection with Wednesday's drownings off Libya.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Freed Yemen hostage arrives in Paris</title>
+<description>A French woman who was taken hostage in Yemen in February arrives in Paris after being freed by her captors.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>UN to examine Syria chemical attacks</title>
+<description>The UN adopts a resolution aimed at identifying those behind chemical weapons attacks in Syria.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>IS 'abducts Syrian Christians'</title>
+<description>Islamic State militants have abducted dozens of people, many Christian, from a Syrian town captured on Thursday from pro-regime forces, reports say.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>The teenage weightlifting beauty queen</title>
+<description>Life as weightlifting beauty queen in World War Two</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Supply freeze hits Russian military</title>
+<description>Ukraine supply freeze hits Russian military hardware</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>The most unlikely triathlete</title>
+<description>The woman who came last out of 5,000 but still triumphed</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>African fashion comes to London</title>
+<description>Cecil the lion is inspiring African dress design</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Do French burglars really use gas?</title>
+<description>Did French burglars really use gas on Jenson Button?</description>
+<sentiment>article</sentiment>
+</item>
+</news>

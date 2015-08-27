@@ -1,0 +1,315 @@
+<item>
+<title>Activist for Mexico's missing killed</title>
+<description>A leading Mexican activist who helped families search for missing relatives, including 43 students who disappeared last year, is killed.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>PKK leader says Turkey protecting IS</title>
+<description>Cemil Bayik, the man currently leading the Kurdistan Workers' Party, tells the BBC he believes Turkey is trying to protect the Islamic State group.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Six children shot dead in Texas home</title>
+<description>Six children and two adults are found handcuffed and fatally shot in the head in a Texas home after the arrest of a man who exchanged fire with police.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Bangladesh 'tiger poachers' shot dead</title>
+<description>Six suspected tiger poachers are shot dead in a gunfight with Bangladeshi police in the world's largest mangrove forest, the Sundarbans.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Australia not curbing Vegemite sales</title>
+<description>Australia's PM Tony Abbott dismisses the idea of banning Vegemite in remote communities amid reports it was being turned into alcohol.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Spain 'violated' Gibraltar's waters</title>
+<description>Spanish vessels and helicopters committed a "clear violation of international law" after entering UK waters in Gibraltar, the Foreign Office says.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>S Korea blames North for mine blast</title>
+<description>South Korea warns the North of a "pitiless penalty" for North Korea after blaming it for a landmine blast in the demilitarized zone.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Pakistan probes child abuse scandal</title>
+<description>Seven people are arrested in eastern Pakistan on suspicion of involvement in a widespread child sexual abuse and extortion scandal.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Hertha Berlin team bus shot at</title>
+<description>Hertha Berlin say their team bus was shot at by a motorcyclist in north-west Germany, on the eve of a German Cup match.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Ferguson marks Michael Brown killing</title>
+<description>Hundreds pause in silence in the US town of Ferguson to mark a year since the shooting of Michael Brown, a case that sparked angry protests.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Eleven dead in India temple stampede</title>
+<description>At least 11 people are killed and 20 injured in a stampede at a temple in the eastern Indian state of Jharkhand, officials say.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>NFL star and broadcaster Gifford dies</title>
+<description>Frank Gifford - a star American football player and later a broadcaster who helped popularise the sport - dies aged 84.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: PKK leader: 'Turkey is protecting IS'</title>
+<description>The man currently leading the PKK says it is still open to negotiations with the the Turkish government if a ceasefire is declared.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Migrant life on the streets of Kos</title>
+<description>Local Greek islanders say they are being overwhelmed by the number of migrants arriving from Africa.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Eight dead in Texas home shooting</title>
+<description>A family of eight people, including six children, have been found shot dead inside a house in Texas.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Singapore marks 50 years of independence</title>
+<description>Singapore holds nationwide celebrations to mark 50 years since becoming an independent state.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Huge hailstones shatter plane windscreen</title>
+<description>A Delta Airlines plane was forced to make an emergency landing after hail cracked the windscreen and damaged the nose cone.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Ferguson remembers Michael Brown</title>
+<description>Hundreds of people gather in the US town of Ferguson to mark the shooting of unarmed black teenager Michael Brown by a white police officer a year ago.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Typhoon Soudelor tears through China</title>
+<description>At least nine people have died in south-eastern China after a powerful typhoon caused floods and mudslides.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Trump: 'Nothing to apologise for'</title>
+<description>Republican presidential candidate Donald Trump defends a comment he made about a Fox News presenter during a TV debate.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>How does Russia view the West?</title>
+<description>Where does Russia stand vis-a-vis the West? Bridget Kendall speaks to a Russian former general, whose assessment is both reassuring and alarming, she says.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Can South Korea's family firms maintain their grip?</title>
+<description>South Korea's system of big family firms - the chaebols - is once again in the spotlight, says Stephen Evans.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>What's behind Russia's actions in Georgia?</title>
+<description>Georgia has accused Russian troops of redrawing a section of its de facto border with South Ossetia - but what is behind Russia's actions?</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Are hackers helping or harming us?</title>
+<description>Should we fear or respect the people that are increasingly finding flaws in the devices and gadgets all around us?</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Australians eat 32kgs chocolate a year</title>
+<description>A new survey finds Australians are eating too much junk food and food portions that are too big.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Spanish resort fines 'beach hoggers'</title>
+<description>A resort in southern Spain is fining tourists who reserve their sunbathing spot by putting towels on the sand.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>China's inflation rise misses target</title>
+<description>China's consumer inflation rate hit its highest level this year in July, edging up to 1.6% from 1.4% the month before, well below a government target of about 3%.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Scotland to ban GM crop growing</title>
+<description>Scotland is to ban the growing of genetically modified crops, the country's rural affairs secretary announces.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Web's random numbers are too weak</title>
+<description>The data scrambling systems used by millions of web servers could be much weaker than they ought to be, say researchers.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>'Biggest update' to fix Android bug</title>
+<description>Samsung, LG and Google pledge to provide monthly security updates for smartphones running the Android operating system.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Cumberbatch asks fans not to film play</title>
+<description>Actor Benedict Cumberbatch pleads with fans outside the Barbican theatre in London not to film his performance of Hamlet.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Petition to boycott Stonewall movie</title>
+<description>A petition to boycott a new film that purports to tell the story of early days of the LGBT rights movement reaches more than 20,000 signatures.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Fastest neutrino among new findings</title>
+<description>Physicists unveil a raft of new findings about neutrinos bombarding the Earth from above, below - and within.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Coasts 'final frontier' for study</title>
+<description>Archaeologists want the public's help as they attempt to tackle what they describe as the "final frontier" - England's coastline.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Cancer survival 'lagging in England'</title>
+<description>England's track record for cancer survival remains poorer than other countries with similar health systems, a study suggests.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Anti-thalidomide hero dies at 101</title>
+<description>Frances Oldham Kelsey, the Canadian doctor who played a central role in preventing thalidomide being distributed in the US, dies at 101.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Wenger wants response to 'accident'</title>
+<description>Arsenal boss Arsene Wenger says his side will recover from the "nerves" of their opening-day loss to West Ham.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Lowry claims maiden American title</title>
+<description>Shane Lowry of Ireland claims the biggest win of his career with a two-shot victory at the WGC-Bridgestone Invitational in Ohio.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Meeting Mali's most dedicated postman</title>
+<description>The world's proudest postman - in the most unlikely country</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Weeping for a lost generation</title>
+<description>Weeping for a lost generation with my friend's brother</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Several dead as Mali siege ends</title>
+<description>Mali's security forces storm a hotel in the central town of Sevare, ending a deadly siege in which at least 13 people have been killed.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Rwanda soldier kills four colleagues</title>
+<description>A Rwandan peacekeeper in the Central African Republic has shot dead four colleagues before killing himself, Rwanda's Defence Ministry says.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Million affected by Myanmar flooding</title>
+<description>Nearly one million people have now been affected by flooding across Myanmar, says the government, with new warnings in place for the Irrawaddy Delta.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Singapore celebrates 50th anniversary</title>
+<description>Singapore holds nationwide events and a military parade to mark 50 years since it became an independent nation.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>OSCE cars torched in eastern Ukraine</title>
+<description>Four armoured vehicles belonging to the OSCE in rebel-held eastern Ukraine are destroyed in an apparent arson attack, the mission says.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Migrant 'chaos' on Greek islands - UN</title>
+<description>The refugee crisis on three Greek islands is "total chaos", the UN refugee agency says, as Italian police arrest five in connection with Wednesday's drownings off Libya.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Violence mars delayed Haiti poll</title>
+<description>Haitians vote in legislative elections that have been repeatedly postponed since 2011, amid sporadic violence and lengthy delays.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Rio Olympic water pollution protest</title>
+<description>A flotilla of more than 30 vessels cruises across Rio de Janeiro's Guanabara Bay to protest against water pollution a year before the 2016 Olympics.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Iraqi PM moves to tackle corruption</title>
+<description>Iraqi Prime Minister Haider al-Abadi unveils sweeping reforms aimed at cutting government costs and fighting corruption after protests.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Israel holds more 'Jewish radicals'</title>
+<description>Israeli police arrest seven suspected Jewish radicals, amid a crackdown following a deadly arson attack in the West Bank.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>'Women are tremendous' says Trump</title>
+<description>Republican presidential candidate Donald Trump defends his relations with women but stops short of apologising for attacking a Fox News journalist.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>US cinema gunman spared death penalty</title>
+<description>A jury in the US state of Colorado spares gunman James Holmes the death penalty for killing 12 people at a cinema and he will serve life in jail without parole.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>The Stilwell Road 70 years on</title>
+<description>Findlay Kember recounts his four-year documentation of The Stillwell Road.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>The Stilwell Road 70 years on</title>
+<description>Findlay Kember recounts his four-year documentation of The Stillwell Road.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Alice in Sunderland - or Llandudno?</title>
+<description>Or Llandudno? Where has the best claim to be Wonderland?</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>What do Kurds make of Turkey-PKK fighting?</title>
+<description>Turkey's Kurds tell how return to violence is affecting their lives</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Straight Life: India's recovering drug addicts</title>
+<description>Indian drug addicts who have kicked the habit</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Cuban internet delivered by hand</title>
+<description>How Cubans are getting around the lack of internet access</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>‘I’m a professional cyberstalker'</title>
+<description>The man who targets foolish people - for their own good</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>How far will India's dog-lovers go to save strays?</title>
+<description>How far are they going in the battle to save India's strays?</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Australia's champion Flat White</title>
+<description>2015 World Barista Champion spills the beans</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>The city saved from the atomic bomb</title>
+<description>The man who saved Kyoto from the atomic bomb</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Kelly Osbourne's 'not racist' comment - and more trends of the week</title>
+<description>The 'not racist' comment - and more trends of the week</description>
+<sentiment></sentiment>
+</item>

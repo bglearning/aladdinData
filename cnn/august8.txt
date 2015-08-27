@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Evacuations ordered as strong storm heads for Fujian Province</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Typhoon drenches Taiwan </title>
+<description>CNN meteorologist Jennifer Gray has the latest on what the people of Taiwan and China can expect from typhoon Soudelor over the next few hours.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Theater shooter gets life sentence</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Hostages trapped in Mali hotel siege</title>
+<description>Soldiers late Friday surrounded a central Mali hotel where at least 10 gunmen were holed up with hostages, witnesses said, after a daylong standoff that left a number of locals, foreigners and Malian soldiers dead.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>ISIS arming up for mass attacks?</title>
+<description>Some in the U.S. intelligence community warn that ISIS may be working to build the capability to carry out mass casualty attacks, a significant departure from the terror group's current focus on encouraging lone wolf attacks, a senior U.S. intelligence officials told CNN Friday. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Fourth blogger hacked to death</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>MH370: France steps up search</title>
+<description>France is stepping up the search off Reunion for debris from missing Flight MH370 as Malaysia insists its investigators found more objects from a plane on the Indian Ocean island.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>$181M cocaine found on sub</title>
+<description>The U.S. Coast Guard seized 12,000 pounds of cocaine worth an estimated $181 million when it intercepted a semi-submersible vessel in the eastern Pacific Ocean last month.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Plane bursts into flames on runway</title>
+<description>A Delta-operated SkyWest plane briefly flared up on the tarmac of Nashville International Airport on Friday morning. The plane was heading to Cincinnati, Ohio, scheduled to depart at 6:34 a.m. CDT.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Lightning hits hand-holding teens</title>
+<description>California teens Lexie Varga and Dylan Corliss may do a lot more hand-holding after a frightening encounter with nature.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Russia burns banned brie, bacon</title>
+<description>The Russian government banned food imports from Western countries last year in retaliation for sanctions; now, they're destroying food that has been banned. CNN's Matthew Chance reports.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Australia: 633 asylum seekers stopped</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Child visits park, gets plague</title>
+<description>An infected child is recovering in southern California after showing symptoms of plague following a camping trip at Yosemite National Park in July. KFSN reports. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>TV, film icon George Cole dies</title>
+<description>George Cole, the British actor who became best known in the U.K. in the long-running TV show "Minder" but also starred in major films including "Cleopatra" and "Scrooge" (released in the U.S. as "A Christmas Carol"), has died. He was 90.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Jennifer Aniston, Justin Theroux marry</title>
+<description>Hollywood's most famous engaged couple finally appears to have made it official. </description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>'Dark side' of moon caught on camera</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>The man with a 5.5 hour commute</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Spicy foods the key to a longer life?</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>50 reasons Singapore may be the world's greatest city</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Why did this CEO ban flip flops?!</title>
+<description>Richard Quest looks at why the CEO of Barclaycard has banned flip flops in his company's headquarters and what counts as acceptable by business casual standards.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Why is Mourinho smiling?</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Welcome to 'The Jungle' - inside Calais migrant camp</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Knocked off her feet by a bomb 2 miles away</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>What Hiroshima taught the world</title>
+<description>The world's first nuclear weapon was used in warfare 70 years on August 6, 1945 at precisely 8.15 am.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Japan FM: Why we must never forget</title>
+<description>On August 6, 1945, a single bomb was dropped that took more than 130,000 lives in my hometown of Hiroshima, Japan.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>What the bomb left behind</title>
+<description>A battered tricycle. Melted coins. A shredded shirt. Seventy years have passed, but artifacts and survivors still provide tangible links to the world's first act of nuclear warfare.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Bomb site attracts tourists in Japan</title>
+<description>Seven decades after the U.S. military dropped an atomic bomb on the Japanese city of Hiroshima, effectively ending World War II, the site of the devastation remains one of the most popular tourist attractions in the country.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>'Money Man' Mayweather eyes one last payday</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Did Man Utd strike it lucky in draw? </title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>The city that's giving voice to its artists</title>
+<description>There wasn't much reason for anyone to venture into Savamala's neglected streets only a few years ago.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Asian cuisine's next big thing</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Is this the world's most expensive car?</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>'Whale Whisperers' wins Nat Geo contest</title>
+<description>Sarah Polger discusses the most recent winners of National Geographic's traveler photo contest. </description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Six tons of cocaine seized from submarine</title>
+<description>The U.S. Coast Guard intercepted a 40-foot homemade submarine carrying $181 million worth of drugs.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>A painted journey in Singapore</title>
+<description>CNN's Victoria Kennedy talks with internationally acclaimed artist and athlete Gregory Burns about his works of art. </description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Atomic bomb survivor shares survival story</title>
+<description>Seventy years ago Chisako Takeoka survived the world's first attack with an atomic bomb. Since then, she has traveled the world sharing the horrors of her experience. Ivan Watson has her story.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Will Rio be ready for next year's Olympics? </title>
+<description>CNN's Shasta Darlington takes a look at what Rio de Janerio is doing to get ready for the 2016 Olympic games.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Drawings show haunting memories of Hiroshima</title>
+<description></description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>11 inspiring African proverbs</title>
+<description>We asked our Twitter followers to send us their favorite African proverbs and tag them #CNNAfricanProverbs. These are 11 of our favorites. </description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Malaysia reckless on MH370 facts</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Lessons from the ashes of Hiroshima</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+</news>

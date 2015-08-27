@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>UK and France seek EU help over Calais</title>
+<description>The UK home secretary and her French counterpart urge other EU nations to act to help address the root causes of the Calais migrant crisis.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>IAAF files show 'extent of cheating'</title>
+<description>Anti-doping data, leaked to the Sunday Times and seen by the BBC, shows an "extraordinary extent of cheating" in elite athletics.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Canada sees topless rights rally</title>
+<description>Hundreds of Canadian woman join a topless protest march after three sisters were allegedly stopped by police for cycling without shirts.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Iraqi Kurds issue warning to PKK</title>
+<description>Iraqi Kurdish authorities urge Turkish Kurd separatist forces to leave civilian areas, as Turkey continues its air strikes.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>New US rights march starts in Selma</title>
+<description>Civil rights campaigners in the US begin a 40-day march to highlight what they say is a fresh attack on equal rights for African Americans.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Snoop Dogg cash seized in Italy</title>
+<description>Rap star Snoop Dogg is stopped by police at an Italian airport for carrying more cash than allowed, with half of his $422,000 seized.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Dozens die as rains lash SE Asia</title>
+<description>As torrential rain continues, dozens die in eastern India and neighbouring Myanmar, where disaster zones have been declared.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>New Taliban leader calls for unity</title>
+<description>The new leader of the Afghan Taliban, Mullah Akhtar Mansour, calls for unity and says the group will continue fighting.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Outburst mars Bobbi Brown memorial</title>
+<description>The Georgia memorial service for Bobbi Kristina Brown, only child of late singer Whitney Houston, is marred by an outburst from her aunt.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Gunman injured by armadillo ricochet</title>
+<description>A man in East Texas is wounded after a bullet he fired at an armadillo ricocheted and hit him, the local sheriff says.</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>Myanmar journalist braves floodwaters</title>
+<description>A journalist for the Democratic Voice of Burma files a report on the country's floods whilst chest-deep in water.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>'Why can't we get married?'</title>
+<description>Two men attending the annual Gay Pride parade in Belfast explain why they believe they should be able to get married.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Skydivers set 'giant flower' record</title>
+<description>A new record for the largest ever vertical skydiving formation has been set in Ottawa, Illinois, by 164 flyers who formed the shape of a flower in the sky.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>'Blue moon' as seen around the world</title>
+<description>There has been a rare opportunity to witness a unique lunar event in the night sky; a so-called "blue moon".</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Volcano erupts on Reunion</title>
+<description>A volcano on the French island of Reunion - where debris believed to be from missing flight MH370 was found - has erupted.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>'Twin' Robin Hood statue for China</title>
+<description>An "iconic" statue of Robin Hood near Nottingham Castle is being recast and given to Nottingham's sister city in China.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Bitcoin chief arrested in Japan</title>
+<description>The founder of MtGox - once the world's biggest bitcoin exchange - is arrested by Japanese police investigating losses of nearly $400m.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>'Progress' but no deal at TPP talks</title>
+<description>Twelve Pacific nations fail to agree a regional trade deal which would cover 40% of the world economy, despite talk of "significant progress".</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Facebook's Zuckerberg to have child</title>
+<description>Facebook Chief Executive Mark Zuckerberg and his wife, Priscilla Chan, are expecting a baby girl.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>AFL racism row sparks online campaign</title>
+<description>Social media users rally around Aussie Rules footballer Adam Goodes, as he takes time out of the game amid a racism row with fans.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>British oil company investigated</title>
+<description>The Serious Fraud Office opens a criminal investigation into British company Soma Oil and Gas.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Serbia arrests 11 over lottery 'fix'</title>
+<description>Eleven people are questioned by Serbian police after a television graphic predicts a winning lottery number before it is drawn.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Bin Laden relatives on crash plane</title>
+<description>Family members of Osama Bin Laden were on a private jet which crashed in Hampshire, killing all four people on board, the Saudi Arabian embassy in the UK says.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>The troubleshooting teddies of Tirana</title>
+<description>Why Albanians are hanging cuddly toys from their rooftops</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Phoneless in Paris</title>
+<description>'I lost my iPhone in Paris - and learned a surprising lesson'</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>How many people have gone to Syria to fight?</title>
+<description>How many people have gone to Syria to join Islamic State?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Been and Gone: The British film actress who missed out on fame</title>
+<description>The British film actress who missed out on fame</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Big walls can cause big problems</title>
+<description>The problems that come from building mega walls</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Weekend Edition: The week's best reads</title>
+<description>The best features of the week to enjoy, including your comments</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The elephant playing with birds</title>
+<description>The animal that charmed the internet and other trends</description>
+<sentiment>positive</sentiment>
+</item>
+</news>

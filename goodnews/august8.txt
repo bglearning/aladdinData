@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Jon Stewart Says Goodbye to The Daily Show With A Little Help From Friends</title>
+<description>After 16 years at the helm of Comedy Central’s fake news program, The Daily Show, comedian Jon Stewart signed off yesterday during a special one-hour goodbye show. He was joined by ”senior correspondents” who had helped propel the show to number one among 18-35 year old viewers looking for satirical 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Posing With Your Family On The Beach? Try It With Yoga</title>
+<description>With summertime in full swing, many families are hitting the beach. Instead of sitting on the beach chair all day, though, why not grab your kids and move around? Exercising on sand is, according to one study, more effective and even better for your body than a firm surface. So, in honor 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Study Shows Drinking Coffee Could Cut Risk of Diabetes by Half</title>
+<description>&#160; Besides a jolt of caffeine to get you through your day, a long-term study shows that coffee may have additional ‘perks’… Researchers say an inflammation-lowering effect of the beverage could be the reason coffee drinkers were 54 percent less likely to develop type 2 diabetes as non-coffee drinkers, as 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Stranger’s Facebook Post Spurs Kindness for Widowed Dad -WATCH</title>
+<description>Last week, a father was shocked by the kindness that rained down on him, courtesy of a fellow parent and the strangers she rallied on Facebook. Marc Sable had just lost his wife, Belinda, 28, to ovarian cancer, and as an overnight custodian was wondering how he was possibly going to provide for 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>What Are These Seniors Doing At a Skateboard Park? (WATCH)</title>
+<description>We all know seniors need to keep their minds and bodies active, but taking folks from an assisted living center to the local skateboard park seems a bit extreme. It turns out Cody Kohlhagen knew what he was doing all along. The Activities Director at Willowbrook Place headed out with his group of spunky seniors 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Grandparents Convert House Into “Safe School” for Bullied Students</title>
+<description>At least 20 kids have recovered from years of bullying thanks to a special “safe school” founded by a pair of grandparents in the U.K.. Three years ago, Fred and Vivian Morgan turned their 10-bedroom home into a private school called Northleigh House School in Hatton, Warwick, in order to 
+</description>
+<sentiment>positive</sentiment>
+</item>
+</news>

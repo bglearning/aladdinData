@@ -1,0 +1,901 @@
+<item>
+<title>
+	Lisa Stockbridge jailed for two-and-a-half years for dealing ecstasy and cocaine
+      </title>
+<description>
+	Troubled socialite Lisa Stockbridge has been jailed for more than two years for a 'sophisticated' drug dealing operation selling ecstasy and cocaine to Sydney's high society.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BREAKING NEWS: Former President Jimmy Carter has been diagnosed with cancer
+      </title>
+<description>
+	The former president plans to undergo treatment at  Emory Healthcare in Atlanta, Georgia.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Real-life Bambi and Thumper play together in Colorado Rockies
+      </title>
+<description>
+	A video shows the duo jumping around and chasing one another during what looked like a playful game of tag in Estes Park, Colorado. The footage has been viewed more than 472,000 times.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Apple's iPad Mini 4 could get a split screen feature
+      </title>
+<description>
+	Developer Hazma Sood recently found split-view support for the iPad Mini 4 when looking through a resource file from Apple's OS X El Capitan's Safari 9 browser.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kyle Sandilands strips off during live TV appearance and grabs his belly
+      </title>
+<description>
+	He's been vocal about his struggle with his weight.
+But it seems that Kyle Sandilands is very proud of his figure.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How to save a snapped lipstick - just melt it back into shape!
+      </title>
+<description>
+	Even the fiddliest of broken cosmetics can be fixed. Founder of make-up company Cosmetics A La Carte, teaches Alice Smellie how to make do and and mend her favourite lipsticks.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Deep sea creature dubbed the ‘Flying Spaghetti Monster’ is found floating off African coast
+      </title>
+<description>
+	A jellyfish-like creature observed floating off the coast of Angola has adherents of a parody religion shouting 'praise Flying Spaghetti Monster!'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The best time to make love? 5.48 in the morning
+      </title>
+<description>
+	Our body clocks are ruled by our circadian rhythms, which govern out mood and energy levels throughout a 24-hour period. Here are the secret ways your body clock rules your life.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chelsea Manning faces confinement for Caitlyn Jenner Vanity Fair magazine
+      </title>
+<description>
+	Chelsea Manning's lawyer says her client is facing charges for alleged prison infractions that carry a possible maximum sentence of indefinite solitary confinement.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Do women feel the pain of break-ups more than men?
+      </title>
+<description>
+	Do women feel the pain of heartbreak more than men? A survey has suggested this is the case. Our relationship expert Bel Mooney argues that our response to difficult break ups is down to personality.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Older people benefit more from exercise than those who are younger
+      </title>
+<description>
+	The new research shows that the exercise you do in later life is more beneficial to you then than what you did in your earlier days, so it is never too late to try and make an impact on you health.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How a man abandoned by his birth parents after an infection ate half his face confronted his birth mother 38 years later
+      </title>
+<description>
+	Howard Shulman has revealed the confrontation with his birth mother in New Jersey almost 40 years after he was left in the hospital bed because his parents 'couldn't handle it'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Why every divorcee should fight for custody of the dog
+      </title>
+<description>
+	When Henry divorced his wife he couldn't imagine a life without his beloved dog Lily. The pair opted to share joint custody of the dog, which Henry claims has brought the divorcees closer than ever before.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rachael Finch and Kate Peck reveal how they prepare for Myer Fashion launch catwalk
+      </title>
+<description>
+	Myer ambassadors, Kate Peck and Rachael Finch reveal how they have turned to Latin American dancing, skipping, boxing, and even motorbike riding in an effort to get runway ready.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sarah Ferguson, Duckess of York appears on shopping channel QVC to promote juicer
+      </title>
+<description>
+	The Duchess of York joined presenters on the US shopping channel and discussed how she had finally be able to overcome cruel jibes about her weight formerly referred to as the 'Duchess of Pork'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Earliest discovered recording of Martin Luther King's 'I Have a Dream' speech
+      </title>
+<description>
+	The quote 'We hold these truths to be self evident, that all men are created equal' did not feature in Dr King's speech when he gave it in 1962, but was added during the March On Washington in 1963.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Barack Obama hits golf course with NBA legends Ray Allen and Alonzo Mourning
+      </title>
+<description>
+	Obama has wasted no time making it to the golf course during his annual Martha's Vineyard summer vacation. He was joined on Wednesday by NBA legends Ray Allen (left) and Alonzo Mourning.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Shane Warne goes on rant to defend  Michael Clarke on Today show
+      </title>
+<description>
+	Former coach John Buchanan has learned a thing or two about loyalty from Shane Warne after he staunchly defended Michael Clarke during a live interview.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Three new women accuse Bill Cosby of sex assault and rape
+      </title>
+<description>
+	Colleen Hughes and Linda Ridgeway Whitedeer said Cosby, 78, had sexually assaulted them in the 1970s, while Eden Tirl said he sexually harassed her on The Cosby Show set in 1989.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The implosion of a pin-up who made his generation swoon. David Cassidy's faded looks are the least of his problems
+      </title>
+<description>
+	Heart throb David Cassidy is bankrupt and faced a DWI over recent years. His own explanation is the messy aftermath of his break-up from third wife Sue Shifrin, 66 — but that isn’t the whole truth.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	James Packer steps down as Crown Resorts chairman after profits fall
+      </title>
+<description>
+	Billionaire gambling tycoon James Packer has stepped down as chairman of casino company Crown Resorts.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	CHILDREN take up arms in Ukraine and learn how to fire weapons
+      </title>
+<description>
+	Extremists from the Azov unit, a far-right militia which is defending Mariupol, eastern Ukraine, are running a week-long summer military camp, to teach children how to survive in conflict.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	At least 300 people injured after enormous blast in explosives shipment hits Chinese city
+      </title>
+<description>
+	Videos of the explosion in Tianjin showed flames lighting up the night sky and residents in nearby districts were quoted as saying the blast had shattered windows.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How music could help beat pain of surgery
+      </title>
+<description>
+	The team, from Brunel University London and Queen Mary University London, looked at data from 7,000 patients in 73 trials. Patients were asked how much pain they felt  24 hours after surgery.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Never hate your photo again: Just steal the tricks of celebrities
+      </title>
+<description>
+	Newsreader Samantha Simmonds, above, appears on camera for a living but doesn't like how she looks in family photos. Photographer John Godwin shows her how to look good from any angle.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tiger shark measuring 18 FOOT caught off Seven Mile Beach, Australia
+      </title>
+<description>
+	Photos of an enormous tiger shark's corpse have emerged on Facebook, with some claiming it was pulled out of the water off Tweed Heads, in northern New South Wales, over the weekend.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Twitter rejected half of all 'snooping' requests in past six months 
+      </title>
+<description>
+	The number of requests  more than doubled to 299 between January and July, as government officials battled to crackdown on extremists using the website to spread propaganda.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mums-to-be can turn obsessively house proud but some go to extremes
+      </title>
+<description>
+	Pregnant Samantha became obsessed with cleaning, bleaching four times a day. It may seem crazy but Samantha, was in the grip of a phenomenon  dubbed 'extreme nesting'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New Warblr app will help identify a bird from the sound of its tweet
+      </title>
+<description>
+	The user simply points their phone in the direction of any birdsong they like the sound of. The Warblr app then records a burst of it and produces a list of possible birds, ranked in order of likelihood.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The day I found out my perfect husband was a bigamist...twice over!
+      </title>
+<description>
+	Vicki Smith, 45, from Tyne and Wear, thought she had met the perfect man. Little did she know her successful and 'shy' partner was really a secret bigamist who was still married to his first wife.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	London mother says her children blight her marriage
+      </title>
+<description>
+	Kate Morris (left) feels her children have taken over her life and the pressures of parenthood have affected her relationship with her husband. The Londoner feels her kids corrode her marriage.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Why our eyes flicker during deep sleep
+      </title>
+<description>
+	The discovery was made by UCLA scientists after they recorded electrical activity from individual brain cells during the dreaming phase of sleep.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Three men reveal the devastating loss felt when their wives miscarried
+      </title>
+<description>
+	Three men, whose partners lost unborn children, shared their heartbreaking stories with Cosmopolitan.com, revealing how their loss helped strengthen the bonds of their marriages.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How our body defences 'can block chemo'
+      </title>
+<description>
+	Experts at Sheffield University discovered that the body’s defences go into ‘overdrive’ and reverse the benefits of the treatment. They found that swarms of white blood cells help tumorus regrow.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	John Burgess finds baby dumped after man steals car with child inside
+      </title>
+<description>
+	A man has allegedly stolen a car with a baby inside from outside a childcare centre in Telopea in Sydney. John Burgess (pictured) found the baby on the side of the road in nearby Dundas.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sex and the City creator Candace Bushnell puts her apartment on the market
+      </title>
+<description>
+	The bestselling author, 56, is selling her one bedroom, one-and-a-half bathroom co-op in New York's Greenwich Village . It features a hardwood floors, a fireplace, and a washer and dryer.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Stroke victim spent 20 hours lying unconscious in Royal North Shore Hospital toilet before being found
+      </title>
+<description>
+	The 67-year-old man arrived at Sydney's Royal North Shore Hospital on Monday at 9.30am for a routine appointment for his diabetes treatment when he suffered a stroke in the outpatient clinic toilets.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Dating Beyond Borders video shows men try to guess what women find attractive
+      </title>
+<description>
+	A video by Canadian travel series Dating Beyond Borders sees pairs of men and women from different countries evaluate the attractiveness of several very different-looking men in photos.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Madrid woman suspected of slashing 3-month-old baby's throat
+      </title>
+<description>
+	The woman, who has not been identified, was taken by authorities to a hospital near the central Spanish town of Villa de Don Fadrique early Wednesday morning.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Shar pei dog Paddington with huge Instagram following who loves playing dressups
+      </title>
+<description>
+	Paddington the pooch has become an Instagram hit with more than 40,000 followers who watch him donning adorable doggy garb at his home in Tasmania on the south coast of Australia.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New app can tell you whether you're too stoned to drive
+      </title>
+<description>
+	Called Canary and created by Colorado-based former engineer Marc Silverman, the app aims to test mental and physical performance - and whether either is impaired - in four steps.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Plus-size women share the vicious comments they receive from trolls
+      </title>
+<description>
+	Body-positive activists, bloggers, and models reveal the worst things strangers have said to them online. Many have been called names, lectured about their habits, and told to kill themselves.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Richard Crowe raped five girls and pulled them into buildings and drains 
+      </title>
+<description>
+	A man who kidnapped and pulled five young girls into storm water drains and derelict properties in Sydney before violently raping them has plead guilty in court to a string of offences.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Redbook features 'real' women on the cover of its fashion issue
+      </title>
+<description>
+	The six beautiful winners of Redbook's second annual Real Women Style Awards cover the magazine's September issue in an unprecedented move by the publication.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Baby girl died as Yvonne Adkins had whiskey-fuelled sex upstairs
+      </title>
+<description>
+	Yvonne Adkins left three-month-old Chanelle downstairs as she drank whisky and had sex at her home in Meir, Stoke-on-Trent, Staffordshire. The next day she awoke to find her baby had died.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How Chelsea doc Eva Carneiro became the biggest highlight in football 
+      </title>
+<description>
+	Chelsea team doctor Eva Carneiro has been a regular fixture at Stamford Bridge for six years but before her spat with Mourinho, little was known about the doctor with the eye-catching looks.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	J.R.R. Tolkien's unfinished book The Story of Kullervo 'to be published this month' 
+      </title>
+<description>
+	The Story of Kullervo tells the tale of an orphan who swears revenge on a magician after being sold into slavery. It was written while the author was a 23-year-old student at Oxford University in 1914.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tom Brady and Roger Goodell in court for Deflategate settlement talks
+      </title>
+<description>
+	US District Judge Richard Berman also warned the hearing in Manhattan Federal Court that, unless both sides are willing to reach a compromise, the case could stretch until 2017.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Social media backlash to death of 6 METRE tiger shark comparing it to Cecil the lion
+      </title>
+<description>
+	The images show the slaughtered six metre predator on board a commercial shark fishing boat in Nine Mile Reef in northern New South Wales.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Twitter scraps restrictive 140-character limit on direct messages
+      </title>
+<description>
+	The feature is today rolling out globally, with Twitter saying the aim is to allow users to 'express themselves' more freely. e The character limit for regular tweets, which is 140, will remain
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Texas toddler dies in car as temperature tops 100 degrees
+      </title>
+<description>
+	Police in Pecos say say 17-month-old Avrian Villalobos died on Tuesday after his mother drove home and took two other children inside. Once she realized Avian was in the car, he was unconscious.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Liberal Party's gay MP Dean Smith vows to defy Tony Abbott over gay marriage
+      </title>
+<description>
+	Western Australian senator Dean Smith has announced his support for Queensland Liberal National MP Warren Entsch's cross-party bill to legalise same sex marriage.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Coby Persin shows how easy it is for pedophiles to prey on teen girls
+      </title>
+<description>
+	New Yorker Coby Persin, 21, chatted up three young girls, aged 12, 13, and 14, by pretending to be a 15-year-old who lived nearby. They all agreed to meet him when their parents weren't around.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Vince Colosimo puts his stunning updated Melbourne terrace on the market
+      </title>
+<description>
+	Award-winning Australian actor Vince Colosimo has put his stunning update Victorian terrace on the market. The Underbelly actor completed major renovations on the Melbourne property.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Orgasms are good for your HEALTH and protect against heart attack
+      </title>
+<description>
+	From acting as a natural anti-depressant to giving the immune system a boost, we reveal how orgasms are good for your health, happiness and wellbeing.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Prince Harry is pictured for the first time since he secretly flew to Africa
+      </title>
+<description>
+	The 30-year-old, who is  travelling around the continent working on front-line conservation projects, showed off his newly-grown stubble as he posed for pictures at a centre in South Africa.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Islamic State hackers publish personal details of 1400 individuals on hit list
+      </title>
+<description>
+	Islamic State have hacked and compiled the personal information of hundreds of military, political and diplomatic personnel and released it as a chilling hit list - and it includes eight Australians.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New York woman gives birth to her identical twin's baby
+      </title>
+<description>
+	Mineola, New York, resident Dawn Ardolino Policastro, 40, offered to carry the baby of her identical twin Allison Ardolino Dinkelacker after a battle with cancer made another pregnancy risky.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sneaky octopus uses shoulder tap prank to catch its prey
+      </title>
+<description>
+	Researchers at the University of California, Berkley found the larger Pacific striped octopus use a hunting technique straight from the school playground (pictured).
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	MH370 wreckage may have been spotted on sea bed in the Indian Ocean
+      </title>
+<description>
+	Australian authorities believe they may have spotted parts of ill-fated plane MH370 on the bottom of the southern Indian Ocean but won't be able to check them for several months.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Victoria Burnham who shed 11st now battling anorexia and 'obsessed' with dieting
+      </title>
+<description>
+	Victoria Burnham, 35, from Bridlington, shed the weight in just six months. As a result of her eating disorder she can no longer care for her children, who now live with their father.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How a C-section affects your baby's BRAIN development
+      </title>
+<description>
+	Being delivered via C-section influences at least one aspect of a baby's concentration, limiting their ability to focus, researchers at York University in Canada, discovered.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tinder hits back at 'dating apocalypse claims' in rant on Twitter 
+      </title>
+<description>
+	A series of tweets from Tinder's official handle hit back at the Vanity Fair article, defending the dating-app for 'bringing people together'. A series of tweets within minutes, criticizing the article.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Behind the scenes at the royal wedding of Prince Charles and Diana
+      </title>
+<description>
+	An intimate behind-the-scenes photo of the 1981 wedding of Prince Charles and Princess Diana has been released. Due to be auctioned next month, it follows another 12 unveiled earlier this week.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Baby elephant which suffered horrific injuries is rescued in Nairobi
+      </title>
+<description>
+	Simotua the baby elephant had been caught in a poachers snare and attacked with a spear before he was left to die in  in Kenya's 15,000 acre Rumuruti Forest.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Was MH17 blown up by an on-board bomb planted by the CIA?
+      </title>
+<description>
+	Sergei Sokolov – head of  a shadowy organisation which boasts close ties to the secret services in Moscow – claimed the plane was downed by the CIA and other Western intelligence agencies.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jayne Harris' 'Haunted puppet' moves on its own in the middle of the night 
+      </title>
+<description>
+	Paranormal Investigator Jayne Harris is convinced the puppet (pictured, in its glass box) possesses spiritual powers after recording the spooky footage in the dead of night.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tony Abbott is pictured eating another onion
+      </title>
+<description>
+	A video has been unearthed from four years ago of now Prime Minister Tony Abbott, who was opposition leader at the time, seen yet again munching away on a raw onion just like it's the norm.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New tablet could reduce fat build-up in the body 
+      </title>
+<description>
+	New research from Deakin University in Geelong, Victoria, revealed that scientists are working on a drug that could stop weight gain or reverse it. A breakthrough could combat obesity.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mthuthuzeli Mpongwana died after ambulance took 6 HOURS to arrive
+      </title>
+<description>
+	This heart-wrenching photograph was shared by Lisa Armitage after she watched her husband and 'soul mate', Mthuthuzeli Mpongwana, 38, die in a Bristol hospital.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BMW owns Alphabet.com domain and it doesn't want to sell it to Google
+      </title>
+<description>
+	Google rebranded as Alphabet on Monday. BMW's Alphabet is fleet services company. Alphabet's CEO Larry Page is pictured.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Stock markets slide after China's decision to devalue the yuan further
+      </title>
+<description>
+	The FTSE 100 index has closed a hefty 93 points or 1.4% down at 6,571 after China let the yuan fall another 1.6% to a four-year low. In mid-day trade, the Dow Jones was 1.3% down.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	NY executive Katharina Roelcke sues boss who 'kept her as sex slave' for 7 years
+      </title>
+<description>
+	Katharina Roelcke, 38, is suing her ex-boss Itai Shoshani in a Manhattan court, claiming he never paid her $150,000-a-year salary from 2008-2015, and kept her as a 'sex slave'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Explore the Pacific Ocean with live feed from Deep Discoverer
+      </title>
+<description>
+	The National Oceanic and Atmospheric Administration's robotic submersible Deep Discoverer is exploring Papahānaumokuākea National Marine Monument off Hawaii.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jewish Auschwitz prisoner Helena Citronova's love for SS guard Franz Wunsch
+      </title>
+<description>
+	Helena Citronova fell in love with SS guard Franz Wunsch at the camp. He managed to save her and her sister Rozinka from going to the gas chambers, claiming 'desire' had changed him.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Menu misspellings which will leave you wondering what you've ordered
+      </title>
+<description>
+	From 'barbecued combs'  and 'sizzing prawns' to 'hand and cheese sandwiches' and 'lamp roasts' FEMAIL reveals some of the most hilariously misspelled menus in the world.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	North Korean vice premier 'executed by firing squad for opposing Kim Jon Un'
+      </title>
+<description>
+	Choe Yong-Gon was last seen in the North's state media last December at the death anniversary of the late leader Kim Jong-Il, South Korea's unification ministry said.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Medical selfies could 'save lives' says PhD researcher Kara Burns
+      </title>
+<description>
+	Queensland PhD researcher Kara Burns says taking a picture or video on your phone for medical reasons could in fact assist with your diagnosis and possibly even save lives.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sharon Chan welcomes baby boy just weeks after her husband died suddenly
+      </title>
+<description>
+	A widowed mother captured the hearts of Australians after losing her husband in the final weeks of her pregnancy. Sharon Chan now has something to smile about after giving birth to a baby boy.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Transgender people reveal how they REALLY feel about Caitlyn Jenner
+      </title>
+<description>
+	A new word association video created by Cut.com sees a group of transgender people voicing their opinions on Caitlyn Jenner, 65, and the impact her transition has had on the community.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Cruise ship photographer Ian Hughes reveals outtakes from his days at sea
+      </title>
+<description>
+	Photographer Ian Hughes, from Brighton, spent his 20s working on cruise liners taking pictures of holiday makers, including grumpy granddads and gurning grandmas. Here are his favourite outtakes.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Earth's most polluted cities revealed in interactive pollution map
+      </title>
+<description>
+	The world's most polluted cites and dirtiest power plants have been revealed in an interactive map built by Yale University researchers, showing highly populated areas have the worst air quality.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tracey Cox on why men and women SHOULD fantasise about sleeping with other people
+      </title>
+<description>
+	Sexpert Tracey Cox says that it is beneficial to indulge in your sexual fantasies with other people so long as it stays in your imagination as it can help you to scratch a 'sexual itch'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Facebook's rumoured to be building a breaking news app
+      </title>
+<description>
+	While in its infancy, Facebook's news app will ask users to select their favourite publications and topics or ‘stations’ that they would like to receive news about, rumours suggest.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Geraldine Bazan nearly injured as she slipped off a rock face in Mexico
+      </title>
+<description>
+	Mexican actress Geraldine Bazan narrowly escaped serious injury when she slipped off a rock face while on holiday in Acapulco, Mexico.The 32-year-old singer screamed as she hit the rocks.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Japanese war criminals' confessions revealed
+      </title>
+<description>
+	The war-time confessions of Japanese national Kenzo Sugishita, details a number of murders and atrocities committed over a nine month period in 1932, including the murders of dozens of Chinese people.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Inside the Nazi's abandoned military shelters in Poland
+      </title>
+<description>
+	The vast network of tunnels is located in the Sowie Mountains in Lower Silesia and forms Project Riese - a top secret operation, the purpose of which is shrouded in mystery to this day.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kim Kardashian's naked selfies hailed as 'inspirational' and 'sexy' by Vogue
+      </title>
+<description>
+	The 34-year-old reality TV star even went as far as to post a naked selfie to dispel online rumours that she is using a surrogate and captioned it with a long explanation of her transforming figure.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lindsey Swift's Facebook response to white van man who heckled her with fat jokes
+      </title>
+<description>
+	Lindsey Swift, 26, was jogging in her home town of Barnsley, South Yorkshire, with her boyfriend Ryan Wilkes, 30, when a passing driver yelled cruel sarcastic comments at her.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Landslide in China leaves 40 people trapped under a million tonnes of earth
+      </title>
+<description>
+	The landslide hit Shaanxi province, central China, at 12.30am local time today. Four workers have been dug out from beneath the vast mound of earth and debris. They were rushed to hospital for treatment.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Spencer Seabrooke breaks world record for longest solo high wire walk
+      </title>
+<description>
+	The video of the daredevil slackliner almost ends in tragedy within the first twenty seconds as Spencer Seabrooke slips off the rope and nearly falls to his death.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Darren Lehmann dismisses suggestions that WAGs were to blame for Ashes defeat 
+      </title>
+<description>
+	Darren Lehmann has apologised for Australia's Ashes defeat but has strongly refuted claims the players' wives or girlfriends were to blame.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	1 abortion or miscarriage 'increases the risk of future pregnancy complications'
+      </title>
+<description>
+	Scientists at Tel Aviv University found women who've had a single, past incidence of abortion or miscarriage are 30 per cent more likely to have induced labour, C-section and retained placenta.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Father gags as he attempts to change his baby's nappy in viral Facebook video... pleading with her to 'keep this one clean until mum gets home'
+      </title>
+<description>
+	A father, thought to be from Australia, retches continuously and almost throws up while changing his baby girl's nappy. The man captured his trauma on camera for a hilarious three-minute clip.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Anastasia Achilleos teaches you how to remove eye bags in seconds
+      </title>
+<description>
+	Facialist Anastasia Achilleos, from London, reveals her four-stage technique to remove eye bags and depuff your face instantly. The mum-of-two uses just face cream and her fingertips.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Police have appealed to public to help find missing woman Nicole Gvero
+      </title>
+<description>
+	Police have appealed for public assistance to help find a missing woman who is wanted over drug-related offences after she failed to attend Heidelberg Magistrate's Court in January.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	That's a real cliffhanger! Breathtaking photographs show how China's spectacular 'Sky Roads' zigzag for nearly three miles across a steep mountainside
+      </title>
+<description>
+	The sky roads wind across a mountainside in Enshi, central China, and are surrounded by luscious greenery. Aerial pictures show how a convoy of Jeeps travelled along the route on Tuesday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	That's a real cliffhanger! Breathtaking photographs show how China's spectacular 'Sky Roads' zigzag for nearly three miles across a steep mountainside
+      </title>
+<description>
+	The sky roads wind across a mountainside in Enshi, central China, and are surrounded by luscious greenery. Aerial pictures show how a convoy of Jeeps travelled along the route on Tuesday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Top 10 fitness Instagrammers inspiring thousands to shape up
+      </title>
+<description>
+	From toned personal trainers, to flexible ballerinas and lithe yoga enthusiasts, FEMAIL rounds up the top 10 empowering exercise gurus to follow on Instagram...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Port Melbourne man holds pillow over old woman's face during a home invasion
+      </title>
+<description>
+	Detectives have released a sketch of a man (pictured) they believe broke into a 74-year-old woman's home in the outskirts of Melbourne's CBD before covering her face with a pillow to stop her screams.
+      </description>
+<sentiment></sentiment>
+</item>

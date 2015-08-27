@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Two children die in attacks blamed on Jewish extremists</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>'Stupidity, evilness,' took teen's life</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Baby killed in 'price tag' attack </title>
+<description>A Palestinian's home was burned during a "price tag" attack Friday that killed a toddler and critically injured at least three other relatives, Israeli and Palestinian officials said.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Firebombs thrown into home</title>
+<description>A Palestinian's home was burned during a "price tag" attack that killed a toddler and critically injured at least three other relatives. CNN's Ian Lee has more.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Search for MH370: Twisted metal debris is ladder</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Obama unveils major climate plan</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Drone spotted near airliner</title>
+<description>Another drone has been spotted flying near a commercial aircraft over New York, the Federal Aviation Administration said Monday.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Batboy struck during warmup dies</title>
+<description>A 9-year-old who was hit with a bat during a baseball game in Kansas over the weekend has died.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Distillers spike alcohol with Viagra</title>
+<description>Chinese distillers have been spiking their booze with Sildenafil, better known as Viagra, and are often marketing them for their extra health "benefits."</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>U.S.: 'ISIS strong, growth halted'</title>
+<description>ISIS remains "as strong as it was a year ago" when U.S. airstrikes against the group began, but it is no longer making rapid advances, according to an Obama administration official.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>U.S. doctor named in 'illegal hunt'</title>
+<description>Three days after demanding the extradition of a Minnesota dentist in connection with the killing of an iconic lion in Zimbabwe, the country has named another American in connection with an allegedly illegal hunt.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Suspect held over cop shooting</title>
+<description>The man accused of killing an officer in Memphis, Tennessee, has surrendered to authorities, but the case is far from over, the city's police chief said.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Deadly flooding hits Asia </title>
+<description>Millions of people are being affected by deadly flooding throughout southern Asia. Pakistan has been hit the most. CNN's Michael Holmes explains. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>7 dead in Legionnaires outbreak </title>
+<description>The number of deaths in the New York City Legionnaires' disease outbreak is up to seven.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Sex claims against former UK PM</title>
+<description>A UK police watchdog is investigating claims of child sex abuse by former PM Sir Edward Heath and if they were dropped because of threats to expose him.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Jimmy Carter has liver surgery</title>
+<description>Former President Jimmy Carter had a "small mass" removed from his liver during surgery Monday, his office said.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Man's leg amputated in escalator</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>HitchBOT beheaded in the U.S.</title>
+<description>This is why we can't have nice hitchhiking robots.</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>World's coolest bookstores </title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Who's into 'organization porn'?</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Star surfs big waves -- on his bike</title>
+<description> </description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The intricacies of tattoo art</title>
+<description>CNN talks to David Hale an illustrator, artist, and tattooist, about life inside the world of tattooing</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>$600K watch: Why heat is on Putin aide</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The ultimate American road trip</title>
+<description>Ah, the great American road trip. It's a rite of passage, a combination of nostalgia, discovery and misadventure ideally set against a sweeping landscape and killer tunes.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Death row prisoner set to die seven times</title>
+<description> </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>'Hell must be filled with beautiful women, no mirrors'</title>
+<description>Winner of three Academy Awards, Australian costume designer Orry-Kelly created magic on screen, from Casablanca to Some Like it Hot, we look back. </description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>The story of Kunta Kinte, the slave who fought back</title>
+<description>Kunta Kinte continues to captivate millions of Americans. His great, great, great, great grandchildren share his story.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Playboy's cars for sale, for a cool $3.5M</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>American F1 classics up for auction</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Vision: F1 classic cars in 2056 </title>
+<description>British 3D artist Nathan Dearsley has imagined what a McLaren Formula 1 car could look like 40 years in the future. Browse through the gallery to see all the images.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Jodie Kidd: Runway to racetrack</title>
+<description>British model, racer, TV presenter, and classic car aficionado Jodie Kidd might be the only person to have walked the runway as a Burberry model and cruised some of Europe's most prestigious circuits as a Maserati race driver. </description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>IOC makes 'zero' tolerance pledge on doping</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Amazing blue city is new 'it' destination</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Empire State Building pays tribute to Cecil the lion</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>A peek at tomorrow from today's top designers</title>
+<description>Try asking someone in the industry how many "design weeks" you can fit into a 30-day month.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Reporter goes to extremes covering flooding</title>
+<description>A reporter in Myanmar decided the best way to cover the flooding from heavy monsoon rains was to head into the water. CNN's Derek Van Dam has more.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Motocross star surfs big waves on his bike</title>
+<description>Motocross veteran Robbie Maddison rides a modified dirt bike on huge waves in Tahiti.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>The truth about Asian Americans' success</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Iranians ready to retire 'Death to America'?</title>
+<description></description>
+<sentiment>undefined</sentiment>
+</item>
+</news>

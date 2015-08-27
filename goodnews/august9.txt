@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<news>
+<item>
+<title>From Chemo Chair Man Raises $74K Tweeting for Stem Cell Charity</title>
+<description>John Underwood knew he might someday need a bone-marrow transplant. Diagnosed with a rare form of lymphoma, Underwood said that his best shot at an eventual recovery will “probably” rest with  an organization whose mission is to recruit people willing to donate some of their stem cells. So, as he 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Record Number of Tourists Flocking to Greece Provide Needed Cash</title>
+<description>Despite the economic crisis in Greece that brought it to the brink of leaving the Euro–or perhaps because of it, in a show of support–millions of tourists are flocking to Athens providing a needed boost for local businesses. Aegean Airlines, Greece&#8217;s largest airline, told Reuters that passenger traffic was up 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Victoria Police Officer Buys Plane Ticket to Reunite Senior with Family</title>
+<description>A British Columbia police officer bought a plane ticket with his credit card for a disoriented senior so that she could be reunited with her family. Andre Almeida helped the woman, who was displaying dementia-like symptoms, after she disembarked from a cruise ship in Victoria and never returned. Victoria police 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Beyond Ugly Protests, Germans Open Hearts and Homes for Refugees</title>
+<description>Anti-refugee protests and arson attacks dominate German headlines, but countless unsung volunteers have been collecting clothing and household goods donated by Germans to distribute to some of the tens of thousands of asylum-seekers fleeing war. Community leader Wolfgang Esser also organizes youth soccer for the children of newcomers, saying, “Sport 
+</description>
+<sentiment>positive</sentiment>
+</item>
+</news>

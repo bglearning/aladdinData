@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Debris found, but still no definitive link to missing plane</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Jericho the lion 'alive and well' despite hunt rumors</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Pride marcher dies from stab wounds</title>
+<description>One of the marchers stabbed at Jerusalem's gay pride parade last week has died, police and health officials in Jerusalem said Sunday. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Feud at Bobbi Kristina Brown funeral</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Thousands flee from California fires</title>
+<description>Thousands of California acres are ablaze as firefighters battle at least 21 wildfires throughout the state, but while many of those fires are small or contained, the wind and heat that are spreading the Rocky Fire in Northern California -- and the area's steep terrain -- is causing the most concern. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>10 shot at Brooklyn house party</title>
+<description>Ten people were shot early Sunday morning at a Brooklyn house party, New York police said. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Cop killed during U.S. traffic stop </title>
+<description>A police officer who was shot during a traffic stop in Memphis died at a hospital later, Tennessee authorities said early Sunday.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Nadal takes Hamburg title </title>
+<description>It's been a long wait but Rafael Nadal finally landed his first European clay court title of the season and extended an 11-year record as he won the ATP World Tour 500 tournament in Hamburg Sunday.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Coming: Obama climate plan</title>
+<description>The Obama administration unveiled a major climate change plan Monday aimed at a large reduction in greenhouse gas emissions from the nation's coal-burning power plants. </description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Infamous bus kidnapper paroled </title>
+<description>Nearly 40 years after receiving a life sentence for his role in the largest mass abduction in U.S. history, James Schoenfeld -- one of the three infamous Chowchilla school bus kidnappers -- will walk out of a California prison this week a free man.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>New 'golden' wolf species found</title>
+<description>The golden jackals found in Africa, Europe the Middle East and Asia have long been considered the same species, thanks to their physical features and behavior.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Bin Laden relatives die in plane crash</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Myanmar rains bring deaths, chaos</title>
+<description>Heavy monsoon rains in the past month have left at least 27 people dead and displaced more than 150,000 others in Myanmar, the U.N. Office for the Coordination of Humanitarian Affairs said Saturday.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Four die in Legionnaires' outbreak</title>
+<description>The number of deaths in the New York City Legionnaires' disease outbreak is up to four.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Kraft cheese recall over choking hazard</title>
+<description>Kraft is recalling 36,000 cases of individually-wrapped cheese singles because part of the wrapper could become a choking hazard. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>McShane to star in 'Game of Thrones'</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Family shot helping stranded motorist</title>
+<description>Trying to be a helping hand cost two members of a Montana family their lives and left their daughter wounded </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Arsenal wins season curtain raiser</title>
+<description>Arsenal laid down its marker for the English Premier League season by beating reigning champion Chelsea 1-0 to claim the FA Community Shield at Wembley Sunday.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>$1M to beam animals onto Empire State Building </title>
+<description> </description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Bolt dumps junk food diet</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>F1 star to take driving lessons</title>
+<description>While his Formula One peers are relaxing on yachts and holidaying in Ibiza, Max Verstappen is spending his summer break taking driving lessons.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Putin: Blatter deserves Nobel Prize</title>
+<description>Embattled FIFA President Sepp Blatter deserves a Nobel Prize for his work leading world soccer's governing body, according to Russian leader Vladimir Putin.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>$550K to save Neil Armstrong's space suit</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Opinion: Encryption a growing threat to security</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+</news>

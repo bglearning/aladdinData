@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>French lab to work on debris found on Reunion</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Researcher: Cecil's cubs likely to survive</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Colombian military plane crash kills 11</title>
+<description>A Colombian military plane has crashed, killing all 11 people on board, according to the nation's air force. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Libyan rape victim now in U.S. jail</title>
+<description>On a February evening last year, a Libyan woman confronted two patrons at the Bohemian Biergarten in downtown Boulder, Colorado. She poured her beer on one of the customers and later threw a glass at the other, leaving a bloody gash serious enough for sutures.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Wrestling 'bad guy' Roddy Piper dies</title>
+<description>Roddy Piper, arguably professional wrestling's all-time top bad guy, has died in his sleep at the age of 61, agent Jay Schachter told CNN Friday.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Blue moon: Did you see it?</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Toddler dies in arson attack </title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Spy's widow: 'Truth uncovered'</title>
+<description>The inquiry into the death of the poisoned former KGB spy Alexander Litvinenko comes to a close. CNN's Phil Black reports. </description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Clinton releases 8 years of tax info</title>
+<description>Hillary Clinton released eight years of tax returns Friday and hit her potential 2016 Republican presidential opponents in the process.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Man watches wife die on escalator</title>
+<description>New surveillance video shows workers at a mall in China knew about the faulty escalator before a mother fell to her death. Her husband is also speaking out, describing the moment she died. CNN's Will Ripley reports.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Ebola vaccine 'highly effective'</title>
+<description>A newly developed vaccine against the deadly Ebola virus is "highly effective" and could help prevent its spread in the current and future outbreaks, the World Health Organization said Friday.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>U.N.: India to overtake China soon</title>
+<description>The U.N. says India will be the most populous country sooner than expected.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>'Rose Garden' singer dies</title>
+<description>Lynn Anderson, whose version of the song "(I Never Promised You a) Rose Garden" was one of the biggest country hits of the 1970s, has died. She was 67.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Washington D.C. sinking into sea</title>
+<description>Washington, D.C., where the powers that reign over the United States reside, is sinking into the ocean.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>This 1914 classic car is still racing today</title>
+<description>Nick Pellett talks to CNN Style about racing the oldest car at the Silverstone Classic his 1914 Sunbeam. Driving the car is a challenge in itself.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Hitler and man 'who beat Jesse Owens'</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>CNN founder: 'You have to take disappointment'</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Another surfer fights off shark attack</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Meet the 'Caitlyn Jenner' of the surf world</title>
+<description>In the 60s and 70s Australian Peter Drouyn was one of the most famous surfers in the world, a pro at the sport who pioneered a new approach which became known as "aggressive surfing" and who was followed by legions of fans.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>This stunt pilot's ego almost killed him</title>
+<description>Until you get to know Sean D. Tucker, it's hard to understand why he chooses to make a living by risking his life. </description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>Miss Cecil the lion? End trophy hunting </title>
+<description>This week, the world has expressed outrage at the story of Cecil, the beloved and iconic male African lion, who was lured out of the protected confines of a national park in Zimbabwe so that a Minnesota dentist, Walter Palmer, could slaughter and mutilate him. </description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Maids threatened, assaulted, trapped</title>
+<description>"The first time she hit me was pay day; she told me to sign my name on a piece of paper, but I asked, 'why should I sign when you didn't give me the money?' Then, she hit me." </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>How trafficking victims can fight back</title>
+<description>Our safe house for human trafficking victims in Manila was recently attacked. The attackers threw rocks, pounded on the gates and cursed at social workers. Despite an increased police presence in the area, the group returned a few days later and left with 16 women who were sheltering at the house.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Mets' shortstop weeps on field amid trade rumors</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Pristine beaches, wildlife, ancient history</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Hotel charges $400 a night to sleep in tomb</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>The Birkin before the Birkin: A look back at Jane's original</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Could comets hold the key to life on earth? </title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+</news>

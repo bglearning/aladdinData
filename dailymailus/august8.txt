@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>
+Colorado theater gunman James Holmes AVOIDS death sentence and jailed for life
+</title>
+<description>
+Jurors in Arapahoe County, Colorado, failed to reach a unanimous verdict on whether Holmes deserved capital punishment or not - meaning that he will spend life in prison instead.
+</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>
+Woman, 28, arrested for viciously stabbing her 84-year-old NEIGHBOR to death after breaking into her house
+</title>
+<description>
+Las Vegas police have arrested a woman in the stabbing death of an 84-year-old woman in late July. Margarita Balandova, 28, of Las Vegas was arrested Thursday and charged with murder.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+The creditors spitting mad that Sarah Ferguson's moving to tax haven Switzerland
+</title>
+<description>
+In January, Andrew and Fergie, who divorced 19 years ago, jointly put their names to the title deeds of a £13 million chalet in that most chi-chi of Swiss ski resorts, Verbier.
+</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>
+Santeria priest 'used HEALING ritual as cover to sexually abuse on girl, 16'
+</title>
+<description>
+Pablo Pinto Mata, a 46-year-old cleric of the Santeria religion, is accused of the sex attack against the minor, in Montebello, California, where police say he forced her to undress for him.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+President Obama flies to Martha's Vineyard a day early with Michelle and Sasha
+</title>
+<description>
+It seems Obama couldn't wait to return to his favorite vacation spot, Martha's Vineyard in Massachusetts, as he last-minute decided to fly on Friday afternoon, instead of Saturday as planned.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Todd Courser 'planted story about having sex with gay prostitute' to cover up affair
+</title>
+<description>
+Todd Courser, 43, a freshman Republican in the Michigan House, was heard on an audio recording telling aide Benjamin Graham to send out a fake story saying he had sex with a prostitute.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Philadelphia service dog Yolanda calls 911 during fire and saves blind owner's life
+</title>
+<description>
+A golden retriever named Yolanda warned authorities about the house fire on Thursday morning at her home in the Holmesburg section of Philadelphia. She called on a special phone and firefighters responded.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Kevin Ward Jr's parents sue NASCAR's Tony Stewart over fatal crash
+</title>
+<description>
+Kevin Ward Jr's parents, Kevin and Pamela Ward filed the lawsuit in the 5th Judicial District for the Supreme Court of the State of New York in Lowville.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Hospital appeals for specialist equipment to transport a 768 pound morbidly obese man who has been bedridden for  a month
+</title>
+<description>
+James King, 45, who weighs 768 pounds, has been stuck in a room at Baptist Health in Paducah for almost one month. The hospital says it does not have the resources to keep on caring for him.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Connecticut woman killed by Metro North express train while getting item on track
+</title>
+<description>
+The unidentified woman, 28, was struck on Friday around 9.30am at the Cos Cob station in Greenwich, a Metro-North Railroad spokeswoman says.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+How the one-per-centers live: Michael Moore is selling his seven-bedroomed Michigan lake log-palace mansion for $5 million after being banned from living there after his 2013 divorce
+</title>
+<description>
+Filmmaker Michael Moore’s former vacation home in the Traverse City area is up for sale. The home on Torch Lake in northern Michigan is on the market for $5.2 million.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+David and Ornella Steiner who died in New Mexico desert likely saved son giving him their water
+</title>
+<description>
+David Steiner, 42, and his wife, Ornella Steiner, 51 died during an afternoon hike across the searing New Mexico desert. They were tourists from the small town of Bourgogne, France.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+How Indiana 911 dispatcher REFUSED to send ambulance for a caller
+</title>
+<description>
+The incident in Gary, Indiana, is the latest in a growing number of cases across the United States where dispatchers have refused to help citizens in an emergency.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Taliban suicide bomber strikes Afghan police academy in Kabul
+</title>
+<description>
+The bomber, who was wearing a police uniform, detonated his explosives in the centre of a crowd of students, killing at least 20 recruits and wounding 24 others, Afghan officials said.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Donald Trump is most-searched candidate in first GOP debate on Google
+</title>
+<description>
+Trump was the most-searched candidate on Google during the prime-time bash-fest  He was also the most-mentioned candidate on Facebook and Twitter.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Nicki Minaj visits Zion Harvey, eight-year-old who received a double hand transplant
+</title>
+<description>
+Zion Harvey lost both of his hands and feet at the age of two from a gangrene infection. Minaj visited him and other patients at the Children's Hospital of Philadelphia earlier this week.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Science Advances reveals our eye shape helped turn humans into hunters
+</title>
+<description>
+A study found humans became successful hunters (file photo) because our eyes have circular pupils, as opposed to the elongated horizontal ones of plant-eating animals such as sheep.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Chinese hackers target American Airlines and travel reservation company Sabre
+</title>
+<description>
+Sabre Corp, a Texas-based company that provides technology used for airline and hotel reservations, confirmed hack but isn't sure if any data was stolen.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Slicing a bagel along the 'Mobius Strip' is best way to add more filling
+</title>
+<description>
+A video shows how to cut a bagel into a Möbius strip, which a famous mathematical structure that only has one side, providing more surface area to spread cream cheese.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Vogue editor Anna Wintour gives Glamour staffers advice at annual editorial meeting
+</title>
+<description>
+Well-known perfectionist and Vogue editor-in-chief Anna Wintour, 65, surprised Glamour editors during the Conde Nast annual editorial meeting by telling staffers that 'imperfection is fine.'
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Apple spends $700k-a-year on security for CEO Tim Cook
+</title>
+<description>
+Apple said the huge sum was for 'home and personal security' for Cook, but the huge sum is still less than half of the $1.6million that Amazon reportedly spends per year protecting Jeff Bezos.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Cat owner hacks automatic feeder to satisfy pet's hunting instincts
+</title>
+<description>
+Benjamin Millam has released a video of his cat 'hunting' RFID enabled balls which, when delivered to a specially built automatic feeding machine, allow the cat to get its reward for the hunt.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Texas boy dies after being found locked in hot car outside of Waffle House
+</title>
+<description>
+A four-month-old boy has died after being found left alone inside of a hot car outside of a Waffle House in Texas. Employees found him unconscious in a white Sebring with the windows rolled up.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Texas judge orders Josten Bundy to marry his girlfriend or serve jail sentence
+</title>
+<description>
+Josten Bundy, 20, appeared before Judge Randall Rogers in a Texas court to face an assault charge after fighting with Elizabeth Jaynes' ex-boyfriend. He agreed to marry her within 30 days in lieu of jail time.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Texan police chief is tasered by junior officer after losing Facebook bet
+</title>
+<description>
+Derek Dyson of Danbury Police Department, Texas, had claimed his force couldn't get 1,600 Facbook likes as the town only had 1,600 residents. But as word of the bet spread, the target was reached.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+The Gardner Museum robbers are dead, FBI reveals
+</title>
+<description>
+The shocking revelation comes just one day after the FBI released a new video showing an unidentified man being let into the Boston museum 24 hours before the heist.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Three Greensboro teens charged with murdering 74-year-old Larry Brown
+</title>
+<description>
+Larry Brown's body was found by police in Greenbriar Road (pictured) in Greensboro, North Carolina, on July 29 having suffered a 'significant' head injury while walking to a bus stop.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Baby Rizwan Ahmad found dead in NYC courtyard after being thrown from window
+</title>
+<description>
+One-month-old Rizwan Ahmad was found lying on the ground in a onesie, covered in blood from head injuries, outside 85-55 115th Street in Queens, New York Friday morning.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Utah police believe Kailey Vijil WAS sexually assaulted
+</title>
+<description>
+A 15-year-old boy has been arrested for the murder of Kailey Vijil, 12, who was found naked in a field in July, but so far he has not been charged with sexual assault.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+What happens to your body after eating bacon revealed in parody infographic
+</title>
+<description>
+The Coke picture, which explains what happens to your body withing the first hour of drinking, recently went viral. Since then, people have been inspired to make similar graphics - with a comedic twist.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Drunken man on Delta Air Lines flight to Hawaii 'threatened to kill fliers'
+</title>
+<description>
+Eric Matthew Schneider allegedly grew aggressive  after consuming several rounds of alcoholic drinks while flying from Seattle, Washington state, to Maui, Hawaii, with his girlfriend on Monday.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Chuck Schumer says he will oppose President Barack Obama's Iran nuclear deal
+</title>
+<description>
+The New York senator said in a statement on Thursday  that there is a real risk that Iran will not moderate and will use the pact to pursue its nefarious goals.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Mom praises UFC champion Ronda Rousey for revealing her childhood speech impediment
+</title>
+<description>
+Laura Smith, from Denver, Colorado, took her five-year-old daughter, Ashlynn, who suffers from apraxia of speech, to meet the star in the hopes she would raise awareness for the disorder.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Yellowstone supervolcano eruption would cause 90k deaths and nuclear winter
+</title>
+<description>
+If it were to erupt, the supervolcano could release a 10 ft (3-meter) layer of molten ash 1,000 miles (1,609km) from Yellowstone National Park, experts have warned.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Disneyland's Magic Kingdom under construction in Shanghai revealed in virtual tour
+</title>
+<description>
+Dramatic new drone footage has revealed that work on Shanghai's spectacular new $5.5bn Disney resort is well underway. The park features Disney's biggest ever castle.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+University of Minnesota athletics chief Norwood Teague resigns over drunken texts
+</title>
+<description>
+The University of Minnesota's athletic director, Norwood Teague, resigned on Friday after admitting he drank too much at a recent event and sent 'inappropriate texts' to colleagues.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Fox News GOP debate smashes viewership record as 10m tune in across America
+</title>
+<description>
+Early Neilsen ratings suggest that Thursday night's debate not only set a new record for Republican primary debates, but had nearly double the viewers as the last record holder.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+2 people get long jail sentences for insulting Thai monarchy on Facebook
+</title>
+<description>
+A Thai man named Pongsak Sriboonpeng and a mother-of-two both had their prison terms halved for pleading guilty to insulting the country's monarch (King Bhumibol pictured)
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+John McAfee arrested after driving high on Xanax with a gun in his car
+</title>
+<description>
+McAfee, 69, was found driving erratically in Henderson County, Tennessee, on Sunday night and was found to be high on Xanax pills, which he claimed were a new prescription.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Skysphere in Linton boasts 360-degree views and a beer dispenser in the couch
+</title>
+<description>
+Plastics engineer Jono Williams, from Linton, New Zealand, spent $50,000 (£32,000) on materials and worked on the Skysphere for 3,000 hours after coming up with the idea over a few beers.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Dwayne 'The Rock' Johnson and Facebook's Mark Zuckerberg hang out in Japan
+</title>
+<description>
+Just like DeVito and Arnie, these guys make for unlikely pals.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Sumo wrestler Atilla Charles 'kidnapped woman and made his wife sexually assault her'
+</title>
+<description>
+Atilla Charles, 35, was recently served an arrest warrant for an incident in 2010 when he allegedly rampaged through a San Antonio woman's home and held her while looking for her friend.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Is this a witch's skeleton? 1.4k-year-old bones unearthed at Rollright Stones
+</title>
+<description>
+The remains were discovered near the Rollright Stones in Warwickshire, which legend has it were created when a witch turned a king and his knights to stone.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Was life on Earth jump-started by underwater volcanoes?
+</title>
+<description>
+Scientists from Nasa's Jet Propulsion Laboratory in California have managed to power a light bulb using geothermal vents built in the lab that simulate conditions on the ocean floor when life first arose.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Illegal immigrant charged in Marilyn Pharis's rape and fatal beating
+</title>
+<description>
+Victor Ramirez, 29, allegedly sexually assaulted and savagely beat Marilyn Pharis, 64, with a hammer after breaking into her Santa Maria, California, home on the morning of July 24.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Humans evolved large brains because our ancestors ate POTATOES
+</title>
+<description>
+Researchers at the Autonomous University of Barcelona say starches would have been readily available to ancestral human populations in the form of potatoes, nuts and seeds.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Oregon railway inspector Josh Cyganik got 100 volunteers to repaint man's home
+</title>
+<description>
+Track inspector Josh Cyganik rallied more than 100 friends and family to help him paint, and donate materials to make-over pensioner Leonard Bullock's home, in Pendleton, Oregon.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Ohio woman dies from Legionnaires' disease after 10th person passes away in NY
+</title>
+<description>
+Elaine Stacer, 53, died at University Hospital in Cleveland yesterday morning from Legionnaires' disease as investigators try to work out how and where she was infected.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Georgia prison escapee Willie Lee Austin on the lam for 34 YEARS caught
+</title>
+<description>
+A man who escaped from a Georgia prison 34 years ago has finally been apprehended by federal authorities. Willie Lee Austin was arrested in Florida on Wednesday outside of his business.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Regina Dilworth tried to drown nine-month-old son because he was 'possessed'
+</title>
+<description>
+Police say they don't know where that child would be today had the good Samaritan not circled back after seeing Regina Dilworth, pictured, from Idaho, walking in the road and intervened.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+How being addicted to the internet could make you sick
+</title>
+<description>
+Scientists at Swansea University found excessive internet use led to a lack  of interaction with other people - and less time spent outside being exposed to immune-boosting germs.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+World's best places to surf from Portugal's waves to Hawaii's pipeline
+</title>
+<description>
+It charts how the biggest breaks compare to each other, with the 100ft monster waves at Nazare, Portugal, towering over the rest. The infographic explains that quality counts, too.
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+How Chinese kids chomp their way through whole watermelons
+</title>
+<description>
+In China, August 7 or occasionally August 8 marks the end of summer and the beginning of autumn. It's a date that's sometimes marked with a quirky food tradition called Ken Qiu.
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+Hundreds of balloons take off at start of Balloon Fiesta in Bristol
+</title>
+<description>
+The 37th International Balloon Fiesta launched in Bristol with half a million visitors expected. Among the 103 balloons in the sky today was one of the largest Tibetan flags, which caused a stir ahead.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Delta Airlines releases hilarious flight safety video featuring Moses
+</title>
+<description>
+The video is narrated by a member of cabin staff from the American airline, complete with Cheshire Cat smile, with her instructions demonstrated by a related comedy scene.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Feel like you’re going to lose it? Six ways to stay calm when it all goes wrong at the office 
+</title>
+<description>
+Organizational psychologist Michael 'Dr Woody' Woodward has shared his insights into managing our emotions in high-stress situations.
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+MH370 investigators launch new search for debris around Reunion Island
+</title>
+<description>
+MH370 investigators have pledged to launch new air, land and sea searches for debris around Reunion Island after a wing from the ill-fated plane washed up on its shores last week.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Essex woman who faints up to six times a DAY but has escaped injury
+</title>
+<description>
+Jordan Marshall, from Essex, suffers from Vasovagal Syncope. She fears her unusual condition will mean she may never be a mother due to the risk of her fainting and crushing the baby.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+</news>

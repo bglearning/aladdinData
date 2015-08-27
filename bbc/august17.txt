@@ -1,0 +1,310 @@
+<item>
+<title>Egypt imposes new anti-terror laws</title>
+<description>Egyptian President Abdul Fattah al-Sisi approves stringent new counter-terror laws to fight the country's growing Islamist insurgency.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Indonesia plane wreckage located</title>
+<description>The wreckage of an Indonesia plane which had 54 people on board has been located in a remote region of Papua, officials say.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>'Drinkable book' cleans murky water</title>
+<description>Field trials show a so-called "drinkable book" can kill bacteria in drinking water, thanks to metal nanoparticles embedded in its pages.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>US 'warns China over covert agents'</title>
+<description>The Obama administration warns China over its use of covert agents on US soil, according to a report in the New York Times.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Tens of thousands protest in Brazil</title>
+<description>Tens of thousands of people take part in protests across Brazil, calling for the impeachment of President Dilma Rousseff.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Komla Dumor Award winner announced</title>
+<description>Nancy Kacungira, a television anchor for Kenya's KTN TV channel, wins the first BBC World News Komla Dumor Award.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>China premier visits scene of blasts</title>
+<description>Chinese Premier Li Keqiang visits the victims of last week's explosions at a chemical warehouse in the port of Tianjin, where 95 are still missing.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Sri Lanka votes in general election</title>
+<description>Voters in Sri Lanka go to the polls, with former President Mahinda Rajapaksa aiming to return to office as prime minister.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Iraq ex-PM blamed for Mosul fall</title>
+<description>An Iraqi parliamentary committee calls for former PM Nouri Maliki and dozens of other officials to face trial over the fall of Mosul to Islamic State.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Same-sex marriage bill introduced</title>
+<description>Australian Liberal backbencher Warren Entsch introduces his controversial same-sex marriage bill to parliament.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Shekau 'still leads' Boko Haram</title>
+<description>An audio emerges purportedly of Abubakar Shekau in which he denies being replaced as leader of Nigerian-based Islamist militant group Boko Haram.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Toyota halts plants near Tianjin</title>
+<description>Toyota and John Deere say they will halt operations at plants near China's Tianjin port, where explosions last week killed more than 100 people.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Plane wreckage found in Indonesia</title>
+<description>A search aircraft has spotted debris believed to be from the missing Trigana Air plane, according to Indonesian transport officials.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: The dangerous night-time dash to Kos</title>
+<description>Under the cover of darkness, many refugees are attempting the dangerous journey from Bodrum in Turkey, to Kos in Greece.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Thai prince leads Bangkok bike ride</title>
+<description>Thailand's crown prince has led thousands of cyclists on a bike ride through the streets of Bangkok, in a rare public appearance.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Migrants 'deterred by new fences'</title>
+<description>The BBC's Tomos Morgan says heightened security at the Eurotunnel terminal near Calais is deterring some migrants.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Star Wars cast out in 'force' at expo</title>
+<description>JJ Abrams and the cast of Star Wars: The Force Awakens appear at a fan event in California.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: New York's $100m apartments</title>
+<description>Nick Bryant reports on New York's 'Billionaire's Row', luxury skyscrapers which are becoming a potent symbol of wealth inequality.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Vienna hotel run by refugees</title>
+<description>A new hotel has opened in Vienna - run mainly by refugees.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Brazil leader's crisis in six phrases</title>
+<description>President Dilma Rousseff is facing her lowest rate of approval in her time in office. This is a glossary of commonly used words</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Rousseff's woes worsen as Brazil's protestors smell blood</title>
+<description>Brazilian President Dilma Rousseff needs to drastically improve her performance if she is to see out the remaining three years of her term in office, writes Wyre Davies.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Trump’s billionaire bravado in Iowa</title>
+<description>The BBC's Anthony Zurcher reports from the Iowa State Fair, where Donald Trump's campaign bandwagon - or rather helicopter - shows no sign of slowing down.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>What makes a planet habitable?</title>
+<description>It is more difficult than you might think to define what makes a planet habitable, as astrophysicist Christopher Watson explains.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>South Sudan: Obstacles to a lasting peace</title>
+<description>As a deadline for a peace deal nears, there remain many obstacles to a lasting settlement, as James Copnall explains.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Djokovic 'smells cannabis' on court</title>
+<description>World number one Novak Djokovic complains he can smell cannabis on court during his Rogers Cup win over Jeremy Chardy.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Thai prince leads bike ride 'for Mom'</title>
+<description>Thousands of Thais are joining Crown Prince Vajiralongkorn on his bike as he leads a ride through Bangkok in honour of his ailing mother, Queen Sirikit.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Japan hit by weaker economic growth</title>
+<description>Japan's economy shrinks in the second quarter of the year, in a setback for the governments's reform policy.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Billionaire Soros sells Alibaba stock</title>
+<description>The fund owned by the influential billionaire George Soros sells most of its shares in the Chinese internet firm Alibaba.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Apple car clues emerge from letter</title>
+<description>Correspondence between Apple and an autonomous driving test site reveal nuggets of car plans.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Samsung unveils two big smartphones</title>
+<description>Samsung unveils two new large smartphones, but causes surprise by deciding not to sell one of them - the Galaxy Note 5 - in Europe.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Star Wars: Episode IX director named</title>
+<description>Jurassic World writer and director Colin Trevorrow is to helm Star Wars: Episode IX, while Disney announces it will create Star Wars-themed lands at its US theme parks.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Amazon boss hails new Clarkson show</title>
+<description>A new show for Amazon by the former hosts of Top Gear will be "very, very, very expensive", the company's founder says.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Young 'alien Jupiter' discovered</title>
+<description>A planet 100 light-years away resembles a young version of Jupiter, astronomers say.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Comet 67P passes closest point to Sun</title>
+<description>Comet 67P has passed the closest point to the Sun in its 6.5-year orbit, with the Rosetta spacecraft still in orbit around it.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Diabetes cases soar 60% in a decade</title>
+<description>The number of people living with diabetes has soared by nearly 60% in the past decade, the charity Diabetes UK warns.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Cut the fat to lose weight - study</title>
+<description>Cutting fat out of your diet leads to more fat loss than cutting out the carbs, a US National Institutes of Health study shows.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Australia's Day wins US PGA title</title>
+<description>Australia's Jason Day wins his first major title at the US PGA Championship with a record 20-under-par score at Whistling Straits.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Murray beats Djokovic in Montreal</title>
+<description>Andy Murray ends an eight-match losing run against Novak Djokovic to win the Rogers Cup 6-4 4-6 6-3 in Montreal.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>My Irish clean plates neurosis</title>
+<description>Why I still obey my mother's demands to eat all my dinner</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>The grannies who had never seen the sea</title>
+<description>The grannies who sent 200 cards on their first ever holiday</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Migrants die in boat's hold off Libya</title>
+<description>At least 40 migrants are found to have died in the hold of a crowded fishing boat intercepted off the Libyan coast, the Italian navy says.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Ex-army chief shot dead in Burundi</title>
+<description>The former head of Burundi's army has been shot dead outside his home in the capital Bujumbura.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Teams head for Papua 'plane' debris</title>
+<description>Indonesian search teams head to a site in the remote Papua region where a plane with 54 people on board is believed to have crashed on Sunday.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Suicide blast kills Punjab minister</title>
+<description>Punjab Home Minister Shuja Khanzada is killed in a suicide attack on his office in the eastern Pakistani province, officials say.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Greece ship takes on Kos migrants</title>
+<description>Dozens of migrants on the Greek island of Kos begin registering on a passenger ship which will be their temporary shelter as they apply for asylum.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Migrant breaches of Eurotunnel 'down'</title>
+<description>The number of migrants trying to enter the Eurotunnel terminal near Calais has fallen to about 150 a night, the company says, down from 2,000.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Ecuador declares volcano emergency</title>
+<description>Ecuador's President Rafael Correa declares a state of emergency over increasing activity at the Cotopaxi volcano.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>US flag raised over Cuba embassy</title>
+<description>John Kerry, the first US Secretary of State to visit Cuba in 70 years, reopens his country's embassy in Havana, decades after it closed.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Syria market air strikes 'kill 80'</title>
+<description>At least 80 people have died after government air strikes on a marketplace in the rebel-held town of Douma, near Damascus, activists say.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>IS leader 'raped US hostage Mueller'</title>
+<description>An American aid worker, killed in February while held hostage by Islamic State in Syria, was sexually abused by the group's top leader, US officials tell ABC news.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Clinton hits back at Bush over Iraq</title>
+<description>Democratic presidential hopeful Hilary Clinton hits back at one of her Republican rivals, Jeb Bush, over who is responsible for instability in Iraq.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Biden calls US attacker 'jihadist'</title>
+<description>US Vice-President Joe Biden says the Chattanooga shooting was the work of a "perverted jihadist", despite no official determination of motive.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Bruce Gilden's Faces</title>
+<description>Brooklyn-born photographer's close-up and personal portraits of the overlooked and ignored</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Your pictures: Summer</title>
+<description>Readers' photographs on the theme of summer.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>What was in Osama Bin Laden's tape collection?</title>
+<description>What was in his huge collection of audio cassettes?</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Australia 'gags' refugee centre medics</title>
+<description>Doctors fear speaking out about detention centres</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Growing up in a WW2 internment camp</title>
+<description>Growing up in a World War Two internment camp</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Vietnam's start-up queen</title>
+<description>The boss of the first Vietnamese firm bought by Silicon Valley</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: The man who will only make 324 more ukuleles</title>
+<description>The man who will only make 324 more ukuleles</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: The songs China doesn't want you to hear</title>
+<description>And 119 other songs that have been banned in China</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Women who married the enemy</title>
+<description>The Japanese women who married the enemy</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Waiting for the ship that could save a man's life</title>
+<description>Waiting for the ship that could save a man's life</description>
+<sentiment></sentiment>
+</item>

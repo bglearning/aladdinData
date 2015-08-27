@@ -1,0 +1,927 @@
+<item>
+<title>
+	Michael Clarke hits out at reports WAGS distracted Australian cricket team at Ashes
+      </title>
+<description>
+	Outgoing Australian cricket captain Michael Clarke has slammed suggestions the partners of players were a distraction following the crushing Ashes defeat last week.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mia Tindall throws a tantrum for mum Zara Phillips at the Gatcombe Horse Trials
+      </title>
+<description>
+	Mia Tindall began crying and stamping her feet as her mother Zara, 34, pulled her away from an electric generator during the Festival of British Eventing, Gloucestershire.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Hayley Lewis defends The Biggest Loser during awkward live interview with Today
+      </title>
+<description>
+	The retired swimmer was interviewed by Today hosts Karl Stefanovic and Lisa Wilkinson for what was promoted as a frank interview about the hugely popular show's divisive approach to slimming.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	South Australian Police release clothing tags in the hunt for suitcase killer
+      </title>
+<description>
+	South Australian detectives have revealed that of around 50 items of clothing found with the child's remains, they are yet to identify the brands of five items.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Channel Nine pays $925m for NRL until 2022 and will see State of Origin played
+      </title>
+<description>
+	The Nine Network has paid almost $925 million for a new five-year deal to broadcast National Rugby League matches from 2018. And one State of Origin game will be played on a Sunday night.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The revolutionary new diet that tackles changing hormones and can help turn back the years
+      </title>
+<description>
+	Dwindling hormones in middle age can lead to greying hair and middle-age spread. Dr Caroline Apovian explains how eating the right foods will boost hormones and leave you feeling great.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ebay users selling  tubs of Golden Gaytime for 50 dollars a tub
+      </title>
+<description>
+	The soaring high demand for the product has sparked a social media storm, as well as some opportunistic Australian sellers offering the 1.25L tubs for some rather exorbitant price tags.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Star Wars: The Force Awakens cast dressed as Stormtroopers film scenes in a desert
+      </title>
+<description>
+	Production on Star Wars: Episode VII – The Force Awakens looks to be going swimmingly as filming continued in a desert style landscape in North London.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lucy Wicks left red-faced after bungling lines about the new Speaker Tony Smith
+      </title>
+<description>
+	A first term Liberal MP was left red-faced after bungling a speech introducing her friend as the new parliamentary Speaker.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How Uber created 15k jobs this year and attracted over a MILLION Australian users
+      </title>
+<description>
+	New research from the ride-sharing service has revealed that as promised by Chief Advisor, David Plouffe, Uber is well on its way to creating 20,000 new jobs in Australia by the end of the year.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pastry chef Anna Polyviou becomes one of Australia's leading pastry chefs
+      </title>
+<description>
+	One of Australia's leading pastry chefs - Anna Polyviou - reveals she struggled early on due to her edgy appearance and vision. Now, her graffiti etched style has brought her many opportunities.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Target removing gender labels from toys, home and entertainment products
+      </title>
+<description>
+	Target will also remove pink, blue and green paper from the back walls of shelves as a reference to boys or girls' toys, but gender signs will stay put in the apparel department where they 'make sense'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	David Conley charged with murder as 5 children and 3 adults are found in Houston
+      </title>
+<description>
+	The bodies were discovered after deputies were called to the Houston house on Saturday night to perform a welfare check. When they entered the property, a man began shooting at them.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Instagram pictures show students edging close to the water at La Perouse, Sydney
+      </title>
+<description>
+	A young student who tragically died after being swept out to sea in a freak wave was posing for a photograph at Sydney's Bare Island, near La Perouse, just moments before she died.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	NT Police Minister Peter Chandler was forced to kick his ice-addict SON out
+      </title>
+<description>
+	Northern Territory Police Minister Peter Chandler has spoken about his family's heartache over watching his eldest son Brandon, 21, battle an addiction to the drug ice.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sea slug that looks like Magic Roundabout's Ermintrude found near Bali
+      </title>
+<description>
+	Bright green with pink tips, the unusual critter was captured among other rare species in a stunning collection of underwater photographs by an amateur photographer.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How children ask 'why' eight times a day -and half the time we don't know the answer!
+      </title>
+<description>
+	Parents found ‘What happens when you die? and ‘How long will it take?’ among the most challenging questions to answer.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chinese children strapped into human claw machine and dangled above cuddly toys
+      </title>
+<description>
+	After robot claw machines were exposed as being rigged earlier this year, a shopping mall in southwest China resolved to buckle up some kids instead and dangle them over a pit of alluring toys.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Twins descend upon Ohio for the 40th annual Twins Days Festival 
+      </title>
+<description>
+	This weekend's Twins Days, a festival celebrating twins in - where else? - Twinsburg, Ohio, was the biggest jamboree yet, with about 2,000 multiples and their families turning out.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rowan Pelling's sex column: My man likes to make love with the lights on but I'm 60 and I only feel carefree in the dark
+      </title>
+<description>
+	QUESTION: I’m getting married for the second time at the age of 60. My man likes to make love with the lights on, but  where I only feel carefree in the dark.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Annie Lennox's daughter Tali in kayaking accident and boyfriend Ian Jones is missing
+      </title>
+<description>
+	Tali Lennox, 22, and her  boyfriend, Ian Jones, 32, were in the Hudson River near Staatsburg, when their kayak overturned. He is still missing and a search is ongoing. Police say alcohol may have been a factor.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	David Beckham and Victoria Beckham's daughter may get 'speech or dental issues'
+      </title>
+<description>
+	Merilly trotting along next to her father in a pink sundress, Harper Beckham looks like a confident and content little girl.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Murderer Masood Atai 'using Facebook to contact ISIS fighters inside prison'
+      </title>
+<description>
+	There are fears convicted murderer Masood Atai has been secretly using a Facebook profile from inside Goulburn Prison to contact Islamic State fighters in Syria and other criminals.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	North Geelong KFC worker in a critical condition with third-degree burns
+      </title>
+<description>
+	Tyson Grieg, 16, was working at KFC in North Geelong, outside Melbourne, on Friday night when he sustained the serious injures before being rushed to hospital.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Get more sleep campaign will target over-40s who are risking early death
+      </title>
+<description>
+	Multiple studies have shown that a lack of sleep is associated with other problems such as diabetes and heart disease - with the sleep-deprived 12 per cent more likely to die prematurely.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Burning hundreds of calories in minimal time, working out on water is a new trend
+      </title>
+<description>
+	Frances Childs tries working out on an inflatable exercise mat which is scientifically proven to burn hundreds of calories in minimal times - all you have to do if not fall off.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tony Abbott loses popularity lead over Bill Shorten as government support plummets
+      </title>
+<description>
+	The latest Newspoll shows the ALP leading the Coalition 54 per cent to 46 per cent, with their primary votes now locked at 39 per cent each.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	'Working class' Aussie dad starts crowdfunding campaign for a family holiday
+      </title>
+<description>
+	Aussie dad Stephen Callaghan has launched a cheeky online campaign requesting politicians donate $5000 for his family holiday to Uluru in the wake of the travel expenses scandal.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Joe Holliday had cloacal exstrophy which means doctors weren't sure what sex he was
+      </title>
+<description>
+	Joe Holliday was born in 1988 with a rare condition which meant his genitals never formed. Here, in an extract from his book, he tells of growing up as a girl   and his transition back to becoming male aged 27.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bob the Builder returns with first prominent black character and makeover
+      </title>
+<description>
+	After a short hiatus, Bob and his friends have undergone a transformation which creators say bring the show up-to-date for today’s children.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Melissa Doyle reflects on walking away from Sunrise
+      </title>
+<description>
+	The 45-year-old has spoken candidly to News Corp about the difficult time being the talk of the town adding: 'I just had to hold my head high through all of it.'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Shark attack survivor to donate fundraising money to Westpac Rescue Helicopter
+      </title>
+<description>
+	Great white shark attack victim Mathew Lee, 32, has pledged to donate half the funds raised for his rehabilitation to the Westpac Rescue Helicopter Rescue team that saved him in Ballina last month.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	MH370 investigators examine items found in the Maldives where locals 'saw jet'
+      </title>
+<description>
+	Debris suspected to be from the missing MH370 flight has washed up in the Maldives. If verified, the find would support locals' claims that they saw a 'low-flying jet' on the day the flight disappeared.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Gisele Bundchen emerges for first time since 'boob job and eye lift in Paris'
+      </title>
+<description>
+	The 35-year-old's new look was unveiled as she stepped off of a private plane with her children in tow following her burqa incident which she wore to as a disguise to a plastic surgery clinic last month.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Benedict Cumberbatch warns fans not to film him as Hamlet at the Barbican Centre
+      </title>
+<description>
+	The 39-year-old made the plea as he left The Barbican Centre after Saturday night's performance which was reportedly halted twice due to technical glitches.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Cow onesies, Tony Abbott and a whole team of Wonder Women: Aussies turn out in droves for the world's biggest fun run
+      </title>
+<description>
+	More than 80,000 people took to Sydney's streets to run, sweat and strut in the world's biggest fun run, the City to Surf, a 14 km distance from the city centre to Bondi.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The hyper-realistic drawings you won’t believe aren't photographs
+      </title>
+<description>
+	Paul Cadden, 50, from Glasgow, uses his incredible eye for detail to recreate photos in black and white, often using only a graphite pencil or watercolours.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump says he 'cherishes' women after  'sexist' Megyn Kelly statement
+      </title>
+<description>
+	Donald Trump spoke to four talk shows on Sunday and said: 'I want to help women. I’m going to be able to do things for women that no other candidate would be able to do.'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump Iowa campaigner says attacks on Megyn Kelly are 'fair game'
+      </title>
+<description>
+	Tana Goertz, his co-chair in the state, said that she was not offended by Trump's suggestion that Kelly asked him tough questions because there was 'blood coming out of her wherever'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Hatfield and McCoy descendants unearth relics of New Year's 1888 ambush site
+      </title>
+<description>
+	The leader of the dig says they have pinpointed the place where Randolph McCoy's home was set ablaze in the woods of eastern Kentucky during a murderous New Year's attack by the Hatfield clan.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Harper Lee's father's law office is up for sale for $125,000 in Monroeville
+      </title>
+<description>
+	Harper Lee's inspiration for her iconic fictional character Atticus Finch came from her father - who practiced law in an old bank building in her hometown of Monroeville.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Orphaned baby rhino Donnie cuddles up to car to replace poached mother
+      </title>
+<description>
+	Donnie thought the grey people carrier might be able to take on a parenting role after his mother was poached in Kruger National Park, South Africa, leaving the two-month-old to fend for himself.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sexting study finds naughty texts could lead to a better love life
+      </title>
+<description>
+	A new study suggests explicit texts messages may be just what the doctor ordered to keep the fires burning in adult relationships, especially when the romance is less established.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Nobody uses 'LOL' anymore, Facebook study reveals 
+      </title>
+<description>
+	Inspired by an article in The New Yorker called 'Hahaha vs Hehehe', the social networking giant decided to look into 'e-laughing' and how patterns have changed.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Middle Eastern 'gunmen' sweep through London for Iranian Embassy siege film 6 Days
+      </title>
+<description>
+	Director of the film '6 Days', Toa Fraser, took his inspiration from the 1980 Iranian Embassy siege. After six armed gunmen took over the building and 26 hostages, SAS launched  a heroic rescue mission.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Police incensed as witnesses shared photos of bloodied detective sympathizing with the murder suspect 'who stole his gun and beat him until he didn't move'
+      </title>
+<description>
+	Janard Cunningham, 34, has been charged with attempted murder for an alleged assault of unidentified plainclothes detective at parking lot in Roebuck, Alabama on Friday morning.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Climate change action must happen say Australians after snow in Queensland
+      </title>
+<description>
+	A Climate Institute poll shows that the number of Australians who believe action on climate change needs to be taken more seriously has increased.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Dog whose fur was so ungroomed and matted it cut off two of his legs
+      </title>
+<description>
+	When rescuers found Bobb, who was owned by homeless people in Los Angeles, they discovered his matted fur had cut off the circulation to his legs, causing them to to start to detach.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Festival du cochon in Canada where you catch GREASED pigs to toss in barrels
+      </title>
+<description>
+	The festival is now in its 37th year and takes place in Sainte-Perpétue, which is 150km northeast of Montreal. The game has been heavily criticised by animal rights activists.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Dog owners caught on camera THROWING their unwanted pet over fence
+      </title>
+<description>
+	Two heartless dog owners have been caught on camera abandoning a dog by throwing it over the high fence of an animal rescue centre in north western Spain.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Richard Branson and how his mother Eve Branson brought him up
+      </title>
+<description>
+	Eve Branson tells AMY OLIVER about raising her 'absolutely impossible' son and reveals the truth about being 'saved' by Kate Winslet from a raging inferno on Necker Island in 2011.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Milk farmers march COWS through busy Asda supermarket over prices
+      </title>
+<description>
+	Dairy farmers sparked chaos by walking two Friesians into the Asda store in Stafford as part of the escalating row over the price they receive for producing milk.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Drink-driver Martin Cantrill weaved across the road and spun 360 degrees
+      </title>
+<description>
+	Martin Cantrill was three and a half times over the legal alcohol limit when another motorist filmed him careering across multiple lanes of the A14 in Northamptonshire.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Illegal immigrants discovered on M25 with Polish lorry driver arrested
+      </title>
+<description>
+	The vehicle was stopped by police after a passing motorist grew suspicious and called 999 while driving on the M25 in Hertfordshire yesterday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Widow of Perth man on MH370 reveals her fresh heartbreak amid Reunion debris
+      </title>
+<description>
+	The widow of missing Perth man, Paul Weeks who was on MH370 has said the discovery of debris from the doomed flight does not offer closure.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Hiker found dead in Yellowstone Park attacked by grizzly bear and cub
+      </title>
+<description>
+	The horrific attack took place in a popular off-trail area near Lake Village. Tracks show an adult female grizzly and at least one cub were involved. The victim was found by a park ranger Friday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Food hack video shows genius way to ripen the fruit in 40 minutes
+      </title>
+<description>
+	In a new video from LittleThings.com, DIY expert Jill Urban teaches viewers how to ripen bananas by placing in the oven, which helps the starch in the fruit convert to sugars.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Goodnight Mommy trailer has been dubbed 'the scariest ever made'
+      </title>
+<description>
+	The Goodnight Mommy trailer has viewers terrified with some commenting it is finally a scary movie that 'actually looks scary'. The Austrian horror film is set to hit theaters on September 11.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Transgender Jazz Jennings knew she was a girl born in a boy’s body
+      </title>
+<description>
+	Jazz Jennings was ‘assigned male at birth’, meaning she was born a boy. Her parents, Jeanette and Greg, named their baby son Jaron. But Jazz – as she has long been known – felt she was a girl.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Typhoon Soudelor hits Taiwan with 22 people dead or missing
+      </title>
+<description>
+	The typhoon made landfall in Fujian province (pictured) late Saturday night after sweeping through Taiwan, causing mudslides in mountainous Pingyang county that killed nine people.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Charlie Chaplin: How he became the world's biggest star (despite falling out with Hitler, Brando, the FBI... and more than one teenage bride)
+      </title>
+<description>
+	Gathered in a new book, many previously unseen photographs, as well as memos, script notes and interviews from the film-maker’s own archives show how he developed gags.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Politicians flying into Canberra to vote on marriage equality are greeted with rainbow lights as celebrities throw their weight behind #wecandothis campaign
+      </title>
+<description>
+	As Federal MPs return to Canberra to resume Parliament, Canberra Airport is lit up in rainbow colours in support of marriage equality as thousands take to the streets in Sydney.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	British boy Euan Hird almost loses foot in Durban escalator on holiday
+      </title>
+<description>
+	GRAPHIC CONTENT WARNING: Euan Hird's right foot was trapped for three hours after slipping through a gap between the steps of the escalator at a Durban mall before it was finally freed.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	William Shakespeare's pipes found 'suggests he had a taste for cannabis'
+      </title>
+<description>
+	South African scientists carried out a chemical analysis on broken pieces of pipe found in Shakespeare's garden in Stratford-upon-Avon, as well as in the grounds of his neighbours' homes.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	High flyer quits Dubai life for off-grid desert village in Spain
+      </title>
+<description>
+	Erik Lang, 29, swapped skyscrapers and celebrity parties for outdoor showers and compost toilets when he moved to Sunseed, an non-hierarchical eco-community in Spain.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Traumatic scenes as three cyclists collide on 'poorly maintained' winding downhill mountain road - with one man critical in hospital
+      </title>
+<description>
+	Three cyclists have been airlifted to hospital, with one in critical condition, following a huge bicycle pile-up on a downhill road through the Blue Mountains, NSW, on Sunday morning.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Leicester mother who had 3 miscarriages reveals  joy at finally giving birth
+      </title>
+<description>
+	Rachel Lewis-Mayhew, 45, from Leicester suffered three miscarriages but made a last attempt to have a baby after being prescribed a £2-a-month pill called Thyroxine, that she combined with IVF.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Happy and 'drunk' babies after their feed take over Instagram as #MilkDrunk
+      </title>
+<description>
+	Drunk and woozy? Passed out on the sofa? These babies haven't been hitting the booze, but the pictures being shared by parents as part of new social media craze #MilkDrunk would suggest otherwise.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	'Chemotherapy changed the way I viewed life': Incredible images of brave cancer survivors who bear the scars of the surgery that saved their lives as a way to empower themselves and celebrate life
+      </title>
+<description>
+	Cancer survivor Jasmine Gailer, 26, (pictured) kept herself hidden because she was too ashamed to face the reality of her story, until she posted a picture of her 30cm scar on Facebook.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	John 'Goldfinger' Palmer's £6m yacht languishes in a rundown marina
+      </title>
+<description>
+	The 115ft 'Brave Goose of Essex' is moored in a scruffy dock in Tenerife's capital Santa Cruz and locals say it has not moved since he was murdered six weeks ago in a suspected gangland assassination.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Norris Castle sought by Queen Victoria on sale at £1m like a London council flat
+      </title>
+<description>
+	The Norris Castle Estate, on the Isle of Wight, boasts 26,000 square feet of living space, 225 acres of land and a mile of waterfront - and is on the market for the first time in 60 years.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	British backpacker tell tales of a gunpoint mugging in Israel and illness in Nepal
+      </title>
+<description>
+	Will Hatton, from Brighton, has been robbed three times and suffered life-threatening illnesses while visiting nearly 50 countries on his travels around the world over the last seven years.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Shoes of Prey makes customised shoes for women with feet of all sizes
+      </title>
+<description>
+	Sydney-based company Shoes of Prey is changing the way women shop, providing custom-made styles for women with large, small or different sized feet who struggled to find the perfect fit
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Steven Spielberg is selling £120m, 282ft mega yacht because it is 'too small'
+      </title>
+<description>
+	Forty years after Roy Scheider exclaimed, ‘We’re gonna need a bigger boat’ in Jaws – it seems the film’s director Steven Spielberg has taken the sentiment very firmly to heart.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sydney's Bloody Mary bar serves drink with with a slider, prawn and chicken wing
+      </title>
+<description>
+	A Bloody Mary with one slider, a prawn and a chicken wing as garnish has been introduced to a bar in Darlinghurst, Sydney, as a guaranteed hangover cure (pictured).
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Missing Ben Needham greek police hunters are probing eight theories
+      </title>
+<description>
+	British toddler Ben Needham was just 21 months old when he went missing while on a family holiday on the Greek island of Kos in July, 1991.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Helicopter rescue saved two men after their boat capsized off Queensland
+      </title>
+<description>
+	One man is dead, and two were left with hypothermia after their boat was sunk by freak waves near Moreton Island in Queensland. The two survivors were airlifted to safety (pictured).
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The best off-season travel times and destinations for Winter and Summer
+      </title>
+<description>
+	During the summer, travel costs can skyrocket. But for those eager to jet off - and remain budget-conscious - this infographic highlights the most affordable destinations anytime of year.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Twitter cracks down on joke thieves who copy and paste witty one-liners
+      </title>
+<description>
+	The social media giant has started to remove tweets by people who steal witty one-liners - replacing the offending message with a note saying it has been 'withheld' over copyright issues.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pro-surfer Jordy Smith lands incredible 360 turn while riding a wave
+      </title>
+<description>
+	Defying gravity, pro-surfer Jordy Smith completes an incredible 360 turn (pictured) while riding a wave in North Point on the east coast of Western Australia.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How the finest French wine is selected for British Airways passengers
+      </title>
+<description>
+	Earlier this year BA scooped the gold medal in the best business class white wine category at the Cellar in the Sky awards for the Rémi Niero Condrieu Les Ravines 2012.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Visit The French Alps for a hiking holiday with a difference
+      </title>
+<description>
+	The mountains of France’s Haute-Savoie region offer breathtaking views. Could doing 4am hikes and teepee-inspired camping be the best way to experience the spectacular scenery?
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Queensland adds falling coconuts to fatal threats on Aussie beaches
+      </title>
+<description>
+	Councils in Port Douglas and the world famous Whitsundays, northern Queensland, are formulating a plan to avoid visitors and locals being hurt or killed by the falling fruit (pictured).
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	15 countries, a staggering 12,400 miles and one tuk tuk: Three friends depart Bangkok for France on a customised electric rickshaw
+      </title>
+<description>
+	Remy Fernandes-Dandre and Karen Koulakian from France, along with Ludwig Merz from Germany, a trio who have nicknamed themselves 'The Pilgreens,' plan to arrive in Toulouse in December.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Australian cricket coach gets attacked asking for soccer tickets after Ashes
+      </title>
+<description>
+	Darren Lehmann sent out a Tweet on Saturday asking if anyone could help him get tickets to the upcoming football match between Stokes and Liverpool, but was quickly shot down.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	James Packer leads tributes to Michael Clarke after retirement announcement
+      </title>
+<description>
+	Billionaire James Packer has defended Michael Clarke (pictured) after his resignation from international cricket. Clarke resigned following mounting speculation over his performances.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Prince Harry joins war on poachers at Crocodile River in Kruger Park
+      </title>
+<description>
+	Prince Harry is at the front line of a bloody war against rhino poachers, joining heavily armed forces battling gangs of criminals wielding rifles and machetes.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Police and MI5 race to foil IED attack on the Queen at World War II anniversary
+      </title>
+<description>
+	The Mail on Sunday can reveal that police and MI5 are involved in a frantic race against time to thwart the assassination plot in London, which is being orchestrated from Syria by Islamic State commanders.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Eric Clapton's rift with daughter Ruth who tweeted that he dressed up as Kermit
+      </title>
+<description>
+	The guitarist has become secretly estranged from his daughter Ruth in a bitter rift that threatens to tear the family apart, with sources revealing the cause of the row as her tweets.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Outback shops restricting sale of Vegemite after alcohol-making fears
+      </title>
+<description>
+	The government is attempting to limit the sale of the iconic spread in several remote dry Queensland communities because it's fuelling a surge in alcohol-related violence.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BBC Antiques Roadshow's Richard Price home has been owned by 2 clock experts
+      </title>
+<description>
+	Bullpits, a six-bedroom house in Dorset, is owned by the Antiques Roadshow’s clocks and watch expert Richard Price  and his wife Cathy but has gone on the market.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Leichhardt cottage with rotten floors, damp walls and a grotty kitchen sells for $900k
+      </title>
+<description>
+	A tiny, squalid Leichhardt home in Sydney’s inner west (pictured) has sold for $900,000 at auction, reminding prospective home-owners the boom is far from over.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bernie Sanders stops rally as Black Lives Matter hold silence for Michael Brown 
+      </title>
+<description>
+	Sanders was just starting to address several thousand people gathered shoulder to shoulder at Westlake Park , Seattle, when two women took over the microphone and wouldn't gibe it back.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Gyrocopter crash in Cannons Creek at Edgewater Terrace near Melbourne
+      </title>
+<description>
+	A chopper has crashed in Warneet, south-east of Melbourne, emergency services say, leaving one person trapped and a man with chest injuries.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pornhub launches premium streaming service to become 'Netflix of porn'
+      </title>
+<description>
+	Pornhub Premium costs customers $9.99 monthly, following a week-long trial for nothing, the company said. The service can be used on mobile devices, as well as tablets and desktops.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Girl Beneath the Headscarf's Wiwid Howat on mixing trendy fashion and conservative style
+      </title>
+<description>
+	She turned down five potential husbands, married in the name of love and followed her heart to focus on fashion - meet Sydney's Wiwid Howat.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Eddie McGuire denies racism after calling John Eren a ‘Turkish-born Mussie’
+      </title>
+<description>
+	Media personality and powerful AFL figure Eddie McGuire (pictured) has denied he made a racist remark when calling Victorian sports minister John Eren a ‘soccer loving Turkish-born Mussie’.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Aurora shooting victim's families WALKED OUT on hearing James Holmes sentence
+      </title>
+<description>
+	James Holmes will spend the rest of his life in prison after at least one juror balked at the possibility of sentencing him to death for the massacre.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Auschwitz to a British auction house and how a family took on Nazi Art Masters
+      </title>
+<description>
+	After his father's death, SIMON GOODMAN and his brother vowed to continue his battle to recover some of the artwork looted from their family by the Nazis.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sunbathers watch as rubber dinghy full of migrants arrive in Greece
+      </title>
+<description>
+	Stretched on their beach towels and enjoying the blazing sunshine, the tourists seem unfazed by the dark green dingy, crammed full with people as it slowly approached the shore of Kos, Greece
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Australia 27-19 New Zealand: Wallabies seal Rugby Championship with spirited victory against the All Blacks
+      </title>
+<description>
+	Scrumhalf Nic White came off the bench to score 10 points in the last 11 minutes and give Australia victory over New Zealand and a first Rugby Championship title on Saturday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pavarotti couldn’t get enough of it, Joan Collins honeymooned there… but you don't need to be a millionaire celebrity to holiday at the private island of Pangkor Laut
+      </title>
+<description>
+	Pangkor Laut has long been a favourite holiday haunt of celebrities. And it has become more accessible to Brits thanks to British Airways' new daily flights to Malaysia.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Couple's 1st dance begins to Justin Timberlake before busting out 6-minute routine
+      </title>
+<description>
+	Hollie and Dave Smith shunned the traditional slow, romantic first dance in favour of an all-singing, all-dancing routine, which the British couple choreographed for their special day.
+      </description>
+<sentiment></sentiment>
+</item>

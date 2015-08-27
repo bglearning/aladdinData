@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>“Chicken Lady” Found Courage To Ask For Leftovers, Still Feeding Homeless</title>
+<description>For Amy Murphy, the hardest part of feeding the homeless was working up the nerve to ask a restaurant for leftovers. After that, finding the courage to wear a chicken hat in public every day was a piece of cake. The people in Greensboro, North Carolina know Murphy as the 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>UPS Delivers Big Cut in Greenhouse Gases with 46M Gallon Renewable Diesel Deal</title>
+<description>United Parcel Service (UPS) has committed to buying 46 million gallons of renewable diesel made from waste oils and animal fats, delivering on its promise to cut petroleum-based fuel use by 12% in the next two years. Renewable diesel produces up to 90% less greenhouse gas emissions than conventional diesel. 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Trophy-Hunted Lion’s Tragedy Leads to Animal Rights Triumphs</title>
+<description>On July 2, Cecil, a 13-year-old male Southwest African lion, was killed in a hunting expedition in Zimbabwe. A main attraction at the Hwange National Park, Cecil was shot with a cross bow by an American dentist who was led by a licensed local game-hunter. Whether he believed he had the proper 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Skyrocketing Donations Save the First Spacesuit Worn on the Moon</title>
+<description>When the Smithsonian Institution took the small step of launching a Kickstarter campaign to save the spacesuit Neil Armstrong wore on the first moonwalk, there was a giant leap of donations. The museum reached its half-million dollar goal to “Reboot the Suit” in just five days — so it raised 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Adorable: Bride Has 89-year-old Grandmother as One of Her Bridesmaids</title>
+<description>At Christine Quinn’s Pennsylvania wedding in May, one of her bridesmaids was her 89-year-old grandmother. Nana Betty was hesitant at first, worried that she wasn’t as “young and pretty” as the other bridesmaids—but the sassy senior happily donned the same dress as the other ladies in the bridal party–and even joined 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Homeless Shelter’s 80-Bed Rooftop Garden Cultivates Fresh Food and Job Skills</title>
+<description>Shelter residents are harvesting organic produce to nourish themselves while growing their skills for an eventual return to the workforce. The Metro Atlanta Task Force for the Homeless started its rooftop garden in 2009 to teach homeless people about urban farming and organic food production. Now the gardeners harvest from 80 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Boxing Champ Helps 4-yo “Get Back Up” After iPad is Snatched From His Little Hands</title>
+<description>After a four-year-old lost his iPad to a thief, he soon discovered that he had a former boxing champion in his corner. When Howard Davis, Jr. and his wife saw the video of a boy in Tamarac, Florida, getting the gadget snatched from his hands, they decided to stop by to provide relief, and a little 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Child Refugee From War Torn Somalia Goes Back to Run For President</title>
+<description>After fleeing her homeland almost 25 years ago, Fadumo Dayib has decided she wants to be president of Somalia. “I’m generally an optimist,”  Ms. Dayib told Good News Network. She certainly needs to be, since she’s the first female candidate in the nation and going up against some fiery opponents in a male-dominated country. 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Balloon Released at Gravesite Flies 25 Miles, Straight Home to Family</title>
+<description>On her first Father’s Day without her dad, 13-year-old Saige Seibold and her mother Sandy decided to “send a message to Heaven.” They were stunned by the sudden reply. John Seibold had passed away just a month earlier, and his wife and daughter (pictured left) visited his grave to release 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Policeman Risks Spraying to Save Skunk From Yogurt Can Situation</title>
+<description>Caught on cop cam: officer risks the wrath of a scared skunk to help free him from a yogurt container. While Rochester, Michigan Officer Merlin Taylor was on patrol, his squad car pulled up near a skunk running in circles with his head stuck in a yogurt container. Poor little guy—he 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>5-yr Study Reveals Why Ovarian Cancer Recurs and How to Stop It</title>
+<description>Scientists have finally discovered why ovarian cancer frequently comes back after patients receive chemotherapy—and they’ve also found a way to potentially eliminate the recurrence rate for half of patients who have the disease. A five-year study at the University of California at Los Angeles found that coupling chemotherapy with an experimental drug called 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Fanny Packs Are In! “Hip Appeal” Offers Discrete Storage With Style</title>
+<description>According to Cosmopolitan’s August issue, Fanny Packs are, once again, the “in” thing. This is great news for GNN&#8217;s founder, Geri, who loved hers back in the day. But recently, long since having ditched her clunky fanny pack, she found herself headed to an all-day concert festival and needed to literally go buy pants just for 
+</description>
+<sentiment>positive</sentiment>
+</item>
+</news>

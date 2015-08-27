@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<news>
+<item>
+<title>Supreme Court to consider auctioning off Sahara properties</title>
+<description>The group has been trying to raise funds against its properties since the arrest of Roy in March 2014 after Sahara failed to comply with an earlier court order to refund money it had raised from millions of investors by selling them the bonds.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>DoT bans 5 websites that don’t even show porn</title>
+<description>Comedy websites like CollegeHumor, 9Gag.tv, Barstool Sports, and ShitBrix, along with content aggregator PopURLs, have been blocked by DoT.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Govt signs historic peace pact with NSCN(I-M)</title>
+<description>The government has singned a historic peace accord with Nagaland's insurgent group Nationalist Socialist Council of Nagaland (Isak-Muivah) on Monday.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Pak's Mohajir leader asks US, India for rescue</title>
+<description>The leader of Pakistan’s Mohajir community centered in Karachi has asked his followers to seek intervention of the United Nations, NATO, United States, and even India, to save the ethnic group from persecution by Pakistan’s Punjabi-dominated military.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Modi government makes a U-turn on land bill</title>
+<description>In a climbdown, BJP has agreed to bring back the key provisions of UPA's land law including the ones on consent clause and social impact assessment.
+</description>
+<sentiment>undefined</sentiment>
+</item>
+</news>

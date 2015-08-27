@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<news>
+<item>
+<title>
+	Prince Harry joins war on poachers at Crocodile River in Kruger Park
+      </title>
+<description>
+	Prince Harry is at the front line of a bloody war against rhino poachers, joining heavily armed forces battling gangs of criminals wielding rifles and machetes.
+      </description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+	Richard Branson and how his mother Eve Branson brought him up
+      </title>
+<description>
+	Eve Branson tells AMY OLIVER about raising her 'absolutely impossible' son and reveals the truth about being 'saved' by Kate Winslet from a raging inferno on Necker Island in 2011.
+      </description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+	Eric Clapton's rift with daughter Ruth who tweeted that he dressed up as Kermit
+      </title>
+<description>
+	The guitarist has become secretly estranged from his daughter Ruth in a bitter rift that threatens to tear the family apart, with sources revealing the cause of the row as her tweets.
+      </description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+	Corrections officer Michael O'Neill had white supremacist materials in parent's garage
+      </title>
+<description>
+	Michael O'Neill, 45, had Nazi symbols, Confederate flag memorabilia and Ku Klux Klan posters hanging up when he blew off his leg with an explosive in a garage in Wheatland, New York, last month.
+      </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+	Joe Biden will spend week-long retreat deciding whether to run for President
+      </title>
+<description>
+	Vice President Joe Biden and his wife are retreating from Washington for a week in South Carolina with little on their schedule but a momentous decision to make: whether he should run for president.
+      </description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+	American soldier dies in attack on NATO base in Afghanistan
+      </title>
+<description>
+	The soldier was killed along with eight local contractors at Camp Integrity in Kabul - just one of three attacks on the city by insurgents in less than 24 hours. More than 355 civilians were injured.
+      </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+	Ex-Soviet tank commander Irek Hamidullin found guilty of Taliban terror charges in USA
+      </title>
+<description>
+	A former Soviet army
+officer accused of being a Taliban fighter has been found guilty of
+terrorism charges by a federal jury in Richmond,
+Virginia, a court official said yesterday.
+      </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+	NYC fired dead worker Geoffrey Toliver because he missed 18 months of work
+      </title>
+<description>
+	Social services worker Geoffrey Toliver, 65, died in December - 13 months after stopping work due to his illness. The Human Resources Administration said it tried to reach him for a year.
+      </description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>
+	Incredible aerial pictures of the worlds greatest cities and sights
+      </title>
+<description>
+	The images were taken by a group of Russian photographers, who travel the world snapping its most wondrous sights from helicopters, planes, hot air balloons and radio-controlled devices.
+      </description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+	Sunbathers watch as rubber dinghy full of migrants arrive in Greece
+      </title>
+<description>
+	Stretched on their beach towels and enjoying the blazing sunshine, the tourists seem unfazed by the dark green dingy, crammed full with people as it slowly approached the shore of Kos, Greece
+      </description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+	Five women beaten to death in rural India accused of being witches
+      </title>
+<description>
+	The attackers used sticks, iron rods and knives in Kinjia village, near the Jharkhand state capital Ranchi. The women's bodies were wrapped in plastic bags (pictured).
+      </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+	Over 100 former Saddam Hussein-era officers make up ISIS leadership
+      </title>
+<description>
+	Once part of one of the most brutal dictator's army in the Middle East, over 100 former members of Saddam Hussein's military and intelligence officers are now part of ISIS in Iraq and Syria.
+      </description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+	Attorneys say prosecutors hid evidence in Freddie Gray case
+      </title>
+<description>
+	Lawyers for the six Baltimore officers charged with various counts for the death of Gray, 25, claim he was involved in 'crash-for-cash' schemes, including one that required medical attention.
+      </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+	Verizon ditches two-year contracts in favor of month-by-month billing for cellphones...but will it end up costing more?
+      </title>
+<description>
+	The changes to both its device data plans and its smartphone purchase options go into effect on August 13 and Verizon hopes that the move will simplify things.
+      </description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+	MoD scientists tested anthrax and the PLAGUE on soldiers and public
+      </title>
+<description>
+	Over the course of half a century, the Ministry of Defence carried out a series of shocking experiments on unwitting volunteers. A new book exposes the grim reality of the human 'guinea pigs'.
+      </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+	Billionaire Dougherty Novella family 'shocked' at son who 'killed partner in sex game'
+      </title>
+<description>
+	The billionaire Dougherty Novella family, one of Guatemala's richest clans, told Mail Online they are 'shocked' that relative Diego Dougherty, 41, has been accused of killing girlfriend Gabriela Kabrins.
+      </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+	Texas officer Brad Miller in fatally shoots unarmed Christian Taylor in Arlington
+      </title>
+<description>
+	Christian Taylor was killed by Officer Brad Miller at the Classic Buick GMC dealership in Arlington, Texas early Friday morning. Police said they were responding to a burglary in progress.
+      </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+	Parisians face baguette shortage after change to French law
+      </title>
+<description>
+	For first time since the French Revolution bakers in the capital, like this one in Montmartre, can close when they want to after a 1790 law was scrapped as part of a government drive to cut red tape.
+      </description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+	Fireman the Chihuahua puppy finds new home with young burn victim girl 
+      </title>
+<description>
+	The six-month-old puppy, Fireman, who also responds to Buddy, was adopted by 12-year-old Chloe Levenson last week, who also suffered from burns following an incident as baby.
+      </description>
+<sentiment>positive</sentiment>
+</item>
+</news>

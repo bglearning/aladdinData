@@ -1,0 +1,310 @@
+<item>
+<title>IAAF 'suppressed' doping study</title>
+<description>A study which found a third of top athletes admitted using banned performance-enhancing techniques has allegedly been suppressed by the IAAF.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>China orders evacuation of blast area</title>
+<description>The Chinese authorities order the evacuation of residents within a 3km radius of the Tianjin blast site as sodium cyanide is confirmed nearby.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Baghdad hit by new spate of bombs</title>
+<description>At least 20 people are killed and many others injured in a fresh wave of bomb attacks in and around the Iraqi capital, Baghdad.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Ex-Pakistan intelligence chief dies</title>
+<description>Hamid Gul, a former chief of Pakistan's powerful military intelligence (ISI) who was known for his hardline Islamist views, dies aged 79.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Clinton hits back at Bush over Iraq</title>
+<description>Democratic presidential hopeful Hilary Clinton hits back at one of her Republican rivals, Jeb Bush, over who is responsible for instability in Iraq.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Biden calls US attacker 'jihadist'</title>
+<description>US Vice-President Joe Biden says the Chattanooga shooting was the work of a "perverted jihadist", despite no official determination of motive.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Migrants die in boat's hold off Libya</title>
+<description>At least 40 migrants are found to have died in the hold of a crowded fishing boat intercepted off the Libyan coast, the Italian navy says.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Japan emperor 'remorseful' over WW2</title>
+<description>Japanese Emperor Akihito expresses "deep remorse" over Japan's role in World War Two on the 70th anniversary of the end of the conflict.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Lebanon arrests wanted radical cleric</title>
+<description>Lebanese fugitive Sunni cleric Ahmad al-Assir is detained at Beirut airport while trying to leave the country, officials say.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Computer glitch grounds US flights</title>
+<description>Thousands of travellers are delayed after a technical glitch grounds flights into and out of New York and Washington.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Ex-army chief shot dead in Burundi</title>
+<description>The former head of Burundi's army has been shot dead outside his home in the capital Bujumbura.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Minister resigns over BBC interview</title>
+<description>Pakistani minister Mushahidullah Khan resigns after an interview with BBC Urdu in which he made allegations against a former intelligence chief.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Man found alive near China blast site</title>
+<description>A man has been found alive by Chinese rescuers, just 50 metres from the epicentre of the Tianjin blast.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Tianjin blasts: 'It's like a ghost town'</title>
+<description>Mechanical engineer Roy Keld goes back into the exclusion zone in China's Tianjin and describes it as a "ghost town".</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Vienna hotel run by refugees</title>
+<description>A new hotel has opened in Vienna - run mainly by refugees.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Brazil leader's crisis in six phrases</title>
+<description>President Dilma Rousseff is facing her lowest rate of approval in her time in office. This is a glossary of commonly used words</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Migrants 'overcome by diesel fumes'</title>
+<description>At least 40 migrants have died in an overcrowded boat in the Mediterranean, the Italian navy has said.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Flypast marks VJ Day 70th anniversary</title>
+<description>A flypast over London's Horse Guards Parade to mark the 70th anniversary of VJ Day.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Anti-Japan protests on WW2 anniversary</title>
+<description>Protesters in South Korea have burned anti-Japan placards outside the Japanese embassy in Seoul, on the 70th anniversary of Japan's surrender in World War Two.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: NY manhole explodes on busy street</title>
+<description>Dramatic footage has emerged of manhole exploding on a busy street in Manhattan.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Fresh push to end Syria crisis</title>
+<description>A flurry of talks between key powers appears to be a concerted effort to end the diplomatic deadlock over the conflict, writes Bridget Kendall.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>US and Cuba seal 'irreversible' change</title>
+<description>The reopening of the US embassy in Cuba was a moment in history that few thought they would witness, writes Barbara Plett Usher.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>South Sudan: Obstacles to a lasting peace</title>
+<description>As a deadline for a peace deal nears, there remain many obstacles to a lasting settlement, as James Copnall explains.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Potent chemicals in Tianjin blasts</title>
+<description>At least four dangerous chemicals were stored at Tianjin port - how dangerous were they, and did they cause the explosions?</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Homer's 15-hour poem performed</title>
+<description>A 15-hour performance of Homer's epic poem The Iliad is performed in London by a cast of 60.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Apple car clues emerge from letter</title>
+<description>Correspondence between Apple and an autonomous driving test site reveal nuggets of car plans.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>IMF calls for Greek debt relief</title>
+<description>The International Monetary Fund calls for Greece to be given "significant debt relief" following the approval of a new bailout deal by eurozone ministers.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>'Flash crash' trader freed on bail</title>
+<description>A UK financial trader accused of contributing to the 2010 US "flash crash" is freed after his bail conditions were changed.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Samsung unveils two big smartphones</title>
+<description>Samsung unveils two new large smartphones, but causes surprise by deciding not to sell one of them - the Galaxy Note 5 - in Europe.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Major blow for US film download case</title>
+<description>An Australian court rules a US company must pay a huge bond if it wants the details of Australians who illegally downloaded the film Dallas Buyers Club.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Cilla 'house burglary plot foiled'</title>
+<description>Cilla Black's son reveals a suspected plot to burgle the entertainer's home has been foiled as a coroner rules she died accidentally.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Toy Story 4 to include love story</title>
+<description>The announcement was made at Speaking at Disney's D23 conference.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Young 'alien Jupiter' discovered</title>
+<description>A planet 100 light-years away resembles a young version of Jupiter, astronomers say.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Global 'food shocks' risk increasing</title>
+<description>Climate change is increasing the risk of severe 'food shocks' where crops fail and prices of staples rise rapidly.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Cut the fat to lose weight - study</title>
+<description>Cutting fat out of your diet leads to more fat loss than cutting out the carbs, a US National Institutes of Health study shows.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Music during surgery 'reduces pain'</title>
+<description>Listening to music before, during and after an operation can help reduce pain, scientists who have conducted a large review of studies say.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Day leads from Spieth at US PGA</title>
+<description>Australia's Jason Day goes into the final day of the US PGA Championship with a two-shot lead over American Jordan Spieth.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Teenager Bencic upsets Williams</title>
+<description>Swiss teenager Belinda Bencic beats world number one Serena Williams to reach the Rogers Cup final in Toronto.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>The grannies who had never seen the sea</title>
+<description>The grannies who sent 200 cards on their first ever holiday</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>The Sanders brothers: A tale of two underdogs</title>
+<description>The brothers who fight political battles they can't win</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Joy as Ebola village quarantine lifted</title>
+<description>A village in Sierra Leone becomes one of the last areas in the country to lift an Ebola quarantine, releasing more than 500 people from isolation.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Nigerians mourn revered monarch</title>
+<description>A revered monarch in south-west Nigeria, the Ooni of Ife, has been buried after thousands attended his funeral, a mourner tells the BBC.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>McCaw sets record as All Blacks win</title>
+<description>Richie McCaw becomes the most capped player in Test history as New Zealand beat Australia to the Bledisloe Cup.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Bangladesh blogger killing: Two held</title>
+<description>Bangladesh police arrest two suspected members of a banned Islamist group over the killing of atheist blogger Niloy Neel.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Anti-Nazi couple's barn burned down</title>
+<description>A couple opposed to neo-Nazis in Jamel - an east German village - get police protection after fire gutted their barn.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Greece ship to house Kos migrants</title>
+<description>A Greek ship which is to be used as a registration and accommodation centre in the current migrant crisis arrives at the island of Kos.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>US flag raised over Cuba embassy</title>
+<description>John Kerry, the first US Secretary of State to visit Cuba in 70 years, reopens his country's embassy in Havana, decades after it closed.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Gunmen kill 18 in Brazil's Sao Paulo</title>
+<description>Gunmen kill at least 18 people in a series of overnight attacks on the outskirts of Brazil's largest city, Sao Paulo.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>IS leader 'raped US hostage Mueller'</title>
+<description>An American aid worker, killed in February while held hostage by Islamic State in Syria, was sexually abused by the group's top leader, US officials tell ABC news.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>IS battles militias in Libya's Sirte</title>
+<description>At least 25 people have been killed in fighting between Islamic State and rival Islamist group backed by armed civilians in the Libyan city of Sirte.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Red Sox manager says he has cancer</title>
+<description>Boston Red Sox manager John Farrell has been diagnosed with stage-one lymphoma, forcing him to go on medical leave for the rest of the season.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>First openly gay NFL player leaves</title>
+<description>Michael Sam, the first openly gay NFL player, steps away from the sport because he is concerned about his mental health.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Your pictures: Summer</title>
+<description>Readers' photographs on the theme of summer.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Week in pictures: 8-14 August 2015</title>
+<description>A selection of the best news photographs from around the world taken over the past week.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Women who married the enemy</title>
+<description>The Japanese women who married the enemy</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Waiting for the ship that could save a man's life</title>
+<description>Waiting for the ship that could save a man's life</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Why Greece and the eurozone aren't playing games</title>
+<description>Why Greece and the eurozone aren't playing games</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Showing off the real Jamaica through Bob Marley shooting</title>
+<description>Author uses Marley shooting to explore turbulent island politics</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Montserrat: Living with a volcano</title>
+<description>Montserrat's inhabitants on life with a volcano</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Weekend Edition: The week's best reads</title>
+<description>The week's best reads</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: The abs that won the Chinese internet - and more trends of the week</title>
+<description>The stomach that became a meme - and more trends</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Go Figure: The week in numbers</title>
+<description>The big numbers from the week's news, visualised</description>
+<sentiment></sentiment>
+</item>

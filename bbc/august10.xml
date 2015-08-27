@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  
+  <channel> 
+    <title>BBC News - Home</title>  
+    <link>http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+    <description>The latest stories from the Home section of the BBC News web site.</description>  
+    <language>en-gb</language>  
+    <lastBuildDate>Mon, 10 Aug 2015 03:00:02 GMT</lastBuildDate>  
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>  
+    <image> 
+      <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>  
+      <title>BBC News - Home</title>  
+      <link>http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <width>120</width>  
+      <height>60</height> 
+    </image>  
+    <ttl>15</ttl>  
+    <atom:link href="http://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>  
+    <item> 
+      <title>Activist for Mexico's missing killed</title>  
+      <description>A leading Mexican activist who helped families search for missing relatives, including 43 students who disappeared last year, is killed.</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-33843774#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-33843774</guid>  
+      <pubDate>Mon, 10 Aug 2015 01:28:21 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>PKK leader says Turkey protecting IS</title>  
+      <description>Cemil Bayik, the man currently leading the Kurdistan Workers' Party, tells the BBC he believes Turkey is trying to protect the Islamic State group.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33818282#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33818282</guid>  
+      <pubDate>Mon, 10 Aug 2015 02:08:41 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Six children shot dead in Texas home</title>  
+      <description>Six children and two adults are found handcuffed and fatally shot in the head in a Texas home after the arrest of a man who exchanged fire with police.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33840741#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33840741</guid>  
+      <pubDate>Mon, 10 Aug 2015 02:04:11 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Bangladesh 'tiger poachers' shot dead</title>  
+      <description>Six suspected tiger poachers are shot dead in a gunfight with Bangladeshi police in the world's largest mangrove forest, the Sundarbans.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33842615#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33842615</guid>  
+      <pubDate>Sun, 09 Aug 2015 21:10:28 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Australia not curbing Vegemite sales</title>  
+      <description>Australia's PM Tony Abbott dismisses the idea of banning Vegemite in remote communities amid reports it was being turned into alcohol.</description>  
+      <link>http://www.bbc.co.uk/news/world-australia-33843910#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-australia-33843910</guid>  
+      <pubDate>Mon, 10 Aug 2015 02:21:35 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Spain 'violated' Gibraltar's waters</title>  
+      <description>Spanish vessels and helicopters committed a "clear violation of international law" after entering UK waters in Gibraltar, the Foreign Office says.</description>  
+      <link>http://www.bbc.co.uk/news/uk-33842868#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-33842868</guid>  
+      <pubDate>Sun, 09 Aug 2015 17:54:52 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/14EF3/production/_84774758_84773853.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/17603/production/_84774759_84773853.jpg"/> 
+    </item>  
+    <item> 
+      <title>S Korea blames North for mine blast</title>  
+      <description>South Korea warns the North of a "pitiless penalty" for North Korea after blaming it for a landmine blast in the demilitarized zone.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33844078#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33844078</guid>  
+      <pubDate>Mon, 10 Aug 2015 02:52:14 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Pakistan probes child abuse scandal</title>  
+      <description>Seven people are arrested in eastern Pakistan on suspicion of involvement in a widespread child sexual abuse and extortion scandal.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33843765#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33843765</guid>  
+      <pubDate>Sun, 09 Aug 2015 22:30:14 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Hertha Berlin team bus shot at</title>  
+      <description>Hertha Berlin say their team bus was shot at by a motorcyclist in north-west Germany, on the eve of a German Cup match.</description>  
+      <link>http://www.bbc.co.uk/sport/0/football/33843510</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/football/33843510</guid>  
+      <pubDate>Sun, 09 Aug 2015 19:40:42 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/A575/production/_84775324_herthaberlin.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/D455/production/_84775345_herthaberlin.jpg"/> 
+    </item>  
+    <item> 
+      <title>Ferguson marks Michael Brown killing</title>  
+      <description>Hundreds pause in silence in the US town of Ferguson to mark a year since the shooting of Michael Brown, a case that sparked angry protests.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33839261#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33839261</guid>  
+      <pubDate>Sun, 09 Aug 2015 20:54:50 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Eleven dead in India temple stampede</title>  
+      <description>At least 11 people are killed and 20 injured in a stampede at a temple in the eastern Indian state of Jharkhand, officials say.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-india-33844083#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-india-33844083</guid>  
+      <pubDate>Mon, 10 Aug 2015 02:20:47 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/F0E3/production/_84776616_indiajhark4640815.png"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/117F3/production/_84776617_indiajhark4640815.png"/> 
+    </item>  
+    <item> 
+      <title>NFL star and broadcaster Gifford dies</title>  
+      <description>Frank Gifford - a star American football player and later a broadcaster who helped popularise the sport - dies aged 84.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33843768#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33843768</guid>  
+      <pubDate>Mon, 10 Aug 2015 02:56:42 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>VIDEO: PKK leader: 'Turkey is protecting IS'</title>  
+      <description>The man currently leading the PKK says it is still open to negotiations with the the Turkish government if a ceasefire is declared.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33826319#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33826319</guid>  
+      <pubDate>Sun, 09 Aug 2015 23:04:10 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/1346/production/_84743940_84743935.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/3A56/production/_84743941_84743935.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Migrant life on the streets of Kos</title>  
+      <description>Local Greek islanders say they are being overwhelmed by the number of migrants arriving from Africa.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33843918#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33843918</guid>  
+      <pubDate>Sun, 09 Aug 2015 23:10:06 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/B0D3/production/_84776254_84776226.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/D7E3/production/_84776255_84776226.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Eight dead in Texas home shooting</title>  
+      <description>A family of eight people, including six children, have been found shot dead inside a house in Texas.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33843921#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33843921</guid>  
+      <pubDate>Mon, 10 Aug 2015 01:25:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/5827/production/_84776522_84776464.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/7F37/production/_84776523_84776464.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Singapore marks 50 years of independence</title>  
+      <description>Singapore holds nationwide celebrations to mark 50 years since becoming an independent state.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33840058#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33840058</guid>  
+      <pubDate>Sun, 09 Aug 2015 19:45:00 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/15DAD/production/_84771598_hi028498208.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/184BD/production/_84771599_hi028498208.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Huge hailstones shatter plane windscreen</title>  
+      <description>A Delta Airlines plane was forced to make an emergency landing after hail cracked the windscreen and damaged the nose cone.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33840279#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33840279</guid>  
+      <pubDate>Sun, 09 Aug 2015 10:35:45 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/0060/production/_84769000_84768995.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/2770/production/_84769001_84768995.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Ferguson remembers Michael Brown</title>  
+      <description>Hundreds of people gather in the US town of Ferguson to mark the shooting of unarmed black teenager Michael Brown by a white police officer a year ago.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33842246#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33842246</guid>  
+      <pubDate>Sun, 09 Aug 2015 19:36:41 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/12DC9/production/_84775277_84774605.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/154D9/production/_84775278_84774605.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Typhoon Soudelor tears through China</title>  
+      <description>At least nine people have died in south-eastern China after a powerful typhoon caused floods and mudslides.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33833531#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33833531</guid>  
+      <pubDate>Sun, 09 Aug 2015 13:42:13 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/11EA0/production/_84767337_84767329.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/145B0/production/_84767338_84767329.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Trump: 'Nothing to apologise for'</title>  
+      <description>Republican presidential candidate Donald Trump defends a comment he made about a Fox News presenter during a TV debate.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33842199#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33842199</guid>  
+      <pubDate>Sun, 09 Aug 2015 15:53:09 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/1FC9/production/_84773180_hi028495109.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/46D9/production/_84773181_hi028495109.jpg"/> 
+    </item>  
+    <item> 
+      <title>How does Russia view the West?</title>  
+      <description>Where does Russia stand vis-a-vis the West? Bridget Kendall speaks to a Russian former general, whose assessment is both reassuring and alarming, she says.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33821589#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33821589</guid>  
+      <pubDate>Mon, 10 Aug 2015 00:15:26 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/13488/production/_84748987_028446129-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/15B98/production/_84748988_028446129-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Can South Korea's family firms maintain their grip?</title>  
+      <description>South Korea's system of big family firms - the chaebols - is once again in the spotlight, says Stephen Evans.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33784483#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33784483</guid>  
+      <pubDate>Mon, 10 Aug 2015 00:26:33 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/B298/production/_84702754_arest.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/D9A8/production/_84702755_arest.jpg"/> 
+    </item>  
+    <item> 
+      <title>What's behind Russia's actions in Georgia?</title>  
+      <description>Georgia has accused Russian troops of redrawing a section of its de facto border with South Ossetia - but what is behind Russia's actions?</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33675488#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33675488</guid>  
+      <pubDate>Mon, 10 Aug 2015 00:24:04 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/8019/production/_84539723_028166368-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/A729/production/_84539724_028166368-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Are hackers helping or harming us?</title>  
+      <description>Should we fear or respect the people that are increasingly finding flaws in the devices and gadgets all around us?</description>  
+      <link>http://www.bbc.co.uk/news/technology-33802343#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-33802343</guid>  
+      <pubDate>Thu, 06 Aug 2015 11:36:36 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/A71C/production/_84708724_hackerkeyboard.gif"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/CE2C/production/_84708725_hackerkeyboard.gif"/> 
+    </item>  
+    <item> 
+      <title>Australians eat 32kgs chocolate a year</title>  
+      <description>A new survey finds Australians are eating too much junk food and food portions that are too big.</description>  
+      <link>http://www.bbc.co.uk/news/world-australia-33843857#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-australia-33843857</guid>  
+      <pubDate>Mon, 10 Aug 2015 00:30:20 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Spanish resort fines 'beach hoggers'</title>  
+      <description>A resort in southern Spain is fining tourists who reserve their sunbathing spot by putting towels on the sand.</description>  
+      <link>http://www.bbc.co.uk/newsbeat/33840680#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/newsbeat/33840680</guid>  
+      <pubDate>Sun, 09 Aug 2015 10:25:12 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/1A1E/production/_84768660_thinkstock_sunlounger.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/8846/production/_84768843_thinkstock_sunlounger.jpg"/> 
+    </item>  
+    <item> 
+      <title>China's inflation rise misses target</title>  
+      <description>China's consumer inflation rate hit its highest level this year in July, edging up to 1.6% from 1.4% the month before, well below a government target of about 3%.</description>  
+      <link>http://www.bbc.co.uk/news/business-33840699#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-33840699</guid>  
+      <pubDate>Sun, 09 Aug 2015 10:04:45 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/9F52/production/_84768704_chinafoodforinflationstory.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/C662/production/_84768705_chinafoodforinflationstory.jpg"/> 
+    </item>  
+    <item> 
+      <title>Scotland to ban GM crop growing</title>  
+      <description>Scotland is to ban the growing of genetically modified crops, the country's rural affairs secretary announces.</description>  
+      <link>http://www.bbc.co.uk/news/uk-scotland-scotland-politics-33833958#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-scotland-scotland-politics-33833958</guid>  
+      <pubDate>Sun, 09 Aug 2015 08:31:06 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/DB01/production/_84756065__73571532_g2800382-genetically_modified_maize_field_trial-spl.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/10211/production/_84756066__73571532_g2800382-genetically_modified_maize_field_trial-spl.jpg"/> 
+    </item>  
+    <item> 
+      <title>Web's random numbers are too weak</title>  
+      <description>The data scrambling systems used by millions of web servers could be much weaker than they ought to be, say researchers.</description>  
+      <link>http://www.bbc.co.uk/news/technology-33839925#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-33839925</guid>  
+      <pubDate>Sun, 09 Aug 2015 03:04:22 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/B58C/production/_84767464_84767444.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/DC9C/production/_84767465_84767444.jpg"/> 
+    </item>  
+    <item> 
+      <title>'Biggest update' to fix Android bug</title>  
+      <description>Samsung, LG and Google pledge to provide monthly security updates for smartphones running the Android operating system.</description>  
+      <link>http://www.bbc.co.uk/news/technology-33794083#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-33794083</guid>  
+      <pubDate>Fri, 07 Aug 2015 11:47:08 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/4239/production/_84735961_gettyimages-124859508.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/6949/production/_84735962_gettyimages-124859508.jpg"/> 
+    </item>  
+    <item> 
+      <title>Cumberbatch asks fans not to film play</title>  
+      <description>Actor Benedict Cumberbatch pleads with fans outside the Barbican theatre in London not to film his performance of Hamlet.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-33841067#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-33841067</guid>  
+      <pubDate>Sun, 09 Aug 2015 11:48:59 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/80EF/production/_84770033_84769303.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/A7FF/production/_84770034_84769303.jpg"/> 
+    </item>  
+    <item> 
+      <title>Petition to boycott Stonewall movie</title>  
+      <description>A petition to boycott a new film that purports to tell the story of early days of the LGBT rights movement reaches more than 20,000 signatures.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-33840449#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-33840449</guid>  
+      <pubDate>Sun, 09 Aug 2015 12:07:36 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Fastest neutrino among new findings</title>  
+      <description>Physicists unveil a raft of new findings about neutrinos bombarding the Earth from above, below - and within.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-33787562#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-33787562</guid>  
+      <pubDate>Fri, 07 Aug 2015 14:59:05 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/0BD0/production/_84742030_icecube.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/32E0/production/_84742031_icecube.jpg"/> 
+    </item>  
+    <item> 
+      <title>Coasts 'final frontier' for study</title>  
+      <description>Archaeologists want the public's help as they attempt to tackle what they describe as the "final frontier" - England's coastline.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-33821094#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-33821094</guid>  
+      <pubDate>Fri, 07 Aug 2015 13:31:33 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/4D97/production/_84736891_5thewreckofthe1907sheratonsteamtrawler%2Cathunstanton%2Cnorfolk©citizan.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/74A7/production/_84736892_5thewreckofthe1907sheratonsteamtrawler%2Cathunstanton%2Cnorfolk©citizan.jpg"/> 
+    </item>  
+    <item> 
+      <title>Cancer survival 'lagging in England'</title>  
+      <description>England's track record for cancer survival remains poorer than other countries with similar health systems, a study suggests.</description>  
+      <link>http://www.bbc.co.uk/news/health-33772892#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-33772892</guid>  
+      <pubDate>Wed, 05 Aug 2015 11:27:38 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/14346/production/_84685728_tv010030535.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/16A56/production/_84685729_tv010030535.jpg"/> 
+    </item>  
+    <item> 
+      <title>Anti-thalidomide hero dies at 101</title>  
+      <description>Frances Oldham Kelsey, the Canadian doctor who played a central role in preventing thalidomide being distributed in the US, dies at 101.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33831451#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33831451</guid>  
+      <pubDate>Sat, 08 Aug 2015 00:49:08 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Wenger wants response to 'accident'</title>  
+      <description>Arsenal boss Arsene Wenger says his side will recover from the "nerves" of their opening-day loss to West Ham.</description>  
+      <link>http://www.bbc.co.uk/sport/0/football/33842630</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/football/33842630</guid>  
+      <pubDate>Sun, 09 Aug 2015 17:13:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/7D93/production/_84774123_wenger_ap.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/A4A3/production/_84774124_wenger_ap.jpg"/> 
+    </item>  
+    <item> 
+      <title>Lowry claims maiden American title</title>  
+      <description>Shane Lowry of Ireland claims the biggest win of his career with a two-shot victory at the WGC-Bridgestone Invitational in Ohio.</description>  
+      <link>http://www.bbc.co.uk/sport/0/golf/33843668</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/golf/33843668</guid>  
+      <pubDate>Sun, 09 Aug 2015 23:01:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/E337/production/_84776185_shane_lowry_trophy_getty.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/10A47/production/_84776186_shane_lowry_trophy_getty.jpg"/> 
+    </item>  
+    <item> 
+      <title>Meeting Mali's most dedicated postman</title>  
+      <description>The world's proudest postman - in the most unlikely country</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33808629#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33808629</guid>  
+      <pubDate>Sun, 09 Aug 2015 23:41:37 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Weeping for a lost generation</title>  
+      <description>Weeping for a lost generation with my friend's brother</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33817958#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33817958</guid>  
+      <pubDate>Sat, 08 Aug 2015 23:31:26 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Several dead as Mali siege ends</title>  
+      <description>Mali's security forces storm a hotel in the central town of Sevare, ending a deadly siege in which at least 13 people have been killed.</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-33833363#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-33833363</guid>  
+      <pubDate>Sun, 09 Aug 2015 17:56:22 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Rwanda soldier kills four colleagues</title>  
+      <description>A Rwandan peacekeeper in the Central African Republic has shot dead four colleagues before killing himself, Rwanda's Defence Ministry says.</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-33835991#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-33835991</guid>  
+      <pubDate>Sat, 08 Aug 2015 15:28:11 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Million affected by Myanmar flooding</title>  
+      <description>Nearly one million people have now been affected by flooding across Myanmar, says the government, with new warnings in place for the Irrawaddy Delta.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33844076#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33844076</guid>  
+      <pubDate>Mon, 10 Aug 2015 02:11:52 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Singapore celebrates 50th anniversary</title>  
+      <description>Singapore holds nationwide events and a military parade to mark 50 years since it became an independent nation.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33815132#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33815132</guid>  
+      <pubDate>Sun, 09 Aug 2015 13:33:19 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>OSCE cars torched in eastern Ukraine</title>  
+      <description>Four armoured vehicles belonging to the OSCE in rebel-held eastern Ukraine are destroyed in an apparent arson attack, the mission says.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33841003#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33841003</guid>  
+      <pubDate>Sun, 09 Aug 2015 15:28:25 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Migrant 'chaos' on Greek islands - UN</title>  
+      <description>The refugee crisis on three Greek islands is "total chaos", the UN refugee agency says, as Italian police arrest five in connection with Wednesday's drownings off Libya.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33818193#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33818193</guid>  
+      <pubDate>Fri, 07 Aug 2015 18:55:40 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Violence mars delayed Haiti poll</title>  
+      <description>Haitians vote in legislative elections that have been repeatedly postponed since 2011, amid sporadic violence and lengthy delays.</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-33839885#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-33839885</guid>  
+      <pubDate>Sun, 09 Aug 2015 20:04:49 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Rio Olympic water pollution protest</title>  
+      <description>A flotilla of more than 30 vessels cruises across Rio de Janeiro's Guanabara Bay to protest against water pollution a year before the 2016 Olympics.</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-33838578#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-33838578</guid>  
+      <pubDate>Sat, 08 Aug 2015 18:42:37 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Iraqi PM moves to tackle corruption</title>  
+      <description>Iraqi Prime Minister Haider al-Abadi unveils sweeping reforms aimed at cutting government costs and fighting corruption after protests.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-33840067#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-33840067</guid>  
+      <pubDate>Sun, 09 Aug 2015 11:23:41 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Israel holds more 'Jewish radicals'</title>  
+      <description>Israeli police arrest seven suspected Jewish radicals, amid a crackdown following a deadly arson attack in the West Bank.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-33840194#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-33840194</guid>  
+      <pubDate>Sun, 09 Aug 2015 14:42:21 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>'Women are tremendous' says Trump</title>  
+      <description>Republican presidential candidate Donald Trump defends his relations with women but stops short of apologising for attacking a Fox News journalist.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33841820#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33841820</guid>  
+      <pubDate>Sun, 09 Aug 2015 15:55:20 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>US cinema gunman spared death penalty</title>  
+      <description>A jury in the US state of Colorado spares gunman James Holmes the death penalty for killing 12 people at a cinema and he will serve life in jail without parole.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33825710#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33825710</guid>  
+      <pubDate>Sat, 08 Aug 2015 09:01:06 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>The Stilwell Road 70 years on</title>  
+      <description>Findlay Kember recounts his four-year documentation of The Stillwell Road.</description>  
+      <link>http://www.bbc.co.uk/news/in-pictures-33785650#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/in-pictures-33785650</guid>  
+      <pubDate>Mon, 10 Aug 2015 00:59:33 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/12036/production/_84728737_66aace2c-8d09-4624-b6c1-6a01586ea7c2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/14746/production/_84728738_66aace2c-8d09-4624-b6c1-6a01586ea7c2.jpg"/> 
+    </item>  
+    <item> 
+      <title>The Stilwell Road 70 years on</title>  
+      <description>Findlay Kember recounts his four-year documentation of The Stillwell Road.</description>  
+      <link>http://www.bbc.co.uk/news/in-pictures-33785650#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/in-pictures-33785650</guid>  
+      <pubDate>Mon, 10 Aug 2015 00:59:33 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/12036/production/_84728737_66aace2c-8d09-4624-b6c1-6a01586ea7c2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/14746/production/_84728738_66aace2c-8d09-4624-b6c1-6a01586ea7c2.jpg"/> 
+    </item>  
+    <item> 
+      <title>Alice in Sunderland - or Llandudno?</title>  
+      <description>Or Llandudno? Where has the best claim to be Wonderland?</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-33694931#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-33694931</guid>  
+      <pubDate>Mon, 10 Aug 2015 00:02:00 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/6474/production/_84661752_ac8ee7cf-3079-4008-869b-1771f98d6460.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/8B84/production/_84661753_ac8ee7cf-3079-4008-869b-1771f98d6460.jpg"/> 
+    </item>  
+    <item> 
+      <title>What do Kurds make of Turkey-PKK fighting?</title>  
+      <description>Turkey's Kurds tell how return to violence is affecting their lives</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33782428#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33782428</guid>  
+      <pubDate>Sun, 09 Aug 2015 23:20:52 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/8053/production/_84715823_haticegokhan.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/AB4B/production/_84715834_haticegokhan.jpg"/> 
+    </item>  
+    <item> 
+      <title>Straight Life: India's recovering drug addicts</title>  
+      <description>Indian drug addicts who have kicked the habit</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-india-33647423#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-india-33647423</guid>  
+      <pubDate>Mon, 10 Aug 2015 01:03:59 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Cuban internet delivered by hand</title>  
+      <description>How Cubans are getting around the lack of internet access</description>  
+      <link>http://www.bbc.co.uk/news/technology-33816655#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-33816655</guid>  
+      <pubDate>Sun, 09 Aug 2015 23:49:07 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/C552/production/_84741505_paquete1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/EC62/production/_84741506_paquete1.jpg"/> 
+    </item>  
+    <item> 
+      <title>‘I’m a professional cyberstalker'</title>  
+      <description>The man who targets foolish people - for their own good</description>  
+      <link>http://www.bbc.co.uk/news/technology-33833074#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-33833074</guid>  
+      <pubDate>Sun, 09 Aug 2015 23:38:28 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/2B7F/production/_84753111_84753098.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/528F/production/_84753112_84753098.jpg"/> 
+    </item>  
+    <item> 
+      <title>How far will India's dog-lovers go to save strays?</title>  
+      <description>How far are they going in the battle to save India's strays?</description>  
+      <link>http://www.bbc.co.uk/news/blogs-trending-33822511#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/blogs-trending-33822511</guid>  
+      <pubDate>Sun, 09 Aug 2015 23:52:46 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/142AC/production/_84740628_499efa6b-cf59-4592-b4b3-44b8eb3ffae6.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/169BC/production/_84740629_499efa6b-cf59-4592-b4b3-44b8eb3ffae6.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Australia's champion Flat White</title>  
+      <description>2015 World Barista Champion spills the beans</description>  
+      <link>http://www.bbc.co.uk/news/world-australia-33821126#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-australia-33821126</guid>  
+      <pubDate>Sun, 09 Aug 2015 19:05:32 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/A3C7/production/_84772914_84734032.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/CAD7/production/_84772915_84734032.jpg"/> 
+    </item>  
+    <item> 
+      <title>The city saved from the atomic bomb</title>  
+      <description>The man who saved Kyoto from the atomic bomb</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33755182#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33755182</guid>  
+      <pubDate>Sat, 08 Aug 2015 23:00:53 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>VIDEO: Kelly Osbourne's 'not racist' comment - and more trends of the week</title>  
+      <description>The 'not racist' comment - and more trends of the week</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33822523#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33822523</guid>  
+      <pubDate>Sun, 09 Aug 2015 00:01:40 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/9136/production/_84747173__84675630_hi027856505.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/B846/production/_84747174__84675630_hi027856505.jpg"/> 
+    </item> 
+  </channel> 
+</rss>

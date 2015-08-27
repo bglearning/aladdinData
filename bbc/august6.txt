@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Plane debris is from missing MH370</title>
+<description>An aircraft part found on Reunion Island was from missing Flight MH370, says Malaysia PM Najib Razak, though investigators stopped short of full confirmation.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Hiroshima marks 70 years since bomb</title>
+<description>The Japanese city of Hiroshima marks the 70th anniversary of the dropping of the first atomic bomb by a US warplane, which killed 140,000 people.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>US fighter plan in Syria criticised</title>
+<description>A US plan to build a moderate fighting force in Syria is criticised by a key commander trained under the programme.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Russia and France agree Mistral deal</title>
+<description>A deal is agreed by which Russia will receive compensation for France's decision last year to cancel the sale of two warships, both countries say.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Corrupt Brazilian executives jailed</title>
+<description>A judge in Brazil sentences two former executives of construction giant OAS to 16 years in jail over corruption at the state-owned oil company.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Suspect dead after US cinema attack</title>
+<description>A man is killed by police after attacking cinemagoers with pepper spray and an axe in Nashville, Tennessee.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Fears over missing migrants in Med</title>
+<description>Rescuers search for survivors after a boat carrying as many as 600 migrants capsizes in the Mediterranean off Libya's coast.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>US 'witchcraft' murders investigated</title>
+<description>Florida authorities are calling a recent triple murder in Pensacola a "ritualistic killing" and believe the suspect had ties to witchcraft.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>No Iran deal is vote for war - Obama</title>
+<description>President Barack Obama continues his push to seal the Iran nuclear deal, framing a congressional vote on lifting sanctions as either a vote for war or for peace.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>UK police link Tunisia massacres</title>
+<description>There are "strong" links between June's Tunisia beach massacre and the killings at the Bardo Museum in the country's capital in March, British police say.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Last Madoff fraud defendant jailed</title>
+<description>The final defendant in the $68bn (£44bn) Bernard Madoff fraud case is jailed, marking the end of a six-year prosecution saga.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Lawyers eye Armstrong cancer records</title>
+<description>US lawyers seek medical records from Lance Armstrong's cancer treatment in 1996 to check if doctors knew he was doping.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Will MH370 flaperon reveal more clues?</title>
+<description>The BBC's Richard Westcott explains where a flaperon is found on a plane and outlines the implications that the discovery will have on the search for the rest of the missing MH370 plane.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Norway camp reopens after 2011 massacre</title>
+<description>Four years after Anders Behring Breivik shot dozens of teenagers dead, the Norwegian island of Utoeya is reopening for business this weekend as it hosts its first Labour youth camp since the massacre.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>'We're picking up bodies from water'</title>
+<description>Rescuers are searching for hundreds of migrants in the Mediterranean after a boat carrying as many as 600 people capsized off the coast of Libya.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>US rap duo reflect on Ferguson riots</title>
+<description>Acclaimed rap band Run The Jewels talk to the BBC about racism and why they think the Ferguson riots were important.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>A Hiroshima girl's story of survival</title>
+<description>Bun Hashizume was 14-years-old when a nuclear bomb was dropped on the city of Hiroshima, Japan, 70 years ago. She's been telling Newsround the story of her life before and after that devastating event.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Rio's Deodoro Olympics site takes shape</title>
+<description>Rio Olympics: Deodoro venues are said to be taking shape and on time</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Tribute to missing Freedive champion</title>
+<description>Freediver Stephan Whelan pays tribute to the achievements of Russian champion Natalia Molchanova, who is feared dead at sea.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Calais may continue to haunt Cameron's dreams</title>
+<description>There are no easy ways to address the Calais migrant crisis, says Mark Mardell.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Freedom of speech case outrages Germany</title>
+<description>A controversial case has tested the limits of freedom of speech in Germany - but left many questions unanswered, says Damien McGuinness.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Freediving: The lure of the deep</title>
+<description>A champion freediver is presumed dead after failing to resurface from a dive, but what is it that attracts a small group of people to test themselves against the deep?</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Could jet fly to New York in an hour?</title>
+<description>Airbus has had a patent approved for a super-powered jet but how realistic is it?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Ancient find baffles archaeologists</title>
+<description>Israeli archaeologists say they are trying to decode ancient inscriptions written in Hebrew discovered at a dig in Jerusalem.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>SA police 'find car stolen in 1993'</title>
+<description>A South African man tells a local newspaper how his car stolen 22 years ago has been found 'in mint condition' by the police.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Deepwater drill company gains $735m</title>
+<description>Transocean, one of the companies associated with BP's Deepwater Horizon oil well disaster, recovers $735m (£471m) in legal costs and insurance.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Markets on alert for Super Thursday</title>
+<description>Markets are on alert ahead of the UK's new economic touchstone, a Super Thursday of economic data as interest rate decisions are incorporated with the MPC meeting's minutes.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Apple Mac attacks are 'trivial'</title>
+<description>Creating malicious software that can attack Apple Mac computers is "trivial", a leading security researcher has claimed.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Facebook in video 'views' row</title>
+<description>Facebook defends the way it handles video content after criticism by a popular YouTube star.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Sky to air Scientology documentary</title>
+<description>Sky Atlantic will show a controversial documentary on Scientology, despite pressure from the church.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Dinklage voice replaced in video game</title>
+<description>Game of Thrones star Peter Dinklage is replaced as the voice of a computer in an video game after widespread criticism of his performance.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Fish 'at risk' to trawlers revealed</title>
+<description>Lab-based experiments produce the first evidence of the characteristics of individual fish that leave them at greater risk of getting caught.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Cancer survival 'lagging in England'</title>
+<description>England's track record for cancer survival remains poorer than other countries with similar health systems, a study suggests.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Operating room music 'a distraction'</title>
+<description>Playing music in the operating theatre can be disruptive and surgeons should think twice about pressing the play button, according to a small study.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Sudan clears pastors of spying</title>
+<description>A court in Sudan acquits two South Sudanese Christian pastors of spying charges, which could have carried the death penalty.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Shots fired at Wasim Akram's car</title>
+<description>Former cricket star Wasim Akram's car is shot at in Pakistan's commercial capital Karachi, media reports say, but he is unhurt.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>US drone strikes Syria from Turkey</title>
+<description>The US has carried out its first air strike on so-called Islamic State in Syria from a base in Turkey, a Pentagon spokesman has said.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Operation Storm marked 20 years on</title>
+<description>Croatia holds a military parade to celebrate the 20th anniversary of Operation Storm, while neighbouring Serbia mourns the victims.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Mexico seeks Espinosa murder suspects</title>
+<description>Mexican investigators release video surveillance footage of three suspects leaving the flat in which a photojournalist and four women were found murdered.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Whale led from Buenos Aires marina</title>
+<description>A whale that strayed into docklands in the Argentine capital Buenos Aires is led out and is heading towards the sea.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Drone delivers drugs to US prison</title>
+<description>Ohio officials are investigating after a drone dropped a package full of illegal drugs into a prison yard, sparking a fight over the contraband.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Brosnan had knife in hand luggage</title>
+<description>Former James Bond actor Pierce Brosnan is stopped by US airport security for carrying a knife in his hand luggage.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Revealing the horror of Stalin</title>
+<description>The book that made some communists doubt their faith</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Breaking the silence on Jewish suicide</title>
+<description>The couple who would not deny their sons' suicides</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Party girls and too much sex: Why some Indian men seek divorce</title>
+<description>Why some Indian men seek divorce</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The women who made the Iran deal happen</title>
+<description>The women who made the Iran deal happen</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>VIDEO: Jon Stewart prepares to sign off</title>
+<description>Jon Stewart fans face up to his imminent farewell</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>New clues in mystery girl found in Pakistan</title>
+<description>Geeta - and Bollywood film that may have helped trace her roots</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Could Singapore have become communist?</title>
+<description>Could Singapore have become a communist state?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>How an 'Indian worker slapped' shocked an Arab nation</title>
+<description>How an 'Indian worker slapped' shocked an Arab nation</description>
+<sentiment>article</sentiment>
+</item>
+</news>

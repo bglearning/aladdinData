@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<news>
+<item>
+<title>Patient dies during live demo surgery at AIIMS, sparks ethics row</title>
+<description>The death of a patient who was operated upon by a Japanese surgeon as part of a live surgery workshop at the All India Institute of Medical Sciences (AIIMS) in Delhi last week has rekindled a debate on the ethics of organizing such workshops and the rights of patients on whom the procedures are carried out.
+</description>
+
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>70 Vyapam accused seek Prez nod to kill selves</title>
+<description>Seventy doctors and medical students accused in the Vyapam scam and lodged in Gwalior Central Jail have in a letter requested the President to allow them to commit suicide, saying they have been behind bars for long and their “future is dark”. They alleged they are victims of “judicial disparity”.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Govt promises organ donation policy in a week</title>
+<description>Calling for a mass movement to promote organ donations across the country and save lives, Union health minister J P Nadda on Saturday said the government would take steps within a week to develop a policy mechanism and address the institutional gaps.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>OBC MPs likely to stage stir on creamy layer row</title>
+<description>Should MPs and MLAs be part of the ‘creamy layer’ ineligible for reservation benefits?
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Conviction rate up, Kerala tops with over 77%</title>
+<description>Kerala tops with over 77% convictions, Bihar worst with just 10%.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+</news>

@@ -1,0 +1,4500 @@
+<item>
+<title>
+	Gwyneth Paltrow poses for selfie with Iron Man co-star Robert Downey Jr during beach picnic
+      </title>
+<description>
+	They've defeated Iron Monger, Whiplash and The Mandarin together. But on Sunday Gwyneth Paltrow and Robert Downey Jr teamed up for a far more relaxing affair on the beach
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Raheem Sterling models a pair of pink 'RS7' boots similar to Cristiano Ronaldo's famous logo in Manchester City's win over Chelsea
+      </title>
+<description>
+	Raheem Sterling has settled quickly into life at Manchester City, and has already got used to his new number, trademarking his own version of Cristiano Ronaldo's famous 'CR7' tag.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Oh, brother! Chris and Liam Hemsworth compete for coveted surfboard prize at Teen Choice Awards
+      </title>
+<description>
+	The Teen Choice Awards have left voters with one of the most impossible decisions- which Hemsworth is more deserving of a surfboard.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tick of It's Chris Langham says: 'My ego led me to download child pornography'
+      </title>
+<description>
+	The 66-year-old father-of-five has revealed that his ‘arrogance’ and ‘ego’ led him to look at the videos, which he still maintains was research for a comedy series he was writing.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	MARTIN KEOWN: Jose Mourinho carried out a very public dethroning of John Terry, the Chelsea man will feel unfairly singled out
+      </title>
+<description>
+	MARTIN KEOWN: There always seems to be a reason behind every Jose Mourinho decision. As a manager he is more revolution than evolution so to take off John Terry was a big statement.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Elizabeth Olsen displays her toned legs at Jennifer Klein's summer party
+      </title>
+<description>
+	With two fashion designer sisters, Elizabeth Olsen doesn't have to look far for her stylish wares.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Clinton points to Social Security changes in AFL-CIO questionnaire
+      </title>
+<description>
+	By Luciana Lopez NEW YORK, Aug 17 (Reuters) - Hillary Clinton has told the AFL-CIO she wants to improve Social Security benefits for women and lower-income s...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	X Factor promo slammed glorifying male judges over Dannii Minogue
+      </title>
+<description>
+	She's released five albums, hit the top 10 singles charts in the UK many a time, and even flaunted her acting chops on screen and stage. 
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	China, Hong Kong stocks fall on fears Beijing will let yuan weaken further
+      </title>
+<description>
+	HONG KONG, Aug 17 (Reuters) - China stocks slid on Monday as investors feared Beijing would let the yuan depreciate further, despite statements from the cent...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Deputy mayor Salim Mehajer behind the ‘wedding of the century’ says he's got nothing to hide - and has his sights set on HOLLYWOOD
+      </title>
+<description>
+	The groom behind the so-called 'wedding of the century' has pledged to become a superstar, saying his sights are set on Hollywood... or the halls of Parliament.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Reuters Entertainment News Summary
+      </title>
+<description>
+	Following is a summary of current entertainment news briefs. 'Star Wars' land coming to Disney's California, Florida parks "Star Wars" is being transported f...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Reuters Health News Summary
+      </title>
+<description>
+	Following is a summary of current health news briefs. White House program to aim at combating rise in heroin deaths With a rise nationally in fatal heroin ov...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Reuters Sports News Summary
+      </title>
+<description>
+	Following is a summary of current sports news briefs. Day's tough life journey finally leads to major win Bruised but toughened by a difficult childhood, Aus...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jordan Spieth deserves his spot at the top, says Rory McIlroy as US Open champion overtakes him as world No 1 
+      </title>
+<description>
+	Rory McIlroy admitted Jordan Spieth deserved to replace him as world No 1 following the US PGA Championship at Whistling Straits. McIlroy carded a closing round of 69 to finish nine under par.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Massive spider covers Australian electricity meter with HUNDREDS of its babies
+      </title>
+<description>
+	A huge wolf spider and hundreds of its babies have been found nestled on an electricity meter in Queensland.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Britney Spears named Style Icon at the Teen Choice Awards 2015
+      </title>
+<description>
+	The teenage boys who voted for her certainly felt justified. Britney Spears flashed a big smile, lots of leg and plenty of cleavage as she accepted her Style Icon trophy at the Teen Choice Awards on Sunday
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Delta Goodrem gushes about actor Kellan Lutz but denies they are dating
+      </title>
+<description>
+	On Saturday Kellan Lutz congratulated  Delta Goodrem on social media on Saturday for  reaching number one with her new single Wings.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Robyn Lawley looks uncomfortable at Teen Choice Awards in stilettos
+      </title>
+<description>
+	The 26-year-old was ray of sunshine in a yellow lace strapless dress as she attended the event at University of Southern California's Galen Center.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Married At First Sight star Clare Tamas claims Lachlan McAleer wasn't a 'nice guy' off-screen and he just wanted to be famous
+      </title>
+<description>
+	It was supposed to be a documentary about romance between strangers but Clare Tamas claims her Married At First Sight husband Lachlan McAleer was more concerned with fame.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sir Cliff Richard thanks fans for standing by him 'through the storms' ahead of 75th birthday tour
+      </title>
+<description>
+	The singer, who will play at eight venues around Britain and Ireland before performing a six-night stint at the Royal Albert Hall, said: 'It’s no great hassle for me to come out on tour.'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Liverpool assistant Sean O’Driscoll insists lack of Premier League experience could help Reds ahead of Bournemouth return
+      </title>
+<description>
+	New Liverpool assistant manager Sean O’Driscoll believes his influence can help Brendan Rodgers move the club forward this season. Liverpool face Bournemouth at Anfield on Monday night
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Iggy Azalea shares a laugh with fiance Nick Young as she prepares to jet back to her native Australia for the first time in two years
+      </title>
+<description>
+	The Pretty Girls rapper shared a flawless photo of herself en route Down Under with a warm, 'see you soon' for her fans.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Miranda Kerr's mother Therese says she keeps in regular contact with daughter despite rift reports
+      </title>
+<description>
+	The matriarch and Miranda's former business partner said she regularly sees her famous child despite her now being based out of the US with her four-year-old son Flynn.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How Brad Pitt transformed the lives of New Orleans families after Hurricane Katrina
+      </title>
+<description>
+	On the tenth anniversary of Hurricane Katrina, Brad Pitt celebrates having built 109 brightly-colored ecofriendly homes in the worst hit neighborhood in New Orleans.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jose Mourinho virals: Memes mock Chelsea boss after Manchester City blow Premier League champions away at the Etihad 
+      </title>
+<description>
+	Jose Mourinho's week went from bad to worse on Sunday after his Chelsea side were humiliated by Manchester City at the Etihad Stadium. And social media didn't hold back in mocking the manager.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Nina Dobrev turns heads on 2015 Teen Choice Awards red carpet
+      </title>
+<description>
+	The 26-year-old also carried a shiny silver clutch, and elevated her height in a pair of sexy black heels. Nina is currently dating actor Austin Stowell.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tamisha Mendenhall suspected in deaths of her Michigan family
+      </title>
+<description>
+	Speaking about Tamisha Maria Mendenhall, Grand Traverse County Chief Assistant Prosecutor Noelle Moeggenberg said: 'It looks at this point as though the wife killed the others then herself.'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Japan nuclear power firm says no special precautions over volcano
+      </title>
+<description>
+	TOKYO, Aug 17 (Reuters) - Japanese utility Kyushu Electric Power said on Monday that it was monitoring activity at a volcano near its Sendai nuclear plant, b...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Wiz Khalifa's adorable two-year-son Sebastian steals the carpet at the Teen Choice Awards
+      </title>
+<description>
+	The 27-year-old took his toddler with him for the event at USC's Galen Center in downtown Los Angeles on Sunday evening for the TV and film honours voted on my viewers aged 13 to 19
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chloe Grace Moretz looks edgy at Teen Choice Awards 2015 in snake print top and maxi skirt
+      </title>
+<description>
+	The 18-year-old was the recipient of the event's Choice Movie Actress: Drama award for her role in If I Stay. She tweeted, 'Thank you to all my amazing fans for the win tonight :) what an honor!!'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Selena Gomez showcases her svelte figure at Jennifer Klein party in Brentwood
+      </title>
+<description>
+	Once again Selena Gomez gets the balance of sexy and classy spot on in an all-white mid-calf dress which clung to her in all the right places on Sunday in Los Angeles.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jason Day wins PGA Championship while Jordan Spieth takes No 1 ranking in the world
+      </title>
+<description>
+	A year of heartache ended with Jason Day breaking through on Sunday at the PGA Championship at Whistling Straits in Kohler, Wisconsin. He broke Tiger Woods' record and finished at 20 under par.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kylie Jenner dazzles in two outfits as she celebrates her birthday again in Canada
+      </title>
+<description>
+	She has already marked turning 18 multiple times in the US and enjoyed a short celebratory holiday in Mexico.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	US Army skydiver dies from Chicago air show injuries
+      </title>
+<description>
+	CHICAGO (AP) — A U.S. Army skydiver who had served five tours of duty in Iraq and Afghanistan died Sunday from injuries suffered in a midair collision with a...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chilcot Inquiry won't save Tony Blair from the verdict of history, DOMINIC LAWSON writes
+      </title>
+<description>
+	Few could fail to sympathise with the anger of those families of British soldiers killed in Iraq, who see no end in sight to the delays in publication of the Chilcot report, writes DOMINIC LAWSON.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tyga ditches Kylie Jenner's party to spend time with son King Cairo 
+      </title>
+<description>
+	The 25-year-old ditched his girlfriend in Canada as her birthday celebrations continued so he could spend time with his two-year-old son in Los Angels, just days after dropping $320,000 on her
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Vin Diesel and Furious 7 cast honor Paul Walker at Teen Choice Awards 2015
+      </title>
+<description>
+	Vin Diesel, 48, and the stars of Furious 7 remembered their late co-star Paul Walker on Sunday at the Teen Choice Awards in Los Angeles.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jeff and Mary Clakre found a 13-year-old Karlie Kloss in St Louis and student Ashton Kutcher in an Iowa bar reveal why the Midwest is the perfect spot to find the nation's next top supermodel
+      </title>
+<description>
+	Iowa-based couple Jeff and Mary Clarke, of Mother Model Management, scour Midwest shopping malls, fast-food restaurants and county fairs looking for next big supermodels.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Strike against draft of constitution cripples life in Nepal
+      </title>
+<description>
+	KATHMANDU, Nepal (AP) — A general strike imposed by smaller political parties protesting a proposed new constitution that would split Nepal into six federal ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pictured: The sawn-off shotgun used by Man Monis in the Lindt siege terror attack in Sydney
+      </title>
+<description>
+	This is the sawn-off pump action shotgun used by gunman Man Monis when he entered the Lindt cafe  last December with the illegally shortened gun in a back and embarked on the fatal Sydney siege.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kristen Bell performs live as Anna from Frozen at Disney Expo
+      </title>
+<description>
+	She plays the fearless Princess Anna in the Disney hit Frozen, and the 35-year-old actress appeared at the Disney Expo as part of a 'Frozen Fandemonium' finale.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ellen DeGeneres dedicates 2015 Teen Choice Award to Portia de Rossi
+      </title>
+<description>
+	Ellen DeGeneres marked her seven-year wedding anniversary to Portia de Rossi by dedicating her Teen Choice Award to her on Sunday
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BBC removes swearing in Lady Chatterley despite 'porn-like' criticism
+      </title>
+<description>
+	The writer behind the drama says it focuses on the 'emotions of the characters' while the producer claimed the production could almost be branded porn as it is so racy.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sex offender on work release drives Darwin prison bus to fish and chip shop with female inmate
+      </title>
+<description>
+	A sex offender from a Darwin prison, NT, has bought hot chips after breaching protocol and driving the prison bus to a tourist destination, Stokes Hill Wharf, with a female inmate.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sarah Hyland trips over light fixture and nearly falls off stage at Teen Choice Awards
+      </title>
+<description>
+	The 24-year-old and Skylar Astin were walking on stage to present the Choice Comedian award when the tumble occurred. Sarah also dazzled in her buttercream yellow crop top and shorts.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	E-cigarettes are NOT encouraging young people to smoke, Ash reveals
+      </title>
+<description>
+	A health charity reported that in 2013, 4 per cent of 11 to 18-year-olds said they had tried e-cigarettes ‘once or twice’, but in 2015 the figure had risen to 10 per cent.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Victoria Justice is a vision in teal fringed dress as she spins around on red carpet at Teen Choice Awards
+      </title>
+<description>
+	The 22-year-old actress was a vision in green at the 2015 Teen Choice Awards on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Bachelor's Amber Gelinas slams producers as Ebru shows off bony back during beach day
+      </title>
+<description>
+	Last year's season of The Bachelor ended in controversy, but according to contestant Amber Gelinas, the bigger story  was the pressure the girls were put under to look thin for the TV audience.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Teen Choice Awards red carpet sees Bella Thorne, Zendaya and Lucy Hale steal the show
+      </title>
+<description>
+	They consider themselves some of the most discerning viewers on the planet.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Victorian mother banned from IVF treatment after her record of bad parenting is revealed 
+      </title>
+<description>
+	Under Victorian law, the 45-year-old woman and her 58-year-old boyfriend were required to undergo a child protection order check before signing up for fertility treatment.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The billion-dollar ex-president: How Obama and the leading lights of Hollywood and Silicon Valley are joining forces to fund his library and record-breaking legacy plans
+      </title>
+<description>
+	Obama plans to use the advice of his high-profile celeb pals like Steven Spielberg and Eva Longoria to decide what he will do when he leaves office and help him raise $1 billion for his library.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Channel Nine denies reports of The Voice Australia's Darren McMullen and Sonia Kruger feud
+      </title>
+<description>
+	He's been hosting The Voice Australia with Sonia Kruger for just under two months.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	University of Alabama's Alpa Phi sorority deletes YouTube video after backlash
+      </title>
+<description>
+	Alpha Phi, who are based at the Tuscaloosa campus, uploaded the footage to YouTube ahead of rush week and was viewed more than 500,000 times before it was pulled down.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tipper truck driver crashes into Saudi Arabian motorway sign
+      </title>
+<description>
+	The incident - believed to have been filmed in the Middle East - saw the lorry slam into the sign, bringing it crashing to the ground and halting the traffic on the road.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Karen Walker joins the Fashion Targets Breast Cancer Campaign to support breast cancer research
+      </title>
+<description>
+	Fashion powerhouse Karen Walker has lent her signature arrow in support of cancer research. The designer collaborated with Fashion Targets Breast Cancer to design a t-shirt for the cause
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	John McCririck at war with former West-End star Frances Ruffelle over protected cherry tree
+      </title>
+<description>
+	John McCririck has opened a new front in his on-going war with his fashionable neighbours in London’s celebrity enclave Primrose Hill, writes SEBASTIAN SHAKESPEARE.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mark Latham after slur against transgender military officer Catherine McGregor amid speculation he 'uses a parody Twitter account to troll women'
+      </title>
+<description>
+	The Australian Financial Review newspaper has been called upon to sack columnist and former Labor leader Mark Latham amid allegations he uses a parody Twitter account to troll women.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sean Price pleads guilty to murder of schoolgirl Masa Vukotic in Melbourne
+      </title>
+<description>
+	A man has admitted murdering Melbourne teenager Masa Vukotic as she walked through a park near her home in March.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New Victoria's Secret Angel Sara Sampaio wows at Houston Galleria in Texas
+      </title>
+<description>
+	The 24-year-old bombshell wore a lacy curve-hugging dress while showing off pieces at the launch of the Body By Victoria Collection.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jamie Campbell Bower ‏causes mass hysteria at designer fashion store
+      </title>
+<description>
+	Jamie Campbell Bower caused mayhem at a designer fashion store in East London after tweeting fans that he would be there on Sunday afternoon.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Megan Gale looks youthful at 40th birthday celebration
+      </title>
+<description>
+	The mother-of-one sports a youthful glow as she cuts into a large chocolate cake alongside a gaggle of girlfriends.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kendall Jenner shows her taut tummy after gym session with Khloe Kardashian
+      </title>
+<description>
+	The 19-year-old showed off the results of her fitness regime in an off-the-shoulder cropped top which made the most of her lean frame.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mike Huckabee supports Paraguay's refusal to give 10-year-old rape victim an abortion
+      </title>
+<description>
+	Republican presidential candidate Mike Huckabee said that he backs Paraguay's decision to deny an abortion to the now 11-year-old, who gave birth to a girl last week.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jonathan Grafton and Daphne Mason being sought by Oklahoma police for killing off-duty officer and his cousin
+      </title>
+<description>
+	Lt Trey Pritchard and his cousin Jeffrey Grafton, both 46, were found on Saturday night at a motel in Midwest City, Oklahoma. Grafton's son Jonathan and his girlfriend Daphne Mason are the suspects in the killings.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rise of the Facebook crusader:  After the devastating earthquake in April, a new generation of aid workers emerged in Nepal – young people using social media to help save lives and rebuild the country
+      </title>
+<description>
+	Here, some of the guerrilla aid workers who are helping to rebuild Nepal share their stories.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Catherine Zeta-Jones lands in NYC after European trip with Michael Douglas
+      </title>
+<description>
+	The holiday seems to be over for Catherine Zeta-Jones,45, her husband Michael Douglas, 70, and their children Dylan, 14, and Carys, 12.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ronnie Barker was a genius - but he stole my jokes
+      </title>
+<description>
+	David Nobbs (pictured) was one of the sketch writers for The Two Ronnies and he admired Ronnie Barker's brilliant comedy writing and acting, including his famous 'Four Candles' skit.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tracy Morgan and fiancée Megan Wollover enjoy Jean Claude Jitrois shopping trip
+      </title>
+<description>
+	The 46-year-old comedian and his beautiful baby mother, who is 18 years his junior, dropped into designer Jean Claude Jitrois' exclusive boutique and checked out shoes at Christian Louboutin's store.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	U.S. Army skydiver Corey Hood dies after Chicago Air & Water Show collision
+      </title>
+<description>
+	Corey Hood of Cincinnati, Ohio, who had just turned 32 on Aug. 2, was pronounced dead Sunday afternoon at Northwestern Memorial Hospital in Chicago.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Bachelor's Snezana Markoski reveals she gained 10kgs during filming
+      </title>
+<description>
+	Snezana Markoski revealed to TV Week on Monday that she put on eight to ten kilos during filming of The Bachelor but that she ‘carried it off pretty well.’
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tom Jones' The Voice axing tackled by JAN MOIR
+      </title>
+<description>
+	Tom Jones is not a nobody and he deserves to be regarded with a little more respect than the BBC has shown in dropping him from The Voice with hardly any notice, writes JAN MOIR.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Men of Style list features Ryan Corr, Braith Anasta, Crown Prince Frederik and David Beckham
+      </title>
+<description>
+	Men's Style magazine will launch their Men of Style list, that see's Aussie hunks Ryan Corr and Braith Anasta alongside   David Beckham and Crown Prince Frederick, in Sydney on Tuesday night
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Queen's Speech book by Ingrid Seward reveals her majesty in her own words
+      </title>
+<description>
+	Controlled, unemotional and punctilious, the Queen still maintains such a dignified manner, it is impossible for outsiders to see deeply into her private world, writes INGRID SEWARD.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lily Collins shows off her enviably taut tummy in a floral skirt with a matching cut-away blouse
+      </title>
+<description>
+	The 26-year-old looked pretty as a picture when she turned up at producer Jennifer Klein's Day Of Indulgence Summer Party at a private home in the Brentwood neighbourhood of Los Angeles on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mark MacDonald's Why children make you FAT book reveals the truth about their bad habits
+      </title>
+<description>
+	Londoner Anna Maxted, above, has gone from a size eight to a size twelve since having children, while the average Britain gains 1½ stone per child. Fitness expert Mark Macdonald explains why.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Bachelor's Heather Maltman teams summery skirt with raunchy knee high socks
+      </title>
+<description>
+	With only nine contestants left, The Bachelor Australia becoming more competitive -  and on Sunday Heather Maltman decided to literally pull her socks up.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Crown Princess Mary named 'most stylish young royal' - beating the Duchess of Cambridge for the second year running
+      </title>
+<description>
+	Crown Princess Mary of Denmark has been named the most stylish young royal by Hello! Magazine. The poll placed the Australian born royal ahead of Kate Middleton and Queen Maxima.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Off-duty Buffalo police officer comes forward to say he was driving NHL star Patrick Kane on night of rape accusations
+      </title>
+<description>
+	A woman alleged earlier this month that Kane -- who plays for this year's Stanley Cup champions,  the Chicago Blackhawks -- raped her at his Hamburg, New York, house.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jarryd Hayne's spectacular debut in NFL trial impressed Colin Scotts
+      </title>
+<description>
+	Only serious injury can now stop Jarryd Hayne from playing in the NFL. That's the verdict from Colin Scotts, the Australian who successfully switched from rugby union to American Football in 1987.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Christina Aguilera bares her cleavage onstage  as she dedicates a song to fiancé Matthew Rutler at fundraiser
+      </title>
+<description>
+	The 34-year-old singer dedicated a song to her fiancé on Saturday night during the Apollo In The Hamptons charity event, which featured an array of entertainment industry A-listers.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Morgan Freeman's granddaughter E'Dena Hines 'stabbed to death by Lamar Davenport'
+      </title>
+<description>
+	E'Dena Hines, 33, was found dead after Lamar Davenport, 30, allegedly attacked her near her home in Washington Heights and stood over her body screaming.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Martins' return spurs Sounders to win over Orlando
+      </title>
+<description>
+	Aug 16 (Reuters) - Seattle striker Obafemi Martins marked his return to the line-up by scoring twice against Orlando City on Sunday as the Sounders brought t...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rita Ora flaunts her hourglass curves in bejeweled as she parties in LA
+      </title>
+<description>
+	The 24-year-old singer definitely didn't go unnoticed in a crystal-embellished silver bra and bold trousers as she partied at Warwick Nightclub in Hollywood on Saturday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	We are not each other's enemies: Carson says 'rude and discourteous' Americans need to stop 'acting like third graders' and work together to solve the nation's problems
+      </title>
+<description>
+	Carson spoke to voters from the Iowa State Fair soapbox this afternoon, flipped pork chops, had a slice of pizza and took selfies with his fans as he waited in a line for the Sky Glider ride.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sri Lankans go to polls in 'referendum' on Rajapaksa comeback
+      </title>
+<description>
+	By Shihar Aneez and Douglas Busvine COLOMBO, Aug 17 (Reuters) - Sri Lankans went to the polls on Monday to elect a new parliament in what amounts to a refere...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Baseball-Highlights of Sunday's MLB games
+      </title>
+<description>
+	Aug 16 (The Sports Xchange) - Highlights of Major League Baseball games on Sunday: - - - - Blue Jays 3, Yankees 1 Jose Bautista hit a two-run homer while Dre...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Block's Suzi Taylor naked Penthouse shoot revealed
+      </title>
+<description>
+	There is no shortage of busty babes on the upcoming season of The Block but one has a secret Penthouse past that has nothing to do with high-flying real estate.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Romania - Factors to watch on Aug 17
+      </title>
+<description>
+	BUCHAREST, Aug 17 (Reuters) - Here are news stories, press reports and events to watch which may affect Romanian financial markets on Monday. DEBT TENDER Rom...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Singapore monetary policy caught between rock and hard place
+      </title>
+<description>
+	GRAPHIC: Singapore dollar, SIBOR: http://link.reuters.com/mek45w By Jongwoo Cheon SINGAPORE, Aug 17 (Reuters) - Singapore is caught between a rock and a hard...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rita Ora covers up in smart red suit at Teen Choice Awards 2015
+      </title>
+<description>
+	The 24-year-old British beauty looked sophisticated in her stylish ensemble as she blew kisses to her young fans waiting outside the USC Galen Center in LA on Sunday night.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Asia dragged down by sagging China stocks, dollar holds gains
+      </title>
+<description>
+	By Shinichi Saoshiro TOKYO, Aug 17 (Reuters) - Asian equities were mostly lower on Monday, dragged down by faltering Chinese stocks, while the dollar held mo...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Meet the identical twins who grew up with different interests
+      </title>
+<description>
+	Robert and William Haddock grew up in rural New Zealand as identical twins before Robert made the decision at the age of 18 to change his name to Mary and live life as a woman.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Bachelor's Sarah Mackay denies being a relationship during Sam Wood wooing
+      </title>
+<description>
+	According to a report in this week's Woman's Day magazine, many believed the events manager was still in a relationship with her boyfriend of two years, Jake May.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Couple wake up to find naked Irishman in bed with them
+      </title>
+<description>
+	A shocked couple has woken up to find a naked stranger in their bed after the Irishman broke into their Maroubra home. The man is in hospital under police guard for possible drug related health issues
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lara Bingle enjoys relaxing stroll with five-month-old son Rocket Zot in Paris
+      </title>
+<description>
+	There's no doubt Lara Bingle is cherishing motherhood, taking to Instagram on Sunday with a beautiful snap of her and baby boy Rocket Zot enjoying a morning stroll through Paris.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	ATP Tour singles standings
+      </title>
+<description>
+	Aug 17 (Infostrada Sports) - Standings from the ATP Tour singles Points 1 (1) Novak Djokovic(Serbia) 14265 2 (3) Andy Murray(Britain) 8660 3 (2) Roger Federe...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jason Day's wife Ellie live tweets his PGA Championship win at Whistling Straits  
+      </title>
+<description>
+	A series of short tweets from Jason Day's wife Ellie has given an insight into the emotional roller coaster she faced nervously watching him win his first US PGA Championship.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Poop Cafe in South Korea serves lattes in a toilet mug
+      </title>
+<description>
+	A South Korean cafe is the latest in a string of quirky places on the country's dining scene. The poo-themed cafe serves lattes in a toilet-shaped mug and coiled scones served in a squat-toilet dish.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	St. Paul's School's sordid 'sex culture' set to be exposed at trial
+      </title>
+<description>
+	Owen Labrie (pictured), a graduate of elite prep school St. Paul's where John Kerry graduated, will stand trial in Concord, New Hampshire for allegedly raping a 15-year-old student.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sarah-Jane Gaselee wishes she hadn't sold her Princess Diana's dress
+      </title>
+<description>
+	Princess Diana's bridesmaid Sarah-Jane Gaselee (circled) still regrets her decision to flog her Elizabeth Emanuel-designed dress, writes SEBASTIAN SHAKSPEARE.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Myanmar ruling party leaders meet before parliamentary showdown
+      </title>
+<description>
+	By Hnin Yadana Zaw and Antoni Slodkowski NAYPYITAW, Aug 17 (Reuters) - Myanmar's ruling party leaders gathered for a hastily arranged meeting in the country'...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sunday, August 16, 2015
+      </title>
+<description>
+	Trump: Eyes effort to deport native-born children of immigrants living illegally in US WASHINGTON (AP) — Republican presidential candidate Donald Trump wants...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Trigana Air flight TGN267 wreckage found after crash in the Indonesian jungle
+      </title>
+<description>
+	Search teams have found the wreckage of an Indonesian passenger plane that lost contact on Sunday and disappeared with 54 people on board.  It was found about 12km from Oksibil in Papua.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Australian government lawmaker introduces gay marriage bill
+      </title>
+<description>
+	CANBERRA, Australia (AP) — A maverick lawmaker broke from conservative government ranks on Monday to introduce legislation that would legalize gay marriage i...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Brewers minor leaguer says he's gay; MLB lauds his courage
+      </title>
+<description>
+	IDAHO FALLS, Idaho (AP) — It had been a long day and night for David Denson, in so many ways. His team had been swept in a doubleheader in the low-level Pion...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	WTA Tour singles standings
+      </title>
+<description>
+	Aug 17 (Infostrada Sports) - Standings from the WTA Tour singles Points 1 (1) Serena Williams(U.S.) 11821 2 (2) Maria Sharapova(Russia) 6036 3 (3) Simona Hal...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Oceania to hear NZ Olympics disqualification appeal next week
+      </title>
+<description>
+	WELLINGTON, Aug 17 (Reuters) - New Zealand Football's appeal against their disqualification from Oceania's Olympic qualifying final will be heard on Aug. 24 ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Japan stocks rise on stimulus hopes after poor economic data
+      </title>
+<description>
+	HONG KONG (AP) — Japanese stocks rose after poor quarterly economic data raised hopes of more economic stimulus while other Asian indexes fell. KEEPING SCORE...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Divers raise wreckage of Confederate warship CSS Georgia in 5-ton chunks
+      </title>
+<description>
+	The CSS Georgia was scuttled by its own crew to prevent Gen. William T. Sherman from capturing the massive gunship when his Union troops took Savannah in December 1864.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Miami teenager gets 28 years for killing his mother...before hosting a PARTY with her body still inside the home hidden under sheets
+      </title>
+<description>
+	On Friday, Florida resident 19-year-old Kit Darrant pleaded guilty to second-degree murder for 35-year-old Renette Emile's 2012 death.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	NFL's first female coach and first female on-field official take a moment for a history-making photo at preseason game
+      </title>
+<description>
+	Jen Welter (left) and Sarah Thomas (right) met Saturday night during a preseason game between the Arizona Cardinals and Kansas City Chiefs in Phoenix, Arizona.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Day's tough life journey finally leads to major win
+      </title>
+<description>
+	By Mark Lamport-Stokes KOHLER, Wisconsin, Aug 16 (Reuters) - Bruised but toughened by a difficult childhood, Australia's Jason Day endured several close call...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Colombian championship liga aguila ii results and standings
+      </title>
+<description>
+	Aug 17 (Infostrada Sports) - Results and standings from the Colombian championship Liga Aguila II matches on Sunday Sunday, August 16 Deportivo Cali 0 Aguila...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Indonesia police say aircraft debris spotted in Papua - media
+      </title>
+<description>
+	By Fergus Jensen and Hidayat Setiaji JAKARTA, Aug 17 (Reuters) - An Indonesian search and rescue plane spotted debris on Monday believed to be from a crashed...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Baseball-Major League Baseball roundup
+      </title>
+<description>
+	Aug 16 (The Sports Xchange) - Milwaukee Brewers prospect David Denson has come out as the first openly gay active player on a team affiliated with Major Leag...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Hillary Clinton sent at least 60 emails with classified information, State Department finds
+      </title>
+<description>
+	One of the emails was labelled 'secret', an intermediate level of security, while nearly all of the rest were deemed 'confidential' , a report suggests.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kylie Jenner leaves Tyga at home as she takes a helicopter to birthday party in Montreal
+      </title>
+<description>
+	The 18-year-old Keeping Up With The Kardashians star previously celebrated her big birthday with parties in Los Angeles and Mexico over the past two weeks.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Argentine championship results and standings
+      </title>
+<description>
+	Aug 17 (Infostrada Sports) - Results and standings from the Argentine championship matches on Monday Sunday, August 16 Arsenal 1 Boca Juniors 2 Newell's Old ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	1 killed, 1 hurt in small plane crash on Long Island railway
+      </title>
+<description>
+	HICKSVILLE, N.Y. (AP) — A small, single-engine plane crashed on to a Long Island railroad crossing Sunday, killing the pilot, injuring a passenger and shutti...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Game of Thrones fans 'responsible for stealing props from a Melbourne theatre'
+      </title>
+<description>
+	Victoria police are asking the public for any sightings of Game of Thrones re-enactments after thieves steal armour and swords from theatre's costume collection.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	PGA Championship winner Jason Day
+      </title>
+<description>
+	KOHLER, Wisconsin, Aug 16 (Reuters) - Factbox on Australian Jason Day, 27, who won his first major title with a three-shot victory in the 97th PGA Championsh...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tim Tebow delights Philadelphia Eagles fans during Indianapolis Colts game
+      </title>
+<description>
+	Tim Tebow got a warm welcome when he entered the Philadelphia Eagles 36-10 victory against the Indianapolis Colts on Sunday.midway through the third quarter. He finished with 69 passing yards.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	VIETNAM PRESS-VietJet plans domestic listing at year end - Tuoi Tre
+      </title>
+<description>
+	Vietnamese low-cost carrier VietJet Air plans an initial public offering for domestic markets towards the end of this year, the Tuoi Tre (Youth) newspaper re...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rowan Pelling's sex column: I find it difficult to reach orgasm. I still enjoy sex, but it's making my spouse despondent
+      </title>
+<description>
+	Question: I had a satisfying love life with my husband for 20 years but, since my late 40s, I have found it difficult to reach orgasm. I still enjoy making love, but my spouse has become despondent as a result.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	National Football League roundup
+      </title>
+<description>
+	Aug 16 (The Sports Xchange) - Philadelphia Eagles backup quarterback Tim Tebow received a standing ovation from fans Sunday as he took the field for the firs...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Orlando Bloom said to be 'romancing' Australian model and DJ Kate Elsworth who is the same age as his ex Miranda Kerr 
+      </title>
+<description>
+	Since his split with Miranda Kerr in 2013, he's been romantically linked to the likes of Selena Gomez and Erica Packer. 
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jason Day seals first major glory at the US PGA Championship with a score of 20-under, three strokes clear of Jordan Spieth 
+      </title>
+<description>
+	DEREK LAWRENSON AT WHISTLING STRAITS: History was made beside on Sunday in momentous fashion as Jason Day became the first man in major championship history to post 20 under par.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	PRESS DIGEST - Hong Kong - Aug 17
+      </title>
+<description>
+	HONG KONG, Aug 17 (Reuters) - These are some of the leading stories in Hong Kong newspapers on Monday. Reuters has not verified these stories and does not vo...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Baseball-Pederson, Greinke homer to lift Dodgers past Reds
+      </title>
+<description>
+	Aug 16 (The Sports Xchange) - With center fielder Joc Pederson providing the expected and right-hander Zack Greinke contributing the unexpected the Los Angel...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	As demand for expensive skincare soars, we meet the women who spend £1,000 on a pot of face cream
+      </title>
+<description>
+	Pariena Charalambous, 36, from London, pictured right, applies face cream at night like millions of women. But her cream costs £724, and her  annual face cream bill is £6,000. She is not alone.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Olympics-Rio film team robbed at cycling test event
+      </title>
+<description>
+	RIO DE JANEIRO, Aug 16 (Reuters) - A team employed by the city of Rio de Janeiro to film a road cycling test event for next year's Olympic Games were robbed ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	13 in Bangladesh to face charges for killing teenager
+      </title>
+<description>
+	DHAKA, Bangladesh (AP) — Police in northeastern Bangladesh are seeking charges against 13 men for beating a 13-year-old boy to death in a case that stunned a...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Paraguayan championship results and standings
+      </title>
+<description>
+	Aug 17 (Infostrada Sports) - Results and standings from the Paraguayan championship matches on Sunday Sunday, August 16 Nacional A. 0 Guarani 4 Deportivo Cap...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	THAILAND PRESS-SCB says banking on close partners in Myanmar, branch in Vietnam -The Nation
+      </title>
+<description>
+	Siam Commercial Bank PCL has established close business collaboration with partner banks in Myanmar and is setting up a branch in Vietnam by year-end, The Na...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	THAILAND PRESS-Thai Airways urged to resume some cancelled routes-The Nation
+      </title>
+<description>
+	Thai Airways International PCL has been urged to resume some of its cancelled routes, especially to European destinations, or source new alliances in order t...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Officials probe death of 1 foster child, injuries to another
+      </title>
+<description>
+	AUBURN, Mass. (AP) — A 2-year-old girl died while in foster care and another was in very critical condition Sunday after the pair was found unresponsive at a...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Elle Fanning looks angelic in boho smock as she picks up some frozen yogurt on a hot summer day
+      </title>
+<description>
+	The 17-year-old actress was spotted in Los Angeles on Sunday donning a flowing white gown while she cooled down with some frozen yogurt.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jordana Brewster glows out with husband Andrew in West Hollywood
+      </title>
+<description>
+	The 35-year-old actress wowed in an off-the-shoulder frock alongside her husband Andrew Form  as they were spotted leaving Craig's restaurant in West Hollywood on Saturday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Anna Kendrick is still wearing 'engagement ring' as she arrives in New York in a sheer top
+      </title>
+<description>
+	The 30-year-old actress is not yet putting any engagement rumors to rest, considering she was still wearing the dazzling sparkler during her Sunday arrival at JFK airport in New York City.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jason Day wins PGA Championship 2015 at Whistling Straits
+      </title>
+<description>
+	Australian Jason Day's rise up the golf world rankings was an uneasy journey after losing his father at the age of 12.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Suwon battle back to beat Jeju, narrow gap on Jeonbuk
+      </title>
+<description>
+	SEOUL, Aug 17 (Reuters) - Suwon Bluewings fought back from two goals down to beat Jeju United 4-2, closing the gap on Jeonbuk to seven points after the K Lea...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Canadian Henderson joins elite club of young LPGA winners
+      </title>
+<description>
+	Aug 16 (Reuters) - Brooke Henderson became the third player in LPGA history to win a tour event before her 18th birthday, and she did it in style with a runa...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Indonesia police says aircraft debris spotted in Papua - media
+      </title>
+<description>
+	JAKARTA, Aug 17 (Reuters) - A search and rescue plane seeking a crashed aircraft with 54 people on board in Indonesia's Papua province spotted debris believe...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	David Cameron wont seek third term as Prime Minister, PETER MCKAY writes
+      </title>
+<description>
+	Surely the truth is all prime ministers seem mad when they exhibit perfectly normal human traits while imprisoned in the straitjacket of power.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Johnny Depp and Harrison Ford embrace at Disney's D23 Expo in Anaheim
+      </title>
+<description>
+	Ford was on hand to promote Star Wars Episode VII The Force Awakens, while Depp was plugging the fifth installment of Pirates Of The Caribbean: Dead Men Tell No Tales
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Crystal Palace 1-2 Arsenal: Arsene Wenger's side claim win thanks to exquisite Olivier Giroud volley and Damien Delaney own goal
+      </title>
+<description>
+	MATT BARLOW AT SELHURST PARK: Fortunately for Arsenal, all that mattered was the result and they have their first win of the season, thanks to an own goal by Damien Delaney.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bolivian championship results and standings
+      </title>
+<description>
+	Aug 17 (Infostrada Sports) - Results and standings from the Bolivian championship matches on Sunday Sunday, August 16 Blooming 2 Real Potosi 1 Ciclon 1 The S...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	South West Trains ticket price hike for VJ Day isn't the way to remember our heroes
+      </title>
+<description>
+	How deeply distasteful it was of South West Trains to cash in on the commemorations by excluding Saturday from a cheap ticket offer running throughout the rest of August.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BP settlement may not resolve suits filed by 2 universities
+      </title>
+<description>
+	NEW ORLEANS (AP) — BP PLC's $18.7 billion settlement for its 2010 oil spill may not end lawsuits filed by two public university systems against the oil giant...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Manchester City 3-0 Chelsea: Sergio Aguero, Vincent Kompany and Fernandinho strike as Jose Mourinho's champions are sunk
+      </title>
+<description>
+	MARTIN SAMUEL AT THE ETIHAD: Sergio Aguero's sublime finish, a trademark Vincent Kompany header and Fernandinho screamer saw Jose Mourinho's week of off-field dramas extend onto   the pitch.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Charli XCX shows off toned stomach at Hard Rock Hotel And Casino's Rehab pool party
+      </title>
+<description>
+	The 23-year-old singer was performing at the Hard Rock Hotel And Casino's Rehab pool party in Las Vegas on Sunday evening.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Why Bear Grylls is our new patron saint, by JAMES DELINGPOLE
+      </title>
+<description>
+	Bear Grylls is in trouble again, this time after purposely marooning his 12-year-old son Jesse on a rock out at sea as part of a lifeboat training exercise in north Wales, says JAMES DELINGPOLE.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	John Grisham and Morgan Freeman rally to remove Confederate emblem from Mississippi flag
+      </title>
+<description>
+	Jimmy Buffet, John Grisham, Morgan Freeman and former quarterback Archie Manning are among many celebrities who called for the removal of the emblem in a letter that appeared in the newspaper.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	real Housewives' Brandi Glanville says Kim Richards just needs to conquer 'sickness'
+      </title>
+<description>
+	The 42-year-old former star of The Real Housewives Of Beverly Hills revealed that Kim had stayed with her recently - although probably not since the 50-year-old's arrest for shoplifting.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Spieth savours number one spot after close PGA call
+      </title>
+<description>
+	By Mark Lamport-Stokes KOHLER, Wisconsin, Aug 16 (Reuters) - Jordan Spieth ended one of the best major seasons ever by a player on a bittersweet note at the ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Brighter men reach middle age in better shape, study finds
+      </title>
+<description>
+	The study comprised 2,848 males and tested balance, ‘chair-rise’ – the ease with which people get up from a sitting position – and hand grip strength, when measuring physical performance.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	90-year-old yachtsman convinces daughter to join him at Audi Hamilton Island Race Week
+      </title>
+<description>
+	Walter Jorgensen, from Perth in Western Australia, has been steering a sailboat around the race tracks over the past five decades - and he won't stop until he reaches the finish line.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Seattle Sounders 4-0 Orlando City: Obafemi Martins bags brace to thrash Kaka's club 
+      </title>
+<description>
+	Obafemi Martins returned from injury to score twice as the Seattle Sounders thrashed Kaka’s Orlando City. The former Newcastle striker had beeen out with a strained adductor since June.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chelsea boss Jose Mourinho: I knew we were in trouble after 10 seconds against Manchester City... the start wasn't good
+      </title>
+<description>
+	CHRIS WHEELER: Jose Mourinho feared that his game plan could be in tatters after just 10 seconds of a comprehensive defeat at the Etihad Stadium.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Locum paid £11,000 for a weekend shift: Record sum for NHS doctor on call... who wasn't even required to work
+      </title>
+<description>
+	County Durham and Darlington foundation trust paid £10,852 for the services of the locum consultant from the agency Locum Vision, according to freedom of information disclosures.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Amazon workers say it's really like to work for the online retailer
+      </title>
+<description>
+	From employees crying at their desks to annual staff culls designed to foster a culture of fear, merciless conditions at Amazon have been described by more than 100 workers.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Bachelor Australia's Sandra star sparks boob job rumours in new pic
+      </title>
+<description>
+	The primary school teacher has sparked speculation she may have gone under the knife after an old image surfaced where she appears to have a smaller chest
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pair of violent criminals Demehl Thomas and Moysha Sheperd use illegal mobile phone to film rap music video inside their prison cell
+      </title>
+<description>
+	Even releasing their music for sale on iTunes, Demehl Thomas and Moysha Sheperd, both 25, boast of stabbing their rivals in the disturbing video believed to have been filmed at Birmingham Prison.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	PHILIPPINES PRESS-San Miguel power unit to issue $300M in offshore bonds - Inquirer
+      </title>
+<description>
+	The power generation unit of San Miguel Corp is planning to return to the offshore bond market and raise $300 million from a fresh offering of perpetual secu...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jose Mourinho is falling out with everyone at Chelsea from the doctor to John Terry... something is not right at Stamford Bridge
+      </title>
+<description>
+	JAMIE REDKNAPP: Are Chelsea cracking up?  Last week I said something was not quite right at Stamford Bridge. Now things are escalating faster than anyone might have expected.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Women too shy to see their GP, Ovarian Cancer Action charity claim
+      </title>
+<description>
+	Experts believe women are often too embarrassed to speak to their doctor, especially when it comes to gynaecological problems, including ovarian cancer.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	US championship results and standings
+      </title>
+<description>
+	Aug 17 (Infostrada Sports) - Results and standings from the US championship matches on Sunday Sunday, August 16 Philadelphia Union 3 Chicago Fire 3 Seattle S...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Thanasi Kokkinakis escapes action for verbal spat with Ryan Harrison days after Nick Kyrgios controversy
+      </title>
+<description>
+	Australian teenager Thanasi Kokkinakis and his American opponent Ryan Harrison will escape disciplinary action following their verbal spat the Cincinnati Masters, the ATP said on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sarah Vine says forget Jimmy Choos - I'd rather wear Clarks!
+      </title>
+<description>
+	When Sarah Vine bought a pair of wedges from Clarks, she thought they were a fleeting fit of stylishness in a landscape of dreary suede. Instead, they were the start of a grand passion.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	FedEx Cup rankings
+      </title>
+<description>
+	Aug 17 (Infostrada Sports) - FedEx Cup rankings 1. (1) Jordan Spieth (U.S.) 4169 2. (4) Jason Day (Australia) 2459 3. (2) Bubba Watson (U.S.) 2407 4. (3) Jim...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Uber plans to increase security staff to 100 people -FT
+      </title>
+<description>
+	Aug 16 (Reuters) - The popular ride-hailing service, Uber Technologies Inc, will increase its security team to more than 100 employees by the end of the year...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Danniella Westbrook strips off to clean Tottenham Hotspur favourites' pub
+      </title>
+<description>
+	It looks like Dannielle Westbrook is finding new ways to pocket cash after the star was seen scrubbing the Bill Nicholson pub in Tottenham Hale on Tuesday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Shoppers now asking friends for their opinions on new outfits they have tried on via social media
+      </title>
+<description>
+	Many shoppers now prefer to seek advice from a range of friends from afar – by posting ‘chelfies’, or changing room selfies, on social media. The number posted on Twitter has doubled in three months.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pregnant Kristin Cavallari shows off her bump in clingy black dress
+      </title>
+<description>
+	The 28-year-old reality TV star-turned-designer enjoyed a relaxing spa day on Sunday, taking to Instagram to boast about her bliss.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	FTSE 100 chiefs face claims their wages are grossly out of proportion to their employees'
+      </title>
+<description>
+	The typical pay packages of the country’s highest-paid bosses are now 183 times greater than the average worker’s annual salary of £27,000.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rice and noodle sales surge meaning Brits have eaten extra 9,000 tons of rice in past year 
+      </title>
+<description>
+	Britain is turning Japanese -- at least when it comes to our soaring appetite for exotic foods like rice and noodles, according to the latest research yesterday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	GCSE results dip after Michael Gove's reforms
+      </title>
+<description>
+	Extensive changes to qualifications taken by 16-year-olds and championed by Michael Gove are culminating this year in a move expected to give a rough ride to some schools.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	McBusted's Harry Judd reveals joy over wife Izzy's baby news following IVF treatment
+      </title>
+<description>
+	Harry Judd, 29, reveals he went for IVF treatment with wife Izzy Johnston, 31, to conceive their first child, as they speak of their initial heartache in an exclusive interview with Hello! magazine.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	FOREVER BEAUTIFUL: Can bronzer give me the glow of youth? 
+      </title>
+<description>
+	I love being tanned, but have always struggled to achieve a natural effect using bronzing products. Could you give me some tips on how to get a natural-looking, youthful glow with bronzer?
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	British firms fight bid by Cyprus to stop them making halloumi
+      </title>
+<description>
+	They are battling an EU move to outlaw production of halloumi anywhere other than in Cyprus, where it is said to originally come from.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Millions to play for in Champions league playoffs
+      </title>
+<description>
+	By Brian Homewood BERNE, Aug 17 (Reuters) - Rank outsiders Skenderbeu and distant Astana will line-up alongside traditional powers such as Manchester United,...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Search for crashed plane in Indonesia's Papua gets underway
+      </title>
+<description>
+	By Fergus Jensen and Hidayat Setiaji JAKARTA, Aug 17 (Reuters) - Search and rescue teams prepared to scour mountainous, heavily forested terrain on Monday in...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rightmove says house prices dip - but not by much
+      </title>
+<description>
+	The 0.8 per cent or £2,258 month-on-month fall takes the average asking price to £292,284 across England and Wales, said property website Rightmove.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rumours emerge that The Bachelor's Heather Matlman was hired as a paid actress
+      </title>
+<description>
+	She introduced herself as working in film - and appearing on The Bachelor may be Heather Matlman's biggest acting gig yet.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The owl is 'king of stealth' thanks to its sound-absorbing feathers
+      </title>
+<description>
+	Researchers in China used lasers and cameras to find that an owl's feathers turn energy into heat as it flies, and therefore silences its wings, giving them 'stealth-like' qualities,
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	It's not love that keeps my marriage alive - it's SEX: The clergyman's wife who says desire has helped them through dark times
+      </title>
+<description>
+	Of the many reasons couples marry, sex often isn't one of them. But for Annie and John making love to one person for the rest of their lives was the main reason behind their sacred marriage vows
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Brighton College's Richard Cairns says GCSEs punish top pupils 'for being too sophisticated'
+      </title>
+<description>
+	Richard Cairns, headmaster of Brighton College, said the most intelligent children are often penalised in exams because they go above and beyond what is required.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Extremely rare brown panda bear's colour linked to conditions in Chinese mountains
+      </title>
+<description>
+	Qi Lai, a rare brown and white panda, was found as a two-month-old cub, weak and alone and taken to a nature reserve. His discovery was one of just five sightings of the species since 1985.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Gordon Brown calls on Labour party supporters not to back Jeremy Corbyn 
+      </title>
+<description>
+	In a speech in London titled Power for a Purpose, Brown did not reveal who his choice for leader would be but said that the party needed credible economic policies to win power.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jason Day finally wins a major at the US PGA Championship with a score of 20-under and insists 'no one was going to stop me'
+      </title>
+<description>
+	An emotional Jason Day finally seized victory in a major at the US PGA Championship on Sunday and insisted 'no one was going to stop me' after a number of near misses in previous events.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Police called to Joe Giudice's beach house after row with neighbor escalates
+      </title>
+<description>
+	Police were called after a woman living nearby confronted the husband of Real Housewives Of New Jersey star Teresa Giudice about a party he was hosting and his yelling at daughter Gia, 14.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ecuador championship results and standings
+      </title>
+<description>
+	Aug 17 (Infostrada Sports) - Results and standings from the Ecuador championship matches on Sunday Sunday, August 16 Deportivo Cuenca 0 Emelec 1 Barcelona 0 ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ricki-Lee Coulter confirms she tied the knot with beau Richard Harrison and is seen in her dramatic wedding gown for the first time
+      </title>
+<description>
+	Ricki-Lee Coulter has confirmed that she tied the knot with her beau Richard Harrison earlier this month.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Hundreds of 'Rosie the Riveter' attempt record in California
+      </title>
+<description>
+	RICHMOND, Calif. (AP) — Hundreds of women of all ages donned blue coveralls, red socks, and red bandannas with white polka dots and gathered near San Francis...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	CHRIS DEERIN: Death still has its sting - but family puts even its finality into perspective 
+      </title>
+<description>
+	Every year, CHRIS DEERIN'S family meet at a wooden bench near the site of the Battle of Bannockburn in Stirling to remember his Uncle Michael.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Vasco appoint third coach of the year after another loss
+      </title>
+<description>
+	SAO PAULO, Aug 16 (Reuters) - Vasco da Gama appointed their third manager of the year on Sunday when Jorginho was named to replace Celso Roth a day after the...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	CORONATION STREET SPOILER ALERT as Carla Connor and Tracy Barlow fight on cliff edge
+      </title>
+<description>
+	The pair are the best of enemies but as desperate Carla considers ending it all, an unlikely Tracy tries to talk her out of it, as the two grapple mountain-top edge in Coronation Street cliffhanger.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	David Cameron 'will stage a bang the table row with Brussels'
+      </title>
+<description>
+	Former health secretary Andrew Lansley is said to have told business leaders that the Prime Minister plans to ‘choreograph’ a row with French president Francois Hollande.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Gary Barlow and Gerard Butler attend Ross King's wedding to Brianna Deutsch
+      </title>
+<description>
+	Ross King married his long-time partner Brianna Deutsch in a star-studded ceremony, which was attended by Take That star Gary Barlow and Hollywood actor Gerard Butler and their partners.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BBC's Songs of Praise from the Calais migrant camp has NO songs
+      </title>
+<description>
+	Within minutes of the opening sequence of the Songs of Praise special in Calais, it was clear something had gone wrong, writes DAMIAN THOMPSON.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Go to work 'bootcamp' or lose your JSA benefits, jobless youths are told
+      </title>
+<description>
+	Ministers say all youngsters aged 18 to 20 who are not in a job, education or training will be ‘put through their paces’ for 71 hours to help them find work within six months.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Boko Haram leader Shekau says he is alive
+      </title>
+<description>
+	LAGOS, Aug 17 (Reuters) - Abubakar Shekau says he is alive and still the leader of Islamist sect Boko Haram, denying reports he is dead, according to a new a...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Afghan interpreters abandoned by Britain pay people smugglers to flee the Taliban
+      </title>
+<description>
+	One of the Afghan interpreters (pictured), know to UK troops as Chris, has survived three attempts on his life in the past eight months and has been shot by the Taliban.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Policy Exchange call for tax break for car sharers to boost employment in smaller towns 
+      </title>
+<description>
+	A new report is calling on the government to promote car-pooling, for which there are online schemes, by offering those who do it to keep some of their earnings tax free in smaller towns and cities.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	ISIS targets Brit women looking for 'Shirley Valentine' flings in bid to bring terror to UK 
+      </title>
+<description>
+	Extremists are targeting women visiting tourist destinations such as Turkey for Shirley Valentine-style (pictured) flings and trying to dupe them into marriage so they can reach the UK.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ritalin use soars as prescriptions reach 1m a year
+      </title>
+<description>
+	Experts are concerned that children are being wrongly given the drugs after being misdiagnosed with attention deficit hyperactivity disorder, or ADHD.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Nicolas Otamendi close to completing £28.5m Man City switch from Valencia while Eliaquim Mangala could depart on loan
+      </title>
+<description>
+	Manchester City are understood to be in advanced talks with Valencia over a £28.5million deal for centre-back Nicolas Otamendi.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Syrians killed and maimed by Assad regime airstrikes on rebel town near Damascus
+      </title>
+<description>
+	WARNING - GRAPHIC CONTENT: Rows of lifeless bodies were lined up on the bloodstained floor of a makeshift clinic in Douma, near Damascus, following the attack.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Liverpool outcast Mario Balotelli returns to Manchester City to see former team-mates dominate champions Chelsea at the Etihad
+      </title>
+<description>
+	Mario Balotelli may be on the outer at Liverpool, cast aside by Brendan Rodgers and forced to train away from the first team, but he's still more than welcome at former club Manchester City. 
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Day wins PGA Championship in record style
+      </title>
+<description>
+	By Mark Lamport-Stokes KOHLER, Wisconsin, Aug 16 (Reuters) - Australia's Jason Day held his nerve to end five years of close calls at the majors with an emot...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Liquid aluminium set the ROAD on fire when lorry carrying it crashed in Germany 
+      </title>
+<description>
+	The truck collided with the central reservation before tipping over, spilling three full containers of 800C liquid aluminium across the A1 near Schwerte, south of Dortmund.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Parliament peers who don't vote but claim £100,000 in expenses
+      </title>
+<description>
+	During the whole of the last five-year Parliament, 62 members of the House of Lords never voted and yet took home a total of £360,000 of taxpayers’ money.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Britain is home to some of the biggest families it has had in 40 years
+      </title>
+<description>
+	Britain has become home to some of the biggest families in Europe as the wealthy increasingly opt for bumper broods - as  households with four or more children reaches its highest level in decades.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Accessorise All Areas: From jewelled evening bags to cork wedges, how a red dress help can spice up your wardrobe
+      </title>
+<description>
+	The red dress is a style staple. You're sure to be eye-catching. We show you three wearable ways to work this bright, fun colour into your wardrobe.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	South West Train's VJ Day price hike exploited the brave, ROBERT HARDMAN writes
+      </title>
+<description>
+	Who on earth decided that veterans and their families should be charged extra when travelling into London to mark the 70th anniversary of Victory in Japan, asks ROBERT HARDMAN.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Richie McCaw will again be offered knighthood after All Blacks skipper turned down honour for guiding his side to World Cup glory in 2011 
+      </title>
+<description>
+	New Zealand prime minister John Key says record-breaking All Blacks captain Richie McCaw will again be offered a knighthood after previously rejecting the honour.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Alessandra Ambrosio reveals her stunning bikini body as she sunbathes in Greece
+      </title>
+<description>
+	The 34-year-old Victoria's Secret Angel took to Instagram on Saturday with a sizzling bikini-clad portrait of herself sunbathing by the ocean in Greece.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Steve Smith flops in final Ashes warm-up as Australia's next captain is out for a duck in draw with Northamptonshire
+      </title>
+<description>
+	Australia's captain-in-waiting Steve Smith was out for a duck as the tourists prepared for their final Ashes Test of the summer with a draw against Northamptonshire.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	NFL's James Harrison sends back participation trophies as he wants son to 'earn REAL ones'
+      </title>
+<description>
+	Pittsburgh Steelers linebacker James Harrison said that while he is proud of his son, 'these trophies will be given back until they EARN a real trophy'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Michael Gove and John Whittingdale clash over licence fee prosecutions
+      </title>
+<description>
+	Justice Secretary Michael Gove is urging David Cameron to press head with plans to scrap the current rules but Culture Secretary John Whittingdale is resisting the change.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Cadbury's owners Kraft refuse to allow confectionery-named roads at Bristol factory
+      </title>
+<description>
+	The Cadbury factory in Bristol was closed after the takeover by Kraft in 2010. But the new owners told builders hoping to develop the site not to use any confectionery brands for new street names.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Japan economy shrinks in Q2 in setback for "Abenomics"
+      </title>
+<description>
+	By Leika Kihara and Tetsushi Kajimoto TOKYO, Aug 17 (Reuters) - Japan's economy shrank at an annualised pace of 1.6 percent in April-June as exports slumped ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	US is as snobby as the UK, says Sir Patrick Stewart
+      </title>
+<description>
+	The actor said he found that class was ‘such an essential part of the English way of life’ and hoped for a change in the US. But much to his disappointment, there was no ‘classless society’.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Manchester United are powerless in deals with nasty Real Madrid... the Spanish giants don't really care how they land David de Gea
+      </title>
+<description>
+	MARTIN SAMUEL: It does not look good that with the season already under way, Manchester United still have no clue who their goalkeeper will be on September 1 at 6pm, when the transfer window shuts. 
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	John Chilcot goes on holiday while families await Iraq Inquiry
+      </title>
+<description>
+	Relatives of British troops killed in Iraq say they are appalled that Sir John Chilcot had apparently taken time off while they were desperate to know why their children were sent their to fight.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	ITV News political editor Tom Bradby tried to save Greek man who killed himself in Rafina
+      </title>
+<description>
+	Tom Bradby dived in after the motorist as he drove his vehicle into the water in Rafina, watched on by officials. The 48-year-old added that just one nearby official went into the water to try and rescue him.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Topless Miley Cyrus shares saucy snap in bed for her Instagram followers
+      </title>
+<description>
+	She seems to be living by the rule that (over) sharing is caring recently and posted a topless shot laying back in bed cuddling her cat Shanti Om Bb and exposing her left breast on Saturday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Labour MP Austin Mitchell's wife Linda McDougall hits back at John Prescott
+      </title>
+<description>
+	Linda McDougall (pictured) reacted with fury after former deputy prime minister John Prescott was recorded talking about the decade-old allegation to a journalist last week.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Brown Field Municipal Airport plane collision leaves at least 3 dead
+      </title>
+<description>
+	A Sabreliner jet and a Cessna were reported to have crashed around 11am on Sunday about two miles from Brown Field Municipal Airport, which is close to the Mexican border.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Wayne Rooney is burnt-out and the Manchester United captain looks as ineffectual as he has ever been
+      </title>
+<description>
+	MARTIN SAMUEL: It was only one game, and Manchester United won it anyway, but even so there was something deeply troubling about Wayne Rooney’s performance at Villa Park on Friday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Wendy Leigh on why age anonymity is great
+      </title>
+<description>
+	Wendy Leigh has kept her age a secret since her 30s, insisting her silence means a better love life and more freedom. Like Sandra Bullock, she says all women should keep schtum
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New Charlie Hebdo scare in Paris after policeman is shot guarding government building
+      </title>
+<description>
+	Police said the officer – who is thought to have been wearing a bulletproof vest – had been taken to hospital but his life was not in danger.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Murray ends drought against Djokovic with Montreal win
+      </title>
+<description>
+	MONTREAL, Aug 16 (Reuters) - Andy Murray ended a long drought against Novak Djokovic when he beat the Serbian 6-4 4-6 6-3 in a draining final of the Rogers C...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	UK weather changes as last month's record-breaking heat will NOT return
+      </title>
+<description>
+	While temperatures will remain around the low to mid-twenties, Met Office forecasters said there is no prospect for unbroken sunny weather across the UK.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	South West Trains fares ramped up for VJ day 'to cash in' on old heroes travelling to capital
+      </title>
+<description>
+	South West Trains withdrew its summer offer of £20 return rail fares to London on Saturday as hundreds of former servicemen flocked to the capital to mark the 70th anniversary of VJ Day.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Venezuelan championship results and standings
+      </title>
+<description>
+	Aug 17 (Infostrada Sports) - Results and standings from the Venezuelan championship matches on Sunday Sunday, August 16 Zamora FC 3 Atletico Venezuela 0 Cara...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Partners In Crime and The Saturday Night Story reviewed by CHRISTOPHER STEVENS
+      </title>
+<description>
+	CHRISTOPHER STEVENS reviews BBC comedy-drama Partners In Crime (pictured) and ITV's The Saturday Night Story.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Peter Andre whisks his new wife Emily MacDonagh away to Venice as she turns 26
+      </title>
+<description>
+	Peter Andre, 42, whisked birthday girl Emily MacDonagh away to Venice for a romantic weekend in Venice, as they two enjoy some alone time following their wedding in July.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jessica Alba sizzles on Mexican getaway as her Honest company is 'valued at $1.7bn'
+      </title>
+<description>
+	It was already a scorching hot day in Mexico, but the 34-year-old sent temperatures soaring when she hit the beach with husband Cash Warren.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	NHS handed out £116m of gluten-free junk food on prescription in the past year 
+      </title>
+<description>
+	Other calorie-rich treats issued to patients on special diets include Italian-style biscotti, cake bars and muffin mixes, with the service spending almost £116million last year on the products.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	England's Ashes winning squads from 2005 and 2015 draw portraits of each other for charity... see Joe Root the baby sketched by Andrew Flintoff and Marcus 'Michelin Man' Trescothick
+      </title>
+<description>
+	England’s cricketers may have proved how skillful they were with bat and ball this summer by regaining the Ashes – but their artistic ability is unlikely to be troubling the judges of the Turner Prize.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Leona Lewis wears sheer patterned kimono and buckled boots as she attends party in Los Angeles
+      </title>
+<description>
+	Leona Lewis, 30, proved she has star quality as she made her to a party in Los Angeles wearing a stylish sheer cover up and buckled boots on Saturday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Japan's economy contracts in April-June quarter
+      </title>
+<description>
+	TOKYO (AP) — Japan's economy contracted at a 1.6 percent annual pace in the April-June quarter, as bad weather and slowing demand in China posed further setb...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Baseball-Bumgarner dominates on mound, with bat against Nationals
+      </title>
+<description>
+	Aug 16 (The Sports Xchange) - It was bad enough a reeling Washington Nationals team had to face San Francisco Giants ace Madison Bumgarner on Sunday. To have...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BUNDESLIGA ROUND-UP: Wolfsburg up and running with victory over Eintracht Frankfurt and Cologne win at Stuttgart
+      </title>
+<description>
+	Wolfsburg started their Bundesliga campaign with a 2-1 win, but they were made to work hard for all three points against Eintracht Frankfurt on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kate Middleton's brother James's Boomf firm has lost £250,000 in one year
+      </title>
+<description>
+	Kate Middleton's brother's marshmallow image-printing business lost almost £250,000 between November 2013 and December last year.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	PGA Championship scores
+      </title>
+<description>
+	Aug 17 (Infostrada Sports) - Scores from the PGA Championship at the par-72 course on Sunday in Kohler, Wisconsin -20 Jason Day (Australia) 68 67 66 67 -17 J...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Farmer so sick of poor internet signal he built DIY mast
+      </title>
+<description>
+	Richard Guy, 60, (pictured) who lives in a remote area of Salisbury Plain, battled for years with slow internet signal. So he built his own telephone mast and set up a 4G adaptor.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Disability certificate scam hits Capital: Able-bodied youngsters are bribing hospital staff for fake medical reports
+      </title>
+<description>
+	Sources say authorities now believe there may have several attempts by able-bodied persons to procure disability certificates.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Provincial minister and 11 others killed after suicide bomber strikes in Pakistan's Attock district
+      </title>
+<description>
+	Pakistan's Punjab province Home Minister Shuja Khanzada was assassinated on Sunday when a suicide bomber blew himself up at his house in Attock district.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Liverpool target Mateo Kovacic agrees £25m move to Real Madrid from Inter Milan 
+      </title>
+<description>
+	Real Madrid have agreed terms with Inter Milan for midfielder Mateo Kovacic for €35million (£25m), manager Roberto Mancini has confirmed.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Little Mix get geek chic makeunder for 2015 Teen Choice Awards
+      </title>
+<description>
+	The girl band paid tribute to their Black Magic music video as they attended the 2015 Teen Choice Awards in Los Angeles on Sunday night.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Latin American govts fail to tackle booming urban slums - report
+      </title>
+<description>
+	By Anastasia Moloney BOGOTA, Aug 17 (Thomson Reuters Foundation) - Latin America's booming urban slums look set to continue their rapid expansion as governme...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	PUNJABI TADKA: With Shiromani Akali Dal facing strong headwinds, BJP may go solo in assembly polls
+      </title>
+<description>
+	Though the BJP and the Akali Dal leaders have been avoided commenting, sources close to the saffron party say it may go solo as the ally has been facing an anti-incumbency effect.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Poverty drives Myanmar girls into underage sex work
+      </title>
+<description>
+	By Htet Khaung Lin YANGON, Aug 17 (Thomson Reuters Foundation) - Teenager Wut Yee was devastated when her mother, a sex worker, told her that she had just ag...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Twilight's Kellan Lutz has a soft spot for Australia as he shoots film in Sydney
+      </title>
+<description>
+	He's only been in Australia for two weeks. But having enjoyed time shooting his new sci-fi film SFv1 and checking out the sights of Sydney, Kellan has vowed to fully immerse himself in the country.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Autumn fashion to buy NOW and how to style it - whatever the season
+      </title>
+<description>
+	Shopping for autumnal clothes in the summer can be tricky but Catherine Ostler finds out what to purchase now and how to make those pieces last from August until December.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	RAISINA TATTLE: Amarinder denies differences with Congress high command
+      </title>
+<description>
+	After his remarks on the GST bill raised eyebrows, Congress leader Amarinder Singh said the new law would help Punjab. But he denied differences with the party leadership.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rangers boss Mark Warburton defends flashy Nathan Oduwa after he was accused of 'taking the p**s' during win over Alloa
+      </title>
+<description>
+	Mark Warburton insisted show-boating sub Nathan Oduwa meant no disrespect to Alloa – despite his marker accusing him of ‘taking the p**s’ with his flicks and tricks in the 5-1 win.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	QUICK EDIT: Saina Nehwal takes badminton to new heights
+      </title>
+<description>
+	Saina Nehwal displayed strong determination in beating her longtime nemesis and Olympic silver medallist Wang Yihan of China in a classic quarter-final at the Worlds in Jakarta.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Crystal Palace boss Alan Pardew bemoans referee Lee Mason's decision not to send off Francis Coquelin during Arsenal defeat
+      </title>
+<description>
+	Crystal Palace manager Alan Pardew was adamant referee Lee Mason was wrong not to show Francis Coquelin a red card on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Liverpool boss Brendan Rodgers shocked by Philippe Coutinho's Brazil omission 
+      </title>
+<description>
+	Liverpool playmaker Philippe Coutinho's omission from Brazil's squad has left manager Brendan Rodgers bemused.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	THE BIGGER PICTURE: Modi's government seems to have lost its Mojo
+      </title>
+<description>
+	There were some new buzzwords, a reiteration of some tired old ones, but little beyond that. Absent was the energy and expectations that marked his 2014 Independence Day address.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	John Terry's substitution was statement by Jose Mourinho to Roman Abramovich that he wants signings, says Graeme Souness
+      </title>
+<description>
+	Graeme Souness has rubbished comments that John Terry's career could be coming to an end and believes his substitution in the Manchester City defeat was Jose Mourinho making a statement.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Cooper Ratten, son of Hawthorn assistant AFL coach Brett Ratten, dies after car crash
+      </title>
+<description>
+	The devastated family of Cooper Ratten were struggling to comes to terms with his sudden death on Saturday night.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Manchester City 3-0 Chelsea PLAYER RATINGS: Sergio Aguero was the star man as Branislav Ivanovic endured difficult game
+      </title>
+<description>
+	MARTIN KEOWN AT THE ETIHAD: The first titanic clash of the Barclays Premier League season saw champions Chelsea fall to an embarrassing 3-0 defeat against Manchester City at the Etihad Stadium
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	West Brom defender Gareth McAuley eager for record signing Salomon Rondon to lift goal-shy Baggies' woes
+      </title>
+<description>
+	West Brom’s goal-shy players confess they need record signing Salomon Rondon to be an instant saviour, starting against Chelsea on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Swansea star Jefferson Montero may not speak much English but he is humiliating Premier League defences with his dribbling
+      </title>
+<description>
+	Jefferson Montero is the throwback winger who can barely speak a word to his team-mates but has developed a knack for humiliating Premier League full-backs with his rapid feet.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BLOGS OF THE DAY: Orlando Bloom back in Pirates of the Caribbean franchise
+      </title>
+<description>
+	The announcement was revealed at Disney’s D23 expo on August 15th after the star himself had previously expressed uncertainty as to whether he would get the nod.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ross Barkley has Everton firing again after sparkly start to the Premier League season
+      </title>
+<description>
+	Bravery comes in many forms. Usually it is in a lunging 50-50 challenge, a player throwing his body in front of a shot or putting his head where he knows it will get hurt.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sunderland must address problems after two shambolic displays against relegation rivals... Jermain Defoe needs more support
+      </title>
+<description>
+	Lee Cattermole says talk is cheap for crisis club Sunderland right now – but if Sunday's clear-the-air showdown did nothing to address their problems then it could prove terribly costly.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump 'bombarded Princess Diana with flowers after her marriage broke up'
+      </title>
+<description>
+	Princess Diana (pictured with William) is said to have confided in veteran broadcaster Selina Scott, telling her that US presidential candidate and billionaire Donald Trump 'gives me the creeps'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Iowa boy adorably tries to herd kittens that keep wandering off 
+      </title>
+<description>
+	In a video uploaded to YouTube , a boy named Ryder (pictured), from Cedar Falls, Iowa, tries to herd five kittens on to a blanket after his parents challenged him to the overwhelming project.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tottenham crying out for a commanding midfielder after throwing away two-goal lead to draw at home to Stoke
+      </title>
+<description>
+	There was an air of inevitability about Mame Biram Diouf's equaliser, prompting the same old jibes levelled at same old Tottenham. Spurs had been two ahead and cruising.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Shinji Okazaki was once the world's top scorer and now Japan star is flying after first Leicester goal in West Ham victory
+      </title>
+<description>
+	Leicester shot to the Premier League summit with their second successive win of the new season at West Ham on Saturday. But what do we know about him? Sportsmail takes a look.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Norwich City boss Alex Neil says Premier League new boys is best place for Nathan Redmond as winger continues to impress
+      </title>
+<description>
+	Alex Neil admits the time will come when the big clubs try to prise Nathan Redmond away from Norwich. The winger scored in Sunderland win and continues to impress in the Premier League.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mesut Ozil is a 'pleasure to watch', says Arsenal boss Arsene Wenger... but I want a few more goals from him this season! 
+      </title>
+<description>
+	Arsene Wenger praised his side as they bounced back from last Sunday's shock opening-day loss against West Ham with victory at Crystal Palace, in particular lauding the performance of Mesut Ozil.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Everton striker Romelu Lukaku trained up to three hours a day during summer... and the Belgium star says a 'good season coming'
+      </title>
+<description>
+	Everton striker Romelu Lukaku thinks there is a 'good season coming' after a frustrating one for the player and his club in 2014-15.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	PRESS DIGEST - China - Aug 17
+      </title>
+<description>
+	SHANGHAI, Aug 17 (Reuters) - Chinese newspapers available in Beijing and Shanghai carried the following stories on Monday. Reuters has not checked the storie...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Khloe Kardashian scoops up little sister Kendall Jenner during a sweaty gym session
+      </title>
+<description>
+	'My bug a boo @kendalljenner,' the 31-year-old Keeping Up With The Kardashians star captioned the precious picture.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	India witnesses growth of private FM radio as channel auction fetches Rs 1,000 crore
+      </title>
+<description>
+	According to officials, so far around 88 channels in 56 cities have become provisional winning channels with a cumulative price of Rs 1022 crore (approximately).
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Plane flips on to its roof as it lands at Halfpenny Green Airport leaving pilot unscathed
+      </title>
+<description>
+	The Cessna light aircraft was coming into Halfpenny Green Airport in Bobbington, Staffordshire, when the pilot got into difficulties and the plane flipped on its roof as it tried to land.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Katharine McPhee puts on a leggy display while heading to Craig's restaurant
+      </title>
+<description>
+	The 31-year-old singer and actress was strutting her stuff to Craig's restaurant, flaunting her toned figure in a sheer floral romper which featured cut-outs near her taut midriff.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Uma Thurman and Maggie Q film gun fight on set of The Brits Are Coming in NYC
+      </title>
+<description>
+	Uma Thurman was back to doing what she does best as she filmed some rather energetic and violent-looking scenes on the set of her new comedy flick The Brits Are Coming in New York on Friday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Is Andy Burnham's London campaign headquarters a tax dodge, asks ANDREW PIERCE
+      </title>
+<description>
+	Burnham is running his operations from an office in Baker Street in central London. The venue is described on Burnham’s website as the ‘Andy4Leader London campaign centre'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bassi sends Delhi police back to exam center with new mandatory test for all (including senior officers)
+      </title>
+<description>
+	Delhi’s men in khaki will have to dust off their books and revise once again. For the first time, Delhi Police are  hold exams that are mandatory for everyone barring the top four officers.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jennifer Lopez looks hip in grey tracksuit trousers as she struts around NYC
+      </title>
+<description>
+	The 46-year-old singer and actress looked comfortable yet hip in her dressed down ensemble as she strolled around New York City.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kylie Jenner DENIES crashing her $320k Ferrari gifted by boyfriend Tyga
+      </title>
+<description>
+	Both musicians Austin Mahone and Jake Quickenden claimed that they had heard the newly-turned 18-year-old crashed the gaudy vehicle. Tyga surprised her with the car at her party on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Has Cecil the lion reappeared as a face in Cambridgeshire clouds?
+      </title>
+<description>
+	Heidi Webb, 41, was amazed when she looked up and spotted the head of majestic Cecil the lion forming in the clouds above her home in St Neots, Cambridgeshire.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Youth detained after unfurling Pakistani flag on Independence Day
+      </title>
+<description>
+	Police detained Afroz Ansari after he spread the Tricolour on the ground and placed a chair on it to stand up and unfurl Pakistan’s flag. Later, he also posted his picture on a social website.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Times Square's topless ladies criticized by tourists for hustling underage children
+      </title>
+<description>
+	The women usually charge about $10 per photo with tourists and have become a Times Square mainstay, but they have come under fire for targeting children and being 'inappropriate'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Andy Murray beats Novak Djokovic to win the Rogers Cup... and dedicates triumph to new mum Amelie Maursemo
+      </title>
+<description>
+	Andy Murray won his second Masters title of the season with his first victory against Novak Djokovic since the 2013 Wimbledon final. And the Scot was quick to dedicate his win to Amelie Mauresmo.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Village headwoman caught on video 'beating Dalits with a stick after tying them to a tree'
+      </title>
+<description>
+	A village headwoman (sarpanch) allegedly thrashed three Dalits, including a woman in Dhurkot village and her son recorded the entire episode and the clip went viral.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	National Circus performer Mohamed Sayed Elhelwe holds blade in his teeth as he feeds lion
+      </title>
+<description>
+	Mohamed Sayed Elhelwe could be seen sweating under the lights as his face came within inches of the lion's razor-sharp teeth during a performance of the National Circus in Mersa Matruh, Egypt.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	GB sprinter Richard Kilty 'heartbroken' by drug cheats and says World Championships in Beijing won’t be a level playing field
+      </title>
+<description>
+	British sprinter Richard Kilty said the thought of a third of athletes being drugs cheats is ‘heartbreaking’ as the IAAF denied trying to suppress a damning report  on drug use.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Incredible pictures show barn owl fighting off hungry kestrel to snatch vole
+      </title>
+<description>
+	The two birds squawked over the prey mid-air, their majestic feathers flapping above the field beneath them in Cresswell, Northumberland.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kris Jenner posts sweet note to Kathie Lee Gifford on her 62nd birthday
+      </title>
+<description>
+	'I wish you peace and understanding. I know it's Franks birthday today too. I wish I was there with you today,' Kris wrote.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Selfie diplomacy continues as Modi arrives in UAE with trade at the top of his agenda
+      </title>
+<description>
+	Prime Minister Narendra Modi began his two-day trip to this strategic Gulf nation with a visit to the historic Sheikh Zayed Grand mosque, the world’s third largest.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Caitlyn Jenner meets Chaz Bono at an LGBT centre in new I Am Cait clip
+      </title>
+<description>
+	The 65-year-old reality star first met the 46-year-old child of singers Cher and Sonny Bono back in 2011 when both Chaz and Caitlyn's stepson, Rob Kardashian, competed on Dancing With The Stars.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Bachelor's Heather Maltman at Joel Edgerton's party without Sam Wood
+      </title>
+<description>
+	On Saturday night Healther Maltman shifted her attention away from The Bachelor Sam Wood and onto Hollywood star, Joe Edgerton, at his farewell party in Bondi, Sydney.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kirsty Gates fobbed off 20 times by doctors saved her daughter's life
+      </title>
+<description>
+	Kirsty Gates, 30,  took her daughter Annabelle to numerous doctors in Newcastle after becoming convinced the baby was not breathing or eating properly when she was four-months-old.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lucy Watson and boyfriend James Dunmore enjoy Red Bull Air Race World Championships
+      </title>
+<description>
+	The couple were enjoying a casual date at the Red Bull Air Race World Championships at Ascot Racecourse on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump stays in the lead in first post-debate Fox poll
+      </title>
+<description>
+	Presidential candidate Donald Trump saw his support in a Fox News poll slip from 26 per cent to 25 per cent after he saw three percentage points fewer in support from women voters.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Is this the last chance to save the Yamuna? How overlapping plans are making a mess of clean-up efforts
+      </title>
+<description>
+	Too many court cases and projects meant plans for a cleaner river undermined each other. Experts feel the National Green Tribunal’s Rs 4,500-crore plan is the last restoration opportunity Delhi has.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bondi Vet's Chris Brown is just as strapping in a fitted shirt as he enjoys a day out in Bondi
+      </title>
+<description>
+	He's often seen shirtless on the beach in his down time, showing off his incredibly buff body.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Authorities: 4 dead in midair collision of small planes
+      </title>
+<description>
+	SAN DIEGO (AP) — Two small planes collided midair while approaching an airport in southern San Diego County on Sunday, killing at least four people and spark...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Winners of the PGA Championship
+      </title>
+<description>
+	Aug 16 (Reuters) - Winners of the PGA Championship, following the three-shot victory by Australian Jason Day on Sunday in the 97th edition at Whistling Strai...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	'Kaali Maa is depicted in lesser clothes' than Radhe Maa: Sonu Nigam comes to godwoman's defence
+      </title>
+<description>
+	Bollywood playback singer Sonu Nigam has said suing Radhe Maa for skimpy clothes is not justified as goddess Kaali is dressed in skimpier attire. His words have caused controversy.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	US PGA Championship leaderboard LIVE GOLF 2015: Jason Day beats Jordan Spieth to win his first major at Whistling Straits
+      </title>
+<description>
+	Jason Day claimed his first major championship victory and rewrote the record books by winning the 97th US PGA Championship at Whistling Straits.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Johnny Depp shows up in Pirates of the Caribbean' character at Disney's D23 Expo
+      </title>
+<description>
+	There's no mistaking the lovable but wiley Captain Jack Sparrow. 
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Panic at mental health institute after inmate opens fire 23 times with snatched rifle
+      </title>
+<description>
+	Commandos brought an end to the three-hour long drama by shooting at the prisoner. No one was injured in the standoff.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Gerard Butler and leggy girlfriend Morgan Brown coordinate on date night
+      </title>
+<description>
+	The 45-year-old actor appeared every inch the Hollywood heartthrob in his leather jacket while cosying up to his leggy lady, Morgan Brown, on Saturday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New Regency slams Leonardo DiCaprio 'fleas in beard' rumors amid The Revenant filming
+      </title>
+<description>
+	The star has been sporting a big, bushy beard he had to grow for his role as a 19th century hunter and fur trapper and it's been getting a lot of attention.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Venezuelan championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Venezuelan championship matches on Sunday Sunday, August 16 Caracas FC 0 Mineros de Guayana 0 CD ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Straight Outta Compton beats Guy Ritchie's The Man From U.N.C.L.E to number one
+      </title>
+<description>
+	The R-rated biopic about the groundbreaking hip-hop group N.W.A. performed above industry expectations and is the best opening ever for director F. Gary Gray.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Brazilian championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Brazilian championship matches on Sunday Sunday, August 16 Avai 1 Corinthians 2 Chapecoense 2 Atl...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	University of Central Florida Sigma Nu fraternity suspended after 'rape' chant caught on tape
+      </title>
+<description>
+	The Sigma Nu fraternity at the University of Central Florida has been suspended after the school received a video of at least one member chanting about rape and other disrespectful comments.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Isle of Grunay is up for sale and it could be yours for just £85,000 
+      </title>
+<description>
+	The Isle of Grunay, the most easterly point of the Shetland Islands, goes on sale this week and is expected to attract a flurry of interest from prospective buyers.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kim Kardashian shows off her baby bump taking North to a birthday party
+      </title>
+<description>
+	The 34-year-old Keeping Up With The Kardashians star was spotted in Beverly Hills, California on Saturday with her two-year-old daughter, North West.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Paul O'Grady recalls his nights out with Cilla Black and her £1million jewels 
+      </title>
+<description>
+	The TV presenter recalled his nights out in New York with the late singer in an interview with Sir Cliff Richard, who is making a comeback into the limelight for his 75th birthday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Paraguayan championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Paraguayan championship matches on Sunday Sunday, August 16 Deportivo Capiata 1 Olimpia 2 Deporti...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bridlington diver dies and another is treated for the bends after Hull diving accident 
+      </title>
+<description>
+	The woman was unconscious when she was airlifted to hospital in Hull but was pronounced dead on arrival, the Maritime and Coastguard Agency said.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Morgan Freeman speaks out after granddaughter E'Dena Hines' murder
+      </title>
+<description>
+	E'Dena Hines, 33, granddaughter of the Hollywood legend's first wife, was found unresponsive with stab wounds to her torso in Manhattan on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Saina Nehwal settles for silver as she is beaten in straight games by top seed at World Championships final
+      </title>
+<description>
+	Carolina Marin had a spring in her step, which was lacking in Saina Nehwal in the battle for the World Championships title in the heat of the Istora Senayan indoor stadium in Jakarta.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ecuador championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Ecuador championship matches on Sunday Sunday, August 16 Barcelona 0 River Ecuador 1 Deportivo Qu...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Modern Family's Ariel Winter attends Disney's D23 event after breast reduction
+      </title>
+<description>
+	Ariel attended Disney fan event D23 EXPO in Anaheim to promote her animated TV series Sofia The First, in which she voices the central character.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jose Mourinho's medical drama continued against Manchester City with the final few minutes feeling like an episode of Casualty
+      </title>
+<description>
+	EDGE OF THE BOX: When it comes to bringing in the audiences, the telly knows what it needs. For a starters, a good medical drama. That is bound to have them hooked. And a good hero.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Day wins first major title at PGA Championship
+      </title>
+<description>
+	KOHLER, Wisconsin, Aug 16 (Reuters) - Australia's Jason Day held his nerve to end five years of close calls at the majors with an emotional breakthrough vict...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Bachelor Sam Wood 'couldn't keep hands off' Madeleine on awkward date
+      </title>
+<description>
+	The 26-year-old fertility nurse and the 35-year-old personal trainer are said to have actually gone for a romantic swim together 'under a waterfall' and The Bach 'couldn't keep his hands to himself'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Female 'Viagra pill' Flibanserin goes before the FDA
+      </title>
+<description>
+	The FDA will approve or deny North Carolina company Sprout Pharmaceuticals' filbanserin 'female Viagra pill' on Tuesday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Diabetes 'threatens to bankrupt NHS'
+      </title>
+<description>
+	The charity Diabetes UK said that if the Government does not take action to prevent the condition and improve care, the costs will 'spiral out of control' .
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Romance for men? Chocolates and flowers
+      </title>
+<description>
+	Although amorous gestures traditionally means a bouquet and sweet treats, millions of men think mundane or trivial acts are just as effective.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Day wins first major title at PGA Championship
+      </title>
+<description>
+	KOHLER, Wisconsin, Aug 16 (Reuters) - Australia's Jason Day held his nerve to end five years of close calls at the majors with an emotional breakthrough vict...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bolivian championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Bolivian championship matches on Sunday Sunday, August 16 Ciclon 1 The Strongest 3 Club Petrolero...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Argentine championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Argentine championship matches on Sunday Sunday, August 16 Gimnasia-La Plata 4 Argentinos Juniors...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	FAA: software update may be responsible for malfunction
+      </title>
+<description>
+	WASHINGTON (AP) — A technical problem at an air traffic control center in Virginia that caused hundreds of flights to be delayed or canceled along a large sw...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	US championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the US championship matches on Sunday Sunday, August 16 Seattle Sounders 4 Orlando City SC 0 Saturday...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Two young journalism stars scoop Stephen Lawrence Trust scholarships 
+      </title>
+<description>
+	Victoria Ibitoye and Alexander Holmes were selected from countrywide applications for the new journalism scholarships, which are sponsored by the Daily Mail.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Latest PGA Championship leaderboard
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Latest leaderboard in the fourth round from the PGA Championship at the par-72 course on Sunday in Kohler, Wisconsin holes playe...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Egypt's Sisi approves anti-terrorism law setting up special courts
+      </title>
+<description>
+	CAIRO, Aug 16 (Reuters) - Egyptian President Abdel Fattah al-Sisi on Sunday approved an anti-terrorism law that sets up special courts and provides protectio...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Inmate who lit a fire in which a woman died claims sex bias because he can't order take-away in prison
+      </title>
+<description>
+	Long Bay inmate Saeed Dezfouli who killed a woman when he burnt down a  building, and has threatened sex attacks on the Queen, has claimed  sex bias because he can't get take-away food.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Baseball results
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results from the MLB games on Sunday (home team in CAPS) TORONTO 3 NY Yankees 1 Pittsburgh 8 NY METS 1 BALTIMORE 18 Oakland 2 AT...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Murray wins in Montreal to end drought against Djokovic
+      </title>
+<description>
+	Andy Murray ended a long drought against Novak Djokovic when he beat the Serbian 6-4 4-6 6-3 in the final of the Rogers Cup in Montreal on Sunday. The Britis...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Peruvian championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Peruvian championship matches on Sunday Sunday, August 16 Alianza Lima 0 Deportivo Municipal 0 Me...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chilean championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Chilean championship matches on Sunday Sunday, August 16 Cobresal 2 Colo Colo 3 Universidad de Ch...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Julian Bond remembered as civil rights champion
+      </title>
+<description>
+	ATLANTA (AP) — Reaction to the death of civil rights activist Julian Bond: "Julian Bond helped change this country for the better. And what better way to be ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Taylor Swift on the catwalk with Julia Roberts and Joan Baez on 1989 World Tour
+      </title>
+<description>
+	The two stars both showed their love of Taylor in her tour T-shirts, as they linked arms with her and strutted along the catwalk to Style.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sir Bradley Wiggins and Mark Cavendish win madison in Revolution Series opener
+      </title>
+<description>
+	Mark Cavendish combined with Sir Bradley Wiggins to win the madison in the first round of the Revolution Series at the Derby Arena. The event marked Rio 2016 hopeful Cavendish's return to track cycling.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Diana Vickers dons pretty sundress at Red Bull Air Race championships
+      </title>
+<description>
+	The former X Factor star cut a glamorous figure in her bright orange dress as she watched the Red Bull Air Race World Championships, held at Ascot Racecourse on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Grant Gilchrist wins battle with Big Jim Hamilton hands down in Dublin 
+      </title>
+<description>
+	ANDY NICOL: That was a very decent run-out for Scotland. Ultimately, they lost but the result in these warm-up matches is not the be-all-and-end-all.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Three people are gored to death during Spanish bull runs in just 24 hours 
+      </title>
+<description>
+	Jose Alberto Penas, a local councillor in Traspinedo, Valladolid, became the third victim - bleeding to death after being gored during a run in nearby Penafiel on Saturday morning.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pataki: Fighting Islamic State should be higher priority
+      </title>
+<description>
+	DES MOINES, Iowa (AP) — The latest from the presidential candidates as they meet and greet voters at the Iowa State Fair (all times are local): 5:30 p.m. For...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Nicki Minaj's PinkPrint Tour concert in California ends in a brawl with fans being pepper sprayed
+      </title>
+<description>
+	When she noticed that a number of brawls were taking place and saw a young woman get maced, she stopped the music.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jason Derulo and crew 'were booted from plane after shouting match'
+      </title>
+<description>
+	The 25-year-old's bodyguard allegedly got into a 'shouting match' with an airport employee. According to TMZ , the chum of the singer was denied preferred boarding when the incident began
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Brazil protesters keep pressure on President Rousseff
+      </title>
+<description>
+	By Brad Haynes SAO PAULO, Aug 16 (Reuters) - Hundreds of thousands of demonstrators returned to the streets in dozens of Brazilian cities on Sunday to call f...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Majority of voters think Hillary DID lie about her emails, Fox News poll reveals
+      </title>
+<description>
+	According to the survey by Fox News , 58 per cent say she 'knowingly lied' about having the emails, while more than half think the former Secretary of State's actions put the country at risk.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Another Aussie in verbal volley as tempers flare in Ohio
+      </title>
+<description>
+	Aug 16 (Reuters) - Australian teenager Thanasi Kokkinakis and his American opponent Ryan Harrison will escape disciplinary action following their verbal spat...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Police: Missouri robber left his heart monitor at the scene
+      </title>
+<description>
+	POPLAR BLUFF, Mo. (AP) — Authorities have arrested a man in a southeast Missouri auto part store burglary after he left his heart monitor in front of the cas...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tiffany Taylor's boyfriend Greg Hill had no idea missing Brisbane teen was 'offering sex for money'
+      </title>
+<description>
+	Greg Hill had noticed that Tiffany Taylor, 16, who was five months pregnant, had been acting suspiciously but couldn't pinpoint the reason for her strange behaviour.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tattoo artist Megan Massacre rose above fierce criticism from women
+      </title>
+<description>
+	American tattoo queen Megan Massacre is currently starring in MTV's Bondi Ink. She revealed that while she is now adored across the world, she faced harsh criticism early on in her career.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New Zealand level Twenty20 series against South Africa as Martin Guptill stars in 32-run victory at Centurion
+      </title>
+<description>
+	New Zealand defeated South Africa by 32 runs at Centurion to level their Twenty20 series at 1-1. Martin Guptill smashed 60 from 35 balls to help the Black Caps to set 177, which proved enough.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	PRESS DIGEST-Australian News - Aug 17
+      </title>
+<description>
+	Reuters has not verified these stories and does not vouch for their accuracy. THE AUSTRALIAN FINANCIAL REVIEW (www.afr.com) ATO looks into Chevron, ExxonMobi...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Georgina Burke reveals attitudes towards plus size models
+      </title>
+<description>
+	Australian plus size models are hoping to redefine society's beauty standards through new documentary Straight/Curve. It places the link between fashion and beauty in the spotlight.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sonam Kapoor stuns in Aussie designer Paolo Sebastian at Indian Film Festival awards in Melbourne before hitting the runway in Anamika Khanna
+      </title>
+<description>
+	Sonam Kapoor was certainly dressed to impress when she arrived at the Indian Film Festival Melbourne's awards ceremony on Saturday night. 
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Bachelor's Heather Maltman's many faces of revealed 
+      </title>
+<description>
+	The Bachelor contestant Heather Maltman has already started to pull out all the stops to bag The Bachelor after revealing that she thinks the other contestants were ‘playing the game.’
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mitroglou sets off late goal flurry for Benfica
+      </title>
+<description>
+	LISBON, Aug 16 (Reuters) - Greece forward Konstantinos Mitroglou scored on his league debut for Benfica to set the Portuguese champions on the way to a 4-0 w...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Colombian championship liga aguila ii results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Colombian championship Liga Aguila II matches on Sunday Sunday, August 16 Pasto 3 Uniautonoma FC ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ligue 1 summaries
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Summaries from the Ligue 1 matches on Sunday Sunday, August 16 Paris St Germain 2 Blaise Matuidi 10, Thiago Silva 21 GFC Ajaccio...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pamela Anderson isn't looking forward to Zac Efron and Dwayne Johnson's Baywatch film
+      </title>
+<description>
+	The 48-year-old actress played lifeguard C.J. Parker from 1992 through 1998 in the original series but has not been asked to return to the upcoming movie, which will film early in 2016.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Margot Nguyen the French-Vietnamese tourist missing from Brizbane pictured
+      </title>
+<description>
+	It's understood Margot Nguyen had an argument with her mother on Holman Street in Kangaroo Point of Queensland on Sunday morning and she has not been seen since.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Dan Gosling hoping for TV break when Bournemouth face Liverpool... six years after his big moment was cut short by ITV 
+      </title>
+<description>
+	Dan Gosling hopes the Sky Sports television cameras pick up the goals on Monday when Bournemouth face Liverpool and they do not flick to some impromptu adverts by accident.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	PSG 2-0 Ajaccio: Angel di Maria unveiled to fans as French champions ease to victory
+      </title>
+<description>
+	Angel di Maria was unveiled to the crowd before kick-off as PSG eased to a 2-0 win over Ajaccio on Sunday to move top of the Ligue 1 standings on goal difference.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sandeep Adhuwaryu on... #SaluteSelfie
+      </title>
+<description>
+	Sandeep Adhuwaryu on... #SaluteSelfie
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Target of 18-day manhunt killed in California
+      </title>
+<description>
+	RIDGECREST, Calif. (AP) — An 18-day manhunt in the mountainous high desert of central California ended when two deputies opened fire on a man who pulled out ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Scotland flanker Blair Cowan admits he faces a tussle to retain No 7 berth for the World Cup
+      </title>
+<description>
+	Blair Cowan was far and away Scotland’s first choice No 7 in the last Six Nations. Now, though, he admits he has a real fight on his hands to keep the jersey for the World Cup.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kike can replace Patrick Bamford's goals as Middlesbrough push for promotion - Five things we learned in the Football League 
+      </title>
+<description>
+	With the second round of games in the Football League done and dusted, Sportsmail takes a look a the five most important things we've learned from the Championship and beyond.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mick Fanning breezes through first round of Billabong Pro in Tahiti
+      </title>
+<description>
+	The three-time world Australian champion Mick Fanning proves the consummate professional in his first competition since his terrifying encounter with a great white shark last month.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ireland's sloppy display against Scotland in Dublin will concern Joe Schmidt 
+      </title>
+<description>
+	Following Ireland's eye-catching victory over Wales, head coach Joe Schmidt claimed he would be on red alert to ensure his side didn't peak too soon for the World Cup.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Morgan Freeman's granddaughter stabbed to death in Manhattan
+      </title>
+<description>
+	NEW YORK (AP) — Actor Morgan Freeman is mourning the death of his granddaughter. She was found stabbed to death Sunday on a Manhattan street. Police respondi...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sam Turner's Racing Tips: All the best bets for Monday, August 17
+      </title>
+<description>
+	Daily Mail racing expert Sam Turner brings his hottest selections for Monday's races at Kempton, Thirsk, Chelmsford City and Windsor.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bencic claims Rogers Cup as Halep retires
+      </title>
+<description>
+	TORONTO, Aug 16 (Reuters) - Swiss teenager Belinda Bencic capped a brilliant run to the Rogers Cup title on Sunday when a distressed second seed Simona Halep...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lovebirds Mariah Carey and James Packer stop off in Ibiza
+      </title>
+<description>
+	The singer and her billionaire boyfriend dropped anchor off the shores of Ibiza, Spain on Sunday, disembarking James' luxury yacht with their respective children in tow.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Alloa 1-5 Rangers: Kenny Miller scores twice to help Mark Warburton maintain his unbeaten start with crushing win
+      </title>
+<description>
+	Rangers continued their 100 per cent start to the new season as Kenny Miller scored twice in a resounding 5-1 victory over Alloa Athletic at the Indodrill Stadium on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ligue 1 top scorers
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Top scorers of the Ligue 1 on Sunday 2 Floyd Ama Ayite (Bastia) 1 Abdoul Razzagui Camara (Angers SCO) Gilles Sunu (Angers SCO) L...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bill Cosby accuser opens up about assault that 'took place on Reno ranch in 1984'
+      </title>
+<description>
+	A Colorado woman who was invited to meet Bill Cosby in the 80s and says she was drugged and sexually assaulted has opened up about her experience.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pregnant Sophie Ellis-Bextor joins husband Richard Jones at Red Bull Air Race
+      </title>
+<description>
+	The 36-year-old singer was joined by The Feeling bassist for a fun day out at the Red Bull Air Race World Championships at Ascot Racecourse on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jose Mourinho better watch his Ps: Why Chelsea's loss to Manchester City could mean worse is on the way for Blues and more amazing stats from the Etihad
+      </title>
+<description>
+	Manchester City continued their perfect start to the season with a 3-0 demolition of Chelsea, record defeat by some margin for a Jose Mourinho-led Blues side in Manchester.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Southwold Pier visitors banned from eating packed lunches
+      </title>
+<description>
+	The seaside resort of Southwold is at the centre of a row after people were stopped from picnicking. One family have said they were ordered to pack away their cheese and pickle sandwiches.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	England looked like Australia in disguise at Twickenham with the backs shining while the forwards struggled
+      </title>
+<description>
+	England's captain Tom Wood claimed that the home team showed ‘magic’ on Saturday night and it was a fair point as Anthony Watson and his fellow backs put on a show against France.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	U.S. warns China on agents pressuring expatriates to return home -NY Times
+      </title>
+<description>
+	WASHINGTON, Aug 16 (Reuters) - The United States has sent a warning to Beijing about Chinese agents it says are operating covertly in the United States to pr...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Henry Slade's rival for a spot in England's World Cup squad is not Sam Burgess... it may be a forward like Alex Corbisiero or George Kruis
+      </title>
+<description>
+	SIR CLIVE WOODWARD: Henry Slade, like England, was impressive on Saturday night for much of the game but he’s not quite a shoo-in yet for England’s 31-man World Cup squad.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sam Burgess: I was close to tears as I sang our anthem at Twickenham prior to my England debut against France 
+      </title>
+<description>
+	SAM BURGESS - EXCLUSIVE: Singing the National Anthem at Twickenham was a special moment for me. I’d been looking forward to it and I actually got quite emotional.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Portuguese championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Portuguese championship matches on Sunday Sunday, August 16 Benfica 4 Estoril 0 Moreirense 0 FC A...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BoE's Forbes says waiting too long to raise rates could damage recovery
+      </title>
+<description>
+	LONDON, Aug 16 (Reuters) - Waiting too long to raise interest rates could damage Britain's economic recovery and will need to be done "well before" inflation...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Auburn's deputy mayor Salim Mehajer hits out after his extravagant wedding
+      </title>
+<description>
+	Auburn deputy mayor Salim Mehajer's (left) lavish wedding included a grand helicopter entrance, a motorcade of luxury cars and a private jet.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Belinda Bencic wins the Rogers Cup as Simona Halep retires in the final set
+      </title>
+<description>
+	Belinda Bencic has won the 2015 Rogers Cup with victory over Simona Halep in Toronto, Canada. The 18-year-old Swiss took glory after Halep retired in the final set.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Italian-inspired nail shades, stylish brollies, a mimosa perfume: The must-have gifts and beauty products that will make your week
+      </title>
+<description>
+	The autumn months are almost here, meaning its time to stock up ready for wetter weather and end of the summer holidays. These are the best products hitting shelves this week.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	European roundup-Chelsea woe, Bayern and PSG look strong
+      </title>
+<description>
+	LONDON, Aug 16 (Reuters) - Manchester City sent a strong signal to Chelsea that they are determined to regain their Premier League crown after thrashing the ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Over 60 same-sex couples married at Puerto Rico wedding
+      </title>
+<description>
+	SAN JUAN, Puerto Rico (AP) — Over 60 couples from around the region gathered in Puerto Rico's capital Sunday to exchange vows at a same-sex marriage ceremony...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Italian Cup 3rd round results
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results from the Italian Cup 3rd Round matches on Sunday 3rd Round Sunday, August 16 Torino - Pescara 4-1 (halftime: 2-1) Carpi ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump will ALL illegal immigrants, fight ISIS and says if Hillary Clinton survives it'll be a 'miracle
+      </title>
+<description>
+	Donald Trump unveiled his first policies on a number of issues including immigration and Middle East politics in a wide-ranging interview with NBC's Chuck Todd on Meet the Press.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Matuidi, Silva lift PSG to the top
+      </title>
+<description>
+	PARIS, Aug 16 (Reuters) - French champions Paris St Germain eased to a 2-0 win over Ajaccio on Sunday to move top of the Ligue 1 standings on goal difference...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Trump says would raise visa fees to pay for Mexican border wall
+      </title>
+<description>
+	Aug 16 (Reuters) - Republican presidential candidate Donald Trump would increase fees on some Mexican visas and all border crossing cards as part of a broade...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chelsea complete £21.7million signing of Augsburg left back Baba Rahman 
+      </title>
+<description>
+	Chelsea have agreed a deal for Augsburg left back Baba Rahman, the Blues have announced. The Blues will sign the 21-year-old Ghanaian on a five-year contract for an initial fee of £14million.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Fukushima operator's mounting legal woes to fuel nuclear opposition
+      </title>
+<description>
+	By Kentaro Hamada IWAKI, Japan, Aug 17 (Reuters) - Four and a half years after the Fukushima disaster, and as Japan tentatively restarts nuclear power elsewh...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Turkish championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Turkish championship matches on Sunday Sunday, August 16 Gaziantepspor 0 Kasimpasa 3 Konyaspor 1 ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	John Terry subbed off for the FIRST time in the Premier League under Jose Mourinho as the Chelsea boss confirms it was tactical  
+      </title>
+<description>
+	Chelsea captain John Terry was taken off at half-time for the first time under Jose Mourinho's management in the Premier League, as his boss admitted it was a tactical decision.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Manchester City boss Manuel Pellegrini says Chelsea should be flattered by the scoreline... and praises Sergio Aguero 
+      </title>
+<description>
+	Manuel Pellegrini told Jose Mourinho that Chelsea were lucky to escape with only a three-goal defeat after Manchester City crushed their Premier League title rivals at the Etihad.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ligue 1 results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Ligue 1 matches on Sunday Sunday, August 16 FC Lorient 1 Bastia 1 Paris St Germain 2 GFC Ajaccio ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sergio Aguero was vastly superior to Diego Costa as Manchester City thumped Chelsea - FIVE THINGS WE LEARNED
+      </title>
+<description>
+	Sportsmail's Ian Ladyman assesses five things we learned as Manchester City beat Chelsea 3-0 at the Etihad Stadium on Sunday afternoon to set an early marker in the title race.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BBC's Songs of Praise special from the Calais 'jungle' features migrants' tales of woe
+      </title>
+<description>
+	The programme's crew descended on 'The Jungle', a shanty-like town of tents and rubbish that is home to thousands of desperate migrants, to interview some of those trying to enter the UK.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	GOP hopefuls split on sending ground troops to Middle East
+      </title>
+<description>
+	ATLANTA (AP) — Republican presidential candidates are split on whether the U.S. should send ground troops to the Middle East to combat Islamic State forces. ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Girl with Down syndrome takes center stage in precious Livie & Luca campaign
+      </title>
+<description>
+	Four-year-old Cora Slocum from Martinez, California, is the star of a back-to-school campaign for children's shoe company Livie & Luca, with the company saying she is 'born to shine'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	VISUAL EDIT: Why 2015 should have ended on August 13
+      </title>
+<description>
+	August 13 was Earth Overshoot Day, when our annual consumption of the things nature provides - fruits, vegetables, meat, , wood - exceeded what Earth's eco-systems can renew in 2015.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Guardian Angels patrolling NY's Central Park again for first time in 2 decades
+      </title>
+<description>
+	The renewed patrols by the Guardian Angel volunteers  are bright-red signals of unease about whether New York is slipping crime-wise. It got better until recently, said Angels founder Curtis Sliwa.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BoE's Forbes says waiting too long to raise rates could damage recovery
+      </title>
+<description>
+	LONDON, Aug 16 (Reuters) - Waiting too long to raise interest rates could damage Britain's economic recovery and will need to be done "well before" inflation...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chelsea's new medical pair endured a busy afternoon with Gary Cahill and Diego Costa suffering nasty injuries - MEDIC WATCH 
+      </title>
+<description>
+	CHRIS WHEELER AT THE ETIHAD STADIUM: Alongside Jose Mourinho in the Chelsea dugout, sat Dr Chris Hughes and physio Steven Hughes, as they replaced Eva Carneiro and Jon Fearn.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jenson Button's wife Jessica Michibata shows off new ring after engagement band was stolen
+      </title>
+<description>
+	Jenson Button's wife Jessica Michibata has been seen flaunting a shimmering new ring - just a week after her engagement band was stolen in a burglary at their St. Tropez home.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Storm Uechtritz gets ready for her wedding to Ronan Keating on Monday
+      </title>
+<description>
+	After partying it up big in the City of Love over the weekend, Storm Uechtritz is continuing the champagne fueled festivities in Edinburgh ahead of her  wedding to Ronan Keating.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Forrest Fenn 4-year hunt to find America’s last buried treasure worth $1M
+      </title>
+<description>
+	Seattle man Darrell Seyler, 50, has been searching for a secret treasure chest buried by eccentric millionaire Forrest Fenn since hearing about the story in 2011. He believes he is close to finding it.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Melanie Griffith displays her fading tattoo of Antonio Banderas' name
+      </title>
+<description>
+	The actress, who recently turned 58, revealed the results of her ongoing tattoo removal when was spotted heading to the gym in Los Angeles on Friday, wearing not a stitch of makeup.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jamaica police seize over 1,000 pounds of pot at seaport
+      </title>
+<description>
+	KINGSTON, Jamaica (AP) — Jamaican narcotics agents have seized a load of marijuana found hidden in two shipping containers at wharves in the Caribbean island...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Andrew Grace from the Grace Brothers chain saves drowning man at Bondi Beach
+      </title>
+<description>
+	A man drowning off the rocks at South Bondi beach, after going for a night swim on Sunday, has been heroically rescued by Andrew Grace, the great grandson of the founder of the Grace Brothers department store chain.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Illinois man to be executed in Oklahoma scrutinizes evidence
+      </title>
+<description>
+	GALESBURG, Ill. (AP) — An Illinois man scheduled to be executed next month in Oklahoma for his role in a 1997 killing is raising questions about his case, te...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tony Abbott as Malcolm Turnbull is still WAY more popular as preferred leader
+      </title>
+<description>
+	Prime Minister Tony Abbott's government has seen a 7.5 per cent swing against it and would have been beaten badly if an election had been held at the weekend, according to a new poll.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jose Mourinho's criticism of referee Martin Atkinson is over the top... he had a fine game as Manchester City beat Chelsea
+      </title>
+<description>
+	GRAHAM POLL: Chelsea can’t ever seem to lose a game without laying some blame on a match official. But referee Martin Atkinson had a fine game in their 3-0 loss to Manchester City.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Slovenian championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Slovenian championship matches on Sunday Sunday, August 16 Maribor 0 Olimpija Ljubljana 3 Saturda...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Milwaukee man charged with sexually assaulting 5-year-old
+      </title>
+<description>
+	MILWAUKEE (AP) — A 29-year-old man is facing a first-degree sexual assault of a child charge after being accused of following a 5-year-old boy into a drug st...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Toy Story Land and Avatar-themed park slated to launch at Disney World alongside Star Wars Land
+      </title>
+<description>
+	Slinky Dog and little green alien-themed attractions will both be featured at the new 11-acre expansion at Disney's Hollywood Studios in Florida.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bubba Watson has an amusing exchange with a rules official after his ball lands on an ant hill in the US PGA Championship
+      </title>
+<description>
+	Bubba Watson was involved in a bizarre discussion with a rules official during the final round of his US PGA Championship campaign on Sunday after his ball landed on an ant hill.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Iraq PM reduces Cabinet by one-third in reform push
+      </title>
+<description>
+	BAGHDAD (AP) — Iraq's Prime Minister Haider al-Abadi on Sunday ordered his Cabinet reduced from 33 members to just 22, consolidating the body as part of a ma...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Uruguayan championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Uruguayan championship matches on Sunday Sunday, August 16 Cerro 0 Penarol 3 El Tanque Sisley 2 R...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Australia labour to draw with Northamptonshire
+      </title>
+<description>
+	LONDON, Aug 16 (Reuters) - Australia's troubled Ashes tour of England continued when they drew with county side Northamptonshire on Sunday. The touring side ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bencic claims Rogers Cup as Halep retires
+      </title>
+<description>
+	TORONTO, Aug 16 (Reuters) - Swiss teenager Belinda Bencic capped a fairytale run to the Rogers Cup title on Sunday when a distressed second seed Simona Halep...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Models in incredible underwater 1950s photos shot by Bruce Mozert
+      </title>
+<description>
+	Bruce Mozert from Ohio was a leading pioneer of underwater photography. Several of his photos are currently on display in an exhibition in the Holden Luntz Gallery in Florida, until September 26.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Belgian championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Belgian championship matches on Sunday Sunday, August 16 Ghent 1 STVV 0 OH Leuven 2 Charleroi 0 O...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Romanian championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Romanian championship matches on Sunday Sunday, August 16 CSMS Iasi 0 Dinamo Bucharest 0 FC Volun...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Norwegian championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Norwegian championship matches on Sunday Sunday, August 16 IK Start 0 Odd Grenland 4 Mjondalen IF...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Funeral held for Ian Jones, boyfriend of Annie Lennox's daughter Tali
+      </title>
+<description>
+	Ian Jones, 32, died on August 8 while kayaking with girlfriend Tali Lennox on the Hudson river. The funeral was held in Bensalem, Pennsylvania on Saturday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Birdman event sees aviators jump off Worthing Pier
+      </title>
+<description>
+	Thousands of spectators cheered from the beach in Worthing, West Sussex, as the fearless flyers launched themselves into the English Channel in weird and wonderful creations.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Smiley Fern Britton looks pleased with herself as she leaves Radio 2 after sitting in to present early morning show
+      </title>
+<description>
+	Fern Britton didn't allow herself a rest on Sunday, as she was up to broadcast her famous voice across the airwaves of Radio 2.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	PRESS DIGEST-New Zealand newspapers - Aug 17
+      </title>
+<description>
+	WELLINGTON, Aug 17 (Reuters) - Following are some of the lead stories from New Zealand metropolitan newspapers on Monday. Stories may be taken from either th...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Iraqi panel finds Maliki, others responsible for fall of Mosul
+      </title>
+<description>
+	By Ahmed Rasheed and Stephen Kalin BAGHDAD/BEIRUT, Aug 16 (Reuters) - An Iraqi parliamentary panel called on Sunday for former Prime Minister Nuri al-Maliki ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mr Selfridge's Tom Goodman-Hill kisses Call The Midwife's Jessica Raine
+      </title>
+<description>
+	The Mr Selfridge star was spotted kissing his gorgeous girlfriend, who stars in Call The Midwife, as they waited for a train.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	HMS Prince of Wales is taken by barge to the yard where it will be assembled
+      </title>
+<description>
+	Lower Block 04, the largest hull section of HMS Prince of Wales, left the BAE Systems Govan shipyard in Glasgow today by barge on its journey around the north of Scotland to Rosyth.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	3 injured in hot air balloon accident in Pennsylvania
+      </title>
+<description>
+	NEW HOLLAND, Pa. (AP) — A deflating hot air balloon struck overhead electrical wires after landing in a Pennsylvania field, shocking three people including o...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Straight Outta Compton tops box office with $56.1m  'as fears of violence fail to materialize'
+      </title>
+<description>
+	Straight Outta Compton smashed opening weekend expectations and topped the box office with $56.1m while shattering fears of possible violence in the theaters.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Trump says would raise visa fees to pay for Mexican border wall
+      </title>
+<description>
+	Aug 16 (Reuters) - Republican presidential candidate Donald Trump would increase fees on some Mexican visas and all border crossing cards as part of a broade...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Anger driving City to new heights, says Pellegrini
+      </title>
+<description>
+	LONDON, Aug 16 (Reuters) - Manuel Pellegrini said his Manchester City players were "hungry and angry" after being eclipsed last season by Chelsea and the evi...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Trump says he would "police" U.S.-Iran deal, not rip it up
+      </title>
+<description>
+	Aug 16 (Reuters) - Republican presidential candidate Donald Trump said it would be hard to "rip up" the United States-led agreement with Iran on its nuclear ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lancashire batsman Liam Livingstone glassed in a brawl as the team celebrated reaching Twenty20 finals day
+      </title>
+<description>
+	Lancashire batsman Liam Livingstone required around 20 stitches in his face after being glassed during a pub brawl in Kent after his side qualified for Twenty20 finals day on Saturday evening.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jessica Gomes topless while enjoying a relaxing night in with a massage
+      </title>
+<description>
+	She's used to flaunting her famous curves down the runway in a bikini but fans got a glimpse of a lot more skin when the model beauty shared a topless shot of her 'raging' Saturday night.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Miley Cyrus shows off Drake print outfit as she shares toilet selfie 
+      </title>
+<description>
+	Miley Cyrus is not afraid to share her intimate moments with the public.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Greek opposition party refuses to back PM in any confidence vote
+      </title>
+<description>
+	ATHENS, Aug 16 (Reuters) - Greece's socialist PASOK party joined the main opposition on Sunday in saying it would not back Prime Minister Alexis Tsipras if h...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Premier League table, results and remaining fixtures: Manchester City beat titles rivals Chelsea as Arsenal win at Crystal Palace
+      </title>
+<description>
+	Sergio Aguero's exquisite solo strike and late goals by Vincent Kompany and Fernandinho earned Manchester City a 3-0 win over Chelsea on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ginnifer Goodwin and Lana Parrilla sign Snow White dolls for Once Upon A Time
+      </title>
+<description>
+	The twosome signed were there to sign the Disney Store's exclusive Snow White and Evil Queen doll collection, whom they respectively play in the ABC series Once Upon A Time
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	2 passengers not hurt in North Carolina plane crash
+      </title>
+<description>
+	BLADENBORO, N.C. (AP) — Authorities say two people suffered minor injuries when their small plane crashed while trying to take off in North Carolina this wee...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	National Corvette Museum's prized vehicles were consumed by a SINKHOLE last year
+      </title>
+<description>
+	The hole has been fixed but not forgotten at the National Corvette Museum in Kentucky. Yellow tape now marks the boundaries of the cavity that became a sensation and put the museum on the map.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Syrians begin boarding refugee ship on Greek island
+      </title>
+<description>
+	KOS, Greece, Aug 16 (Reuters) - Hundreds of Syrian refugees on the Greek island of Kos boarded a passenger ship on Sunday that is to house and process them, ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Cara Delevingne's stress-triggered psoriasis made her 'hate herself and her body'
+      </title>
+<description>
+	The Paper Towns star, 23, reveals that modelling made her feel 'hollow', while the pressure she experienced - and now sees in other young models - to pose in risque shoots is 'horrible'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Czech championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Czech championship matches on Sunday Sunday, August 16 Slovacko 2 Pribram 1 Jablonec 1 Slovan Lib...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Fake or not, Chelsea's reality is not pretty
+      </title>
+<description>
+	By Martyn Herman LONDON, Aug 16 (Reuters) - Chelsea manager Jose Mourinho described his team's 3-0 Premier League defeat at Manchester City on Sunday as a "f...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Nicole Trunfio shows cleavage in plunging black ensemble as she steps out for dinner
+      </title>
+<description>
+	It was another stylish display from Nicole on Sunday evening, but nobody was looking at the Australian model’s fitted black dress as she stepped out for dinner.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jose Mourinho frustrated with Chelsea's defensive errors and believes Manchester City should have finished with nine men
+      </title>
+<description>
+	Jose Mourinho has bemoaned Chelsea's defensive mistakes as he saw his side slip to a 3-0 defeat to Manchester City but believes their rivals should have had two men sent off.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pupils to get Classic FM in the classroom
+      </title>
+<description>
+	Bach (pictured), Mozart and Leonard Bernstein are among the composers chosen by a panel of experts at Classic FM for the project, to be launched by Ministers in November this year..
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Dish Network, Sinclair agree on extending TV contract
+      </title>
+<description>
+	Dish Network and Sinclair Broadcast Group announced an agreement Sunday extending their contract, enabling the satellite TV provider to broadcast Sinclair's ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mexican championship first stage results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Mexican championship First Stage matches on Sunday Sunday, August 16 Toluca 3 Guadalajara 1 Satur...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Government slammed for defence review allowing experts just a few hundred words
+      </title>
+<description>
+	The Government has created an form so people can contribute ideas and suggestions as part of the Strategic Defence and Security Review. Responses are restricted to 1,500 characters.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kuwait issues gag order after raid on suspected terror cell
+      </title>
+<description>
+	KUWAIT CITY (AP) — Kuwait's public prosecutor has issued a gag order to media on information related to a police raid that uncovered a large cache of arms, a...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Albuquerque police arrest Donovan Maez over Jaydon Chavez-Silver shooting
+      </title>
+<description>
+	Donovan Maez, 18, was arrested by Albuquerque police on Friday in connection with the murder of Jaydon Chavez-Silver.  After he was shot, a 911 dispatcher hung up on one of his friends.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Serbian championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Serbian championship matches on Sunday Sunday, August 16 Cukaricki 0 FK Radnicki Nis 1 FK Mladost...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bulgarian championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Bulgarian championship matches on Sunday Sunday, August 16 Botev Plovdiv 0 Slavia Sofia 1 Ludogor...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Croatian championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Croatian championship matches on Sunday Sunday, August 16 NK Zagreb 1 Istra 1961 1 Saturday, Augu...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Russian championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Russian championship matches on Sunday Sunday, August 16 Dynamo Moscow 1 Ural Yekaterinenburg 0 R...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Argentina coach Hourcade springs no surprises
+      </title>
+<description>
+	Aug 16 (Reuters) - Argentina coach Daniel Hourcade sprung no surprises when he named his squad of 31 players for this year's World Cup on Sunday. It included...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kourtney Kardashian takes kids Mason and Penelope out for scooter ride
+      </title>
+<description>
+	On Saturday, the day after the 36-year-old Keeping Up With the Kardashians star had an alleged 'visit' with Scott, Kourtney took her young ones out to ride their scooters and play in a park in Los Angeles.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Calais police smash smuggling gangs that have taken £1.4M from migrants
+      </title>
+<description>
+	A total of 1,225 smugglers working for seven Albanian gangs and another 12 networks have been arrested since the beginning of the year.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bird flu aftershocks to drive U.S. turkey, egg prices higher
+      </title>
+<description>
+	By Tom Polansek Aug 16 (Reuters) - Limited supplies of baby poultry and barn space to house them will hamper U.S. farmers' efforts to rebuild ravaged egg sup...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Transgender teen Riley Middlemore freezing his eggs before he makes transition
+      </title>
+<description>
+	College student Riley Middlemore, 16, (pictured) from Gloucester, was born a girl called Rebecca, but revealed to his family last year that he wanted to have a full gender change.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Premier League chief Richard Scudamore rejects Greg Dyke's proposal for increased homegrown quotas   
+      </title>
+<description>
+	Richard Scudamore has dismissed out of hand the idea that Football Association chairman Greg Dyke could force the Premier League to accept increased quotas of English and homegrown players.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	US Homeland Security BARRED boy from the US as they headed for a Las Vegas holiday
+      </title>
+<description>
+	Drew Saunders, from Burnham-on-Crouch, Essex, was preparing to board a flight from Heathrow to New York with his parents   when the trio were stopped by a US Homeland Security official.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ted Heath 'was not sexual' says the PM's friend as child abuse claims are probed
+      </title>
+<description>
+	Former Prime Minister Edward Heath's closest female friend has come to his defence, claiming that he was 'simply not interested' in sex. Sara Morrison supported former claims he was 'sexless'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sri Lankans to elect parliament in 'referendum' on Rajapaksa comeback
+      </title>
+<description>
+	By Ranga Sirilal and Douglas Busvine COLOMBO, Aug 17 (Reuters) - Sri Lankans elect a new parliament on Monday in what amounts to a referendum on ex-president...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Iraq's Abadi cuts 11 ministerial positions in reform push
+      </title>
+<description>
+	BAGHDAD, Aug 16 (Reuters) - Iraqi Prime Minister Haider al-Abadi ordered an immediate reduction in the number of ministers on Sunday to 22 from 33, as part o...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Misfiring Chelsea crushed by City, Arsenal win
+      </title>
+<description>
+	By Martyn Herman LONDON, Aug 16 (Reuters) - The Premier League season is only a week old but the problems are already piling up for misfiring champions Chels...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	U.S., allies conduct 22 air strikes against Islamic State -U.S. military
+      </title>
+<description>
+	WASHINGTON, Aug 16 (Reuters) - The United States and its allies have conducted 22 air strikes against the Islamic State in Iraq and Syria in the past 24 hour...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Nathan White: Joe Schmidt has shown a lot of faith in me... he's backed me to have a crack at making the World Cup squad 
+      </title>
+<description>
+	Nathan White has admitted he feared he would never realise his dream for Test match rugby during two injury-ridden spells - with the Connacht prop making his debut against Scotland.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ben Affleck with Jennifer Garner and their children at Universal Studios in Florida
+      </title>
+<description>
+	The estranged couple has been putting on a united front as they co-parent Violet, nine, Seraphina, six, and Samuel, three.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ukrainian championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Ukrainian championship matches on Sunday Sunday, August 16 Chernomorets Odessa 0 Zarya Luhansk 2 ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Obama: Civil rights activist Bond was 'hero' and friend
+      </title>
+<description>
+	EDGARTOWN, Mass. (AP) — President Barack Obama says the late civil rights activist Julian Bond was a hero and friend. Obama says he and first lady Michelle O...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bundesliga top scorers
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Top scorers of the Bundesliga on Sunday 2 Thomas Mueller (Bayern Munich) Henrikh Mkhitaryan (Borussia Dortmund) Marcel Heller (S...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Inmates say they worked for free for jail officials
+      </title>
+<description>
+	NASHVILLE, Tenn. (AP) — Former inmates at a privately run Nashville jail say they worked without pay building bean-bag "cornhole" games, plaques shaped like ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Argentina name World Cup squad
+      </title>
+<description>
+	Aug 16 (Reuters) - Argentina coach Daniel Hourcade named the following 31-man squad in Buenos Aires on Sunday for the World Cup in England starting on Sept. ...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Polish championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Polish championship matches on Sunday Sunday, August 16 Jagiellonia Bialystok 2 Ruch Chorzow 1 Wi...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Southwestern heat wave scorches Los Angeles, Phoenix and Las Vegas
+      </title>
+<description>
+	A heat wave expected to last through Sunday smashed a record in Phoenix as thermometers reached 115F on Saturday, the 18th day above 110 degrees that the city has seen this year.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bride-to-be, 22, slams her critics as she prepares to walk down the aisle with her 58-year-old fiance - even though he has THREE children older than her 
+      </title>
+<description>
+	Carly King, 22, is preparing to tie the knot with her fiance 58-year-old Billy Potts in Woodbridge, near Ipswich despite the pair being criticised for the 36 year age gap between them.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Salford 46-18 Leigh: Rangi Chase drives Red Devils to victory with two-try showing 
+      </title>
+<description>
+	Salford gained revenge for their shock Challenge Cup defeat at Leigh in April to make it two wins out of two in the Super League qualifiers with a 46-18 win on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Reese Witherspoon steps out in Santa Monica for lunch with husband and sons
+      </title>
+<description>
+	She recently opened up about the struggle to balance work and motherhood, but life looks in perfect harmony for the actress as she headed for lunch in Santa Monica on Saturday with her family
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BBC's Lady Chatterley's Lover 'is so explicit it's practically porn'
+      </title>
+<description>
+	Sex scenes in a new BBC adaptation of Lady Chatterley's Lover are so explicit it is verging on pornography, its producer has admitted.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Danish championship results and standings
+      </title>
+<description>
+	Aug 16 (Infostrada Sports) - Results and standings from the Danish championship matches on Sunday Sunday, August 16 Nordsjaelland 1 Esbjerg 2 OB Odense 2 Ran...
+      </description>
+<sentiment></sentiment>
+</item>

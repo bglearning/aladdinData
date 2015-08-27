@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Malaysian PM confident; French prosecutor less certain</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Family member: 'I can't speak'</title>
+<description>K.S. Narendran, whose wife was aboard missing Malaysia Airlines Flight 370, may be more confused now than ever.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Gunman in theater hatchet attack shot dead</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Boat capsizes; hundreds aboard</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>U.S. airmen die in freefall training</title>
+<description>Two special tactics airmen died after a freefall training accident at Eglin Air Force Base in Florida, the Air Force said. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Gadhafi's son beaten on tape</title>
+<description>A nine-minute video surfaced online this week showing what appears to be Libyan prison guards abusing one of the sons of former Libyan dictator Moammar Gadhafi. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Hostage threat in 'ISIS video'</title>
+<description>In a video purportedly released by ISIS on Wednesday, a group claiming to be ISIS' branch in the Sinai Peninsula threatens to kill a Croatian hostage if Egypt doesn't release female Muslim prisoners in 48 hours. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Stephen King's idea for Trump</title>
+<description>Author Stephen King slammed Republican presidential candidate Donald Trump on Wednesday, suggesting the GOP frontrunner is running a racist campaign.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Dozens killed as trains veer off bridge</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>NY escapee 'drunk' when shot</title>
+<description>Richard Matt -- one of two convicted murderers who escaped from a New York prison in June -- was drunk at the time of his death, toxicology reports show.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Donald Trump calls for 'civil' debate </title>
+<description>As GOP frontrunner Donald Trump has made news all summer for attacking members of his own party, the real estate mogul promised that would be "very civil" at the first Republican presidential debate of the cycle Thursday.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Boy, 11, charged over tot's death</title>
+<description>An 11-year-old boy has been charged after being accused of using his father's gun to shoot and kill a 3-year-old boy in Detroit.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>World's best freediver feared dead</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Report: 'El Chapo' clues ignored</title>
+<description>Clues that Joaquin "El Chapo" Guzman was plotting a prison break were seemingly all around, but Mexican officials chose not to act, according to a leading investigative reporter. </description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Wedding plans under water</title>
+<description>CNN's Sumnima Udas meets a newlywed couple trying to stay hopeful amid massive floods in eastern India.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Pope on divorce: No closed doors</title>
+<description>Pope Francis on Wednesday called for a more open Church -- one that embraces people who are divorced and remarried and their children.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Typhoon eyes Taiwan, China</title>
+<description>Typhoon Soudelor, while no longer strong enough to be classified as a super typhoon, remained a powerful cyclone Wednesday that is taking direct aim at Taiwan and China, threatening damaging winds, destructive storm surge and flooding rainfall. </description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>China + math Olympiad = rare U.S. victory </title>
+<description>For the first time in 20 years, China has lost a world math championship to the United States -- and many in the world's most populous nation seem happy about it.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Athletics at 'war' over doping</title>
+<description>The world of athletics is at loggerheads with two leading media organizations over just how widespread doping is within the sport, following reports that nearly 150 medal-winners at major championships produced "suspicious" blood tests.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Free frog: Kermit cuts pig loose</title>
+<description>Gavin and Gwen. Reba and Narvel.</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>New Dubai complex: Huge, snowy and record-breaking</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Parading Pride where homophobia is rife</title>
+<description>A year after the anti-homosexuality bill was nullified, Uganda's LGBTI community embark on four days of Pride events.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>North Korea adventure by rail?</title>
+<description>What's the worst reaction you could possibly get when you tell your friends you're going to North Korea? </description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Police 'hat trick' to beat jaywalkers</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Taxi ride to redemption?</title>
+<description> </description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Tourists sneak selfie with monkey</title>
+<description>Take a look at 26 selfies of the week from July 29 through August 4.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>This airport runs on wind</title>
+<description>The Galapagos Islands are among the most environmentally precious -- and sensitive -- regions on earth. Airports, by contrast, tend to leave a pretty disastrous carbon footprint. It should come as no surprise that the Galapagos is also home to what has been hailed as the world's first "green" airport. </description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Psychedelic world of Indian truck art </title>
+<description>If you're going to spend 10 months of the year on the road, you'd want a pretty sweet ride. </description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>A ride with diamond eyes: The first Arab supercar</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>7 food magicians who'll melt your mind </title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>World's first unstealable bike?</title>
+<description>Three young entrepreneurs claim to have solved a problem that makes every cyclist's blood boil -- they have invented the world's first "unstealable" bike.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Kelly Osbourne's Trump slam backfires</title>
+<description>Kelly Osbourne made some controversial comments of her own when discussing Donald Trump's recent statements on Latinos.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>How to create holograms from your phone</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Body painter makes models disappear </title>
+<description>Artist Trina Merry camouflages her human canvases into their surrounding scenery and can create mesmerizing shapes out of multiple people.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Growing up is hard but these photos are beautiful</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Inside Navy's 'most lethal warship'</title>
+<description>Get a closer look at the Navy's newest submarine, the USS John Warner.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Cold War-style battle of the soccer billionaires</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Huntress defiant over exotic kills</title>
+<description>Far from cowering, keen Idaho hunter Sabrina Corgatelli has been flaunting her kills, posting verses from the Bible apparently to justify her hunting ways.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Cazorla: We can beat the big teams</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>A new swinging style: 'You can't go too crazy'</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>What a shot! 40 amazing sports photos</title>
+<description>Take a look at 40 amazing sports photos from July 28 through August 3.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The island with 70 beaches and one huge volcano</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The city where romance travels by rail</title>
+<description>Travel's romantic spirit lives on in the French capital's grandest railway terminals.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Blur's Damon Albarn brought to life in comic</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Photographer finds beauty in imperfection </title>
+<description>Dutch photographer Hellen van Meene has been working over the last 20 years to capture a defining moment in every person's life. </description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>7 ways to spot someone is being trafficked</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Ride along with an ex-convict</title>
+<description>He was once a member of a notorious Hong Kong gang, now this ex-convict is finding hope behind the wheel of a taxi.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Syrian refugees struggle to reach Hungary</title>
+<description>Arwa Damon reports on the plight of migrants in Hungary in this CNN exclusive.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Incredible smartphone holograms</title>
+<description>Find out how to turn your smartphone into a thing of a future.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Woman has carried fetus for over 60 years</title>
+<description>Doctors in La Boca, Chile, made a startling discovery when they realized 91-year-old Estela Meléndez had been carrying a calcified fetus for over six decades.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Touching this plant can blind you</title>
+<description>Officials discovered giant hogweed plants growing in Michigan. Touching them can cause bruising, burning or even blindness. CNN affiliate WWMT reports.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Drawings show haunting memories of Hiroshima</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Floods ravage Asia</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Are millennials combating racism?</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Why Iran deal is good for Israel</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>How America got polarized</title>
+<description>As my wife and I waited to see a screening of "Best of Enemies," a new documentary focusing on the debates between the conservative publisher William Buckley Jr. and the liberal author Gore Vidal in the summer 1968, I overheard another guest say, "It will be nice to see a movie about a time when television was so much better at the news than it is today."</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Time for CEO pay transparency</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Hiroshima: What Obama should say</title>
+<description>Thursday marks the 70th anniversary of the first use of atomic weapons, when the Japanese cities of Hiroshima and Nagasaki were hit by atom bombs that ultimately claimed hundreds of thousands of lives, and left tens of thousands more injured and suffering the effects of radiation.</description>
+<sentiment>article</sentiment>
+</item>
+</news>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Nick Gordon reportedly missing, aunt 'kicked out'</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Mystery over death</title>
+<description>The 22-year-old daughter of Whitney Houston died yesterday in a hospice near Atlanta. CNN's Miguel Marquez looks at the tragic death of Bobbi Kristina Brown.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Bobbi Kristina Brown, in her own words</title>
+<description>Like most young people, Bobbi Kristina Brown communicated a great deal via social media. </description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Police seize $250K from Snoop Dogg at airport</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Bin Laden family die in plane crash</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Libyan symbol of defiance in U.S. jail</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Cecil the lion's brother dead?</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>MH370: Plane debris arrives in France</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Haqqani network boss 'died a year ago'</title>
+<description>For two years, the Afghan Taliban did not let on that its leader Mullah Mohammed Omar had died in a hospital. Now word is going around that another key leader of a prominent regional terror group may have died a year ago.</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>Firefighter killed by California wildfires</title>
+<description>A firefighter battling one of the large wildfires burning in California died in the line of duty this week, the U.S. Forest Service said.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Planes' drone near-miss over N.Y.</title>
+<description>Two airplanes flying near one of the nation's busiest airports each came within 100 feet of a drone on Friday, according to audio from each flight's radio calls.</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>Teen shot at Palestinian toddler protest</title>
+<description>A Palestinian teen died Saturday after he was shot by Israeli troops during clashes sparked by the killing of a toddler in an arson attack, Palestinian medical officials said. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Mt.Gox bitcoin chief arrested</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Man Utd unveils new-look strip</title>
+<description>Forget pre-season friendlies, the buildup to new English Premier League season has been all about the battle of the kits and the lucrative sponsorship deals linked to them.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Did comet kick-start life on Earth?</title>
+<description></description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Wine tour with an unexpected bonus</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Making the world sparkle: Nadja Swarovski</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>This 1914 classic car is still racing today</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+</news>

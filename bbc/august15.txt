@@ -1,0 +1,310 @@
+<item>
+<title>Japan and S Korea remember WW2</title>
+<description>Japan and South Korea are marking 70 years since the end of WW2, when Japan's surrender freed Korea from a 35-year occupation.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Eurogroup agrees new Greek bailout</title>
+<description>The Eurogroup agrees on a new bailout deal for Greece, which will now "irreversibly" remain in the eurozone.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>IS leader 'raped' US hostage Mueller</title>
+<description>An American aid worker, killed in February while held hostage by Islamic State in Syria, was sexually abused by the group's top leader, US officials tell ABC news.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>US flag raised over Cuba embassy</title>
+<description>John Kerry, the first US Secretary of State to visit Cuba in 70 years, reopens his country's embassy in Havana, decades after it closed.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>China orders chemicals crackdown</title>
+<description>China orders a nationwide check on chemical storage and a crackdown on illegal activities in the wake of the Tianjin disaster.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>North Korea goes back in time</title>
+<description>North Korea has put its standard time back by half an hour, to mark the 70th anniversary of the end of rule by "wicked" imperialist Japan.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Austria refugee camp 'shameful'</title>
+<description>Human rights group Amnesty International issues harsh criticism of what it calls "inhumane" conditions at Austria's main refugee camp.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Gunmen kill 18 in Brazil's Sao Paulo</title>
+<description>Gunmen kill at least 18 people in a series of overnight attacks on the outskirts of Brazil's largest city, Sao Paulo.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Greece ship to house Kos migrants</title>
+<description>A Greek ship which is to be used as a registration and accommodation centre in the current migrant crisis arrives at the island of Kos.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Man killed by rollercoaster in Ohio</title>
+<description>A man trying to retrieve his mobile phone is struck and killed by a rollercoaster at a theme park in Sandusky, Ohio.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Brazil probes World Cup corruption</title>
+<description>Brazilian prosecutors launch an investigation into allegations of corruption and overpricing in the construction of a stadium used during the 2014 World Cup.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Apple car clues emerge from letter</title>
+<description>Correspondence between Apple and an autonomous driving test site reveal nuggets of car plans.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: 'Dashcam' films China blast shockwave</title>
+<description>Footage from a camera mounted on a car dashboard has emerged showing the shockwaves from the two massive China explosions.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Stunned eyewitness films China blasts</title>
+<description>Footage of the massive China explosions, taken by stunned eyewitnesses, captures the fear and terror of those who saw what happened.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Chinese collector of Japan WWII photos</title>
+<description>Zou Dehuai from Qingdao in China is an avid collector of personal photo albums which belonged to Japanese soldiers in World War Two.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: 'A terrible episode of violence'</title>
+<description>Gunmen have killed at least 19 people on the outskirts of Brazil's largest city, Sao Paulo, in a series of overnight attacks.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Scars of WWII occupation in HK</title>
+<description>The legacy of the Japanese occupation during WWII still being felt by people in Hong Kong, who forced to use a currency called military yen.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Time bandits: Re-setting the clocks</title>
+<description>The Greenwich Meridian line in London is the 'starting point' for time zones across the globe but some countries have rebelled and turned into Time Bandits.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: Selina Scott: My feud with Trump</title>
+<description>BBC TV presenter Selina Scott has had problems with Donald Trump for a long time - since 1995, she tells Newsnight.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>VIDEO: US embassy in Cuba reopens</title>
+<description>The US has reopened its embassy in Cuba more than 54 years after it was closed, in a symbolic step signalling the warming of ties between both countries.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Cuba-US: The moment history unfolded</title>
+<description>The BBC's Cuba correspondent Will Grant reports on the historic moment Cubans thought they would never see, the reopening of the US embassy in Havana.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Luxury Sri Lanka resort can't hide country's divisions</title>
+<description>Sri Lankan divisions lurk behind image of perfect holiday resort</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>South Sudan: Obstacles to a lasting peace</title>
+<description>As a deadline for a peace deal nears, there remain many obstacles to a lasting settlement, as James Copnall explains.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Potent chemicals in Tianjin blasts</title>
+<description>At least four dangerous chemicals were stored at Tianjin port - how dangerous were they, and did they cause the explosions?</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Siri saves trapped teen in Tennessee</title>
+<description>Siri - Apple's voice-activated assistant - may have saved the life of Tennessee teenager after he was pinned underneath his truck and unable reach his phone.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Beaver bother on Trans-Siberian line</title>
+<description>Police blame "shaggy miscreants" for cutting signal wiring in remote Russian region.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>'Flash crash' trader freed on bail</title>
+<description>A UK financial trader accused of contributing to the 2010 US "flash crash" is freed after his bail conditions were changed.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Eurozone economy grows by 0.3%</title>
+<description>Eurozone GDP grows 0.3% between April and June, which is a slight slowdown from the first quarter.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Samsung unveils two big smartphones</title>
+<description>Samsung unveils two new large smartphones, but causes surprise by deciding not to sell one of them - the Galaxy Note 5 - in Europe.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Major blow for US film download case</title>
+<description>An Australian court rules a US company must pay a huge bond if it wants the details of Australians who illegally downloaded the film Dallas Buyers Club.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Cilla 'house burglary plot foiled'</title>
+<description>Cilla Black's son reveals a suspected plot to burgle the entertainer's home has been foiled as a coroner rules she died accidentally.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>V&A costing 'not robust enough'</title>
+<description>A review into the £80m price tag of Dundee's V&A museum concludes that the way the costs were estimated was not "sufficiently robust".</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Young 'alien Jupiter' discovered</title>
+<description>A planet 100 light-years away resembles a young version of Jupiter, astronomers say.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Global 'food shocks' risk increasing</title>
+<description>Climate change is increasing the risk of severe 'food shocks' where crops fail and prices of staples rise rapidly.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Cut the fat to lose weight - study</title>
+<description>Cutting fat out of your diet leads to more fat loss than cutting out the carbs, a US National Institutes of Health study shows.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Music during surgery 'reduces pain'</title>
+<description>Listening to music before, during and after an operation can help reduce pain, scientists who have conducted a large review of studies say.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Barcelona thrashed 4-0 by Bilbao</title>
+<description>Athletic Bilbao destroy Barcelona in the first leg of the Spanish Super Cup as Aritz Aduriz nets a hat-trick.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Day & Jones lead when play abandoned</title>
+<description>Australians Jason Day and Matt Jones are tied for the lead at the US PGA Championship as a storm sees the second round abandoned.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>The Sanders brothers: A tale of two underdogs</title>
+<description>The brothers who fight political battles they can't win</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>The cars of the Cuban trade embargo</title>
+<description>One way of measuring the impact of 55 years of US trade sanctions on Cuba is to look at the state of the country's cars.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Nigerians mourn revered monarch</title>
+<description>A revered monarch in south-west Nigeria, the Ooni of Ife, has been buried after thousands attended his funeral, a mourner tells the BBC.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Joy as Ebola village quarantine lifted</title>
+<description>A village in Sierra Leone becomes one of the last areas in the country to lift an Ebola quarantine, releasing more than 500 people from isolation.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Bangladesh blogger killing: Two held</title>
+<description>Bangladesh police arrest two suspected members of a banned Islamist group over the killing of atheist blogger Niloy Neel.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>China to continue market support</title>
+<description>China says it will continue to stabilise the stock market for "a number of years".</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Anti-Nazi couple's barn burned down</title>
+<description>A couple opposed to neo-Nazis in Jamel - an east German village - get police protection after fire gutted their barn.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Ethiopia jet stowaway gets to Sweden</title>
+<description>An Ethiopian man hoping to get asylum in Sweden is found in the hold of an airliner after a flight from Addis Ababa to Stockholm.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Fifa suspect opts to go to Nicaragua</title>
+<description>Julio Rocha, one of seven senior Fifa officials detained in Switzerland in May over corruption allegations, accepts extradition to Nicaragua.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Paraguay 11-year-old gives birth</title>
+<description>A girl who was allegedly raped by her stepfather when she was 10 gives birth in Paraguay after being denied an abortion by the authorities.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>IS battles militias in Libya's Sirte</title>
+<description>At least 25 people have been killed in fighting between Islamic State and rival Islamist group backed by armed civilians in the Libyan city of Sirte.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Bin Laden son 'makes al-Qaeda call'</title>
+<description>Al-Qaeda releases an audio message it says comes from Hamza Bin Laden, the son of the late al-Qaeda leader, Osama Bin Laden.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Red Sox manager says he has cancer</title>
+<description>Boston Red Sox manager John Farrell has been diagnosed with stage-one lymphoma, forcing him to go on medical leave for the rest of the season.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>US park kills bear that ate hiker</title>
+<description>Yellowstone National Park rangers shoot dead a grizzly bear that killed a hiker and ate part of his body.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Week in pictures: 8-14 August 2015</title>
+<description>A selection of the best news photographs from around the world taken over the past week.</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>War games, migration and climate change</title>
+<description>Students explore war games, migration and climate change</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>The lost Sino-Japanese war photos</title>
+<description>New photos shed light on China-Japan war history</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>My Irish clean plates neurosis</title>
+<description>Why I still obey my mother's demands to eat all my dinner</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Ukraine: Refugees in their own country</title>
+<description>The Ukrainian families displaced from the east</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Who does Amy Schumer think she is?</title>
+<description>Who does Amy Schumer think she is?</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>Turkish Kurd grief: 'They don't even let us bury our dead'</title>
+<description>Turkey blocks return of bodies of Kurds killed fighting IS</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>'I'm coming here for peace'</title>
+<description>Desperation and hope as migrants arrive on Kos</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>10 things we didn't know last week</title>
+<description>Facebook users prefer 'haha' to 'lol', plus more news nuggets</description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>The grannies who had never seen the sea</title>
+<description>The grannies who sent 200 cards on their first ever holiday</description>
+<sentiment></sentiment>
+</item>

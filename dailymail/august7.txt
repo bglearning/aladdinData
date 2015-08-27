@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>
+It's war! Trump starts debate by REFUSING to rule out third-party campaign -- and is immediately slammed for 'buying politicians'
+</title>
+<description>
+'I cannot say "I have to respect the person if it's not me",' Trump said amid a mix of boos, laughter and cheers. 'I will not make the pledge at this time,'
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Good Witches! Uzo Aduba and Amber Riley join the all-star cast of NBC's upcoming musical The Wiz
+</title>
+<description>
+NBC has added two more actresses in major roles for its upcoming live musical airing of The Wiz.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Fox Mulder and Dana Scully are no longer a couple in new X-Files teaser
+</title>
+<description>
+The X-Files agents played by David Duchovny, 54, and Gillian Anderson, 46, were just pals in a new clip for the upcoming revival screened on Thursday at the Television Critics Association's press tour.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Khloe Kardashian is a hair model for the day at Sydney beauty event
+</title>
+<description>
+She may have been in the country to promote the new Kardashian Kids collection. 
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Sudanese refugee walked the Channel Tunnel to Britain reveals danger of Calais migrant crisis
+</title>
+<description>
+A Sudanese refugee slipped into the Channel Tunnel under the noses of security staff and simply walked the 31 miles to Kent, as trains whizzed past him just inches away (file photo).
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Laverne Cox at the Hamilton: An American Musical premiere on Broadway
+</title>
+<description>
+She's quickly becoming a regular feature on red carpets thanks to her breakout role in the Netflix Original series, Orange Is The New Black.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+The Beatles hamming it up by the pool at British actor Reginald Owen's Bel Air mansion
+</title>
+<description>
+Never before seen photos of legendary British rock group The Beatles taken by their manager Bob Bonis while on vacation in August 1964 were released on Thursday.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Khloe Kardashian and Kendall Jenner play with rescued baby jaguars and tigers in Mexico
+</title>
+<description>
+The Keeping Up With The Kardashians sisters took some time out of their southern holiday to visit the Black Jaguar White Tiger Foundation , a rescue organisation specialising in big cats.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Ed to the rescue! Sheeran replaces Justin Bieber at Fusion Festival after singer pulls out due to 'unforeseen issues'
+</title>
+<description>
+The 24-year-old troubador stepped into the void after Justin, 21 - pulled out of the festival, which is in support of The Princes Trust - with only two weeks to go due to 'unforeseen issues'.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Tombstone with name of 8-year-old who died in 1998 found in New Jersey bus depot
+</title>
+<description>
+A maintenance worker found the memorial stone at a location used by NJ Transit in the town of Nutley, not far from Jersey City.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Police standoff over at downtown Minneapolis hotel
+</title>
+<description>
+MINNEAPOLIS (AP) — Minneapolis police say a standoff is over with a man who was holed up in a downtown hotel where a national convention of journalists is be...
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Ada Nicodemou's husband Chrys Xipolitas shares heartbreaking tribute one year after the loss of their stillborn son Harrison
+</title>
+<description>
+Using poetry to express the family's loss, Chrys wrote on social media: 'Harrison, I'll always be your father, She'll always be your mother, You'll always be our child, The child that we had.'
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+English and Welsh police stop more people from ethnic minorities
+</title>
+<description>
+Figures published by forces yesterday show black people are more likely to be stopped and searched than whites in almost every force in England and Wales.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+GOP presidential debate arena is EMPTY as second-tier candidates face off
+</title>
+<description>
+Candidates including Bobby Jindal, Rick Perry and Carly Fiorina were met by some 20,000 empty seats in the first debate of the night at the Quicken Loans arena in Cleveland, Ohio.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Native Americans lose fight to wear long hair in prisons for their religious beliefs
+</title>
+<description>
+The 11th U.S. Circuit Court of Appeals court this week upheld an Alabama prison policy requiring male inmates to keep their hair cut short.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Jude Law films The Young Pope with Diane Keaton
+</title>
+<description>
+They're hard at work filming new TV series, The Young Pope -but Jude Law and Diane Keaton made time for some fun on Thursday. 
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Grover Connor arrested in the killing of Louisiana police officer Thomas LaValley
+</title>
+<description>
+Suspect Grover Deandre Cannon was wanted not only in the fatal shooting of Officer Thomas LaValley on Wednesday but also in connection with another shooting in July, Louisiana State Police said.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+The Gondoliers (Gilbert and Sullivan Festival, Harrogate) is exhilarating
+</title>
+<description>
+Besides the Italian saltarello, tarantella and barcarolle, Sullivan gives us a graceful French gavotte and a brilliant Andalusian cachucha — very well sung and danced.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+JAMIE CARRAGHER: Jose Mourinho worth 10 points a season to Chelsea
+</title>
+<description>
+LEE CLAYTON, HEAD OF SPORT: Jamie Carragher looks forward to the new season, where he expects Chelsea will retain their title. But he isn't looking forward to wearing a Manchester United shirt...
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Police say truck bomb in Kabul kills 8 people, wounds 198
+</title>
+<description>
+KABUL, Afghanistan (AP) — A bomb hidden in a truck exploded in the center of the Afghan capital, killing eight people and wounding another 198, police and ho...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Gaza Strip side Shijaiyah United and West Bank club Al-Ahly play out 0-0 draw in step forward for Palestinians' unity
+</title>
+<description>
+Divided politically and geographically, Palestinians made strides toward unity with the first football match between a West Bank club and a Gaza Strip team in 15 years on Thursday.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Vet saves dying pet owner with first aid usually used on animals
+</title>
+<description>
+Matthew Fry (right), 49, used resuscitation techniques he had only previously used on animals to rescue 30-year-old Lizzie Bevis (left) - whose dog he was putting down.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Roman Abramovich has questions over lack of Chelsea graduates making the grade in Jose Mourinho's side
+</title>
+<description>
+NEIL ASHTON: With the amount of time Roman Abramovich is devoting to his academy project, Chelsea staff have been left in no doubt that he is demanding a return on his £100million investment.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Matthew McConaughey gushes as wife Camila Alves finally becomes a US citizen
+</title>
+<description>
+The 33-year-old was grinning with glee as she posed with the movie hunk star and their three children inside a courthouse, where she no doubt said her Pledge Of Allegiance.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Migrants saved on Mediterranean sea from overcrowded smugglers boat
+</title>
+<description>
+A man can be seen diving from the bow (pictured) as scores more, including women and babies, are given life-jackets and rescued by aid workers operating just over 10 miles off the Libyan coast.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Bahrain suspends publication of independent newspaper
+</title>
+<description>
+MANAMA, Bahrain (AP) — Bahrain's government has suspended the publication of the independent newspaper Al-Wasat. The official Bahrain News Agency said in a b...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Wild cranes born in UK take to British skies for first time in 4 centuries
+</title>
+<description>
+After being hunted to extinction and having had their marshland habitats drained cranes are now officially back and on the wing in Britain.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Empire co-creator Lee Daniels to create series pilot for Fox
+</title>
+<description>
+On the heels of the major success of Empire, he is creating another music-centered TV drama for Fox.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Preston Police searching for Jake Derrick facing burglary charges
+</title>
+<description>
+A warrant was issued for the arrest of Jake Derrick, also known as Jake Hancock, from Preston, north west of Melbourne, late Thursday night after he failed to appear in court to face burglary charges.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+French couple dead after hike in New Mexico; child rescued
+</title>
+<description>
+ALAMOGORDO, N.M. (AP) — Two tourists from France have been found dead after hiking in New Mexico's White Sands National Monument, but a young boy was rescued...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Mine plug blows in Colorado, dumping 1M gallons of waste
+</title>
+<description>
+DENVER (AP) — A million-gallon mine waste spill that sent a plume of orange-ish muck down a river in southwest Colorado on Thursday was caused by a federal m...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+One in seven over-65s now use social media sites like Facebook and Twitter
+</title>
+<description>
+New data shows a sharp rise in silver social surfers in the last three years. Between 2012 and 2015, the proportion of people aged 55 to 64 using social networking sites has doubled.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Andy Murray and Kim Sears announce they are expecting their first baby
+</title>
+<description>
+British tennis star Andy Murray and new wife Kim Sears are expecting a baby, it has been reported. The couple, who married in April, are said to be overjoyed by the news.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Grand jury indicts Wyoming man arrested in roadside killings
+</title>
+<description>
+HELENA, Mont. (AP) — A federal grand jury indicted a Wyoming man Thursday on murder and assault charges in the fatal roadside shooting of a Montana man and h...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Southampton fans arrested after violence breaks out in Arnhem city centre before Europa League tie
+</title>
+<description>
+The lead-up to Southampton’s match against Vitesse Arnhem was marred by violence. The situation turned ugly when fighting broke out and bottles and chairs were thrown.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Shawn Robinson, 41, found dead in his New Orleans hotel room
+</title>
+<description>
+Hollywood stuntman Shawn Robinson, 41, who has worked on Captain America and Transformers, was found dead after he failed to report to work July 28.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Eating plenty of fruit and veg DOES help us live longer
+</title>
+<description>
+Scientists from the Scripps Research Institute in San Diego found that antioxidants can keep a vital organ called the thymus healthy by stopping age-related damage in its tracks.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Tesla reveals video of its 'solid metal snake' charger connecting to Model S
+</title>
+<description>
+A video posted on Tesla's Twitter account today shows the probing metal snake slithering its way to the car before beginning the charging process. It is not yet known when it will be available.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+1 off-duty officer, 3 gang members killed in El Salvador
+</title>
+<description>
+SAN SALVADOR, El Salvador (AP) — An off-duty police officer and three suspected gang members were killed in a shootout in El Salvador, authorities said Thurs...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Blue Bell recalls workers for restarted Alabama plant
+</title>
+<description>
+BRENHAM, Texas (AP) — Blue Bell Creameries said it is bringing back nearly 200 workers furloughed from an Alabama plant to resume production after state heal...
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Organ donation inquiry was rushed out because of a negative news story
+</title>
+<description>
+Assistant Health Minister Fiona Nash accelerated an announcement of an organ donor review after she learned Channel Seven were set to be critical of reforms to the organ donation system.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Baby sloth is born at Chicago's Lincoln Park Zoo
+</title>
+<description>
+The Hoffman's two-toed sloth was born July 25 to 21-year-old mother Hersey and 32-year-old father Carlos, Lincoln Park Zoo said Thursday.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Wife of killed Islamic State leader now in Iraq custody
+</title>
+<description>
+WASHINGTON (AP) — The wife of an Islamic State leader who was captured earlier this year in a military operation that left her husband dead, has been transfe...
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Kansas woman held captive by boyfriend rescued by putting note for help in rent check
+</title>
+<description>
+The victim told police she had been held by her boyfriend, Anthony Allen, 34, in Lenexa, Kansas, since April 1, but was busted out by police on Sunday after the building manager found her note.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Stuntman Tanner Godfrey paralysed eight years ago breaks world car jump record
+</title>
+<description>
+Dramatic footage shows Tanner Godfrey, 26, jumping a UTV - a two seater off-road vehicle - 202 feet through the air at a stunt show in Butte, Montana.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Wellington man and his 2 kids escape sinking car after it crashed into the sea
+</title>
+<description>
+Neighbours woke up to the sound of a crash and children's screams in Wellington, New Zealand, after a car smashed through a fence and rolled into the ocean on Friday morning.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Police leadership vacuum in Maharashtra threatens anti-Maoist struggle
+</title>
+<description>
+Positions like Inspector General of Police (Anti-Naxal Operations) and Superintendent of Police Special Action Group (SAG) have no full-ltime officers assigned.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Nana Betty, 89, serves as a bridesmaid for her granddaughter Christine Quinn
+</title>
+<description>
+Christine Quinn, from Plymouth, Pennsylvania, said she asked Betty Govern, or Nana Betty for short, to stand beside her at her May 2 nuptials simply because she is one of her best friends.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Two disabled girls wheelchair dance to Silento's hip hop hit Whip/Nae Nae
+</title>
+<description>
+Mayli and Brooklyn learned the dance at their Ayita Wheelchair Dance class in Fort Worth, Texas, which is run by Mayli's mom. The moves are adapted to work around - and work with - their wheelchairs.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Texas husband surprises his wife Nia Rader by revealing that she's pregnant
+</title>
+<description>
+Sam Rader, 29 found out that his wife Nia, 26, was pregnant before she did because the mother-of-two doesn't flush in the middle of the night. So the Texas native broke the news to her on camera.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Australians choose Uber over regular taxis as it is 40% cheaper
+</title>
+<description>
+Daily Mail Australia has compared Uber X to regular taxis and found that they were were consistently 40 per cent cheaper than catching a local taxi (pictured).
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Dambuster who tried to SAVE German lives 
+</title>
+<description>
+The Dam Busters film made 617 Squadron the best-known in the wartime RAF. Sadly, the last of the pilots, Les Munro, died this week.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Medicine for young children recalled over fears of choking hazard 
+</title>
+<description>
+Pain relievers for young children are being recalled because the lids are a potential choking hazard. A number of batches of Pharmacy Care and Pharmacy Choice brand medicines are recalled.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Whitsundays mansion goes on the market at an undisclosed price
+</title>
+<description>
+A mansion worth more than $25 million in the Whitsundays, North-Queensland, has been put on the market, arguably the best waterfront property in Australia (pictured).
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Father's tattoo tribute to daughter who has two hearing implants goes viral
+</title>
+<description>
+Alistair Campbell, from New Zealand, got the inking done as his daughter Charlotte was due to have her second cochlear implant fitted because she has almost total hearing loss.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Missouri man gets 20 years in prison for making child porn
+</title>
+<description>
+KANSAS CITY, Mo. (AP) — A man who prosecutors say admitted while applying for a Missouri State Highway Patrol job that he had had sexual contact with several...
+</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>
+Family barred from entering pizza restaurant with disabled son
+</title>
+<description>
+Matt Brown, 30, said he tried to take son Colton, who has to be strapped to a medical stroller because of a debilitating spinal condition, into Nicola Pizza in Delaware, but was refused entry.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Bill Clinton denies encouraging Donald Trump to run against wife Hillary
+</title>
+<description>
+Trump initiated the calls, not former president Clinton, whose wife Hillary is now seeking the White House, it indicated. Clinton did call him back eventually, but they didn't discuss the 2016 race.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Snow leopards DON’T have specially-adapted blood cells to cope with thin air
+</title>
+<description>
+The study, involving the University of Nebraska, revealed that snow leopards have not evolved more efficient haemoglobin to help them survive at high altitudes.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Baltimore police make arrest in killing of transgender woman
+</title>
+<description>
+BALTIMORE (AP) — The Baltimore police have arrested a suspect in the fatal stabbing of a transgender woman last July. Interim Police Commissioner Kevin Davis...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Teacher Emily Zarnoch, 23, killed by 'drunk' hit-and-run driver in Maine
+</title>
+<description>
+Emily Zarnoch, 23, of Massachusetts, was walking hand-in-hand with her boyfriend Tuesday in York, Maine, after a night out when an SUV struck her, throwing her body 60 feet in the air.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Stolen Ames Stradivarius violin is recovered after 35 years
+</title>
+<description>
+A Stradivarius violin which disappeared 35 years ago has been found after it was handed in by the ex-wife of a man suspected of stealing it. In 1980, the instrument was taken from  Roman Totenberg.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+The injection that can instantly cure drug addicts
+</title>
+<description>
+Scripps researchers found a single injection of early drug candidate called blebbistatin cured animals. Researchers hope to first use the drug to treat meth addicts.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+India calls in foreign lawyers to fight Italian marines case
+</title>
+<description>
+The experts in international arbitration have been hired by India to challenge Italy’s move to take the case to an international tribunal in Hamburg, Germany.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Marvin Minsky says artificial intelligence could someday be religious
+</title>
+<description>
+Researchers from various fields say the laws of computer science mean robots could someday believe in God, but this won't necessarily make them kind to humanity.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+London Bus driver helping struggling tube strike commuters loses temper
+</title>
+<description>
+This is the moment a London bus driver who was drafted in to deal with the congestion caused by the Tube strike lost his temper with commuters and told a passenger to 'shut your f****** pie hole'
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Los Angeles comedian challenges people to identify a lesbian by their voice 
+</title>
+<description>
+In a new video, people are asked if they believe that they can pick a lesbian out of a line-up, simply by listening to her speak. But when put to the test, they are shocked to learn the truth.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+5 Guatemalan soldiers detained following abuse video
+</title>
+<description>
+GUATEMALA CITY (AP) — Police in Guatemala have detained five soldiers on abuse of authority charges after a video circulated on social media showing them bea...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Police arrest serial rapist for murder of Mexican journalist Ruben Espinosa
+</title>
+<description>
+A man has been arrested in connection with the brutal killing of photojournalist Ruben Espinosa in Mexico City. Four women, including social activist Nadia Vera pictured, were killed.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Half-mile journey: 80-pound pet tortoise reunited with owner
+</title>
+<description>
+MIAMI (AP) — A South Florida woman has been reunited with her 80-pound pet tortoise after he escaped earlier this week and managed to get about a half-mile a...
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Guillermo falls apart, new tropical storm forms in Pacific
+</title>
+<description>
+HONOLULU (AP) — Tropical Storm Guillermo is expected to be downgraded to a tropical depression as it skirts past the Hawaiian Islands. Meanwhile, a new tropi...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Veterans who served in the deserts of Afghanistan and Iraq have increased risk of skin cancer
+</title>
+<description>
+A new study asked over 200 vets about their use of sunscreen, sun safety training and time spent unprotected outdoors and researchers found the answers worrying.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+World War II veteran Eligio Ramos has wallet returned from Austria after 70 years
+</title>
+<description>
+Eligio Ramos, 91, of Fresno, California recently received the wallet he lost 70 years ago in the mail, after a doctor in Austria found it in a farmhouse where Ramos once spent the night during WWII.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+The Lion King animator honors Cecil with illustration inspired by Disney classic 
+</title>
+<description>
+Aaron Blaise is a Disney animator who worked on the 1994 hit film. fter being 'extremely moved' by the slaughter of Cecil the Lion, he honored the late animal with a Lion King-inspired picture.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+British holidaymakers warned about travel to Cyprus as temperatures hit 57C
+</title>
+<description>
+Some car thermometers in Nicosia logged 63C, with the heat being so extreme that one person wrote on Twitter that she'd put her iPhone in the fridge.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Cancer survivor Cami Carver, 9, meets donor Joe Tolin who saved her life
+</title>
+<description>
+Deli manager Joe Tolin recently flew to Salt Lake City, Utah, to meet nine-year-old Cami Carver, two years after giving the complete stranger a life-saving bone marrow transplant.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Australia turned back 20 migrant boats in the last 18 months
+</title>
+<description>
+Australia's immigration minister said the hardline policy has saved the lives of countless asylum seekers because if those 20 vessels were allowed entry, '200 or 2,000' more could have followed.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Barack Obama calls for support for Iran nuclear deal
+</title>
+<description>
+He channeled  John F. Kennedy announced a nuclear nonproliferation deal with the country on this very day in 1963 and gave a speech at the same venue earlier that summer.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Why it IS easier to work out to music - it dulls the pain
+</title>
+<description>
+Listening to our favourite  music makes the brain release natural painkilling chemicals called opioids – the same family of drugs as heroin and morphine, found research from McGill University.
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+Company plans to offer first private passenger rail in years
+</title>
+<description>
+PROVIDENCE, R.I. (AP) — A Boston company wants to offer the first private passenger rail line in the nation in more than 30 years, reviving a once-popular bu...
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+LG reveals it WILL sell flip phone mobile with 3MP camera in US and UK
+</title>
+<description>
+Called the LG Wine Smart, the handset has a 3.2-inch colour touch screen and runs Android Lollipop 5.1. It also has physical buttons  and a 3.2mp camera, and is expected to cost around $170 (£109).
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+ISIS executes 19 girls for refusing to have sex with fighters
+</title>
+<description>
+The women were being held in the ISIS stronghold of Mosul, Iraq, and refused to take part in the perversely-named practice of 'sexual jihad', according to a Kurdish official stationed in the same city (file photo).
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Beached whales in Canada have been helped back out to sea
+</title>
+<description>
+BAYFIELD, Nova Scotia (AP) — A group of beached whales in eastern Canada has been helped back out to sea, marking the second time this week that concerned re...
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Apple reveals 11 MILLION people have signed up for a free trial of its music streaming service after just a month
+</title>
+<description>
+Eddy Cue, Apple's senior vice president of Internet software and services said the firm was 'thrilled' with the number - even though it is just over half of the 20 million paying customers Spotify has.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Dre says he'll donate royalties from new album to Compton
+</title>
+<description>
+NEW YORK (AP) — Dr. Dre says he will donate royalties from his new album to the city of Compton for a new performing arts facility. In an interview with Zane...
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Madonna admits she has to pay an aide to remind her to eat due to tour
+</title>
+<description>
+The music icon, who is kicking off her Rebel Heart tour on September 9 in Montreal, revealed that she has been spending 10 to 12 hours a day prepping for the series of performances.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Pakistan military helicopter crashes in northwest; 11 killed
+</title>
+<description>
+PESHAWAR, Pakistan (AP) — A Pakistani military helicopter crashed in a mountainous region in the country's restive northwest on Thursday, killing at least 11...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Twin saved in China's first operation to divide conjoined babies thanks doctor
+</title>
+<description>
+Doctors worked over 10 hours to separate the twins in successful surgery. Operation was the first successful separation of conjoined twins in China. Gu Qiao is now 19 and will go to university soon.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Robots deployed to cater to hotel guests' needs and navigate the lift
+</title>
+<description>
+The Crowne Plaza San Jose-Silicon Valley hotel in the U.S. and the Aloft Hotels brand of Starwood Hotels are both utilising androids in the hospitality sector, both created by Savioke.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Sunken treasures from Spanish galleons bring $2M at auction
+</title>
+<description>
+NEW YORK (AP) — Dozens of artifacts from two 400-year-old Spanish shipwrecks have been auctioned for about $2 million. Among the highlights of Guernsey's sal...
+</description>
+<sentiment>positive</sentiment>
+</item>
+</news>

@@ -1,0 +1,1207 @@
+<item>
+<title>
+	Bumble Bee to pay $6million after death of worker accidentally cooked in a 270-degree oven with six tons of canned tuna
+      </title>
+<description>
+	Jose Melena, 62, died in an oven at the seafood company's California, plant after a co-worker mistakenly believed he was in the bathroom and filled a pressure cooker with the tuna.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BREAKING NEWS: Former President Jimmy Carter has been diagnosed with cancer
+      </title>
+<description>
+	The former president plans to undergo treatment at  Emory Healthcare in Atlanta, Georgia.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Real-life Bambi and Thumper play together in Colorado Rockies
+      </title>
+<description>
+	A video shows the duo jumping around and chasing one another during what looked like a playful game of tag in Estes Park, Colorado. The footage has been viewed more than 472,000 times.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sandra Lee gives thumbs up as she she leaves hospital with boyfriend Andrew Cuomo on Wednesday
+      </title>
+<description>
+	Sandra Lee, 49, who was diagnosed with breast cancer in March, left a New York City hospital with her longtime boyfriend, New York Governor Andrew Cuomo, on Wednesday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	LeAnn Rimes takes 40 PILLS a day as part of her beauty regimen and to keep psoriasis under control
+      </title>
+<description>
+	LeAnn Rimes, 32, in a new interview revealed that her beauty regimen includes taking 40 pills a day.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Deep sea creature dubbed the ‘Flying Spaghetti Monster’ is found floating off African coast
+      </title>
+<description>
+	A jellyfish-like creature observed floating off the coast of Angola has adherents of a parody religion shouting 'praise Flying Spaghetti Monster!'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chelsea Manning faces confinement for Caitlyn Jenner Vanity Fair magazine
+      </title>
+<description>
+	Chelsea Manning's lawyer says her client is facing charges for alleged prison infractions that carry a possible maximum sentence of indefinite solitary confinement.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Older people benefit more from exercise than those who are younger
+      </title>
+<description>
+	The new research shows that the exercise you do in later life is more beneficial to you then than what you did in your earlier days, so it is never too late to try and make an impact on you health.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Florida couple accused of turning teenage girl into sex slave
+      </title>
+<description>
+	Rob Johnson (right), 44, Marie Johnson (left), 43, allegedly told the 13-year-old girl she could only be part of the family if she had sex with them. She had moved into the home after her mother died.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How a man abandoned by his birth parents after an infection ate half his face confronted his birth mother 38 years later
+      </title>
+<description>
+	Howard Shulman has revealed the confrontation with his birth mother in New Jersey almost 40 years after he was left in the hospital bed because his parents 'couldn't handle it'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sarah Ferguson, Duckess of York appears on shopping channel QVC to promote juicer
+      </title>
+<description>
+	The Duchess of York joined presenters on the US shopping channel and discussed how she had finally be able to overcome cruel jibes about her weight formerly referred to as the 'Duchess of Pork'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Earliest discovered recording of Martin Luther King's 'I Have a Dream' speech
+      </title>
+<description>
+	The quote 'We hold these truths to be self evident, that all men are created equal' did not feature in Dr King's speech when he gave it in 1962, but was added during the March On Washington in 1963.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Barack Obama hits golf course with NBA legends Ray Allen and Alonzo Mourning
+      </title>
+<description>
+	Obama has wasted no time making it to the golf course during his annual Martha's Vineyard summer vacation. He was joined on Wednesday by NBA legends Ray Allen (left) and Alonzo Mourning.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Miranda Lynch 'beaten to death by women trying to steal boyfriend's food benefits'
+      </title>
+<description>
+	34-year-old Miranda Michelle Lynch was held in a mobile home near Bessemer, Alabama, for two days while the women beat her, authorities said Wednesday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Three new women accuse Bill Cosby of sex assault and rape
+      </title>
+<description>
+	Colleen Hughes and Linda Ridgeway Whitedeer said Cosby, 78, had sexually assaulted them in the 1970s, while Eden Tirl said he sexually harassed her on The Cosby Show set in 1989.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Gribshunden ‘sea monster’ figurehead emerges from the Baltic
+      </title>
+<description>
+	This figurehead was lifted from the sea in southern Sweden this week by divers bringing up treasures from the wreck of the 'Gribshunden', a ship which belonged to Danish King John.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	CHILDREN take up arms in Ukraine and learn how to fire weapons
+      </title>
+<description>
+	Extremists from the Azov unit, a far-right militia which is defending Mariupol, eastern Ukraine, are running a week-long summer military camp, to teach children how to survive in conflict.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	At least 300 people injured after enormous blast in explosives shipment hits Chinese city
+      </title>
+<description>
+	Videos of the explosion in Tianjin showed flames lighting up the night sky and residents in nearby districts were quoted as saying the blast had shattered windows.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Layden Thomas dies after following his dad into burning home in Pennsylvania
+      </title>
+<description>
+	Layden Thomas, three, was pulled out of his  family's home in Sharon, Pennsylvania, on Monday night by his heroic father, Terry Thomas, after a candle tipped over and set the property ablaze.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How music could help beat pain of surgery
+      </title>
+<description>
+	The team, from Brunel University London and Queen Mary University London, looked at data from 7,000 patients in 73 trials. Patients were asked how much pain they felt  24 hours after surgery.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Never hate your photo again: Just steal the tricks of celebrities
+      </title>
+<description>
+	Newsreader Samantha Simmonds, above, appears on camera for a living but doesn't like how she looks in family photos. Photographer John Godwin shows her how to look good from any angle.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	China sparks fears of a currency war as FTSE loses £24bn
+      </title>
+<description>
+	The People's Bank of China cut the value of the yuen, pictured, this week in the biggest devaluation of their currency for 20 years in a move that has angered other nations all over the world.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bobby Brown lifts his spirits following death of Bobbi Kristina with night at comedy club
+      </title>
+<description>
+	The former husband of Whitney Houston was inconsolable at his daughter's funeral service August 1 but clearly feels able to start facing the world again.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mums-to-be can turn obsessively house proud but some go to extremes
+      </title>
+<description>
+	Pregnant Samantha became obsessed with cleaning, bleaching four times a day. It may seem crazy but Samantha, was in the grip of a phenomenon  dubbed 'extreme nesting'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kelly Rutherford slams judge who 'arrested' her children
+      </title>
+<description>
+	On Tuesday a New York court ordered the 46-year-old to send her two children back to her ex-husband Daniel Giersch in Monaco, after she had ignored an earlier order to do so
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	London mother says her children blight her marriage
+      </title>
+<description>
+	Kate Morris (left) feels her children have taken over her life and the pressures of parenthood have affected her relationship with her husband. The Londoner feels her kids corrode her marriage.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Man sentenced to 5 years in prison for carjacking woman in labor in Maryland
+      </title>
+<description>
+	Deverey Hasani-Jarod Kelley has been sentenced to five years in prison for carjacking a woman who was in labor and on her way to the hospital in Annapolis last year.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Why our eyes flicker during deep sleep
+      </title>
+<description>
+	The discovery was made by UCLA scientists after they recorded electrical activity from individual brain cells during the dreaming phase of sleep.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Three men reveal the devastating loss felt when their wives miscarried
+      </title>
+<description>
+	Three men, whose partners lost unborn children, shared their heartbreaking stories with Cosmopolitan.com, revealing how their loss helped strengthen the bonds of their marriages.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump has lead in Iowa as caucusgoers warm up to outsider candidates
+      </title>
+<description>
+	The CNN/ORC poll is the third survey in a row since last week's primary debate to show that The Donald is still on top in the Hawkeye State.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Batesville mayor Richard Fledderman 60, 'busted for paying for sex with male prostitute'
+      </title>
+<description>
+	A probable cause affidavit  says Batesville Mayor Richard Fledderman paid 42-year-old Randy Wigle-Stevens, who is also married, $170 for sex, but the man later came back demanding more money.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rand Paul hits Donald Trump with new video showing him praising Hillary Clinton
+      </title>
+<description>
+	Paul told a Fox News audience that a President Trump could 'treat the country as sort of his little bully fiefdom.' He tweeted in response that Paul was 'a spoiled brat without a functioning brain.'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sex and the City creator Candace Bushnell puts her apartment on the market
+      </title>
+<description>
+	The bestselling author, 56, is selling her one bedroom, one-and-a-half bathroom co-op in New York's Greenwich Village . It features a hardwood floors, a fireplace, and a washer and dryer.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	American Idol's Constantine Maroulis arrested for domestic violence
+      </title>
+<description>
+	The former American Idol favorite was taken into custody on Wednesday after allegedly kicking Angel Reed, his girlfriend and the mother of their four-year-old daughter, in the groin.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Dating Beyond Borders video shows men try to guess what women find attractive
+      </title>
+<description>
+	A video by Canadian travel series Dating Beyond Borders sees pairs of men and women from different countries evaluate the attractiveness of several very different-looking men in photos.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Video of young boy sent flying by rotating arm inspires musical memes
+      </title>
+<description>
+	The original video was uploaded to clip-sharing app Vine by Indiana University student Kierra Santillan, where it has been viewed more than 32 million times, inspiring plenty of musical memes.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Hillary Clinton launches desperate pushback on servergate
+      </title>
+<description>
+	A government official says Obama is throwing Hillary under the bus to clear a presidential campaign path for Joe Biden: 'I don't believe in coincidences.'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Madrid woman suspected of slashing 3-month-old baby's throat
+      </title>
+<description>
+	The woman, who has not been identified, was taken by authorities to a hospital near the central Spanish town of Villa de Don Fadrique early Wednesday morning.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New app can tell you whether you're too stoned to drive
+      </title>
+<description>
+	Called Canary and created by Colorado-based former engineer Marc Silverman, the app aims to test mental and physical performance - and whether either is impaired - in four steps.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Plus-size women share the vicious comments they receive from trolls
+      </title>
+<description>
+	Body-positive activists, bloggers, and models reveal the worst things strangers have said to them online. Many have been called names, lectured about their habits, and told to kill themselves.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Florida woman charged with animal cruelty after dogs so hungry they ate puppy
+      </title>
+<description>
+	Marangillette Viera-Rivera, 33, was taken into custody on Tuesday in Tampa after police found that seven 6-week-old puppies and their mother had been kept outside with no food, water or shelter from the heat.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lee Harvey Oswald gravestone returned to Texas after ownership dispute
+      </title>
+<description>
+	David Card, 75, of Dallas, has the granite marker following a settlement with Historic Auto Attractions of Roscoe, Illinois. He inherited it when he bought Oswald's mother's home and found it there.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Redbook features 'real' women on the cover of its fashion issue
+      </title>
+<description>
+	The six beautiful winners of Redbook's second annual Real Women Style Awards cover the magazine's September issue in an unprecedented move by the publication.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Missing mentally ill Kentucky camper Josh Adkins found ALIVE after 11 days in the woods
+      </title>
+<description>
+	Josh Adkins, 31, of Madison County, had run off from his family at Koomer Ridge Campground in the Daniel Boone National Forest before being found on a highway Wednesday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Golden Retriever Lilly shows puppy Layla how to go down a slide
+      </title>
+<description>
+	On a recent trip to a park in Naperville, Illinois, nine-year-old Lilly had some trouble leading two-year-old pup Layla down the slide, and attempted to coax her.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	J.R.R. Tolkien's unfinished book The Story of Kullervo 'to be published this month' 
+      </title>
+<description>
+	The Story of Kullervo tells the tale of an orphan who swears revenge on a magician after being sold into slavery. It was written while the author was a 23-year-old student at Oxford University in 1914.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tom Brady and Roger Goodell in court for Deflategate settlement talks
+      </title>
+<description>
+	US District Judge Richard Berman also warned the hearing in Manhattan Federal Court that, unless both sides are willing to reach a compromise, the case could stretch until 2017.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Neighbors sue parents of eight-year-old who has 'befriended' dozens of crows
+      </title>
+<description>
+	Christine Yokan and Matt Ashbach, from Seattle, are suing neighbors Lisa and Gary Mann because their daughter Gabi (pictured with Lisa, feeds of crows in their back yard, claiming they are her 'friends'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Wisconsin man arrested for breaking into home to tear down Confederate flag
+      </title>
+<description>
+	Tajaun Boatner, 37, of Racine, Wisconsin, reportedly went on to resist  arrest when police showed up at the scene to interview him about the incident.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Twitter scraps restrictive 140-character limit on direct messages
+      </title>
+<description>
+	The feature is today rolling out globally, with Twitter saying the aim is to allow users to 'express themselves' more freely. e The character limit for regular tweets, which is 140, will remain
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Texas toddler dies in car as temperature tops 100 degrees
+      </title>
+<description>
+	Police in Pecos say say 17-month-old Avrian Villalobos died on Tuesday after his mother drove home and took two other children inside. Once she realized Avian was in the car, he was unconscious.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Richard Dreyfuss in latest picture of hotly-anticipated Bernie Madoff drama
+      </title>
+<description>
+	Lips pursed, glasses slipped down his nose, and sleeves rolled up, Dreyfuss looks every inch the Ponzi scheme king who swindled billions out of trusting investors.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	'Aliens tried to save America from nuclear war', says former astronaut
+      </title>
+<description>
+	The bizarre claim was made by Edgar Mitchell, the sixth man to walk on the moon, who says UFO eye-witness accounts from high-ranking military officials back up his claims.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Women tweet updates about their periods to Donald Trump
+      </title>
+<description>
+	After Donald Trump implied that Megyn Kelly has 'blood coming out of her wherever' during last week's GOP debate, women are using #periodsarenotaninsult on Twitter to fire back.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Coby Persin shows how easy it is for pedophiles to prey on teen girls
+      </title>
+<description>
+	New Yorker Coby Persin, 21, chatted up three young girls, aged 12, 13, and 14, by pretending to be a 15-year-old who lived nearby. They all agreed to meet him when their parents weren't around.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Florida four-year-old blew into breathalyzer to start SUV for mother
+      </title>
+<description>
+	April King, 35, has been charged with child neglect after police saw the young boy outside Froggers Bar and Grill in Apopka, Florida, blowing into the breathalyzer as his mother avoided doing so.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mom of teen who has cerebral palsy and appeals to public to attend 16th birthday party
+      </title>
+<description>
+	Tambra Malone is hoping residents in Evington, Virginia, will attend her  son Tate's 16th birthday party at the community's Chapel Grove Baptist Church to fulfill his wish to be surrounded by others.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	One in 25 mothers confess to breastfeeding another woman's child
+      </title>
+<description>
+	A poll of 2,012 mothers revealed that a surprising number had breastfed another woman's child. The Netmums findings showed that suckling a friend's or a sister's baby was most common.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	ANTM's Angelea Preston claims Tyra Banks 'EXPLOITS' women
+      </title>
+<description>
+	'It’s like top model prison,' says Angelea Preston, who was stripped of her title in 2011 when it was discovered she had briefly worked as an escort. She speaks out for the first time.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New York woman gives birth to her identical twin's baby
+      </title>
+<description>
+	Mineola, New York, resident Dawn Ardolino Policastro, 40, offered to carry the baby of her identical twin Allison Ardolino Dinkelacker after a battle with cancer made another pregnancy risky.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sneaky octopus uses shoulder tap prank to catch its prey
+      </title>
+<description>
+	Researchers at the University of California, Berkley found the larger Pacific striped octopus use a hunting technique straight from the school playground (pictured).
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Italian Parmigiano Reggiano cheese-makers plan to take legal action against PornHub
+      </title>
+<description>
+	The Italian consortium of Parmigiano Reggiano cheese is outraged by the association with PornHub and has accused the website of damaging their product by associating it with 'vile' pornography.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jailhouse interview with David Conley who massacred eight people in Houston
+      </title>
+<description>
+	David Conley, 48, who is charged with three counts of capital murder following the mass-shooting in the Houston home on Saturday night, has given two interviews from jail this week.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Is it possible to build a sixth New York City borough?
+      </title>
+<description>
+	Extending the city's limits isn't a new idea. Columbia University student researchers in 2011 thought up an idea for a land mass between Lower Manhattan and Governors Island (idea pictured).
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	MH370 wreckage may have been spotted on sea bed in the Indian Ocean
+      </title>
+<description>
+	Australian authorities believe they may have spotted parts of ill-fated plane MH370 on the bottom of the southern Indian Ocean but won't be able to check them for several months.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How knee replacement may ‘turn back the clock’ for arthritis patients
+      </title>
+<description>
+	The surgery can take osteoarthritis and rheumatoid arthritis patients back to a point in time when they were less disabled, experts from the University of Nebraska Medical Center, found.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Riot police use pepper spray to control migrants in Kos
+      </title>
+<description>
+	Riot police were called after violence broke out in the national stadium on the Greek island of Kos, as hundreds of people, including children, were awaiting their immigration papers.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	ISIS behead Croatian hostage Tomislav Salopek who was kidnapped in Cairo
+      </title>
+<description>
+	Depraved ISIS supporters took to social media to share a photograph purporting to show the body of Tomislav Salopek, 30, who has been held by militants in Sinai province since July 22.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Footage shows Ralkina Jones pleading with cops before she was found dead
+      </title>
+<description>
+	Ralkina Jones, 37, was found dead in Cleveland Heights Jail last month, and now police bodycam footage taken just hours before she died shows her telling cops she feared for her life.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	World’s oldest twins Pieter and Paulus Langerock,102, share a room at Belgian home
+      </title>
+<description>
+	Born on July 8 1913, Pieter and Paulus Langerock have lived together for most of their lives and barely leave each other's side, sharing a room at their nursing home just outside Ghent.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pennsylvania beauty queen jailed after faking cancer to con tens of thousands from well-wishers to pay for treatment
+      </title>
+<description>
+	Brandi Lee Weaver-Gates, 23, of Bellefonte, Pennsylvania, led her local community to believe that she had been diagnosed with a form of leukemia in March 2013.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Teen finds a gold bar whilst swimming in German Alpine lake
+      </title>
+<description>
+	The 16-year-old holidaymaker, who has not been named, was visiting the Königssee lake near the Alps when she found the bar. Police divers have since completed a search but did not find any more.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Hunt for family of German PoW Hermann Tholens who left his Iron Cross medal in pram
+      </title>
+<description>
+	Sarah Lesiter-Burgess is hoping to finally solve the century-old mystery of why Lieutenant-Commander Hermann Tholens gave away the medal to her  grandmother in Llandudno, north Wales.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Extreme Weight Loss's Dan 'Panda' Smith reaches his goal weight in THREE MONTHS
+      </title>
+<description>
+	Dan 'Panda' Smith (pictured), 27, from Grand Rapids, Michigan, went from 313lbs to a lean 187lbs over the course of one year, qualifying for skin removal surgery after only 90 days of boot camp.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Paraglider gets tangled up in electricity lines in Czech Republic
+      </title>
+<description>
+	The paraglider, pictured, found herself tangled in the high-tension wires carrying a potentially fatal 450kW in north eastern Czech Republic, but luckily, a passer-by called the fire service for help.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Truck drivers paid DMV employees bribes of up to $5,000 each to dodge tests
+      </title>
+<description>
+	As many as 100 commercial truck drivers paid up to $5,000 each to bribe state Department of Motor Vehicles employees for illegal California  licenses. 23 accidents could relate to the fraud.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Is Assad now using NAPALM on the Syrian people?
+      </title>
+<description>
+	Filmed in a rebel-held neighbourhood in the besieged city of Darayya, the footage shows a number buildings burning with the rubble covered in what appears to be a flammable liquid of gel.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Gigi Gorgeous and Trisha Paytas' 'how to take the perfect slutty selfie' parody
+      </title>
+<description>
+	Gigi and Trisha, from Toronto, demonstrate how to take the perfect slutty photographs in a parody video on YouTube. The duo tell women to pout, wear too much makeup and look sweaty.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ex-GWAR Kim Dylla and pro-wrestler brags about beating up male singer Danny Leal
+      </title>
+<description>
+	Kim Dylla (left) got into an altercation with Danny Leal (right), the frontman of the heavy metal band Upon A Burning Body, at the Canadian music festival Heavy Montreal.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	South African dog groomer cuts off Yorkshire Terrier's ear
+      </title>
+<description>
+	The dog's owner Jodi-Ann Pearton took to Facebook to complain after her beloved pet was left covered in blood following a visit to Pompeii Pets at Lonehill Shopping Centre near Johannesburg.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tinder hits back at 'dating apocalypse claims' in rant on Twitter 
+      </title>
+<description>
+	A series of tweets from Tinder's official handle hit back at the Vanity Fair article, defending the dating-app for 'bringing people together'. A series of tweets within minutes, criticizing the article.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chinese city recruits 'smell specialists' to sniff out air pollution 
+      </title>
+<description>
+	The city of Guangzhou in south China has recently recruited a team of trained 'smell specialists' whose job is to identify possible pollution by sniffing air samples collected across the city of 13 million.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bernie Sanders is ahead of Hillary Clinton in New Hampshire
+      </title>
+<description>
+	It's the latest sign that the once-obscure, Vermont senator's popularity may be turning into solid support in areas that Clinton needs to win in next year's presidential contests.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	PGA of America yet to decide where to hold Grand Slam of Golf following their decision to move it away from Trump National
+      </title>
+<description>
+	The PGA of America has yet to decide where to stage this year's Grand Slam of Golf after moving it in the wake of Donald Trump's controversial comments about Mexican immigrants.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Armed Tyrone Harris shot by police in Ferguson
+      </title>
+<description>
+	Social media images posted by Tyrone Harris, 18, who was shot by police when he waved a handgun and opened fire in Ferguson, MO show he bragged about being a member of 'pistol gang'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	American cops borrow armored vehicles from the military that can withstand mine blasts to combat cannabis amid fears they are turning cities into war zones
+      </title>
+<description>
+	Recent findings have revealed the extend to which US police departments have repeatedly applied for surplus military equipment from 2012 to 2014.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Missouri family adopting disabled Chinese boy JiaJia are 'overwhelmed' by support
+      </title>
+<description>
+	Jeri and Brian Wilson, from Kansas City, Missouri, made the decision to adopt nine-year-old JiaJia - who is paralyzed from the waist down - from an orphanage in Beijing, China, in February.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Planned Parenthood whistleblower reveals 'some patients may not have given consent'
+      </title>
+<description>
+	Holly McDonnell, a licensed phlebotomist at the fetal tissue company StemExpress, describes how she was expected to haggle women to give  consent to sell or donate their fetus's remains.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Herd of cows listen to girls singing Lorde's Royals in trance-like state
+      </title>
+<description>
+	Most people choose to herd farm animals with sheepdogs but a group of girls from Bensville in Australia use a slightly different technique – their singing voices.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Behind the scenes at the royal wedding of Prince Charles and Diana
+      </title>
+<description>
+	An intimate behind-the-scenes photo of the 1981 wedding of Prince Charles and Princess Diana has been released. Due to be auctioned next month, it follows another 12 unveiled earlier this week.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Baby elephant which suffered horrific injuries is rescued in Nairobi
+      </title>
+<description>
+	Simotua the baby elephant had been caught in a poachers snare and attacked with a spear before he was left to die in  in Kenya's 15,000 acre Rumuruti Forest.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Was MH17 blown up by an on-board bomb planted by the CIA?
+      </title>
+<description>
+	Sergei Sokolov – head of  a shadowy organisation which boasts close ties to the secret services in Moscow – claimed the plane was downed by the CIA and other Western intelligence agencies.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Missouri grandmother with growth the size of a baby HIPPO in surgery
+      </title>
+<description>
+	WARNING GRAPHIC CONTENT: Charlene Branham had been trapped in her home in Missouri for ten years because of the 112lb mass on her stomach, which hung between her legs.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Teacher Patrick Aiello 'kidnapped & sexually assaulted woman' while working for Uber
+      </title>
+<description>
+	Patrick Aiello, 39, was arrested in Charleston, South Carolina, on Monday for allegedly attacking the woman late on Sunday night after picking her up from a bar in his Uber cab.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jayne Harris' 'Haunted puppet' moves on its own in the middle of the night 
+      </title>
+<description>
+	Paranormal Investigator Jayne Harris is convinced the puppet (pictured, in its glass box) possesses spiritual powers after recording the spooky footage in the dead of night.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	9 stock traders and computer engineers 'made $100m by hacking news wires
+      </title>
+<description>
+	In one landmark case, the group made $17 million worth of trades and orders betting that Panera Bread Co.'s stock would dive on October 22, 2013, after seeing an embargoed earnings forecast.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Nevada woman drove neighbor's puppy into the desert  and shot it
+      </title>
+<description>
+	Police say that Maria Furtado, 40, was seeking revenge against the dog, named Duke, who she claims killed her pet ducklings in Pahrump Nevada, last week.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Super-cars bring Romanian town to standstill for gypsy wedding
+      </title>
+<description>
+	More than 700 guests turned up to the event in Petrosani in around 200 cars which included  Porsches, Ferraris (pictured),  Mercedes, Lamborghinis, BMWs and Humvees.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Duggar family plan to hijack Bringing Up Bates daughter's nuptials
+      </title>
+<description>
+	Reality family daughter Michaella will wed longtime beau Brandon Keilen on Saturday in Knoxville, Tenn..Her best friends Jana Duggar is a bridesmaid and the rest of the tribe is tagging along.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Megyn Kelly 'has been getting death threats from Donald Trump supporters'
+      </title>
+<description>
+	Donald Trump may have mended his relationship with Fox News,  but his pack of rabid fans are not about to let go of the public feud with anchor Megyn Kelly.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	BMW owns Alphabet.com domain and it doesn't want to sell it to Google
+      </title>
+<description>
+	Google rebranded as Alphabet on Monday. BMW's Alphabet is fleet services company. Alphabet's CEO Larry Page is pictured.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pregnant Jenna Bush Hager shares intimate family photo on Instagram
+      </title>
+<description>
+	Jenna Bush Hager, 33, shared the image on her account on Tuesday, after she revealed to her fellow Today co-host Hoda Kotb that Mila has 'regressed' in terms of her excitement about the pregnancy.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Michelle Yeh accused of having sex with students 'took one of them to Disneyland' 
+      </title>
+<description>
+	Michelle Yeh, 28, of Los Angeles, is charged four counts of unlawful sexual intercourse with a minor under 16 and other sexual abuse charges in relation n to two boys from San Pedro High School.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mums turning backs on gym in favour of exercising WITH newborns 
+      </title>
+<description>
+	If new mums keen to lose weight might once have signed up for their local gym, they're now looking much closer to home for a way to work out...by using their own babies as an exercise tool.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Explore the Pacific Ocean with live feed from Deep Discoverer
+      </title>
+<description>
+	The National Oceanic and Atmospheric Administration's robotic submersible Deep Discoverer is exploring Papahānaumokuākea National Marine Monument off Hawaii.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jewish Auschwitz prisoner Helena Citronova's love for SS guard Franz Wunsch
+      </title>
+<description>
+	Helena Citronova fell in love with SS guard Franz Wunsch at the camp. He managed to save her and her sister Rozinka from going to the gas chambers, claiming 'desire' had changed him.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Is your day filled with ‘useless’ meetings? Consider them a performance review: How the right questions and attitude can help further your career
+      </title>
+<description>
+	Top business leaders Jack and Suzy Welch argue that meetings should be treated like a performance review so workers should approach them with a purposeful, high-energy attitude.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	World's biggest Scalextric track designed by Formula One ace Martin Brundle and featuring 150ft of the sport's most famous turns goes up for sale 
+      </title>
+<description>
+	The 'Ultimate 2015 Track' is made up of 177 pieces and features 40 corners, chicanes, and sections from the 2015 Formula One calendar, including the Ascari chicane from the Italian GP.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	North Korean vice premier 'executed by firing squad for opposing Kim Jon Un'
+      </title>
+<description>
+	Choe Yong-Gon was last seen in the North's state media last December at the death anniversary of the late leader Kim Jong-Il, South Korea's unification ministry said.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Moment street vendors attack French police who try – and FAIL – to confiscate their Eiffel Tower statuettes despite spraying them with tear gas in Paris
+      </title>
+<description>
+	Footage shows the group fighting back, with one of the gendarmes becoming surrounded by at least five vendors who knock him to the floor in the Tuileries Garden near the landmark.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Children say they feel ignored by parents who favour their phones
+      </title>
+<description>
+	A new campaign video sees children aged seven to 11 reveal what they really think about their parents' addiction to their electronic devices. The overwhelming response is that they feel ignored.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Transgender people reveal how they REALLY feel about Caitlyn Jenner
+      </title>
+<description>
+	A new word association video created by Cut.com sees a group of transgender people voicing their opinions on Caitlyn Jenner, 65, and the impact her transition has had on the community.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Cruise ship photographer Ian Hughes reveals outtakes from his days at sea
+      </title>
+<description>
+	Photographer Ian Hughes, from Brighton, spent his 20s working on cruise liners taking pictures of holiday makers, including grumpy granddads and gurning grandmas. Here are his favourite outtakes.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Army Black Hawk helicopter crashes in Japan injuring seven
+      </title>
+<description>
+	The UH-60 Black Hawk helicopter was damaged during a 'hard deck landing' aboard the USNS Red Cloud about 20 miles east of
+Okinawa.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Florida man bit off tip of woman's finger during argument
+      </title>
+<description>
+	Christopher Butler, 32, of Seffner, was arrested Monday night at his home after sheriff's deputies responded to a battery call and found a woman lying on a lawn chair with her fingertip missing.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Earth's most polluted cities revealed in interactive pollution map
+      </title>
+<description>
+	The world's most polluted cites and dirtiest power plants have been revealed in an interactive map built by Yale University researchers, showing highly populated areas have the worst air quality.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Facebook's rumoured to be building a breaking news app
+      </title>
+<description>
+	While in its infancy, Facebook's news app will ask users to select their favourite publications and topics or ‘stations’ that they would like to receive news about, rumours suggest.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chinese father and son take photo of themselves every year for 3 decades
+      </title>
+<description>
+	Tian Jun, 56, and Tian Li, 29, have posed for a photograph every year since Li was born in Guiyang, China, in 1986. 2014 was the only year when they didn't complete the family tradition.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rape victim Kira Wahlstrom wins $6.6m lawsuit against parking garage owners
+      </title>
+<description>
+	Kira Wahlstrom of Haverhill, Massachusetts was raped in a Boston parking garage in 2009 by Juan Ruben Rivera III, who is currently serving a 15-year sentence for the crime.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Stranded kayakers in Arizona saved after rescuers spot the SOS they formed
+      </title>
+<description>
+	Ray Richardson, Heidi Nebeker and Kimberly Baker ran into trouble at the weeked while heading down the Gila River, a tributary of the Colorado River southeast of Phoenix, Arizona.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pregnant Ghanaian woman kills herself after husband gets her mother pregnant
+      </title>
+<description>
+	The unidentified woman is understood to have returned home early from a shopping trip to find her husband and her mother having sex in the married couple's bed.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Geraldine Bazan nearly injured as she slipped off a rock face in Mexico
+      </title>
+<description>
+	Mexican actress Geraldine Bazan narrowly escaped serious injury when she slipped off a rock face while on holiday in Acapulco, Mexico.The 32-year-old singer screamed as she hit the rocks.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chinese Army trains students to control machines with their minds
+      </title>
+<description>
+	The People's Liberation Army Information Engineering University in Zhengzhou is developing technology to allow robots to be controlled using thought alone.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Japanese war criminals' confessions revealed
+      </title>
+<description>
+	The war-time confessions of Japanese national Kenzo Sugishita, details a number of murders and atrocities committed over a nine month period in 1932, including the murders of dozens of Chinese people.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Inside the Nazi's abandoned military shelters in Poland
+      </title>
+<description>
+	The vast network of tunnels is located in the Sowie Mountains in Lower Silesia and forms Project Riese - a top secret operation, the purpose of which is shrouded in mystery to this day.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	'Well, I didn't lose my bladder:' Autocross driver attempts to scare his mother by taking her for a high-speed ride in a race car… but she’s tougher than he thought! 
+      </title>
+<description>
+	An autocross enthusiast attempted to frighten his mother by taking her for a high-speed drive in a race car in Florida, but to his surprise she appeared to have the time of her life.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chinese tourists on Yao mountain river rafting holiday forced to wait on the banks
+      </title>
+<description>
+	Tourists were visiting Yao mountain in Henan, China, for river rafting break in an attempt to escape the summer heat. Pictures released August 4 showed hundreds of tourists waiting for boats.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Artist's' Uggie the dog dies in Los Angeles aged 13
+      </title>
+<description>
+	The Jack Russell, 13, which starred in the hit silent film The Artist, had been struggling with a tumor. Uggie's owner made the agonizing decision to have him put down in Los Angeles on Friday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Georgia Bear climbs into truck and steals lunch and 3 grape sodas
+      </title>
+<description>
+	A black bear climbed into the driver's seat of the window cleaner's truck in Georgia. She helped herself to lunch and three grape sodas, which she shared with her cubs, after the window was left down.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Teahupo’o, Tahiti drone footage captures surfers riding 30ft waves
+      </title>
+<description>
+	Drone footage captured off the Tahitian village of Teahupo’o, which translates to 'place of skulls', shows some of the world's top surfers putting their lives on the line to conquer monster waves.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Anastasia Achilleos teaches you how to remove eye bags in seconds
+      </title>
+<description>
+	Facialist Anastasia Achilleos, from London, reveals her four-stage technique to remove eye bags and depuff your face instantly. The mum-of-two uses just face cream and her fingertips.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	That's a real cliffhanger! Breathtaking photographs show how China's spectacular 'Sky Roads' zigzag for nearly three miles across a steep mountainside
+      </title>
+<description>
+	The sky roads wind across a mountainside in Enshi, central China, and are surrounded by luscious greenery. Aerial pictures show how a convoy of Jeeps travelled along the route on Tuesday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Top 10 fitness Instagrammers inspiring thousands to shape up
+      </title>
+<description>
+	From toned personal trainers, to flexible ballerinas and lithe yoga enthusiasts, FEMAIL rounds up the top 10 empowering exercise gurus to follow on Instagram...
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Hainan Airlines passengers injured after plane rocked on Chengdu to Beijing flight
+      </title>
+<description>
+	Hainan Airlines passengers said they were thrown into ceiling panels or other rows as the turbulence left 30 people injured as the Airbus A330 approached Beijing's main airport.
+      </description>
+<sentiment></sentiment>
+</item>

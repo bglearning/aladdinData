@@ -1,0 +1,1017 @@
+<item>
+<title>
+	Bangkok bomb blast kills at least 21 near Erawan shrine
+      </title>
+<description>
+	WARNING GRAPHIC CONTENT: The explosion took place in the popular Ratchaprasong district in the heart of the Thai capital about 7pm, in an area packed with tourists.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jason Day's sister reveals what he was like growing up
+      </title>
+<description>
+	The older sister of Aussie PGA Champion, Jason Day, has discussed what life was like growing up in Queensland with the golf star, saying 'Jase' is like all typical younger brothers - 'annoying' and a 'tease'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lisa Tonkin lists her Melbourne Victorian home on market for $4.5m
+      </title>
+<description>
+	Interior designer Lisa Tonkin has put her equally stylish and swanky Melbourne home on the market for $4.5 million.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New England Highway crash leaves girl, 2, killed and baby boy critically injured
+      </title>
+<description>
+	A two year-old girl has died and her 11-month-old baby brother is in a critical condition after a crash on the New England Highway in the NSW Hunter Region at about 7pm on Monday night.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Brisbane mother and child watch pram roll into train's path at Toowong station
+      </title>
+<description>
+	A mother is busy with her toddler at a Brisbane station as she lets go of the pram which rolls away and collides with the oncoming train before bouncing off it and crashing onto the platform.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Australian couple narrowly escape Bangkok bomb after walking ABOVE Erawan shrine
+      </title>
+<description>
+	John Murray and Leify Porter (pictured), from Sydney, were walking over the Erawan Shrine on an overpass in Bangkok on Monday night when they were hit with the powerful blast.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ramen ice cream topped with shrimp, onion and beef cubes by Nissin Food go on sale in Japan
+      </title>
+<description>
+	Ice cream flavoured like the Japanese noodle dish ramen has been launched in Tokyo. Two flavours - curry and soy sauce - were invented by Nissin Foods to celebrate the success of the Cup Noodles museum.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Boy presents news from the Royal Queensland Ekka show on Channel 7
+      </title>
+<description>
+	Reporting on everything from animals, rides and food, the impossibly cute seven year old Mater Vandelour reported from the Royal Queensland show for Channel 7
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Australia's marriage equality debate heats up again on ABC's Q&A
+      </title>
+<description>
+	Australian politicians Sam Dastyari and Richard Di Natale have clashed with traditional marriage advocates on ABC's Q&A, as the debate surrounding marriage equality.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lonely Planet's Ultimate Travelist 2015 reveals places you MUST visit
+      </title>
+<description>
+	The next three places were taken up by the Great Wall of China, the Taj Mahal and the Grand Canyon National Park.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	No reports of Australians injured in Bangkok blast
+      </title>
+<description>
+	The Department of Foreign Affairs is working with Thai authorities to determine if any Australians have been seriously injured or killed in a Bangkok bombing (pictured) at the popular Erawan Shrine.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bizarre footage shows a grown man thieving children's buckets, spades and toys from a Brisbane kindergarten SANDPIT
+      </title>
+<description>
+	Police have released CCTV footage of a man breaking into an early learning centre in Brisbane's west and brazenly stealing peculiar children's play items.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Aboriginal actor Alec Doomadgee banned from taking boomerangs on Qantas flight
+      </title>
+<description>
+	An Aboriginal cultural leader is furious after Qantas refused him taking ceremonial boomerangs on a flight as carry-on baggage from Brisbane airport.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Police probe Salim Mehajer over 'wedding of the century' to Aysha
+      </title>
+<description>
+	He's the cocky groom who dared authorities to investigate his 'wedding of the century' after he came under fire from his irate Sydney neighbours. His wish has been granted.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Photographer captures make-up-free portraits of women 'in their prime'
+      </title>
+<description>
+	Photographer Peter Freed, 62, captured images of women of all ages, races and backgrounds, including supermodel Christy Turlington and NBC anchor Natalie Morales.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kate Middleton misses wedding at last-minute but Prince William and Pippa attend
+      </title>
+<description>
+	The Duchess of Cambridge failed to turn up for the wedding of estate agent Bear Maclean and socialite Daisy Dickson at All Saints Church in South Devon at the weekend.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Liberal MP Craig Laundy mistakes GLITTER-filled envelope as a suspicious package
+      </title>
+<description>
+	The office of Liberal MP Craig Laundy have made an embarrassing blunder after mistakenly deemed a harmless envelope filled with glitter as a suspicious package. 
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pilot Tracey Curtis-Taylor bidding to emulate Amy Johnson hits a parked helicopter
+      </title>
+<description>
+	Pilot Tracey Curtis-Taylor was taxiing in her vintage Boeing Stearman at Goodwood Aerodrome in West Sussex when she ploughed into a stationary helicopter.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Vladimir Putin's face appears in flock of birds flying over New York merge
+      </title>
+<description>
+	Like something out of Hitchcock's The Birds, Sheryl Gilbert captured the eerie moment a flock of undulating birds moving across the sky as she crossed the Williamsburg Bridge in Brooklyn.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	World's most stylish royals including Kate Middleton and Queen Maxima
+      </title>
+<description>
+	A poll  to determine the world's most stylish royals has put Crown Princess Mary of Denmark, 43, first, followed by the Netherlands' Queen Maxima, 44, and the Duchess of Cambridge.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Puffle cones from Cauldron Ice cream parlour are sending dessert lovers into a frenzy
+      </title>
+<description>
+	Egg waffles have long been a popular street food in Hong Kong, but now the delicious snack has been given a makeover as a supersized waffle ice cream cone by a California ice cream parlour.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Amazon CEO Jeff Bezos urges staff to 'email me directly about bullies'
+      </title>
+<description>
+	Jeff Bezos, 51, who founded the site in 1994, sent an internal memo to staff Sunday in which he denied the 'shockingly callous management practices' in a New York Times report.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tiffany Taylor's accused killer Rodney Wayne Williams had Oasis Active dating profile
+      </title>
+<description>
+	On the online dating site where he allegedly met 16-year-old pregnant teen Tiffany Taylor, accused killer Rodney Wayne Williams paints himself as a 'master looking for submissive females'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Russian social media site offers prizes for selfies with dead people
+      </title>
+<description>
+	The community on Russian social media site VI, called 'Selfie with the Deceased', pledge to pay between 1,000 and 5,000 roubles (£10-£50) for the best selfie with a corpse.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Watch how quickly a rat can wriggle up your toilet
+      </title>
+<description>
+	A video from National Geographic describes how a rat's swimming ability, flexible body and sharp claws means that it can easily scale residential sewer pipes and end up in your toilet.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Colorblind man sees the colors of a sunset for the first time
+      </title>
+<description>
+	Aaron Williams-Mele was filmed as he tested a pair of  Enchroma Color For The Colorblind glasses for the first time during a sunset at Whitehurst Beach in Norfolk, Virginia.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Alcohol rules should be rewritten so that men over 55 can drink more
+      </title>
+<description>
+	Confused by the advice about alcohol intake? Join the club. For almost 30 years we've been told not to drink more than 21 units of alcohol a week if you're a man or 14 if you're a woman.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Billionaire playboy Diego Dougherty said 'she's dead' before arrest for drug-murder
+      </title>
+<description>
+	Diego Dougherty told a witness 'she's dead' shortly before he was arrested for the murder of Gabriela Kabrins, his 39-year-old businesswoman girlfriend from Los Angeles, in Cape Town, South Africa.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jimmy Barnes narrowly escapes Bangkok bomb blast
+      </title>
+<description>
+	Australian rock legend Jimmy Barnes have narrowly escaped with their lives after a last-minute decision meant they did not walk past a Thai shrine where a blast killed 19 people.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Timaru, NZ mum finds abusive note after parking in disabled spot with her son
+      </title>
+<description>
+	Jacs Smith, from Timaru in New Zealand, was shocked to find an offensive note left on her car abusing her for parking in a disabled spot even though she has a permit.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Timaru, NZ mum finds abusive note after parking in disabled spot with her son
+      </title>
+<description>
+	Jacs Smith, from Timaru in New Zealand, was shocked to find an offensive note left on her car abusing her for parking in a disabled spot even though she has a permit.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Why making children do their homework could harm their sight for life 
+      </title>
+<description>
+	Could sending your child to a good school and making sure they do their homework be putting their eyesight in serious danger?
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Is the global warming 'pause' over?
+      </title>
+<description>
+	Dr Kevin Trenberth, a scientist at the US National Center for Atmospheric Research, argues that the natural variability in weather patterns has masked the upward trend in temperatures.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Scientists discover a new shape by trying to solve one of maths' most complex problems
+      </title>
+<description>
+	Three scientists at Washington University have made maths history by finding a new type of pentagon that can tile a floor without overlapping or leaving any gaps.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Watch Google's terrifying humanoid robot running through a forest
+      </title>
+<description>
+	It may have fared badly in the recent robo-olympics, but Google has revealed its humanoid robot has been set free in the woods to learn how to run through terrain.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Batman impersonator Leonard Robinson known for Batmobile dies in Maryland car crash
+      </title>
+<description>
+	A man known for dressing up like Batman and visiting children's hospital in West Virginia, Maryland and Washington, D.C. was killed Sunday night after being hit by a car
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jilted woman gets revenge on cheating boyfriend by setting his crotch on fire
+      </title>
+<description>
+	After a woman learned that her boyfriend was sleeping with her co-worker, she crept up on him while he was sleeping, dripped nail polish remover on the crotch of his underwear, and set it on fire.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Japanese artist Megumi Igarashi makes quirky sculptures from molds of her genitals
+      </title>
+<description>
+	American Callie Beusman (inset) met with Megumi Igarashi (left), an artist known as Rokudenashiko, in Tokyo to explore the country's subjective obscenity laws for a new Broadly documentary.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Terrence Howard testifies in legal battle with ex-wife Michelle Ghent
+      </title>
+<description>
+	The actor, who's battling to overturn a financial settlement he signed with his second wife at the time of their 2012 divorce, told a Los Angeles court he's a changed person since they split.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Girl, 15, overcome with joy following surgery to cure her hyperhidrosis
+      </title>
+<description>
+	In December, Hailey Bennett, 15, of Cedar Hills, Utah had a medical procedure to cure her hyperhidrosis, a rare medical condition that caused her hands to sweat profusely.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Virginia groom's incredible wedding dance to Uptown Funk and Britney Spears
+      </title>
+<description>
+	A professional dancer took to the floor at his wedding reception in Richmond, Virginia, to perform perfectly practised moves to a medley of hits while his new wife, a ballerina, watched in amazement.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Indian man Manjit Singh worked to death at North Indian Flavour restaurant in Darlinghurst Sydney
+      </title>
+<description>
+	Manjit Singh (pictured) died from tuberculosis on August 26, 2011, following horrific conditions he endured working in North Indian Flavour restaurant in Darlinghurst, inner east Sydney.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	MMA fighter discovers she won title fight while 12 weeks PREGNANT - and luckily the baby wasn't hurt
+      </title>
+<description>
+	Kinberly Novaes, 24, from Brazil (left), said her unborn baby is fine after the brutal fight against  Renata Baldan (right) in May. Novaes only found out this month that she is pregnant.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	MMA fighter discovers she won title fight while 12 weeks PREGNANT - and luckily the baby wasn't hurt
+      </title>
+<description>
+	Kinberly Novaes, 24, from Brazil (left), said her unborn baby is fine after the brutal fight against  Renata Baldan (right) in May. Novaes only found out this month that she is pregnant.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Earthquake strikes San Francisco Bay Area interrupting a weatherman's LIVE report
+      </title>
+<description>
+	The San Francisco Bay area was rattled Monday morning by a short and sharp 4.0 magnitude earthquake that interrupted a weatherman's live television report.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Drinking four mugs of coffee a day can help fight against bowel cancer
+      </title>
+<description>
+	Scientists at the Dana Cancer Institute in Boston believe the caffeine in coffee cuts inflammation that cancer feeds on. Drinking coffee was also found to reduce the risk of type 2 diabetes.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Michelle Byron wrongly spent 15 YEARS on death row
+      </title>
+<description>
+	Michelle Byron, 57, was sentenced to death in 2000 after her physically abusive husband was killed. Just hours before her scheduled execution, her sentenced was vacated, and she is now free.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lincolnshire man's fury after being told to clear wife's grave at St.Leonard's Church
+      </title>
+<description>
+	Neil Suggitt and his 18-month-old daughter, Amilee, visit his wife Wendy's grave in Chapel St Leonard's twice a week. They have been told to clear it of trinkets by bosses.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	20-day-old Alaskan puppy learns how to howl
+      </title>
+<description>
+	The dog is seen sitting on her owner's chest as he tries to sound out a cry, carefully watching him before mimicking the noise itself at their home in Churchill, Canada.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Basketball fan shouts homophobic slur at opera singer Kanen Breen
+      </title>
+<description>
+	One of Australia's foremost opera singers, Kanen Breen, was subjected to a homophobic slur as he was about to sing the national anthem at a basketball international in Melbourne.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	World's first 'flower' Montsechia vidalii is 130 million years old
+      </title>
+<description>
+	The aquatic Montsechia vidalii (pictured) was once abundant in freshwater lakes in what are now mountainous regions of central and northern Spain.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The $345 million Queensland casino that'll have 'super-suites' with butlers   
+      </title>
+<description>
+	The symbolic first shovel hit dirt in the groundbreaking ceremony for a super-luxury six-star resort in Queensland.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	India's budget Mars Orbiter captures stunning 3D image of the Ophir Chasma
+      </title>
+<description>
+	The 317km (197 miles)- long feature, which describes a system of deep valleys, is located in Valles Marineris, the largest canyon in the solar system.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Seagulls kill seals by eating their EYES
+      </title>
+<description>
+	Kelp gulls have been seen to peck and eat the eye of Cape fur seal pups on the coast of Dorob National Park in Namibia. Unable to see their mothers to feed, the pups starve to death or are attacked by other gulls.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ben Affleck and Jennifer Garner look strained and sad as they take kids to Disney World
+      </title>
+<description>
+	Ben, who turned 43 on Saturday, looked particularly miserable as he sat on the Dumbo ride with his kids.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ciera Swaringen with rare Giant Congenital Melanocytic Nevus has embraced birthmarks
+      </title>
+<description>
+	Ciera Swaringen, 19, of Rockwell, North Carolina, was born with mole-like birthmarks that spread from her head to her toes. Her rare skin condition affects just one in 500,000 people.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Cruel owners are hunted after they bound dog's muzzle with TAPE in Faringdon, Oxfordshire
+      </title>
+<description>
+	The dog, thought to be a greyhound cross, was found by a passer-by in Faringdon, Oxfordshire and rescuers were forced to give it anaesthetic so they could remove the tape.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Woman secretly learns to scuba dive so she can propose to her marine biologist girlfriend
+      </title>
+<description>
+	Markie Miller took secret scuba classes to ask her girlfriend, Sarah Hu, to marry her. Sarah thought she was going on a regular dive at a Los Angeles beach when Markie surprised her underwater.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Toronto bride-to-be dumped an HOUR before her dream wedding
+      </title>
+<description>
+	Cyndi Maisonneuve, 30, from Toronto, was jilted by the 'love of her life' an hour before her wedding as she stood in her gown and veil. Six years on, she says the incident has helped shape her as a woman.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The signs that could reveal if YOU have autism
+      </title>
+<description>
+	Experts from Cardiff University and La Trobe University have developed a test which measures the severity of repetitive behaviours, and could help doctors diagnose autism in adults.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Family rescue baby deer fighting to keep its head above water in the Columbia River
+      </title>
+<description>
+	The young fawn was spotted in the Columbia River in North America some way from the shore by the Welsh family, who captured the rescue mission on camera.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Aussie four wheel driver launch his car off a vertical ledge
+      </title>
+<description>
+	A thrill-seeking Australian has been filmed as he sends his four-wheel drive off a vertical ledge and into a pool of mud, as part of a well-travelled trip from NSW to Cape York, in Queensland's far-North.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Scottish woman receives 'blind' birthday cake topper after autocorrect fail
+      </title>
+<description>
+	Marie Seggie, from Lanarkshire in Scotland, had ordered a cake for her daughter's birthday, but her phone autocorrected 'blonde' to 'blind', resulting in an unconventional cake topper.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Inquiry into child sex abuse hears horrific accounts from victims
+      </title>
+<description>
+	One man, Norman Latham, now 69, alleges two senior officers used to rape him regularly while, as a young boy, he was a ward of the state at Victoria's Turana Youth Training Centre.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Toyota Hilux utes stolen from Sydney 'are the preferred armoured vehicles' for ISIS fighters
+      </title>
+<description>
+	Global terror expert Professor Greg Barton believes the stolen Toyota Hilux utes from Sydney are being exported to Turkey via shipping containers and then driven across the border to Syria.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	US military to step up drone flights by 2019 -Wall Street Journal
+      </title>
+<description>
+	The Pentagon plans to increase daily flights by 50 percent over the next four years, expanding them from 60 missions a day now to as many as 90 by 2019, the Wall Street Journal said.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Australian surfer ditches protective enclosure to get close to Galapagos sharks
+      </title>
+<description>
+	A daring Australian surfer has filmed his encounter with a school of Galapagos sharks, when he went free-diving off the North Shore of Hawaii last month.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Fans flock to McDonald's in Taiwan to see 'goddess' worker
+      </title>
+<description>
+	Blogger RainDog captured photos of Hsu Wei-han serving fries and burgers in Taiwan. She is now building a fan base as customers flock to the fast-food chain in the city of Kaohsiung.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Wang Menghao who begged in Zhengzhou to fund dad's treatment is abandoned by him
+      </title>
+<description>
+	Wang Menghao, 11, begged in Zhengzhou, central China, four years ago. Money raised was used to treat his father who had an existing injury. He has since been abandoned by his dad.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ancient civilisation 'drove tanks across Turkey 14 MILLION years ago'
+      </title>
+<description>
+	Dr Alexander Koltypin (pictured top right), director of the Natural Science Scientific Research Centre in Moscow claims that markings in the Phrygian Valley of central Turkey are artificial.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Girlfriend of tragic son of AFL great Brett Ratten, Cooper, vows never to forgive the car crash driver
+      </title>
+<description>
+	The 16-year-old son of senior AFL coach Brett Ratten, was sitting in the back seat of a vehicle when it veered off a road in Victoria and rolled in the early hours of Sunday morning.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Captain Elias hotel in Kos is a haven for migrants trapped in Greece
+      </title>
+<description>
+	Hundreds of migrants have found refuge in the Captain Elias hotel on Kos, sleeping on shabby mattresses in the lobby or in makeshift tents made out of bedsheets on the roof.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Oscar Pistorius prosecuters appeal for a murder charge for Reeva Steenkamp's death
+      </title>
+<description>
+	The South African state legal team has filed an objection to the culpable homicide verdict over the February 2013 attack, for which Pistorius has served 10 months in prison before his planned release Friday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Inside Jennifer Aniston and Justin Theroux's lavish honeymoon in Bora Bora
+      </title>
+<description>
+	Following the long-time pair's secret wedding at their Bel Air home on August 5, the two jetted off on a romantic getaway to French Polynesia - with plenty of pals in tow.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Hertfordshire teen's horror after Turkish holiday henna gives her chemical burns
+      </title>
+<description>
+	Mary Bates, 16, from Hertfordshire, got the henna tattoo while on holiday in Turkey. Her ankle began swelling and cracking hours later. She was referred to a specialist burns unit in the UK.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	65-year-old who became the world's oldest mother of quads finally takes her babies home - to join her THIRTEEN other children
+      </title>
+<description>
+	Annegret Raunigk became the oldest woman in the world to give birth to quadruplets, aged 65, in May. Doctors have finally ruled that the mother and four babies are strong enough to leave hospital.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	China's largest freshwater lake the Tuying Wetland Park in stunning images
+      </title>
+<description>
+	The scene was captured inside Tuying Wetland Park in eastern China. Harvest season started in early August when farmers began paddling out in boats to collect seed heads.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Puppy named 'Chemical' becomes instant celebrity after China explosion
+      </title>
+<description>
+	The chocolate brown puppy was rescued from the centre of the explosion site in Tianjin, northeast China, on Sunday - more than 72 hours after the blasts devastated a vast part of the city.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sydney girl Georja Balfour remembered as James Balfour is in St George Hospital
+      </title>
+<description>
+	A teenager is fighting for his life in hospital after he crashed his car into a tree, killing his younger sister. The accident occurred in Illawarra, about 80 kilometres south of Sydney, on Monday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How Brad Pitt transformed the lives of New Orleans families after Hurricane Katrina
+      </title>
+<description>
+	On the tenth anniversary of Hurricane Katrina, Brad Pitt celebrates having built 109 brightly-colored ecofriendly homes in the worst hit neighborhood in New Orleans.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Fish that sleeps on land for YEARS without any food or water
+      </title>
+<description>
+	Scientists at the National University of Singapore have discovered how gene expression in African lungfish allows them to enter suspended animation for up to five years at a time.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	ISIS document in Pakistan blames Israel for their emergence and calls Barack Obama the mule of the Jews
+      </title>
+<description>
+	Found in one of the tribal areas of Pakistan, a new jihadi document has been billed as the ISIS equivalent of Adolf Hitler's book Mein Kampf. It is titled 'A Brief History of the Islamic State Caliphate'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	C-section scar photo of Helen Aller's newborn baby goes viral
+      </title>
+<description>
+	Helen Aller, 29, from Guernsey, who is eight months pregnant, took the black and white image of the unnamed woman - who was scared of having a C-section - and her newborn.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Queen's Speech book by Ingrid Seward reveals her majesty in her own words
+      </title>
+<description>
+	Controlled, unemotional and punctilious, the Queen still maintains such a dignified manner, it is impossible for outsiders to see deeply into her private world, writes INGRID SEWARD.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Revenge porn victims tell of their humiliation and rape threats posted online
+      </title>
+<description>
+	Victims of revenge porn, which involves having naked photos posted online by an ex, have revealed how the crime has affected them. For many, the worst part is sexual comments posted.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Somerset couple rekindle romance in hospital as husband fights blood cancer
+      </title>
+<description>
+	When Neal Bisdee, 50, became seriously ill his wife Tracey , 50, realised she couldn't live without him. Now the pair from Shipham, Somerset, who have three children, have got back together.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Forrest Galante and Jessica Evans wed on paradise island with sharks
+      </title>
+<description>
+	Adventure-loving Forrest Galante and Jessica Evans tied the knot with a five-day party on Stocking Island in the Bahamas, surrounded by scary marine life.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jesus appears in smoke trail as Red Arrows fliers perform at Eastbourne in Sussex
+      </title>
+<description>
+	The bearded image could clearly be seen by visitors to the Airbourne show at Eastbourne in Sussex on Saturday afternoon.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Yaseen creates food art like Audrey Hepburn in cocoa and Mr Bean in fruit juice
+      </title>
+<description>
+	Experimental artist Yaseen, from Manchester, has daubed line drawings of stars including Michael Jackson, Audrey Hepburn, Jack Nicholson and Mr Bean using kitchen cupboard ingredients.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Woman tricks her husband into eating meat-free meals for a week
+      </title>
+<description>
+	Joanne Gould, 30, from  London, decided to put her carnivore husband Richard to the test - cooking him vegetarian meals for a week, to see if he would notice the difference.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Trigana Air Service plane which crashed in Indonesia jungle was carrying $500k
+      </title>
+<description>
+	Search teams have found the wreckage of an Indonesian passenger plane that lost contact on Sunday and disappeared with 54 people on board.  It was found about 12km from Oksibil in Papua.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chinese Shenzhen Airlines passenger encourages her child to defecate by the kitchen
+      </title>
+<description>
+	Woman was travelling with child in China on Shenzhen Airlines. The plane had yet to take off when she took her child to the galley. Both toilets were said to be free but woman wanted space.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sardinia could have been Atlantis before comet triggered an enormous tidal wave
+      </title>
+<description>
+	Sergio Frau says the southern end of Sardinia in the Mediterranean resembles an underwater Pompeii, which may have been the inspiration for Plato’s fictional Island of Atlantis.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mr Michael Dooley reveals the checklist every couple wanting to conceive should read
+      </title>
+<description>
+	EXCLUSIVE: Mr Michael Dooley, a consultant gynaecologist at at the Poundbury Clinic at King Edward VII’s Hospital, warns women are leaving it too late to have children and face having 'regrets'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Anne Power from Whangarei in Northland, New Zealand, keeps her 140 pets while waiting to appeal animal abuse conviction
+      </title>
+<description>
+	A New Zealand woman got to keep her animals while appealing a conviction for starving a horse to death. SPCA has taken animals off her before and received complaints about her.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	China worried that Tianjin explosion makes it look bad as death toll hits 114
+      </title>
+<description>
+	Officials have come under fire over their lack of transparency over the twin blasts, which set off a giant fireball and devastated a vast area of the port of Tianjin, northern China.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jae West dons blindfold and underwear to promote body image at Piccadilly Circus
+      </title>
+<description>
+	Jae West, from Perth, Australia, stripped down to her bra and pants before covering her eyes so that passers-by in one of London's biggest tourist spots could pen illustrations on her body.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Demehl Thomas and Moysha Shepherd film rap music video at Birmingham Prison
+      </title>
+<description>
+	Even releasing their music for sale on iTunes, Demehl Thomas and Moysha Sheperd, both 25, boast of stabbing their rivals in the disturbing video believed to have been filmed at Birmingham Prison.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Baby tree kangaroo Mupee born after poo study helped to pin down breeding cycle
+      </title>
+<description>
+	Bred as part of a Dreamworld's breeding program on the Gold Coast, little Mupee has become the first of its rare breed of Lumholtz tree kangaroo to be born Down Under.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Dad builds Star Wars themed rocking horse for his little daughter, but rather than using 'the force' it's DIY that gets the job done
+      </title>
+<description>
+	New South Wales father Tez Gelmir, 36, used 3D printing to build a replica Star Wars 74-Z Speeder Bike, made famous in the 1983 film Star Wars: Episode VI: Return of the Jedi.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Toddler Levi Gibbons from Wagga, 250kms west of Canberra, got his hand stuck in the plughole of a bath for FOUR HOURS
+      </title>
+<description>
+	A toddler from Wagga, west of Canberra, went through a four-hour ordeal to have his hand freed from the plughole of a bathtub, and had to be sedated in the last half-hour of the struggle.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Princess Diana's bridesmaid Sarah-Jane wishes she kept her gown
+      </title>
+<description>
+	Princess Diana's bridesmaid Sarah-Jane Gaselee (circled) still regrets her decision to flog her Elizabeth Emanuel-designed dress, writes SEBASTIAN SHAKSPEARE.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sophie Monk 'groped' during challenge for The Celebrity Apprentice in Sydney
+      </title>
+<description>
+	Sophie Monk has allegedly been groped while filming scenes on the set of upcoming reality series The Celebrity Apprentice
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	University student Scott Braeden Belcher pleads guilty to rape in Adelaide
+      </title>
+<description>
+	 A university student who raped his friend while she was drunk and asleep has been jailed for at least 12 months after pleading guilty at Adelaide Court.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Geraldine Cox runs 3 orphanages in Cambodia caring for 400 children
+      </title>
+<description>
+	Geraldine Cox, now 70, runs three orphanages across rural Cambodia caring for 400 children, including those who have contracted HIV or been abandoned by their parents.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	A woman's terrified reaction as a koala chases down her quad bike
+      </title>
+<description>
+	A koala was filmed chasing down a South Australian dairy farmer on her quad bike, ignoring her screams of fear and frightening her off the bike - only to saddle up for an innocent hug of the rear wheel.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	LiveLeak video shows commuter rubbing against women on Melbourne trams
+      </title>
+<description>
+	The creepy footage, with MC Hammer's song 'You Can't Touch This' playing, shows the male predators, of varied ages, acting as if they are minding their own business while moving closer to their next target.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jason Day's wife Ellie live tweets his PGA Championship win at Whistling Straits  
+      </title>
+<description>
+	A series of short tweets from Jason Day's wife Ellie has given an insight into the emotional roller coaster she faced nervously watching him win his first US PGA Championship.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Massive spider covers Australian electricity meter with HUNDREDS of its babies
+      </title>
+<description>
+	A huge wolf spider and hundreds of its babies have been found nestled on an electricity meter in Queensland.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Victorian mother banned from IVF treatment after her record of bad parenting is revealed 
+      </title>
+<description>
+	Under Victorian law, the 45-year-old woman and her 58-year-old boyfriend were required to undergo a child protection order check before signing up for fertility treatment.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Incredible pictures show barn owl fighting off hungry kestrel to snatch vole
+      </title>
+<description>
+	The two birds squawked over the prey mid-air, their majestic feathers flapping above the field beneath them in Cresswell, Northumberland.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	North Korea pictures show how Pyongyang's citizens live in the world most secretive state
+      </title>
+<description>
+	These images show the bleak everyday lives of the citizens of Pyongyang, the capital of North Korea - from balcony haircuts to bus stop queues and dreary high-rise apartment blocks.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Big game hunters legally fly a hippo head, leopard skulls and elephant tusks into the UK
+      </title>
+<description>
+	In the past 12 months, 16 licences were used to import so-called hunting trophies - which include tusks, heads, skulls and skins - into the UK.
+      </description>
+<sentiment></sentiment>
+</item>

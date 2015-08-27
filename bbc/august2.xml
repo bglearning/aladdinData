@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  
+  <channel> 
+    <title>BBC News - Home</title>  
+    <link>http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+    <description>The latest stories from the Home section of the BBC News web site.</description>  
+    <language>en-gb</language>  
+    <lastBuildDate>Sun, 02 Aug 2015 02:20:45 GMT</lastBuildDate>  
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>  
+    <image> 
+      <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>  
+      <title>BBC News - Home</title>  
+      <link>http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <width>120</width>  
+      <height>60</height> 
+    </image>  
+    <ttl>15</ttl>  
+    <atom:link href="http://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>  
+    <item> 
+      <title>UK and France seek EU help over Calais</title>  
+      <description>The UK home secretary and her French counterpart urge other EU nations to act to help address the root causes of the Calais migrant crisis.</description>  
+      <link>http://www.bbc.co.uk/news/uk-33750336#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-33750336</guid>  
+      <pubDate>Sun, 02 Aug 2015 00:32:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/11CE4/production/_84623927_calais2pa.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/143F4/production/_84623928_calais2pa.jpg"/> 
+    </item>  
+    <item> 
+      <title>IAAF files show 'extent of cheating'</title>  
+      <description>Anti-doping data, leaked to the Sunday Times and seen by the BBC, shows an "extraordinary extent of cheating" in elite athletics.</description>  
+      <link>http://www.bbc.co.uk/sport/0/athletics/33749208</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/athletics/33749208</guid>  
+      <pubDate>Sat, 01 Aug 2015 21:00:07 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/6F74/production/_84623582_athletics_generic_ap.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/9684/production/_84623583_athletics_generic_ap.jpg"/> 
+    </item>  
+    <item> 
+      <title>Canada sees topless rights rally</title>  
+      <description>Hundreds of Canadian woman join a topless protest march after three sisters were allegedly stopped by police for cycling without shirts.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33750417#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33750417</guid>  
+      <pubDate>Sat, 01 Aug 2015 23:14:46 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Iraqi Kurds issue warning to PKK</title>  
+      <description>Iraqi Kurdish authorities urge Turkish Kurd separatist forces to leave civilian areas, as Turkey continues its air strikes.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-33747980#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-33747980</guid>  
+      <pubDate>Sat, 01 Aug 2015 15:37:00 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>New US rights march starts in Selma</title>  
+      <description>Civil rights campaigners in the US begin a 40-day march to highlight what they say is a fresh attack on equal rights for African Americans.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33750234#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33750234</guid>  
+      <pubDate>Sat, 01 Aug 2015 21:46:39 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/11E74/production/_84623337_81487457.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/14584/production/_84623338_81487457.jpg"/> 
+    </item>  
+    <item> 
+      <title>Snoop Dogg cash seized in Italy</title>  
+      <description>Rap star Snoop Dogg is stopped by police at an Italian airport for carrying more cash than allowed, with half of his $422,000 seized.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33747702#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33747702</guid>  
+      <pubDate>Sat, 01 Aug 2015 14:38:13 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Dozens die as rains lash SE Asia</title>  
+      <description>As torrential rain continues, dozens die in eastern India and neighbouring Myanmar, where disaster zones have been declared.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33745840#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33745840</guid>  
+      <pubDate>Sat, 01 Aug 2015 16:18:24 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>New Taliban leader calls for unity</title>  
+      <description>The new leader of the Afghan Taliban, Mullah Akhtar Mansour, calls for unity and says the group will continue fighting.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33746487#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33746487</guid>  
+      <pubDate>Sat, 01 Aug 2015 19:40:35 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Outburst mars Bobbi Brown memorial</title>  
+      <description>The Georgia memorial service for Bobbi Kristina Brown, only child of late singer Whitney Houston, is marred by an outburst from her aunt.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-33747346#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-33747346</guid>  
+      <pubDate>Sat, 01 Aug 2015 19:33:56 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Gunman injured by armadillo ricochet</title>  
+      <description>A man in East Texas is wounded after a bullet he fired at an armadillo ricocheted and hit him, the local sheriff says.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33748027#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33748027</guid>  
+      <pubDate>Sat, 01 Aug 2015 14:57:19 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>VIDEO: Myanmar journalist braves floodwaters</title>  
+      <description>A journalist for the Democratic Voice of Burma files a report on the country's floods whilst chest-deep in water.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33746273#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33746273</guid>  
+      <pubDate>Sat, 01 Aug 2015 10:08:45 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/1997/production/_84615560_84615552.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/40A7/production/_84615561_84615552.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: 'Why can't we get married?'</title>  
+      <description>Two men attending the annual Gay Pride parade in Belfast explain why they believe they should be able to get married.</description>  
+      <link>http://www.bbc.co.uk/news/uk-northern-ireland-33748861#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-northern-ireland-33748861</guid>  
+      <pubDate>Sat, 01 Aug 2015 18:21:32 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/15FB0/production/_84623009_84621746.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/0408/production/_84623010_84621746.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Skydivers set 'giant flower' record</title>  
+      <description>A new record for the largest ever vertical skydiving formation has been set in Ottawa, Illinois, by 164 flyers who formed the shape of a flower in the sky.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33744004#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33744004</guid>  
+      <pubDate>Sat, 01 Aug 2015 00:47:40 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/81D9/production/_84614233_84614231.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/A8E9/production/_84614234_84614231.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: 'Blue moon' as seen around the world</title>  
+      <description>There has been a rare opportunity to witness a unique lunar event in the night sky; a so-called "blue moon".</description>  
+      <link>http://www.bbc.co.uk/news/world-33745560#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-33745560</guid>  
+      <pubDate>Sat, 01 Aug 2015 02:27:29 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/4B29/production/_84614291_84614262.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/7239/production/_84614292_84614262.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Volcano erupts on Reunion</title>  
+      <description>A volcano on the French island of Reunion - where debris believed to be from missing flight MH370 was found - has erupted.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33746275#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33746275</guid>  
+      <pubDate>Sat, 01 Aug 2015 13:46:33 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/CB03/production/_84617915_84615691.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/F213/production/_84617916_84615691.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: More people 'disappearing' in Egypt</title>  
+      <description>There has been a rise in the number of people going missing at the hand of the security services in Egypt, according to human rights activists in the country.</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-33740651#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-33740651</guid>  
+      <pubDate>Fri, 31 Jul 2015 22:13:56 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/6163/production/_84613942_84612650.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/8873/production/_84613943_84612650.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: 'Too many to count' through Calais fence</title>  
+      <description>Migrants have once more broken through police lines in Calais trying to enter the Channel Tunnel.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33728525#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33728525</guid>  
+      <pubDate>Fri, 31 Jul 2015 04:03:17 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/5D65/production/_84590932_84590924.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/8475/production/_84590933_84590924.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Beijing to host 2022 Winter Olympics</title>  
+      <description>Beijing is chosen to host the 2022 Winter Olympics, becoming the first city ever to host both a summer and winter games.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33729708#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33729708</guid>  
+      <pubDate>Fri, 31 Jul 2015 11:34:52 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/38A4/production/_84600541_hi028389821.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/5FB4/production/_84600542_hi028389821.jpg"/> 
+    </item>  
+    <item> 
+      <title>Does Merkel retain a stranglehold on power?</title>  
+      <description>It has been a bruising few months for the German chancellor, but she is still popular with the public, says Jenny Hill.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33694773#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33694773</guid>  
+      <pubDate>Sat, 01 Aug 2015 00:10:05 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/28DC/production/_84606401_028338027-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/4FEC/production/_84606402_028338027-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>It's one-way fight between Clinton and Bush - for now</title>  
+      <description>It was billed by some as a preview of next year's general election showdown, but Hillary Clinton was the only candidate looking for a fight - and it wasn't really about Jeb.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33738021#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33738021</guid>  
+      <pubDate>Fri, 31 Jul 2015 19:00:35 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>What we know about the Litvinenko case</title>  
+      <description>Gordon Corera on what we have learned about the death of Alexander Litvinenko.</description>  
+      <link>http://www.bbc.co.uk/news/uk-33725868#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-33725868</guid>  
+      <pubDate>Fri, 31 Jul 2015 14:06:49 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/70F6/production/_84581982_hospital_cut.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/9806/production/_84581983_hospital_cut.jpg"/> 
+    </item>  
+    <item> 
+      <title>Why are Americans hooked on SoulCycle?</title>  
+      <description>The US indoor cycling craze, Soulcycle has filed for an IPO. But what makes it so popular?</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33723769#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33723769</guid>  
+      <pubDate>Fri, 31 Jul 2015 00:59:36 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>From tears to cheers for Flores</title>  
+      <description>Wilmer Flores hits the winning run for New York Mets days after crying because he thought he was going to be traded.</description>  
+      <link>http://www.bbc.co.uk/sport/0/baseball/33746318</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/baseball/33746318</guid>  
+      <pubDate>Sat, 01 Aug 2015 13:21:22 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/09A7/production/_84617420_wilmer-2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/30B7/production/_84617421_wilmer-2.jpg"/> 
+    </item>  
+    <item> 
+      <title>'Twin' Robin Hood statue for China</title>  
+      <description>An "iconic" statue of Robin Hood near Nottingham Castle is being recast and given to Nottingham's sister city in China.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-nottinghamshire-33732613#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-nottinghamshire-33732613</guid>  
+      <pubDate>Sat, 01 Aug 2015 11:01:14 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/BFA5/production/_84616094_robin_hood.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/E6B5/production/_84616095_robin_hood.jpg"/> 
+    </item>  
+    <item> 
+      <title>Bitcoin chief arrested in Japan</title>  
+      <description>The founder of MtGox - once the world's biggest bitcoin exchange - is arrested by Japanese police investigating losses of nearly $400m.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33745611#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33745611</guid>  
+      <pubDate>Sat, 01 Aug 2015 07:27:20 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/A821/production/_84614034_hair.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/CF31/production/_84614035_hair.jpg"/> 
+    </item>  
+    <item> 
+      <title>'Progress' but no deal at TPP talks</title>  
+      <description>Twelve Pacific nations fail to agree a regional trade deal which would cover 40% of the world economy, despite talk of "significant progress".</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33745551#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33745551</guid>  
+      <pubDate>Sat, 01 Aug 2015 04:13:26 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Ashley Madison hack aids spammers</title>  
+      <description>Spammers are exploiting the Ashley Madison hack by posting links that offer stolen data but lead to booby-trapped web pages and scams.</description>  
+      <link>http://www.bbc.co.uk/news/technology-33731183#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-33731183</guid>  
+      <pubDate>Fri, 31 Jul 2015 11:01:55 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/147ED/production/_84594938_ashley_madison.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/16EFD/production/_84594939_ashley_madison.jpg"/> 
+    </item>  
+    <item> 
+      <title>Facebook's Zuckerberg to have child</title>  
+      <description>Facebook Chief Executive Mark Zuckerberg and his wife, Priscilla Chan, are expecting a baby girl.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33743740#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33743740</guid>  
+      <pubDate>Fri, 31 Jul 2015 21:10:08 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Country singer Lynn Anderson dies</title>  
+      <description>US country singer Lynn Anderson, best known for her 1971 hit (I Never Promised You a) Rose Garden, dies, aged 67.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-33745549#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-33745549</guid>  
+      <pubDate>Sat, 01 Aug 2015 01:39:49 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Ai Weiwei to get six-month UK visa</title>  
+      <description>Home Secretary Theresa May orders officials to issue Chinese artist Ai Weiwei a full six-month visa, reversing an earlier decision to restrict his entry.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-33738721#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-33738721</guid>  
+      <pubDate>Fri, 31 Jul 2015 16:03:11 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/178E/production/_84603060_4alobcz0.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/3E9E/production/_84603061_4alobcz0.jpg"/> 
+    </item>  
+    <item> 
+      <title>US energy plan to boost renewables</title>  
+      <description>President Obama's clean power plan is likely to be delayed by 2 years but is also expected to push renewable energy.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-33731391#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-33731391</guid>  
+      <pubDate>Fri, 31 Jul 2015 14:51:27 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/17264/production/_84602849_c0160072-carbon_emissions_from_coal_power_plant-spl.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/16BC/production/_84602850_c0160072-carbon_emissions_from_coal_power_plant-spl.jpg"/> 
+    </item>  
+    <item> 
+      <title>Earth magnetic shield is much older</title>  
+      <description>Researchers have revealed that the Earth's magnetic field is 550 million years older than previously believed.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-33721393#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-33721393</guid>  
+      <pubDate>Fri, 31 Jul 2015 11:58:19 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/11465/production/_84575707_magneticfield.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/13B75/production/_84575708_magneticfield.jpg"/> 
+    </item>  
+    <item> 
+      <title>Ebola vaccine results 'remarkable'</title>  
+      <description>A vaccine against the deadly Ebola virus has led to 100% protection in a pioneering trial described as a "potential game-changer".</description>  
+      <link>http://www.bbc.co.uk/news/health-33733711#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-33733711</guid>  
+      <pubDate>Fri, 31 Jul 2015 12:00:13 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/E100/production/_84600675_msf144887--high-res.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/10810/production/_84600676_msf144887--high-res.jpg"/> 
+    </item>  
+    <item> 
+      <title>HIV flushed out by cancer drug</title>  
+      <description>HIV can be flushed out of its hiding places in the body using a cancer drug, researchers show.</description>  
+      <link>http://www.bbc.co.uk/news/health-33720325#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-33720325</guid>  
+      <pubDate>Thu, 30 Jul 2015 23:05:16 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/127CF/production/_84572757_c0255688-hiv_viruses_infecting_a_cell%2C_tem-spl.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/14EDF/production/_84572758_c0255688-hiv_viruses_infecting_a_cell%2C_tem-spl.jpg"/> 
+    </item>  
+    <item> 
+      <title>Clarke could be finished - Maxwell</title>  
+      <description>Australia captain Michael Clarke has lost his confidence and could be playing his last Test series, says Jim Maxwell.</description>  
+      <link>http://www.bbc.co.uk/sport/0/cricket/33742723</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/cricket/33742723</guid>  
+      <pubDate>Sat, 01 Aug 2015 05:54:08 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/153E3/production/_84611078_clarke_getty.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/17AF3/production/_84611079_clarke_getty.jpg"/> 
+    </item>  
+    <item> 
+      <title>AFL racism row sparks online campaign</title>  
+      <description>Social media users rally around Aussie Rules footballer Adam Goodes, as he takes time out of the game amid a racism row with fans.</description>  
+      <link>http://www.bbc.co.uk/news/world-australia-33745663#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-australia-33745663</guid>  
+      <pubDate>Sat, 01 Aug 2015 09:36:12 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/D554/production/_84621645_gettyimages-482010610.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/FC64/production/_84621646_gettyimages-482010610.jpg"/> 
+    </item>  
+    <item> 
+      <title>Terror on the beach</title>  
+      <description>Thirty-eight people were killed by a gunman at the Tunisian resort of Sousse. Here survivors tell their story.</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33611482#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33611482</guid>  
+      <pubDate>Thu, 30 Jul 2015 11:00:00 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/C3F6/production/_84566105_tunisiascreengrabs28thjuly004_a.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/EB06/production/_84566106_tunisiascreengrabs28thjuly004_a.jpg"/> 
+    </item>  
+    <item> 
+      <title>A tourist in the land of the ayatollahs</title>  
+      <description>Iran hasn't presented an inviting face to the outside world over the last few decades, but the UK Foreign Office now says it's fine to visit - so what's it like?</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33706015#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33706015</guid>  
+      <pubDate>Wed, 29 Jul 2015 23:18:35 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/64B9/production/_84558752_spanishtouristpersepolis.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/8BC9/production/_84558753_spanishtouristpersepolis.jpg"/> 
+    </item>  
+    <item> 
+      <title>British oil company investigated</title>  
+      <description>The Serious Fraud Office opens a criminal investigation into British company Soma Oil and Gas.</description>  
+      <link>http://www.bbc.co.uk/news/33747169#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/33747169</guid>  
+      <pubDate>Sat, 01 Aug 2015 14:26:56 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/1034D/production/_84618366_sfo.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/12A5D/production/_84618367_sfo.jpg"/> 
+    </item>  
+    <item> 
+      <title>Zimbabwe 'seeks lion Cecil's killer'</title>  
+      <description>The US dentist who killed a lion in Zimbabwe should be extradited to face charges, the country's environment minister says.</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-33733722#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-33733722</guid>  
+      <pubDate>Fri, 31 Jul 2015 17:09:46 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Aeroplane debris arrives in France</title>  
+      <description>A piece of debris that experts believe could be from missing flight MH370 arrives in France from Reunion in the Indian Ocean for analysis.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33739851#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33739851</guid>  
+      <pubDate>Sat, 01 Aug 2015 15:38:59 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>India and Bangladesh swap enclaves</title>  
+      <description>India and Bangladesh swap control of 160 pockets of land on each other's territory, ending a complex and long-running border dispute.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-india-33733911#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-india-33733911</guid>  
+      <pubDate>Fri, 31 Jul 2015 19:39:17 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Serbia arrests 11 over lottery 'fix'</title>  
+      <description>Eleven people are questioned by Serbian police after a television graphic predicts a winning lottery number before it is drawn.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33746126#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33746126</guid>  
+      <pubDate>Sat, 01 Aug 2015 11:13:30 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Bin Laden relatives on crash plane</title>  
+      <description>Family members of Osama Bin Laden were on a private jet which crashed in Hampshire, killing all four people on board, the Saudi Arabian embassy in the UK says.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-33745057#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-33745057</guid>  
+      <pubDate>Sat, 01 Aug 2015 19:59:07 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/17A53/production/_84615869_plane_tubman.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1EAB/production/_84615870_plane_tubman.jpg"/> 
+    </item>  
+    <item> 
+      <title>Colombia military air crash kills 11</title>  
+      <description>A plane from Colombia's air force crashes in the north of the country, killing all 11 of those on board.</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-33748020#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-33748020</guid>  
+      <pubDate>Sat, 01 Aug 2015 13:38:26 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Argentine in Fifa 'not guilty' plea</title>  
+      <description>Alejandro Burzaco, a former Argentine sporting executive, pleads not guilty in the corruption case involving football's world governing body Fifa.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33742798#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33742798</guid>  
+      <pubDate>Fri, 31 Jul 2015 21:25:25 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/1050F/production/_84613866_84611400.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/12C1F/production/_84613867_84611400.jpg"/> 
+    </item>  
+    <item> 
+      <title>Baghdad sees heatwave protests</title>  
+      <description>Hundreds take to the streets of Baghdad to protest as temperatures in Iraq hit over 50C.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-33743746#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-33743746</guid>  
+      <pubDate>Fri, 31 Jul 2015 23:03:31 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Israel vows to find W Bank arsonists</title>  
+      <description>Israel vows to catch arsonists, suspected to be Jewish settlers, who killed a young Palestinian child in an attack on a West Bank village.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-33739351#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-33739351</guid>  
+      <pubDate>Fri, 31 Jul 2015 19:41:18 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>US Good Samaritans killed by driver</title>  
+      <description>An 18-year-old man has been arrested after police say he shot and killed two people who stopped to help him along a road in a Montana Indian reservation.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33736740#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33736740</guid>  
+      <pubDate>Fri, 31 Jul 2015 14:22:02 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Charleston gunman pleads not guilty</title>  
+      <description>Charleston gunman Dylann Roof pleads not guilty to federal charges including hate crimes</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33737244#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33737244</guid>  
+      <pubDate>Fri, 31 Jul 2015 21:17:30 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Your pictures: Metal</title>  
+      <description>Readers' photographs on the theme of metal.</description>  
+      <link>http://www.bbc.co.uk/news/in-pictures-33696527#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/in-pictures-33696527</guid>  
+      <pubDate>Thu, 30 Jul 2015 08:02:13 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/1761E/production/_84547759_84547701.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1A76/production/_84547760_84547701.jpg"/> 
+    </item>  
+    <item> 
+      <title>Your pictures: Metal</title>  
+      <description>Readers' photographs on the theme of metal.</description>  
+      <link>http://www.bbc.co.uk/news/in-pictures-33696527#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/in-pictures-33696527</guid>  
+      <pubDate>Thu, 30 Jul 2015 08:02:13 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/1761E/production/_84547759_84547701.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1A76/production/_84547760_84547701.jpg"/> 
+    </item>  
+    <item> 
+      <title>Ottawa: Canada's cheating capital?</title>  
+      <description>Is Ottawa really Canada's hotbed of infidelity?</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33738020#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33738020</guid>  
+      <pubDate>Sat, 01 Aug 2015 23:01:00 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>The troubleshooting teddies of Tirana</title>  
+      <description>Why Albanians are hanging cuddly toys from their rooftops</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33718522#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33718522</guid>  
+      <pubDate>Sat, 01 Aug 2015 23:04:27 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/10586/production/_84605966_teddypromo.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/12C96/production/_84605967_teddypromo.jpg"/> 
+    </item>  
+    <item> 
+      <title>Phoneless in Paris</title>  
+      <description>'I lost my iPhone in Paris - and learned a surprising lesson'</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33731981#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33731981</guid>  
+      <pubDate>Fri, 31 Jul 2015 15:36:48 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/2CA6/production/_84603411_handphone_thinkstock.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/53B6/production/_84603412_handphone_thinkstock.jpg"/> 
+    </item>  
+    <item> 
+      <title>How many people have gone to Syria to fight?</title>  
+      <description>How many people have gone to Syria to join Islamic State?</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33715636#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33715636</guid>  
+      <pubDate>Sat, 01 Aug 2015 23:25:13 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/0A3D/production/_84612620_raqqa-promo-ap.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/314D/production/_84612621_raqqa-promo-ap.jpg"/> 
+    </item>  
+    <item> 
+      <title>Been and Gone: The British film actress who missed out on fame</title>  
+      <description>The British film actress who missed out on fame</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33718356#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33718356</guid>  
+      <pubDate>Sat, 01 Aug 2015 23:35:28 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/15F3D/production/_84571998_novapilbeam_getty.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1864D/production/_84571999_novapilbeam_getty.jpg"/> 
+    </item>  
+    <item> 
+      <title>Big walls can cause big problems</title>  
+      <description>The problems that come from building mega walls</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-33521967#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-33521967</guid>  
+      <pubDate>Sat, 01 Aug 2015 23:42:00 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/25FE/production/_84262790_ohene144.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/4D0E/production/_84262791_ohene144.jpg"/> 
+    </item>  
+    <item> 
+      <title>Weekend Edition: The week's best reads</title>  
+      <description>The best features of the week to enjoy, including your comments</description>  
+      <link>http://www.bbc.co.uk/news/blogs-magazine-monitor-33675425#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/blogs-magazine-monitor-33675425</guid>  
+      <pubDate>Fri, 31 Jul 2015 15:36:39 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/C8AA/production/_84507315_thinkstockphotos-186070891.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/EFBA/production/_84507316_thinkstockphotos-186070891.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: The elephant playing with birds - and more trends of the week</title>  
+      <description>The animal that charmed the internet and other trends</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33733953#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33733953</guid>  
+      <pubDate>Sat, 01 Aug 2015 23:31:35 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/9BA0/production/_84604893_elephant1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/4C04/production/_84606491_elephant1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Go Figure: The week in numbers</title>  
+      <description>The big numbers from the week's news, visualised</description>  
+      <link>http://www.bbc.co.uk/news/blogs-magazine-monitor-33738578#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/blogs-magazine-monitor-33738578</guid>  
+      <pubDate>Fri, 31 Jul 2015 15:36:29 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/182EA/production/_84605099_lionhunting.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/0096/production/_84605100_lionhunting.jpg"/> 
+    </item> 
+  </channel> 
+</rss>

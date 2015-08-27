@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Child Refugee From War Torn Somalia Goes Back to Run For President</title>
+<description>After fleeing her homeland almost 25 years ago, Fadumo Dayib has decided she wants to be president of Somalia. “I’m generally an optimist,”  Ms. Dayib told Good News Network. She certainly needs to be, since she’s the first female candidate in the nation and going up against some fiery opponents in a male-dominated country. 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Balloon Released at Gravesite Flies 25 Miles, Straight Home to Family</title>
+<description>On her first Father’s Day without her dad, 13-year-old Saige Seibold and her mother Sandy decided to “send a message to Heaven.” They were stunned by the sudden reply. John Seibold had passed away just a month earlier, and his wife and daughter (pictured left) visited his grave to release 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Policeman Risks Spraying to Save Skunk From Yogurt Can Situation</title>
+<description>Caught on cop cam: officer risks the wrath of a scared skunk to help free him from a yogurt container. While Rochester, Michigan Officer Merlin Taylor was on patrol, his squad car pulled up near a skunk running in circles with his head stuck in a yogurt container. Poor little guy—he 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>How to Turn Off GNN Notifications or Turn Back On</title>
+<description>A thousand apologies go out to Good News Network fans who experienced our deluge of notifications that accidentally went out on August 4. We had a problem when deactivating a WordPress plugin and so had to secretly republish all 366 On This Day in History columns. Unfortunately, my tech team and 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>5-yr Study Reveals Why Ovarian Cancer Recurs and How to Stop It</title>
+<description>Scientists have finally discovered why ovarian cancer frequently comes back after patients receive chemotherapy—and they’ve also found a way to potentially eliminate the recurrence rate for half of patients who have the disease. A five-year study at the University of California at Los Angeles found that coupling chemotherapy with an experimental drug called 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Fanny Packs Are In! “Hip Appeal” Offers Discrete Storage With Style</title>
+<description>According to Cosmopolitan’s August issue, Fanny Packs are, once again, the “in” thing. This is great news for GNN&#8217;s founder, Geri, who loved hers back in the day. But recently, long since having ditched her clunky fanny pack, she found herself headed to an all-day concert festival and needed to literally go buy pants just for 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Youngest Black Actor Makes History Twice in ‘Les Miz’ Broadway Role</title>
+<description>Who can honestly say they landed their dream job right out of college? Kyle Jean-Baptiste can–and he’s making history twice by doing it. Right after graduation, the 21-year-old tenor was cast in the Broadway revival of “Les Misérables” playing the roles of Constable and Courfeyrac. He was also cast as an understudy 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Field of Greens: Baseball Stadiums Grow Veggies on Roof to Feed Fans</title>
+<description>Take me out to the garrr-den! Take me out to the greens! Forget peanuts and Cracker Jacks. A handful of Major League Baseball teams have started ‘farming the back 40’—and, in some cases, their sun-drenched stadium rooftops—to add healthier food choices to their concession menus while improving their operations’ sustainability. 
+</description>
+<sentiment>positive</sentiment>
+</item>
+</news>

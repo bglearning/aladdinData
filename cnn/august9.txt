@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>The presidential hopeful's feud with Megyn Kelly escalates</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Trump, top adviser split</title>
+<description>Donald Trump's campaign said Saturday it has fired top political adviser Roger Stone.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Past comments about women</title>
+<description>Anderson Cooper examines Megyn Kelly's debate question to Don Trump about comments he made about women.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>'I'm Hillary's worst nightmare'</title>
+<description>As part of a CNN Tonight interview, Donald Trump touches upon a bevy of topics, including telling Don Lemon that he is Hillary Clinton's 'worst nightmare'</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Police academy students gunned down</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>12 dead in Mali hotel siege</title>
+<description>Twelve people -- including five Malian soldiers -- died as a result of a hostage situation and ensuing battle between the attackers and soldiers at a Mali hotel, Malian state-run broadcaster ORTM reported Saturday. </description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>China drenched, storm downgraded</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Soccer: EPL starts with own goal</title>
+<description></description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>James Holmes gets life in prison</title>
+<description></description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Planet Ceres: NASA flyover</title>
+<description>NASA released a new flyover animation showing the mysterious surface of the dwarf planet Ceres. </description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Brightest meteor shower due</title>
+<description>A moonless evening could give stargazers a fantastic light show next week. </description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>See mysterious space pyramid </title>
+<description>NASA released a new flyover animation showing the mysterious surface of the dwarf planet Ceres. </description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>The airport that runs on wind</title>
+<description></description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Cop's armed confrontation goes viral</title>
+<description>The Mayor and City Manager in Rohnert Park, California say they are investigating an incident where an unidentified officer drew his gun on a man recording him.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>What next for China's sailing hero?</title>
+<description>When first introduced to the sport in primary school, Xu Lijia's first reaction was: "What is sailing?"</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>A painted journey in Singapore</title>
+<description>CNN's Victoria Kennedy talks with internationally acclaimed artist and athlete Gregory Burns about his works of art. </description>
+<sentiment>positive</sentiment>
+</item>
+</news>

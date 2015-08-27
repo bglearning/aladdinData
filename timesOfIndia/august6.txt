@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<news>
+<item>
+<title>Cross-border terror: Pak caught red-handed, again</title>
+<description>Wednesday’s capture of a Pak terrorist from Amaranth Yatra trail comes 10 days after the Gurdaspur attack and day after a Pak investigator confi rmed that 26/11 was planned and launched from Pakistani soil.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Former Goa PWD minister Churchill Alemao held</title>
+<description>Former Goa Public Works Department minister Churchill Alemao has been arrested in connection with the Louis Berger bribery case.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Rly tragedy in MP: Some live to recount horror</title>
+<description>“When I saw coaches of my train plunging into water, I called my daughters and said this might be the last call as the train was sinking,” recalls Arun Pandey, 57, who was among several passengers in S-4 coach of Kamayani Express to have come out of jaws of death.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Cong protests go from House to Speaker’s home</title>
+<description>The demonstration on Wednesday morning takes Congress-BJP hostilities to another level as opposition parties have not usually carried their unhappiness with the Speaker so far as to stage street protests.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+</news>

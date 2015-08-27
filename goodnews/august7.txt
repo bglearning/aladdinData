@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Beyond Carrot Sticks: Serve Great Party Foods That Don’t Pack on Pounds</title>
+<description>When you&#8217;re watching what you eat, party can sound like a four letter word. Have no fear: if you&#8217;re throwing the shindig yourself—or attending someone else’s— nibbles nutritionist Tanya Zuckerbrot gave us these suggestions to keep you on a nutritious, yet yummy, track. OUT: Crab Cakes   IN: Shrimp Cocktail Classic crab 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>After Wedding, Instead of Fancy Meal Couple Serves 4000 Syrian Refugees</title>
+<description>A young Turkish couple wanted to celebrate their wedding day by bringing happiness to some of the refugees who have fled Syria since the outbreak of the civil war four years ago. Fethullah Üzümcüoğlu and Esra Polat, who married last week in a province near the Syrian border, pooled the money 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>How a Divine Chocolate Company Gives Women Workers a Sweet Life in Ghana</title>
+<description>Unwrap a bar of Divine Chocolate and you’ll find…not a golden ticket, but the story of one of the company’s owners. Peel back one more —why not? Life is short!—and the stories inside may continue to surprise you. That’s because, as the only fair-trade chocolate maker owned by a farmers cooperative, 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Baby Otter Learns How to be an Otter From Expert Humans</title>
+        <description>This wee one has been enrolled in Otter School. “Luna” was only a week old when found lost and alone on a California beach. Weighing just two pounds at the time, she was taken in by Chicago’s Shedd Aquarium, where people have been teaching her the ways of the world — an otter’s world 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Mountain Gorilla Population Bounces Back, Quadruples to 1000</title>
+        <description>The largest population of mountain gorillas in the world has grown to four times the size of its once-dwindling number, as poaching has become virtually non-existent among the magnificent apes of Virunga National Park in the Democratic Republic of Congo. Nearly 1,000 gorillas live in the park now, quadruple the number 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Teens Rescue 89-yr-old Who Didn’t Know Her House Was On Fire</title>
+        <description>An elderly South Carolina woman didn’t realize her house was on fire until two teenage neighbors pulled her out of the burning building. Logan Campbell and step-brother James Brown were startled by an exploding electrical transformer in the middle of the night. When they went to check it out, they 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        </news>

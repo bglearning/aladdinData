@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>World’s Largest Free Kitchen Feeds 100,000 a Day Inside a Golden Temple</title>
+<description>Feeding the hungry is a time-honored tradition among people of many faiths, all over the world. In Amritsar, India, the Sikh gather in a Golden Temple to serve 100,000 meals every single day of the year in a kitchen that never closes. The langar, or community kitchen, found in this temple is the 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Entire Nation of Sri Lanka Will Soon Get Internet Access Thanks to Google</title>
+<description>The entire island nation of Sri Lanka is about to be blanketed with Internet service — all of it beamed from balloons – thanks to a contract with Google to create Internet connections in the sky. Google’s Project Loon uses a network of 13 giant balloons, riding air currents, to deliver smartphone-based 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>What 1000 Passionate Italians Did to Lure a Rockstar to Their Town</title>
+<description>They say music brings us together and although this performance only lasted four minutes, its epic orchestration brought together 1000 drummers, bassists, singers and guitarists united in a single plea–directed at five guys. “Please come and play for us in Cesena, Italy.” Fabio Zaffagnini worked a year on producing the 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Family Finds 300-yo Golden Treasure Found in Shallow Waters of Florida</title>
+<description>Within days of the anniversary that a Spanish fleet wrecked in a hurricane off the coast of Florida 300 years ago, a family of treasure divers uncovered a million dollars in rare gold coins and artifacts hiding in just 15 feet of water. 1,000 feet off the coast of Fort Pierce, Eric Schmitt and his family 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Firefighters Pay it Forward Big Time After Waitress With Heart of Gold Picks Up Tab</title>
+<description>A waitress who did a good deed for a pair of firefighters was overwhelmed when they returned the favor—for her father. Instead of a bill for their breakfast, Liz Woodward brought a pair of New Jersey firefighters a thank you note—they’d just spent the night battling a blaze at a 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Canadians Can Now Use Frequent Flyer Miles To Pay For College</title>
+<description>If you happen to live in Canada, you can take a year off to travel the world before college and use those frequent flyer miles to pay your tuition. Thanks to a team effort by Air Canada’s frequent flyer program, Aeroplan, and HigherEdPoints, miles can now be converted into education 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>11 Species of Chameleon Could Save Rainforest—Bonus</title>
+<description>Of course 11 species of color-changing lizards have been hiding in plain sight — they’re masters of disguise. Now that they’ve officially been discovered, scientists believe the critters could actually help save a rainforest. Panther chameleons, who are native to Madagascar, were initially thought to be a single species. Scientist 
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>After Korean War Monument is Vandalized in NJ, a South Korean Town Donates to Repair it</title>
+<description>Sixty-two years after the Korean War ended, residents of a South Korean town reached out to veterans in New Jersey to remind them that their sacrifice in the 1950s will never be forgotten. A refurbished monument that honors local veterans of the Asian conflict was unveiled Monday in Jersey City, 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>This is the 10th Summer Warren Buffett Has Donated Over $1Bil to Charity</title>
+        <description>Warren Buffett’s summer tradition of giving continued with a gift of $2.8 billion to foundations that work on global health, college scholarships, poverty and opportunities for children, especially girls, around the world. The billionaire’s latest donation was given in the form of 20.6 million shares of Berkshire Hathaway stock divided 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>How Mervin the Rescue Chihuahua Melted 30,000 Hearts on Instagram</title>
+        <description>Aside from being absolutely adorable—and the ideal posterboy for #TongueOutTuesday—Mervin is a champion for second chance pups everywhere. Initially found as a stray and brought to the ASPCA, Mervin, a very special-needs dog, has made a major splash all over social media. After being properly nourished, undergoing knee surgery, and 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Sassy 5-yo Sets Up Ice Cream Shop So He Can Buy Medicine for Sick Kids</title>
+        <description>For his fifth birthday, Haylen Astalos’s parents threw him a “five for five party.” They asked guests to bring two $5 dollar bills: one for the birthday boy, and another for him to donate to a charity of his choice. After buying a tricked-out monster truck for himself, Haylen decided to 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Australian Solves Rubik’s Cube in Less than 6 Seconds</title>
+        <description>How fast can you solve a Rubik’s Cube? The reigning world champ did it in 5.695 seconds — that’s a decimal point, not a comma. Feliks Zemdegs took less than six seconds to line up all the colors on all six sides of the classic puzzle during the Rubik’s Cube 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Man Who Donated Son’s Organs Years Ago Gets Same Gift From Recipient’s Mom</title>
+        <description>The gift of life that was given ten years ago is being paid back by a grateful mother to a now-ailing father. In 2005, Bill Millard and his wife decided to donate their son’s organs when he died in an accident. That donation saved the life of fellow San Francisco, 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Poem’s Twist Ending Gives Bar Patrons Whole New Perspective on the Words</title>
+        <description>At first read, this poem can be a downer, but the surprise ending will simply change your entire perspective on what you just read. Ronnie Joice spotted it hanging in a London bar and when he discovered the clever trick the poet used, Joice had to share it on Twitter. 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Street Sweeper Cared Enough to Avoid Erasing Child’s Chalk Drawing on Road</title>
+        <description>A street sweeper was so happy to see a little girl’s roadside chalk drawing that he moved his brushes out of the way to preserve it. Seven-year-old Brielle Pronick was hard at work on her latest chalk mural outside her home, when she noticed her masterpiece was in jeopardy – 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Malawi Chief Annuls Child Marriages, Sends Kids to School</title>
+        <description>Child advocates cheered the news in April when Malawi, an African nation with one of the highest rates of child marriage in the world, raised the minimum age for marriage to 18. But what about the legions of underage children who were legally wed before the new law took effect? 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>Kids Pick Perfect Song to Sing for Teacher With Cancer</title>
+        <description>When New York public school teacher Adriana Lopez was diagnosed with breast cancer, her students wanted her to know they ‘had her back’. So they sat her on the stage and, with pink carnations in hand, sang Martina McBride’s, “I’m Gonna Love You Through It,” as part of their final 
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        </news>

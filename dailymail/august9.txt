@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>
+Leichhardt cottage with rotten floors, damp walls and a grotty kitchen sells for $900k
+</title>
+<description>
+A tiny, squalid Leichhardt home in Sydney’s inner west (pictured) has sold for $900,000 at auction, reminding prospective home-owners the boom is far from over.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Adult entertainment website Pornhub launches premium streaming service...with its eye on becoming 'Netflix of porn'
+</title>
+<description>
+Pornhub Premium costs customers $9.99 monthly, following a week-long trial for nothing, the company said. The service can be used on mobile devices, as well as tablets and desktops.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Crackdown on puppy farms looms in Qld
+</title>
+<description>
+A crackdown on puppy farms is looming in Queensland, and laws to stamp out the practice are likely to be introduced early next year. Queensland Premier Annas...
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+China inflation edges up to 1.6 percent in July
+</title>
+<description>
+BEIJING (AP) — Consumer inflation edged up to a still-low 1.6 percent year-on-year in July, government data showed Sunday, leaving room for Beijing to cut in...
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+U.S. PGA Tour Reno Championship scores
+</title>
+<description>
+Aug 9 (Infostrada Sports) - Scores from the U.S. PGA Tour Reno Championship on Saturday in Reno, Nevada 41 J.J. Henry (U.S.) 13 11 17 40 David Toms (U.S.) 13...
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Barack Obama, Larry David and Robert Wolf play golf on Martha's Vineyard
+</title>
+<description>
+President Obama spent Saturday playing golf with David and his usual opponent Cyrus Walker. Robert Wolf, the former head of UBS Investment Bank, rounded out the group in Massachusetts.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Takashi Kobayashi and Hiroshi Nakamura build treehouse around 300 year old tree
+</title>
+<description>
+Takashi Kobayashi collaborated with Hiroshi Nakamura to create Kusukusu (pictured), a sprawling structure built around a towering camphor tree in Atami, southern Japan.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+UK weather is going to get even HOTTER today with highs of 28C
+</title>
+<description>
+Temperatures could soar to 28C today as thousands get ready to hit the beach, the Edinburgh Fringe and festivals all over the country - after thousands took to Britain's shores yesterday (pictured).
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+China July producer prices slump to near 6-year low
+</title>
+<description>
+BEIJING, Aug 9 (Reuters) - Producer prices in China fell to a near six-year low in July while consumer inflation remained subdued, signalling the world's sec...
+</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>
+Bernie Sanders forced to abandon rally after Black Lives Matter protesters storm stage and hold four-minute silence for Michael Brown 
+</title>
+<description>
+Sanders was just starting to address several thousand people gathered shoulder to shoulder at Westlake Park , Seattle, when two women took over the microphone and wouldn't gibe it back.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Romero quits round but not disqualified in Reno
+</title>
+<description>
+Aug 8 (Reuters) - Argentine Andres Romero, in a bizarre situation, was allowed to remain in the Barracuda Championship despite not completing each of the fin...
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Sydney socialite Kirsty Dayment 'arrested and charged with selling drugs'
+</title>
+<description>
+Kirsty Dayment, 33, who runs her own fashion store and is well-known in the Sydney social scene, was charged by police and the NSW Crime Commission last week.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+As Singapore turns 50, a proud nation prepares to party
+</title>
+<description>
+By Rujun Shen SINGAPORE, Aug 9 (Reuters) - Festooned with countless red and white flags, Singapore launched an extravagant celebration of its 50th anniversar...
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Eddie McGuire denies racism after calling John Eren a ‘Turkish-born Mussie’
+</title>
+<description>
+Media personality and powerful AFL figure Eddie McGuire (pictured) has denied he made a racist remark when calling Victorian sports minister John Eren a ‘soccer loving Turkish-born Mussie’.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Treat travel like businesses do: Abbott
+</title>
+<description>
+Prime Minister Tony Abbott says politicians must be more business-like in their approach to travel expenses while also meeting community expectations. His co...
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+Cody Simpson reflects on his rise to fame as he performs intimate Sydney gig
+</title>
+<description>
+He's built up quite the dedicated fan base over his five years in the music industry, and the enthusiasm of the crowd at Cody Simpson's intimate Sydney gig on Saturday night proved just that.
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+Social worker Lara Sobel who was' killed by woman who lost custody of daughter'
+</title>
+<description>
+Lara Sobel, a veteran Department for Children and Families worker, was fatally shot on Friday afternoon outside of a state office building that houses the department, authorities said.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Miley Cyrus slams Taylor Swift's role model status over 'violent' Bad Blood video
+</title>
+<description>
+The 23-year-old star wants to know one thing - why is getting naked to support your music worse than having a video clip filmed with guns?
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Cambage omitted as Opals name team
+</title>
+<description>
+Basketball Australia has stuck by its decision to exclude star centre Liz Cambage from the Opals' two-leg Olympic qualifying series against New Zealand start...
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+England and Leicester City footballer Jamie Vardy in race row
+</title>
+<description>
+The forward, who earns £45,000-a-week, is said to have lost his temper during a high-stakes game of poker at a Leicester casino and turned on the man, who was watching the game of cards.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Woman completes record-breaking swim to Golden Gate Bridge
+</title>
+<description>
+SAN FRANCISCO (AP) — A San Francisco resident became the first woman to swim the 30-mile stretch from the Farallon Islands to the Golden Gate Bridge on Satur...
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Lib Dem ministers Vince Cable and Danny Alexander named in Dissolution Honours List
+</title>
+<description>
+Former Lib Dem ministers Vince Cable and Danny Alexander are to get knighthoods in the long-awaited Dissolution Honours List, it has been reported.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Boy George reveals the secrets behind his remarkable reinvention
+</title>
+<description>
+The madness of Boy George – the drugs, the public spats, the prison sentence – threatened to finish off the Eighties icon. Here, he reveals how he’s finally cleaned up his act.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Miranda Hart to star with Reese Witherspoon in Disney film says GIRL ABOUT TOWN
+</title>
+<description>
+Miranda Hart, 42, is set to follow up her Hollywood debut by starring opposite Reese Witherspoon in a new big budget Disney comedy.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+'Da Vinci' robot allows patients to leave hospital two days after major surgery
+</title>
+<description>
+The Da Vinci robot, used by the Newcastle Hospital Trust, has allowed patients to leave hospital within two days of surgery, suffering only minimal post-operative pain.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Australian captain Michael Clarke says he's going to retire from cricket
+</title>
+<description>
+Australia captain Michael Clarke has broken down  after announcing he will retire from international cricket after the final Ashes Test at The Oval. 
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Carphone Warehouse hackers may have accessed bank details of 2.4M customers
+</title>
+<description>
+The attack on the mobile phone retailer, which was discovered on Wednesday, could have included the names, addresses, birthdays and even bank details of those targeted.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Daniel Hodges serving life sentence is to marry a childhood friend
+</title>
+<description>
+The 33-year-old now plans to marry a childhood friend, named only as Zoe, at Whitemoor prison in Cambridgeshire after proposing to her in a poem published by Inside Time.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Louboutins shoemaker is turning his creative genius to the humble wedge
+</title>
+<description>
+Christian Louboutin has designed 1,200 limited edition wedges inspired by the Himalayan kingdom of Bhutan - with each pair expected to cost about £1,000. They're expected to go on sale next years.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Transgender Jazz Jennings knew she was a girl born in a boy’s body
+</title>
+<description>
+Jazz Jennings was ‘assigned male at birth’, meaning she was born a boy. Her parents, Jeanette and Greg, named their baby son Jaron. But Jazz – as she has long been known – felt she was a girl.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Man, 62, bleeds to death during surgery as operation broadcasts globally LIVE
+</title>
+<description>
+A 62-year-old man bled to death while doctors at the premiere AIIMM performed a live surgery on him in presence of top medical practitioners and students from around the world.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Ten thousand children forced to sell their blood by Lucknow doctors 
+</title>
+<description>
+About 10,000 children were persuaded to sell blood repeatedly, violating all health norms, and no tests were ever carried out as to whether the collected blood was contaminated.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Incredible pictures show South African Cape ground squirrels
+</title>
+<description>
+These two squirrels were photographed in the grips of what looks like the sensual South American dance. They were pictured in their natural habitat in South Africa's Kgalagadi Transfrontier Park.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Mysore tops the list of Swachh Bharat ranking 
+</title>
+<description>
+Mysore has topped the Swachh Bharat rankings among 476 cities in the country with three more places from Karnataka figuring in the top 10.
+</description>
+<sentiment>undefined</sentiment>
+</item>
+<item>
+<title>
+Orange Is The New Black's Ruby Rose puts on a leggy display in cropped denim shorts
+</title>
+<description>
+Sporting a pair of cropped denim shorts, Ruby put on a rather leggy display as she chatted to a female pal during the brief appearance in Studio City – less than a day after her return to Los Angeles.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Mike Brown's father leads a Ferguson march through to mark son's death
+</title>
+<description>
+Mike Brown Sr. said he is 'still hurting' almost a year to the day since his son was shot dead by then-police officer Darren Wilson in Ferguson, ahead of a weekend of protests around the city.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Whitney Port and Brody Jenner enjoy a bachelorette party in Las Vegas
+</title>
+<description>
+She has shied away from 'what goes on in Vegas, stays in Vegas' by sharing a series of candid Instagram snaps which document the festivities.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Calais migrants barred from Best Western hotel as guests leave TripAdvisor warnings
+</title>
+<description>
+The Best Western Park Hall, in Chorley, Lancashire (pictured) - one of the hotels used to accommodate 100 stowaways - has said it will not take any more would-be asylum seekers.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+David Cameron relaxes in Portugal in a pair of FitFlops
+</title>
+<description>
+The Prime Minister was pictured enjoying a beer on holiday in Portugal with wife Samantha and revealed his latest choice of holiday footwear - a pair of FitFlops.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+MP Nicky Morgan to revive Grammar Schools row over the role of academic selection
+</title>
+<description>
+Ministers are set to announce the first 'new' grammar school in 50 years, reviving the decades-old row over the role of academic selection in the State system.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+ISIS militant the Ginger Jihadi makes a series of boasts about UK attack
+</title>
+<description>
+An ISIS militant bragged to to a reporter that they would not stop until the jihadi flag flew over Buckingham Palace, and an English extremist wrote an online guide on how to carry out lone wolf attacks.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Pravastatin could save pregnant women from potentially fatal high blood pressure
+</title>
+<description>
+Experts, including researchers at Aston University in Birmingham, hope the discovery will lead to a new treatment for pre-eclampsia, which is linked to one in 20 stillbirths.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Google likely to pick Presidential candidates whose names come on top of search
+</title>
+<description>
+Undecided voters were 12 per cent more likely to pick candidates whose name appeared at the top of a search, a U.S. study showed, meaning the site has likely already helped to sway elections.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Terror threat hangs over Jammu and Kashmir and Punjab
+</title>
+<description>
+Sources say 12 Pakistan-trained suicide bombers could be hiding in the remote villages of Jammu and Kashmir or in the hutments of Gujjar tribe. These terrorists speak Kashmiri.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Kyly Clarke shares message as husband Michael Clarke retires from cricket
+</title>
+<description>
+Kyly Clarke has shared an emotional message after her husband, Australia's cricket captain Michael Clarke announced he will retire from international cricket.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Himachal Pradesh landslide: At least three people buried alive
+</title>
+<description>
+Heavy rains lashed several parts of Himachal Pradesh on Saturday triggering landslides and blocking roads in the interiors of Mandi, Shimla, Kullu and Sirmaur districts.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Sushma says hearing and speech-impaired Geeta will be brought home after a decade in Pakistan
+</title>
+<description>
+The External Affairs Minister said that four families have claimed 23-year-old Geeta. She tweeted that the Indian government is completing all necessary formalities to bring her back.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Ethan McKen feared dead after being swept to sea on Thomas Cook Bulgaria holiday
+</title>
+<description>
+Ethan McKen (pictured) had not long arrived in Sunny Beach, near Burgas on Bulgaria's east coast, when he and a friend were pulled out to sea in the early hours of Saturday. He's not been seen since.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Modi's civic society is a repressive surveillance culture 
+</title>
+<description>
+The banning of pornographic sites is located within his wider dreams of a new surveillance society. We are witnessing the unfolding of something systematic and conceptual.
+</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>
+Apple to unveil its new iPhone and iPad on September 9
+</title>
+<description>
+Sources in the know claim Apple is planning an event for the week of September 7, with September 9 being the most likely date for its annual autumn media event.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Active military-grade grenade found outside McDonald's
+</title>
+<description>
+THURMONT, Md. (AP) — An active military-grade hand grenade was uncovered Saturday afternoon in the parking lot outside a Maryland McDonald's. The Frederick N...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Mayor De Blasio says bacteria outbreak has been contained
+</title>
+<description>
+NEW YORK (AP) — Five more buildings in the Bronx have tested positive for the bacteria that cause the potentially deadly Legionnaires' disease, though there ...
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Delta Airlines pilots make emergency landing after hail storm cracked windshield
+</title>
+<description>
+The Delta Airlines flight from Boston to Salt Lake City had to land in Denver on Friday evening after a storm wrecked the front of the plane - including its  GPS navigation system.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+New Speaker will decide on meetings: PM
+</title>
+<description>
+Prime Minister Tony Abbott says it will be up to the new Speaker to decide whether they attend party meetings. "I'm very confident that whoever does emerge a...
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Wayne Rooney's son Klay sports Manchester Utd kit
+</title>
+<description>
+The youngest of Coleen and Wayne's sons headed to watch his footballer dad take to the pitch for Manchester United's first match of the season on Saturday.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Five people detained for sheltering terrorists in Udhampur probe 
+</title>
+<description>
+Following Union Home Ministry’s direction the NIA took over the Udhampur encounter case and began an investigation with the assistance of Jammu and Kashmir Police.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Bali ash cloud causes more travel misery for holidaymakers
+</title>
+<description>
+Travellers are facing another day of cancelled flights in and out of Bali as volcanic ash cloud continues to play havoc with holiday plans.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+4 dead in small plane crash in NY's Adirondack Mountains
+</title>
+<description>
+LAKE CLEAR, N.Y. (AP) — No distress call was received from a small plane that crashed in the Adirondack Mountains, leaving four people dead in the fiery wrec...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Man found dead in Yellowstone attacked by grizzly bear
+</title>
+<description>
+YELLOWSTONE NATIONAL PARK, Wyo. (AP) — The National Park Service says a Montana man found dead in Yellowstone National Park was the victim of a grizzly bear ...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Marseille coach Bielsa quits over contract dispute
+</title>
+<description>
+PARIS, Aug 8 (Reuters) - Olympique de Marseille's Ligue 1 campaign got off to the worst possible start as coach Marcelo Bielsa resigned over a contract dispu...
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Russia one of six countries labelled as rogue nations in the war on doping 
+</title>
+<description>
+NICK HARRIS: Athletics' global governing body has admitted that a core group of six rogue nations continue to deliver a disproportionately large amount of doping cases.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+        <item>
+        <title>
+        Uber admits mistake in accepting sex assault suspect
+        </title>
+        <description>
+        DALLAS (AP) — Uber says an internal investigation found it mistakenly granted driver status to a man now accused of sexually assaulting a female passenger. W...
+        </description>
+        <sentiment>undefined</sentiment>
+        </item>
+        <item>
+        <title>
+        Attacks on army, police and U.S. special forces kill 50 in Kabul
+        </title>
+        <description>
+        By Mirwais Harooni and Jessica Donati KABUL, Aug 8 (Reuters) - A wave of attacks on the Afghan army and police and U.S. special forces in Kabul have killed a...
+        </description>
+        <sentiment>negative</sentiment>
+        </item>
+        <item>
+        <title>
+        Taliban suicide bomber strikes Afghan police academy in Kabul
+        </title>
+        <description>
+        The bomber, who was wearing a police uniform, detonated his explosives in the centre of a crowd of students, killing at least 20 recruits and wounding 24 others, Afghan officials said.
+        </description>
+        <sentiment>negative</sentiment>
+        </item>
+        <item>
+        <title>
+        2 face charges for allegedly shooting wildlife officer
+        </title>
+        <description>
+        PANAMA CITY, Fla. (AP) — Florida Panhandle authorities say the two men responsible for shooting a wildlife officer during a violent struggle Friday also trie...
+        </description>
+        <sentiment>negative</sentiment>
+        </item>
+        <item>
+        <title>
+        Mom arrested in death of 1-month-old found in NYC courtyard
+        </title>
+        <description>
+        NEW YORK (AP) — A mother was arrested on a murder charge after her newborn baby boy was found dead in the courtyard of their apartment building, police said ...
+        </description>
+        <sentiment>negative</sentiment>
+        </item>
+        <item>
+        <title>
+        2 sentenced for running international sports betting ring
+        </title>
+        <description>
+        SAN DIEGO (AP) — Two brothers who ran an international sports betting ring have been sentenced in California to federal prison. A judge in San Diego sentence...
+        </description>
+        <sentiment>negative</sentiment>
+        </item>
+        <item>
+        <title>
+        Egypt's ousted president refusing prison food
+        </title>
+        <description>
+        CAIRO (AP) — Egypt's state-run media says ousted Islamist President Mohammed Morsi is refusing to eat prison food because he doesn't think it is safe. The st...
+        </description>
+        <sentiment>negative</sentiment>
+        </item>
+        <item>
+        <title>
+        France opens bribery investigation into Gabonese official
+        </title>
+        <description>
+        PARIS, Aug 8 (Reuters) - France is investigating Gabon President Ali Bongo's chief of staff on suspicion of taking a bribe to help secure a contract, a judic...
+        </description>
+        <sentiment>negative</sentiment>
+        </item>
+        <item>
+        <title>
+        Dad and child Beata Wloclawski reunited after 35 years apart speak different languages
+        </title>
+        <description>
+        Lisa Tinti, right, was known as Beata Wloclawska when she last saw her father, Andrzej, left, in Poland as she set off for a new life in Britain, but they were finally re-united this week.
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>
+        Texas college football player shot by police was unarmed
+        </title>
+        <description>
+        ARLINGTON, Texas (AP) — Police say the suburban Dallas officer who shot and killed a college football player during a burglary call at a car dealership had n...
+        </description>
+        <sentiment>negative</sentiment>
+        </item>
+        <item>
+        <title>
+        Greek govt says poring over draft of third bailout agreement
+        </title>
+        <description>
+        ATHENS, Aug 8 (Reuters) - Greek government officials are poring over a draft of the country's third bailout agreement drawn up on the basis of discussions wi...
+        </description>
+        <sentiment>neutral</sentiment>
+        </item>
+        <item>
+        <title>
+        Injuries suffered by aspiring Nottingham model Lasha Horton left scarred for life
+        </title>
+        <description>
+        Lasha Horton, from Nottingham,  was lucky to be alive after broken glass sliced her face almost from ear-to-ear, only narrowly missing her eyes and an artery.
+        </description>
+        <sentiment>negative</sentiment>
+        </item>
+        <item>
+        <title>
+        Police set up shop to catch Tas arsonist
+        </title>
+        <description>
+        Detectives will open a makeshift police station in a southern Tasmanian township where arson attacks have targeted two homes and a caravan in the past three ...
+        </description>
+        <sentiment>positive</sentiment>
+        </item>
+        <item>
+        <title>
+        Another day of cancelled Bali flights
+        </title>
+        <description>
+        Flights in and out of Bali have again been cancelled as winds exacerbate the volcanic ash cloud from Indonesia's Mount Raung. Virgin Australia has cancelled ...
+        </description>
+        <sentiment>negative</sentiment>
+        </item>
+        <item>
+        <title>
+        Ireland crush Wales in World Cup warm-up
+        </title>
+        <description>
+        Aug 8 (Reuters) - Six Nations champions Ireland scored five tries in an impressive 35-21 defeat of Wales in Cardiff as their World Cup build-up began in earn...
+        </description>
+        <sentiment>neutral</sentiment>
+        </item>
+        <item>
+        <title>
+        Horror crash leaves seven seriously injured after two cars drove into each other on a regional road
+        </title>
+        <description>
+        Seven people have been seriously injured after a head-on collision in Armadale New South Wales. The driver of one car, a 19-year-old male, had to be airlifted to hospital.
+        </description>
+        <sentiment>negative</sentiment>
+        </item>
+        <item>
+        <title>
+        Egypt officials: Factory fire north of Cairo kills 5 people
+        </title>
+        <description>
+        CAIRO (AP) — Egyptian security and health officials say a fire at a factory north of Cairo has killed five workers and injured four. Officials say the fire a...
+        </description>
+        <sentiment>negative</sentiment>
+        </item>
+        </news>

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  
+  <channel> 
+    <title>BBC News - Home</title>  
+    <link>http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+    <description>The latest stories from the Home section of the BBC News web site.</description>  
+    <language>en-gb</language>  
+    <lastBuildDate>Fri, 31 Jul 2015 02:22:42 GMT</lastBuildDate>  
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>  
+    <image> 
+      <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>  
+      <title>BBC News - Home</title>  
+      <link>http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <width>120</width>  
+      <height>60</height> 
+    </image>  
+    <ttl>15</ttl>  
+    <atom:link href="http://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>  
+    <item> 
+      <title>'Repeat attack' at Jerusalem Gay Pride</title>  
+      <description>Six people are stabbed at a Gay Pride march in Jerusalem and police arrest an ultra-Orthodox Jewish man they say attacked marchers in 2005.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-33726634#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-33726634</guid>  
+      <pubDate>Thu, 30 Jul 2015 22:27:17 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Move to end anti-icebreaker protest</title>  
+      <description>The US Coast Guard begins an operation to remove Greenpeace protesters blocking an icebreaker from departing Portland, Oregon.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33724405#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33724405</guid>  
+      <pubDate>Fri, 31 Jul 2015 01:36:27 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>HIV flushed out by cancer drug</title>  
+      <description>HIV can be flushed out of its hiding places in the body using a cancer drug, researchers show.</description>  
+      <link>http://www.bbc.co.uk/news/health-33720325#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-33720325</guid>  
+      <pubDate>Thu, 30 Jul 2015 23:05:16 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/127CF/production/_84572757_c0255688-hiv_viruses_infecting_a_cell%2C_tem-spl.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/14EDF/production/_84572758_c0255688-hiv_viruses_infecting_a_cell%2C_tem-spl.jpg"/> 
+    </item>  
+    <item> 
+      <title>Plane debris to be sent to France</title>  
+      <description>Debris found on an Indian Ocean island is to be sent to France to determine if it is from the missing airliner MH370, Malaysia's PM says.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33714780#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33714780</guid>  
+      <pubDate>Thu, 30 Jul 2015 21:17:55 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>US inquiry into African lion killer</title>  
+      <description>US officials launch an investigation into the killing of a lion in Zimbabwe but say they have been unable to reach the American involved.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33727540#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33727540</guid>  
+      <pubDate>Thu, 30 Jul 2015 20:54:54 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Celebrity fitness chain to go public</title>  
+      <description>SoulCycle, the indoor cycling fitness chain with a celebrity following in the US, including David Beckham and Lady Gaga, plans to float on the stock market.</description>  
+      <link>http://www.bbc.co.uk/news/business-33713637#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-33713637</guid>  
+      <pubDate>Thu, 30 Jul 2015 21:56:07 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/167A4/production/_84586029_84562518.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/0BFC/production/_84586030_84562518.jpg"/> 
+    </item>  
+    <item> 
+      <title>IMF wary of third Greek bailout</title>  
+      <description>The International Monetary Fund is wary of any financial contribution to a third Greek bailout and is unlikely to provide funds at the first stage.</description>  
+      <link>http://www.bbc.co.uk/news/business-33727276#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-33727276</guid>  
+      <pubDate>Thu, 30 Jul 2015 18:29:44 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/41C6/production/_84583861_84583740.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/68D6/production/_84583862_84583740.jpg"/> 
+    </item>  
+    <item> 
+      <title>Taliban pick Mullah Omar's successor</title>  
+      <description>The Taliban appoint a successor to Mullah Omar and confirm that the veteran leader has died, as reported earlier by the Afghan government.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33721074#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33721074</guid>  
+      <pubDate>Thu, 30 Jul 2015 15:53:54 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Soldiers guard El Salvador buses</title>  
+      <description>El Salvador provides security escorts for buses forced to observe a strike called by criminal gangs, after several drivers were killed.</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-33728560#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-33728560</guid>  
+      <pubDate>Thu, 30 Jul 2015 21:23:11 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>More arrests in Chile burning case</title>  
+      <description>A further five Chilean ex-army soldiers are charged over the burning of two teenagers during a 1986 protest against Gen Augusto Pinochet.</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-33728880#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-33728880</guid>  
+      <pubDate>Thu, 30 Jul 2015 22:41:09 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Facebook builds drone for net access</title>  
+      <description>The social network Facebook announces it has built its own drone to bring internet connectivity to remote parts of the world.</description>  
+      <link>http://www.bbc.co.uk/news/technology-33728704#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-33728704</guid>  
+      <pubDate>Thu, 30 Jul 2015 21:24:21 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/4A86/production/_84587091_84587022.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/7196/production/_84587092_84587022.jpg"/> 
+    </item>  
+    <item> 
+      <title>Plea for help over Calais crisis</title>  
+      <description>Police and social services in the UK say there are seeking urgent support to deal with the impact of the Calais migrant crisis.</description>  
+      <link>http://www.bbc.co.uk/news/uk-33722604#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-33722604</guid>  
+      <pubDate>Thu, 30 Jul 2015 22:55:06 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/E45A/production/_84585485_84584939.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/10B6A/production/_84585486_84584939.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: One night by the Calais security fence</title>  
+      <description>The BBC's Paul Adams spends one night with some of the migrants trying to gain access to the rail tracks that run through the Channel Tunnel.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33714110#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33714110</guid>  
+      <pubDate>Thu, 30 Jul 2015 08:28:17 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/F5C5/production/_84571926_84570450.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/11CD5/production/_84571927_84570450.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Inside Calais migrant camp 'village'</title>  
+      <description>The makeshift migrant camp in Calais is now equipped with a school room, a canteen, and its shelters are becoming more permanent. Christian Fraser looks around.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33726367#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33726367</guid>  
+      <pubDate>Thu, 30 Jul 2015 16:39:00 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/9E50/production/_84582504_84582496.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/C560/production/_84582505_84582496.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: MH370 relative torn over debris find</title>  
+      <description>Jacquita Gonzales, wife of MH370 passenger Patrick, is torn over whether to believe that plane debris found in Reunion is from the missing airliner.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33714111#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33714111</guid>  
+      <pubDate>Thu, 30 Jul 2015 10:24:07 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/5EFE/production/_84581342_84566951.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/860E/production/_84581343_84566951.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Philae may have found 'primordial soup'</title>  
+      <description>The Philae lander, after successfully landing on a comet in late 2014, may have made a significant discovery about the ingredients which create life.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-33726372#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-33726372</guid>  
+      <pubDate>Thu, 30 Jul 2015 21:42:40 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/1093A/production/_84589876_84586268.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1304A/production/_84589877_84586268.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Protesters call for hunter's extradition</title>  
+      <description>A group of protestors hold a demonstration outside the office of the American dentist who killed the Zimbabwean lion Cecil.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33714109#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33714109</guid>  
+      <pubDate>Thu, 30 Jul 2015 07:59:25 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/849A/production/_84564933_84564925.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/ABAA/production/_84564934_84564925.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: RAF 'intercepts Russian aircraft'</title>  
+      <description>The Ministry of Defence has released footage which it said shows RAF Typhoons intercepting 10 Russian aircraft.</description>  
+      <link>http://www.bbc.co.uk/news/uk-33722660#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-33722660</guid>  
+      <pubDate>Thu, 30 Jul 2015 18:57:03 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/DFFA/production/_84583375_84577496.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1070A/production/_84583376_84577496.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Just who is Taliban's Mullah Omar?</title>  
+      <description>The Taliban have confirmed that their long-time leader, Mullah Omar, is dead.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33711744#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33711744</guid>  
+      <pubDate>Thu, 30 Jul 2015 14:38:41 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/A862/production/_84560134_screenshot2015-07-29at17.48.37.png"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/CF72/production/_84560135_screenshot2015-07-29at17.48.37.png"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Night patrols to deter Calais migrants</title>  
+      <description>Security forces in Calais have been working to prevent a third successive night of mass incursions into the Channel Tunnel by migrants trying to reach Britain.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33714108#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33714108</guid>  
+      <pubDate>Thu, 30 Jul 2015 07:04:29 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/A448/production/_84565024_84565016.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/EC8C/production/_84565506_84565016.jpg"/> 
+    </item>  
+    <item> 
+      <title>What do Trump and Corbyn have in common?</title>  
+      <description>Corbyn leading Labour? Trump in the White House? Such a world is far-fetched, but their popularity is telling about politics on both sides of the pond.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33723766#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33723766</guid>  
+      <pubDate>Thu, 30 Jul 2015 21:05:37 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>The Taliban enter uncharted territory</title>  
+      <description>With the death of leader Mullah Omar, and the appointment of a successor, the Afghan Taliban face their biggest challenge yet, writes Dawood Azami.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33725841#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33725841</guid>  
+      <pubDate>Thu, 30 Jul 2015 17:46:04 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Great robotic missions to explore space</title>  
+      <description>Pallab Ghosh picks out five robotic missions which have inspired us and changed our perception of the Universe.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-33693142#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-33693142</guid>  
+      <pubDate>Thu, 30 Jul 2015 19:58:11 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/13137/production/_84553187_voyager.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/15847/production/_84553188_voyager.jpg"/> 
+    </item>  
+    <item> 
+      <title>Could plane debris be MH370?</title>  
+      <description>The BBC examines whether an aeroplane part found in Reunion could belong to the missing Malaysia Airlines Flight 370.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33713885#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33713885</guid>  
+      <pubDate>Thu, 30 Jul 2015 08:42:37 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>US baby gets lifetime hunting permit</title>  
+      <description>Daylen Brickley, a baby from the US state of New Hampshire, is the proud owner of a lifetime permit to hunt and fish - the first license holder under a new program.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33724060#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33724060</guid>  
+      <pubDate>Thu, 30 Jul 2015 19:32:06 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Top Gear: Ex-hosts sign Amazon deal</title>  
+      <description>Former Top Gear hosts Jeremy Clarkson, Richard Hammond and James May sign up to present a new show on Amazon's streaming service.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-33715671#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-33715671</guid>  
+      <pubDate>Thu, 30 Jul 2015 16:49:06 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/86D5/production/_84571543_creditamazonprimevideo.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/ADE5/production/_84571544_creditamazonprimevideo.jpg"/> 
+    </item>  
+    <item> 
+      <title>Google to defy French privacy ruling</title>  
+      <description>Google is to defy a French ruling that the "right to be forgotten" should be applied globally and not just in Europe.</description>  
+      <link>http://www.bbc.co.uk/news/business-33727283#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-33727283</guid>  
+      <pubDate>Thu, 30 Jul 2015 20:32:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/14544/production/_84586238_84585083.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/16C54/production/_84586239_84585083.jpg"/> 
+    </item>  
+    <item> 
+      <title>US economic growth picks up to 2.3%</title>  
+      <description>The US economy grew at an annualised pace of 2.3% in the three months to June, official figures show.</description>  
+      <link>http://www.bbc.co.uk/news/business-33721838#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-33721838</guid>  
+      <pubDate>Thu, 30 Jul 2015 16:04:21 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/B37B/production/_84574954_84564819.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/DA8B/production/_84574955_84564819.jpg"/> 
+    </item>  
+    <item> 
+      <title>Obama wants world's fastest computer</title>  
+      <description>President Obama has signed an executive order calling for the US to build the world's fastest computer by 2025.</description>  
+      <link>http://www.bbc.co.uk/news/technology-33718311#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-33718311</guid>  
+      <pubDate>Thu, 30 Jul 2015 16:37:03 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/2EDC/production/_84569911_016433653.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/55EC/production/_84569912_016433653.jpg"/> 
+    </item>  
+    <item> 
+      <title>Spy leaks website being investigated</title>  
+      <description>Germany's federal prosecutors are investigating if a website that covers digital rights issues committed an act of treason.</description>  
+      <link>http://www.bbc.co.uk/news/technology-33721638#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-33721638</guid>  
+      <pubDate>Thu, 30 Jul 2015 17:25:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/D69A/production/_84583945_mb_newthinking.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/FDAA/production/_84583946_mb_newthinking.jpg"/> 
+    </item>  
+    <item> 
+      <title>Ai Weiwei denied six-month UK visa</title>  
+      <description>Dissident Chinese artist Ai Weiwei is refused a six-month visa by the British government amid claims he lied on his visa application form.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-33714740#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-33714740</guid>  
+      <pubDate>Thu, 30 Jul 2015 12:26:21 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/13F5C/production/_84565718_4alobcz0.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1666C/production/_84565719_4alobcz0.jpg"/> 
+    </item>  
+    <item> 
+      <title>Zayn Malik signs solo record deal</title>  
+      <description>The former One Direction singer posts a picture of him signing a contract with RCA Records.</description>  
+      <link>http://www.bbc.co.uk/newsbeat/33714017#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/newsbeat/33714017</guid>  
+      <pubDate>Thu, 30 Jul 2015 05:28:13 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/335A/production/_84564131_cf89e9c9-5af6-485b-9709-22090ad0bf01.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/5A6A/production/_84564132_cf89e9c9-5af6-485b-9709-22090ad0bf01.jpg"/> 
+    </item>  
+    <item> 
+      <title>AA joins protest at green changes</title>  
+      <description>The AA joins green groups in warning that recent changes in energy policy will harm the climate.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-33724781#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-33724781</guid>  
+      <pubDate>Thu, 30 Jul 2015 23:46:55 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/17DDE/production/_84585779_84585774.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/2236/production/_84585780_84585774.jpg"/> 
+    </item>  
+    <item> 
+      <title>Wales surf wave generator starts up</title>  
+      <description>The first waves have peeled across an artificial surf lagoon built on the site of an old aluminium works on the edge of the Snowdonia National Park.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-33720952#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-33720952</guid>  
+      <pubDate>Fri, 31 Jul 2015 00:06:00 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/11E2A/production/_84585237_84576915.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/9572/production/_84585283_84576915.jpg"/> 
+    </item>  
+    <item> 
+      <title>'Abortion pill' legalised in Canada</title>  
+      <description>Canadian health authorities have approved the drug RU-486, commonly known as the abortion pill.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33724059#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33724059</guid>  
+      <pubDate>Thu, 30 Jul 2015 16:20:18 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/F4F4/production/_84580726_gettyimages-56866489.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/11C04/production/_84580727_gettyimages-56866489.jpg"/> 
+    </item>  
+    <item> 
+      <title>Prostate cancer: Five types 'found'</title>  
+      <description>Scientists identify five types of prostate cancer, each with a distinct genetic signature.</description>  
+      <link>http://www.bbc.co.uk/news/health-33704917#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-33704917</guid>  
+      <pubDate>Wed, 29 Jul 2015 23:37:11 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/1582/production/_84560550_76956210.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/3C92/production/_84560551_76956210.jpg"/> 
+    </item>  
+    <item> 
+      <title>Finn puts England on brink of win</title>  
+      <description>Steven Finn takes 5-45 to reduce Australia to 168-7 in their second innings on the second day of the third Ashes Test at Edgbaston.</description>  
+      <link>http://www.bbc.co.uk/sport/0/cricket/33722771</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/cricket/33722771</guid>  
+      <pubDate>Thu, 30 Jul 2015 19:03:04 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/3F00/production/_84582161_finn_reuters.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/6610/production/_84582162_finn_reuters.jpg"/> 
+    </item>  
+    <item> 
+      <title>West Ham United 2-2 Astra Giurgiu</title>  
+      <description>James Collins sees red as West Ham surrender a two-goal lead, drawing 2-2 with Astra Giurgiu in the Europa League.</description>  
+      <link>http://www.bbc.co.uk/sport/0/football/33667110</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/football/33667110</guid>  
+      <pubDate>Thu, 30 Jul 2015 21:05:20 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/EA40/production/_84586995_astra-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/11150/production/_84586996_astra-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Why is the US still using a Nazi tall ship?</title>  
+      <description>The Eagle was built by the Nazis and fought for Hitler in World War Two - so how did it end up as a training vessel for all new US Coast Guard cadets?</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33543706#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33543706</guid>  
+      <pubDate>Tue, 28 Jul 2015 23:23:39 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/4277/production/_84451071_eagle1991-003.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/6667/production/_84451262_eagle1991-003.jpg"/> 
+    </item>  
+    <item> 
+      <title>First English US founders identified</title>  
+      <description>Scientists identify the remains of four English men who were among the early leaders of Virginia's Jamestown settlement - the first successful British colony.</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33680128#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33680128</guid>  
+      <pubDate>Tue, 28 Jul 2015 15:33:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/2FF2/production/_84547221_jamestown-chancel-burial-si.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/5702/production/_84547222_jamestown-chancel-burial-si.jpg"/> 
+    </item>  
+    <item> 
+      <title>Burundi rival accepts top post</title>  
+      <description>Burundi's opposition leader Agathon Rwasa is elected as a deputy speaker of parliament, despite his criticism of recent controversial polls.</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-33722209#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-33722209</guid>  
+      <pubDate>Thu, 30 Jul 2015 14:37:35 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Kenya's Garissa campus 'must reopen'</title>  
+      <description>Peace activists in Kenya are calling for the reopening of the college where 148 people were killed by gunmen from the Somalia-based al-Shabab group.</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-33719537#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-33719537</guid>  
+      <pubDate>Thu, 30 Jul 2015 17:41:56 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>India 'to overtake China' by 2022</title>  
+      <description>India is set to overtake China to become the most populous nation by 2022 - six years earlier than previously predicted, a new UN study finds.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33720723#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33720723</guid>  
+      <pubDate>Thu, 30 Jul 2015 13:02:20 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/192F/production/_84574460_84574081.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/403F/production/_84574461_84574081.jpg"/> 
+    </item>  
+    <item> 
+      <title>China ex-general in corruption probe</title>  
+      <description>Former high-ranking Chinese army figure Guo Boxiong is expelled from the Communist Party amid corruption allegations.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-china-33725125#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-china-33725125</guid>  
+      <pubDate>Thu, 30 Jul 2015 17:02:37 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/766E/production/_84581303_84581294.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/D816/production/_84581355_84581294.jpg"/> 
+    </item>  
+    <item> 
+      <title>Cameron in warning to Calais migrants</title>  
+      <description>The UK will not become a "safe haven" for migrants in Calais, David Cameron warns, after hundreds continued attempts to reach the country overnight.</description>  
+      <link>http://www.bbc.co.uk/news/uk-33713268#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-33713268</guid>  
+      <pubDate>Thu, 30 Jul 2015 17:14:55 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/137CA/production/_84581897_calais_afp.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/15EDA/production/_84581898_calais_afp.jpg"/> 
+    </item>  
+    <item> 
+      <title>Ukraine pilot appears in Russia court</title>  
+      <description>Ukrainian pilot Nadia Savchenko appears in a Russian court, accused of involvement in the killing of two Russian journalists in eastern Ukraine.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33714481#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33714481</guid>  
+      <pubDate>Thu, 30 Jul 2015 13:49:17 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Maradona accuses ex-wife of theft</title>  
+      <description>Argentine football legend Diego Maradona accuses ex-wife Claudia Villafane of stealing $9m (£6m) from his bank accounts, a claim she denies.</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-33713795#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-33713795</guid>  
+      <pubDate>Thu, 30 Jul 2015 03:29:22 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Runaway lorry kills Mexico pilgrims</title>  
+      <description>A lorry in central Mexico ploughs into a religious procession, killing at least 16 pilgrims and injuring about 30, officials say.</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-33713917#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-33713917</guid>  
+      <pubDate>Thu, 30 Jul 2015 05:13:53 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Israel allows force-feeding in jails</title>  
+      <description>The Israeli parliament passes a law allowing detainees to be force-fed, following cases of Palestinian inmates going on hunger strike.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-33717075#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-33717075</guid>  
+      <pubDate>Thu, 30 Jul 2015 11:52:07 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/42D3/production/_84570171_84569768.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/69E3/production/_84570172_84569768.jpg"/> 
+    </item>  
+    <item> 
+      <title>Al-Jazeera retrial verdicts delayed</title>  
+      <description>An Egyptian court delays verdicts in the retrial of three Al-Jazeera journalists previously jailed for allegedly aiding the Muslim Brotherhood.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-33713293#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-33713293</guid>  
+      <pubDate>Thu, 30 Jul 2015 11:25:41 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Ohio police officer denies murder</title>  
+      <description>A police officer who killed an unarmed black man during a traffic stop pleads not guilty to murder, as his bond is set at $1m.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33724401#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33724401</guid>  
+      <pubDate>Fri, 31 Jul 2015 00:10:52 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Rebel flags found at US black church</title>  
+      <description>Police say two white males were behind the placing of four Confederate flags outside a church near the Martin Luther King Jr Center in Atlanta.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-33724651#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-33724651</guid>  
+      <pubDate>Thu, 30 Jul 2015 16:28:33 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>In pictures: Ecology photo prize</title>  
+      <description>BMC Ecology's 2015 competition winners</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-33718151#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-33718151</guid>  
+      <pubDate>Fri, 31 Jul 2015 00:56:44 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/1001F/production/_84576556_storks.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1272F/production/_84576557_storks.jpg"/> 
+    </item>  
+    <item> 
+      <title>In pictures: Ecology photo prize</title>  
+      <description>BMC Ecology's 2015 competition winners</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-33718151#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-33718151</guid>  
+      <pubDate>Fri, 31 Jul 2015 00:56:44 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/1001F/production/_84576556_storks.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1272F/production/_84576557_storks.jpg"/> 
+    </item>  
+    <item> 
+      <title>We told the king we had HIV</title>  
+      <description>We told the king we had HIV - and taught a country not to fear</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33697521#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33697521</guid>  
+      <pubDate>Thu, 30 Jul 2015 23:08:18 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/124FC/production/_84540057_976ximg_9626.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/14C0C/production/_84540058_976ximg_9626.jpg"/> 
+    </item>  
+    <item> 
+      <title>Quiz of the week's news</title>  
+      <description>Why was a Satanic statue unveiled in the US?</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33718935#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33718935</guid>  
+      <pubDate>Thu, 30 Jul 2015 23:08:25 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>VIDEO: 'Cajun John Wayne' calls out criminals</title>  
+      <description>The tough US cop's YouTube challenge to wanted criminals</description>  
+      <link>http://www.bbc.co.uk/news/magazine-33711021#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-33711021</guid>  
+      <pubDate>Thu, 30 Jul 2015 23:04:08 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/9D03/production/_84559104_84558496.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/C413/production/_84559105_84558496.jpg"/> 
+    </item>  
+    <item> 
+      <title>From boom to bust in Swiss border towns</title>  
+      <description>From boom to bust in Swiss border towns</description>  
+      <link>http://www.bbc.co.uk/news/business-33710144#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-33710144</guid>  
+      <pubDate>Thu, 30 Jul 2015 23:25:18 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/9932/production/_84581293_emmentalcheese.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/A166/production/_84581314_emmentalcheese.jpg"/> 
+    </item>  
+    <item> 
+      <title>Russian debtors despair as boom turns to bust</title>  
+      <description>Roubles dry up for millions of Russians</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-33717488#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-33717488</guid>  
+      <pubDate>Thu, 30 Jul 2015 23:08:40 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Did Nepal temple ban animal sacrifice festival?</title>  
+      <description>Has a Nepal temple really banned mass sacrifices?</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-33699136#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-33699136</guid>  
+      <pubDate>Thu, 30 Jul 2015 23:41:49 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>NASL football looks to kick-start expansion</title>  
+      <description>The US football division seeking inspiration from the 1970s</description>  
+      <link>http://www.bbc.co.uk/news/business-33551387#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-33551387</guid>  
+      <pubDate>Thu, 30 Jul 2015 23:08:51 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/F5CF/production/_84572926_84567817.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/11CDF/production/_84572927_84567817.jpg"/> 
+    </item>  
+    <item> 
+      <title>'Phone farmers' reaping the benefits</title>  
+      <description>The tech helping Kenyan smallholders reap rich rewards</description>  
+      <link>http://www.bbc.co.uk/news/business-33610593#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-33610593</guid>  
+      <pubDate>Thu, 30 Jul 2015 23:13:39 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/13228/production/_84567387_flowerseller-507687379.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/15938/production/_84567388_flowerseller-507687379.jpg"/> 
+    </item> 
+  </channel> 
+</rss>

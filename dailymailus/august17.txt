@@ -1,0 +1,792 @@
+<item>
+<title>
+	How Brad Pitt transformed the lives of New Orleans families after Hurricane Katrina
+      </title>
+<description>
+	On the tenth anniversary of Hurricane Katrina, Brad Pitt celebrates having built 109 brightly-colored ecofriendly homes in the worst hit neighborhood in New Orleans.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tamisha Mendenhall suspected in deaths of her Michigan family
+      </title>
+<description>
+	Speaking about Tamisha Maria Mendenhall, Grand Traverse County Chief Assistant Prosecutor Noelle Moeggenberg said: 'It looks at this point as though the wife killed the others then herself.'
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jason Day wins PGA Championship while Jordan Spieth takes No 1 ranking in the world
+      </title>
+<description>
+	A year of heartache ended with Jason Day breaking through on Sunday at the PGA Championship at Whistling Straits in Kohler, Wisconsin. He broke Tiger Woods' record and finished at 20 under par.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	University of Alabama's Alpa Phi sorority deletes YouTube video after backlash
+      </title>
+<description>
+	Alpha Phi, who are based at the Tuscaloosa campus, uploaded the footage to YouTube ahead of rush week and was viewed more than 500,000 times before it was pulled down.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tipper truck driver crashes into Saudi Arabian motorway sign
+      </title>
+<description>
+	The incident - believed to have been filmed in the Middle East - saw the lorry slam into the sign, bringing it crashing to the ground and halting the traffic on the road.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mike Huckabee supports Paraguay's refusal to give 10-year-old rape victim an abortion
+      </title>
+<description>
+	Republican presidential candidate Mike Huckabee said that he backs Paraguay's decision to deny an abortion to the now 11-year-old, who gave birth to a girl last week.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	U.S. Army skydiver Corey Hood dies after Chicago Air & Water Show collision
+      </title>
+<description>
+	Corey Hood of Cincinnati, Ohio, who had just turned 32 on Aug. 2, was pronounced dead Sunday afternoon at Northwestern Memorial Hospital in Chicago.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Queen's Speech book by Ingrid Seward reveals her majesty in her own words
+      </title>
+<description>
+	Controlled, unemotional and punctilious, the Queen still maintains such a dignified manner, it is impossible for outsiders to see deeply into her private world, writes INGRID SEWARD.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mark MacDonald's Why children make you FAT book reveals the truth about their bad habits
+      </title>
+<description>
+	Londoner Anna Maxted, above, has gone from a size eight to a size twelve since having children, while the average Britain gains 1½ stone per child. Fitness expert Mark Macdonald explains why.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Morgan Freeman's granddaughter E'Dena Hines 'stabbed to death by Lamar Davenport'
+      </title>
+<description>
+	E'Dena Hines, 33, was found dead after Lamar Davenport, 30, allegedly attacked her near her home in Washington Heights and stood over her body screaming.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	St. Paul's School's sordid 'sex culture' set to be exposed at trial
+      </title>
+<description>
+	Owen Labrie (pictured), a graduate of elite prep school St. Paul's where John Kerry graduated, will stand trial in Concord, New Hampshire for allegedly raping a 15-year-old student.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sarah-Jane Gaselee wishes she hadn't sold her Princess Diana's dress
+      </title>
+<description>
+	Princess Diana's bridesmaid Sarah-Jane Gaselee (circled) still regrets her decision to flog her Elizabeth Emanuel-designed dress, writes SEBASTIAN SHAKSPEARE.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Trigana Air flight TGN267 wreckage found after crash in the Indonesian jungle
+      </title>
+<description>
+	Search teams have found the wreckage of an Indonesian passenger plane that lost contact on Sunday and disappeared with 54 people on board.  It was found about 12km from Oksibil in Papua.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Divers raise wreckage of Confederate warship CSS Georgia in 5-ton chunks
+      </title>
+<description>
+	The CSS Georgia was scuttled by its own crew to prevent Gen. William T. Sherman from capturing the massive gunship when his Union troops took Savannah in December 1864.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Miami teenager gets 28 years for killing his mother...before hosting a PARTY with her body still inside the home hidden under sheets
+      </title>
+<description>
+	On Friday, Florida resident 19-year-old Kit Darrant pleaded guilty to second-degree murder for 35-year-old Renette Emile's 2012 death.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	NFL's first female coach and first female on-field official take a moment for a history-making photo at preseason game
+      </title>
+<description>
+	Jen Welter (left) and Sarah Thomas (right) met Saturday night during a preseason game between the Arizona Cardinals and Kansas City Chiefs in Phoenix, Arizona.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Hillary Clinton sent at least 60 emails with classified information, State Department finds
+      </title>
+<description>
+	One of the emails was labelled 'secret', an intermediate level of security, while nearly all of the rest were deemed 'confidential' , a report suggests.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tim Tebow delights Philadelphia Eagles fans during Indianapolis Colts game
+      </title>
+<description>
+	Tim Tebow got a warm welcome when he entered the Philadelphia Eagles 36-10 victory against the Indianapolis Colts on Sunday.midway through the third quarter. He finished with 69 passing yards.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rowan Pelling's sex column: I find it difficult to reach orgasm. I still enjoy sex, but it's making my spouse despondent
+      </title>
+<description>
+	Question: I had a satisfying love life with my husband for 20 years but, since my late 40s, I have found it difficult to reach orgasm. I still enjoy making love, but my spouse has become despondent as a result.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	John Grisham and Morgan Freeman rally to remove Confederate emblem from Mississippi flag
+      </title>
+<description>
+	Jimmy Buffet, John Grisham, Morgan Freeman and former quarterback Archie Manning are among many celebrities who called for the removal of the emblem in a letter that appeared in the newspaper.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Brighter men reach middle age in better shape, study finds
+      </title>
+<description>
+	The study comprised 2,848 males and tested balance, ‘chair-rise’ – the ease with which people get up from a sitting position – and hand grip strength, when measuring physical performance.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	90-year-old yachtsman convinces daughter to join him at Audi Hamilton Island Race Week
+      </title>
+<description>
+	Walter Jorgensen, from Perth in Western Australia, has been steering a sailboat around the race tracks over the past five decades - and he won't stop until he reaches the finish line.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Amazon workers say it's really like to work for the online retailer
+      </title>
+<description>
+	From employees crying at their desks to annual staff culls designed to foster a culture of fear, merciless conditions at Amazon have been described by more than 100 workers.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Shoppers now asking friends for their opinions on new outfits they have tried on via social media
+      </title>
+<description>
+	Many shoppers now prefer to seek advice from a range of friends from afar – by posting ‘chelfies’, or changing room selfies, on social media. The number posted on Twitter has doubled in three months.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	FOREVER BEAUTIFUL: Can bronzer give me the glow of youth? 
+      </title>
+<description>
+	I love being tanned, but have always struggled to achieve a natural effect using bronzing products. Could you give me some tips on how to get a natural-looking, youthful glow with bronzer?
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The owl is 'king of stealth' thanks to its sound-absorbing feathers
+      </title>
+<description>
+	Researchers in China used lasers and cameras to find that an owl's feathers turn energy into heat as it flies, and therefore silences its wings, giving them 'stealth-like' qualities,
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	It's not love that keeps my marriage alive - it's SEX: The clergyman's wife who says desire has helped them through dark times
+      </title>
+<description>
+	Of the many reasons couples marry, sex often isn't one of them. But for Annie and John making love to one person for the rest of their lives was the main reason behind their sacred marriage vows
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Police called to Joe Giudice's beach house after row with neighbor escalates
+      </title>
+<description>
+	Police were called after a woman living nearby confronted the husband of Real Housewives Of New Jersey star Teresa Giudice about a party he was hosting and his yelling at daughter Gia, 14.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Syrians killed and maimed by Assad regime airstrikes on rebel town near Damascus
+      </title>
+<description>
+	WARNING - GRAPHIC CONTENT: Rows of lifeless bodies were lined up on the bloodstained floor of a makeshift clinic in Douma, near Damascus, following the attack.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Accessorise All Areas: From jewelled evening bags to cork wedges, how a red dress help can spice up your wardrobe
+      </title>
+<description>
+	The red dress is a style staple. You're sure to be eye-catching. We show you three wearable ways to work this bright, fun colour into your wardrobe.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	NFL's James Harrison sends back participation trophies as he wants son to 'earn REAL ones'
+      </title>
+<description>
+	Pittsburgh Steelers linebacker James Harrison said that while he is proud of his son, 'these trophies will be given back until they EARN a real trophy'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	US is as snobby as the UK, says Sir Patrick Stewart
+      </title>
+<description>
+	The actor said he found that class was ‘such an essential part of the English way of life’ and hoped for a change in the US. But much to his disappointment, there was no ‘classless society’.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Brown Field Municipal Airport plane collision leaves at least 3 dead
+      </title>
+<description>
+	A Sabreliner jet and a Cessna were reported to have crashed around 11am on Sunday about two miles from Brown Field Municipal Airport, which is close to the Mexican border.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New Charlie Hebdo scare in Paris after policeman is shot guarding government building
+      </title>
+<description>
+	Police said the officer – who is thought to have been wearing a bulletproof vest – had been taken to hospital but his life was not in danger.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump 'bombarded Princess Diana with flowers after her marriage broke up'
+      </title>
+<description>
+	Princess Diana (pictured with William) is said to have confided in veteran broadcaster Selina Scott, telling her that US presidential candidate and billionaire Donald Trump 'gives me the creeps'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Iowa boy adorably tries to herd kittens that keep wandering off 
+      </title>
+<description>
+	In a video uploaded to YouTube , a boy named Ryder (pictured), from Cedar Falls, Iowa, tries to herd five kittens on to a blanket after his parents challenged him to the overwhelming project.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Has Cecil the lion reappeared as a face in Cambridgeshire clouds?
+      </title>
+<description>
+	Heidi Webb, 41, was amazed when she looked up and spotted the head of majestic Cecil the lion forming in the clouds above her home in St Neots, Cambridgeshire.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Times Square's topless ladies criticized by tourists for hustling underage children
+      </title>
+<description>
+	The women usually charge about $10 per photo with tourists and have become a Times Square mainstay, but they have come under fire for targeting children and being 'inappropriate'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Incredible pictures show barn owl fighting off hungry kestrel to snatch vole
+      </title>
+<description>
+	The two birds squawked over the prey mid-air, their majestic feathers flapping above the field beneath them in Cresswell, Northumberland.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump stays in the lead in first post-debate Fox poll
+      </title>
+<description>
+	Presidential candidate Donald Trump saw his support in a Fox News poll slip from 26 per cent to 25 per cent after he saw three percentage points fewer in support from women voters.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	University of Central Florida Sigma Nu fraternity suspended after 'rape' chant caught on tape
+      </title>
+<description>
+	The Sigma Nu fraternity at the University of Central Florida has been suspended after the school received a video of at least one member chanting about rape and other disrespectful comments.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Isle of Grunay is up for sale and it could be yours for just £85,000 
+      </title>
+<description>
+	The Isle of Grunay, the most easterly point of the Shetland Islands, goes on sale this week and is expected to attract a flurry of interest from prospective buyers.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Morgan Freeman speaks out after granddaughter E'Dena Hines' murder
+      </title>
+<description>
+	E'Dena Hines, 33, granddaughter of the Hollywood legend's first wife, was found unresponsive with stab wounds to her torso in Manhattan on Sunday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Female 'Viagra pill' Flibanserin goes before the FDA
+      </title>
+<description>
+	The FDA will approve or deny North Carolina company Sprout Pharmaceuticals' filbanserin 'female Viagra pill' on Tuesday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Romance for men? Chocolates and flowers
+      </title>
+<description>
+	Although amorous gestures traditionally means a bouquet and sweet treats, millions of men think mundane or trivial acts are just as effective.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Three people are gored to death during Spanish bull runs in just 24 hours 
+      </title>
+<description>
+	Jose Alberto Penas, a local councillor in Traspinedo, Valladolid, became the third victim - bleeding to death after being gored during a run in nearby Penafiel on Saturday morning.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bill Cosby accuser opens up about assault that 'took place on Reno ranch in 1984'
+      </title>
+<description>
+	A Colorado woman who was invited to meet Bill Cosby in the 80s and says she was drugged and sexually assaulted has opened up about her experience.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump will ALL illegal immigrants, fight ISIS and says if Hillary Clinton survives it'll be a 'miracle
+      </title>
+<description>
+	Donald Trump unveiled his first policies on a number of issues including immigration and Middle East politics in a wide-ranging interview with NBC's Chuck Todd on Meet the Press.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Guardian Angels patrolling NY's Central Park again for first time in 2 decades
+      </title>
+<description>
+	The renewed patrols by the Guardian Angel volunteers  are bright-red signals of unease about whether New York is slipping crime-wise. It got better until recently, said Angels founder Curtis Sliwa.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Forrest Fenn 4-year hunt to find America’s last buried treasure worth $1M
+      </title>
+<description>
+	Seattle man Darrell Seyler, 50, has been searching for a secret treasure chest buried by eccentric millionaire Forrest Fenn since hearing about the story in 2011. He believes he is close to finding it.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Toy Story Land and Avatar-themed park slated to launch at Disney World alongside Star Wars Land
+      </title>
+<description>
+	Slinky Dog and little green alien-themed attractions will both be featured at the new 11-acre expansion at Disney's Hollywood Studios in Florida.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Models in incredible underwater 1950s photos shot by Bruce Mozert
+      </title>
+<description>
+	Bruce Mozert from Ohio was a leading pioneer of underwater photography. Several of his photos are currently on display in an exhibition in the Holden Luntz Gallery in Florida, until September 26.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Funeral held for Ian Jones, boyfriend of Annie Lennox's daughter Tali
+      </title>
+<description>
+	Ian Jones, 32, died on August 8 while kayaking with girlfriend Tali Lennox on the Hudson river. The funeral was held in Bensalem, Pennsylvania on Saturday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Albuquerque police arrest Donovan Maez over Jaydon Chavez-Silver shooting
+      </title>
+<description>
+	Donovan Maez, 18, was arrested by Albuquerque police on Friday in connection with the murder of Jaydon Chavez-Silver.  After he was shot, a 911 dispatcher hung up on one of his friends.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	United Express passenger filmed being kicked off a plane whilst swearing at police
+      </title>
+<description>
+	After allegedly being asked by staff to put the dog into the box, the passenger refused. Police were then called to Salt Lake City Airport in the U.S. and ejected her off the plane.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	New York Yankees heir Jessica Steinbrenner files for divorce from third husband
+      </title>
+<description>
+	Felix Lopez, 61, was hired as the family's landscaper by Jessica's second husband Joe Molloy. And like Molloy, Lopez shot up to the executive level within the New York baseball franchise.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Benjamin Peter Ashley shot dead by sheriff's deputies in California
+      </title>
+<description>
+	Sheriff's deputies in California shot and killed a man believed to be the target of a two-week-long manhunt. A man who matched the description of Benjamin Peter Ashley was shot dead by two deputies.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Giraffe-killing woman Rebecca Francis defends herself as a conservationist
+      </title>
+<description>
+	A Wyoming huntress made infamous for a photo she took lying next to a giraffe she'd just killed has recently spoken out to defend herself on in the wake of the Cecil the lion controversy.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Cancer-free Eric Berry's emotional return to NFL after Hodgkin's lymphoma diagnosis
+      </title>
+<description>
+	The Kansas City Chiefs' Eric Berry made an emotional return to professional football on Saturday, hugging his mom before he headed in to his first game since beating a rare cancer.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bangladeshi baby girl hit by bullets while still in her womb is out of intensive care
+      </title>
+<description>
+	Najma, was shot in the abdomen while eight months pregnant with baby Suraiya, when one militant political faction staged an attack on another in Magura, Bangladesh, last month.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	German computer experts show just how easy it is to eavesdrop on your smartphone
+      </title>
+<description>
+	In one of the biggest threat to privacy breaches the world has ever seen, Australians may have their names, addresses, bank account details and medical data stolen due to a security vulnerability.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	North Korea pictures show how Pyongyang's citizens live in the world most secretive state
+      </title>
+<description>
+	These images show the bleak everyday lives of the citizens of Pyongyang, the capital of North Korea - from balcony haircuts to bus stop queues and dreary high-rise apartment blocks.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	A woman's terrified reaction as a koala chases down her quad bike
+      </title>
+<description>
+	A koala was filmed chasing down a South Australian dairy farmer on her quad bike, ignoring her screams of fear and frightening her off the bike - only to saddle up for an innocent hug of the rear wheel.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Over 1,000 attend funeral for Angelo State University's Christian Taylor
+      </title>
+<description>
+	The service for Christian Taylor at Koinonia Christian Church in Arlington was attended by his family members, friends and teammates.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	3 injured in Pennsylvania as hot air balloon crashes after hitting electrical wires
+      </title>
+<description>
+	Police say three people are being treated for injuries consistent with electrical burns after the top of a deflating hot air balloon they were in got caught up in power lines at a farm in Earl Township, PA.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sex worker's confessions about what life in a legal brothel is REALLY like
+      </title>
+<description>
+	Sex worker Sarah Greenmore, from Nevada, has revealed all on social networking site Reddit. She writes about what sex acts she refuses to do and how much money she can earn in a few days.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The GOP presidential debate in hilarious video 'Little Republicans'
+      </title>
+<description>
+	Funny or Die produced a segment called 'Little Republicans: Presidential Debate Highlights', which shows 10 kids re-enacting the highlights of the debate.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	North Korea holds rally separating Kim Jong Un’s dictatorship from the South
+      </title>
+<description>
+	Kim Jong Un held a mass rally with dancing and fist pumping to mark 70 years of freedom from Japanese colonial rule. The celebrations were held metres from North Korea in the Demilitarised Zone.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jeremy Clarkson and Top Gear stars were very expensive says Amazon's Jeff Bezos
+      </title>
+<description>
+	Jeff Bezos declined to say how much the three presenters were being paid but the deal is said to be worth around £160million over three years. He said he was 'very excited'.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Shayna Hubers jailed for killing Ryan Poston who dumped her for Miss Ohio
+      </title>
+<description>
+	Shayna Hubers, 24, 'cackled' as she shot attorney Ryan Poston six times, once in the face, just before he was due to meet Audrey Bolte, runner-up in Miss USA, for a date in Cincinnati, Ohio.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lancair pilot Troy Johnson's family know that he's 'at peace'
+      </title>
+<description>
+	Father of four Troy Johnson, 39, is thought to have been unconscious when his plane crashed 460 miles west of Point Reyes, California, on Thursday. The search for him was called off Friday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Strangers can tell if you are powerful, intelligent or even criminal by a quick glance
+      </title>
+<description>
+	Research shows those with higher IQs are usually good-looking, while those with wider faces are usually perceived as being more powerful and successful.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ecuadorian village evacuated as Cotopaxi volcano erupts near Quito
+      </title>
+<description>
+	The President of Ecuador Rafael Correa declared a state of emergency yesterday following growing fears over the increasing activity in the Cotopaxi volcano.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	SNP leader Nicola Sturgeon's chandelier may have been looted by Nazi's in WWII
+      </title>
+<description>
+	A chandelier hanging in the drawing room of Nicola Sturgeon's official residence (pictured) is rumoured to be Nazi war treasure, smuggled into the UK in 1945 by an English art dealer.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mail on Sunday's LIZ JONES reveals the terrible plight of Indian elephants 
+      </title>
+<description>
+	There are 57 elephants in Guruvayur Temple in Kerala, southern India and 12 'secret training' camps where they are beaten for years. We must release them, writes LIZ JONES in a special report.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bog snorkelling in Llanwrtyd Wells in Wales is the craziest sport on earth
+      </title>
+<description>
+	MailOnline Travel's Chris Kitching visited a peat bog at Llanwrtyd Wells, Wales, and found out just how difficult it is to complete the 120-yard swim which has lured daredevil athletes from around the world.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Startup companies selling FLAMETHROWERS despite the US Army banning them
+      </title>
+<description>
+	A startup in Cleveland is selling $1,599 flamethrowers that can shoot fire 50 feet, while a company in Detroit is selling devices for $900 that can shoot flames 25 feet.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Gold Coast rescuers try to free humpback whale were paid a visit by its friend
+      </title>
+<description>
+	A seemingly straightforward rescue mission turned serious after rescuers attempting to free a young humpback whale from netting in Gold Coast bay were paid a visit by its' much larger friend.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Cecil the lion's killers 'moved his collar to cover up crime'
+      </title>
+<description>
+	Researcher Brent Stapelkamp tracked Cecil, pictured, and even took the last photo of him alive. He believes that Cecil's colour was moved by someone trying to fool investigators.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ezekiel Gray drowns at Jacob Riis Beach in New York during family party
+      </title>
+<description>
+	A five-year-old boy, identified as Ezekiel Gray, was pulled unresponsive from the waters of Jacob Riis Park Saturday evening. He was rushed to the hospital but pronounced dead.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The princess and the pooches: Princess Katalin zu Windischgraetz is using her gilded connections to create a fairy-tale ending for Marbella’s stray dogs
+      </title>
+<description>
+	Liz meets Katalin zu Windischgraetz, fashion and bona fide royalty, who's creating a fairy-tale ending for stray dogs.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Agatha Christie: The strange case of her secret photo album
+      </title>
+<description>
+	The Queen of Crime was fiercely protective of her privacy, but now a new exhibition of unseen photographs reveals an unexpected carefree side to the world’s best-selling novelist.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Dorsett hotel offers a package letting children visit KidZania
+      </title>
+<description>
+	The Dorsett offers a special package letting children visit the new KidZania, an educational child-sized indoor city that includes a hospital, bakery, fire station, beauty salon and a nightclub.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Working more than 40 hours a week could make it hard to get pregnant
+      </title>
+<description>
+	Working more than 40 hours a week was linked with taking 20 per cent longer to get pregnant, according to the Harvard T H Chan School of Public Health in Boston.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sprint car driver killed in high-speed crash in Pennsylvania
+      </title>
+<description>
+	James Campbell Jr was doing warm-up laps at Williams Grove Speedway in Pennsylvania when his car collided with a wall on the half-mile clay track.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Stuart Valentino got kicked out by wife after drunk tattoo of a penis on thigh
+      </title>
+<description>
+	Stuart Valentino, from Southsea, Hampshire, who had previously been dubbed the ‘world’s most annoying husband’, inked the comedy phallus so it pokes out of his boxer shorts.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Straight Outta Compton opens to rave reviews and $22.8MILLION in box office
+      </title>
+<description>
+	The movie about 1980s gangsta rap collective NWA had the fifth highest August opening ever and is predicted to take $55.1m in total this weekend. Critics applauded its parallels with current unrest.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Nanjing fruit fan calls the police because her watermelon isn’t sweet enough
+      </title>
+<description>
+	A woman in eastern China called the police to complain that a watermelon she had purchased was not to her liking. She tried to return the opened fruit, but the seller refused.
+      </description>
+<sentiment></sentiment>
+</item>

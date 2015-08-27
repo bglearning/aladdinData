@@ -1,0 +1,864 @@
+<item>
+<title>
+	The lesbian couple who BOTH used to be men: Chelsea (born Jonathan) shocked to find out boyfriend Craig wants a sex change too... and now he's a woman called Carla 
+      </title>
+<description>
+	Chelsea Jade, born Jonathan, and Carla, born Craig, have not ruled out gender reassignment surgery and the couple, who live in Belfast, are currently planning their wedding.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Humans of Newtown portraits taken on the streets one of Australia's most alternative suburbs
+      </title>
+<description>
+	Photojournalist Jo Wallace decided to start her own Humans of Newtown blog and photograph the different personalities in the suburb. The blog's success has led to a book which is due for release.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Shayna Hubers gets 40 years for killing lover who her left her for Miss Ohio
+      </title>
+<description>
+	Shayna Hubers, 24, 'cackled' as she shot attorney Ryan Poston six times, once in the face, just before he was due to meet Audrey Bolte, runner-up in Miss USA, for a date in Cincinnati, Ohio.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mick Fanning breezes through first round of Billabong Pro in Tahiti
+      </title>
+<description>
+	The three-time world Australian champion Mick Fanning proves the consummate professional in his first competition since his terrifying encounter with a great white shark last month.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Duke and Duchess of Cambridge attend wedding together surprising friends
+      </title>
+<description>
+	The appearance of the Duke and Duchess of Cambridge at a friend's wedding in Devon took some by surprise - used to the Prince attending events alone since the arrival of the children.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	‘Dob in a dealer’ hotline to be set up for people to turn suspected drug dealers into police 
+      </title>
+<description>
+	Prime Minister Tony Abbott is set to announce a  new national 'dob in a dealer' hotline as part of the government's pledge to crack down on drug use in Australia – particularly the rampant ice epidemic.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Allen Agostino photographs New York's The Hole where the city's forgotten live
+      </title>
+<description>
+	Toronto photographer Allen Agostino, 29, became enthralled by the stories of  people living in The Hole, an area of eastern Brooklyn not connected to the sewer system.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tiffany Taylor's phone ‘could hold clues’ to  whereabouts of missing pregnant Brisbane teen
+      </title>
+<description>
+	Mobile phone data retrieved by police reveals Ms Taylor and her accused killer, Rodney Wayne Williams, who met on an online dating site, were in the west Brisbane area for about two hours.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Funeral held for Ian Jones, boyfriend of Annie Lennox's daughter, just a week after his kayak capsized on the Hudson River
+      </title>
+<description>
+	Ian Jones, 32, died on August 8  as he was trying to save Tali Lennox's life  after their kayak was capsized by powerful currents. A funeral was held in Bensalem, Pennsylvania on Saturday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Former Champion Ironman Zane Holmes with twin daughters reveals how to keep fit with a growing family
+      </title>
+<description>
+	Former Ironman world champion, Zane Holmes, retired three years ago and now spends his time exercising with his family after giving up his grueling 25 hours-a-week training regime.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Salma Hayek in kidnap scare over daughter after women 'threaten to snatch child' 
+      </title>
+<description>
+	Actress Salma Hayek (pictured left) has been granted a restraining order against two women who allegedly ‘threatened to kidnap’ her seven-year-old daughter Valentina (right).
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	AT&T 'helped U.S. NSA to spy on internet traffic': Edward Snowden reveals documents suggesting telecommunications powerhouse assisted spy agency
+      </title>
+<description>
+	The company supposedly gave technical assistance  in carrying out a secret court order allowing wiretapping of communications at the UN headquarters, an AT&T customer.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Concours d'LeMon celebrates 'truly awful' autos where drivers compete for 'Worst in Show'
+      </title>
+<description>
+	The Concours d'Lemon held in Seaside, California on Saturday celebrates the 'oddball, mundane and truly awful' of the car world, awarding 'Worst in Show' and 'WTF Award' plaques to strange looking cars.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump arrives by helicopter at the Iowa State Fair
+      </title>
+<description>
+	Shortly after 1pm on Saturday, Donald Trump arrived in his $7million Sikorsky S-76, landing in a parking lot in Des Moines, Iowa, which he has hired out so he can give free helicopter rides to kids.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Amy Winehouse's father Mitch reveals singer 'thought she was pregnant'
+      </title>
+<description>
+	Mitch Winehouse, the father of the late Amy Winehouse, has spoken out about the time leading up to his famous daughter's death in 2011, making quite the personal revelation.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Kate Moss' ex Jefferson Hack to the rescue as marriage fears grow  
+      </title>
+<description>
+	Hack, 43, the father of Kate’s daughter Lila Grace, has been one of those who has rallied round while Kate, 41, rides out the storm of reports that she and Jamie could soon split up.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	LIZ JONES on 'rude babies' like Nick Kyrgios
+      </title>
+<description>
+	I can’t stand rude men. And it isn’t just young superstars sporting gold necklaces like Nick Kyrgios (pictured) or sports journalists who are rude, it’s all of them, writes LIZ JONES.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Radiohead's Thom leaves partner Rachel Owen after 23 years
+      </title>
+<description>
+	Rachel is mother to Thom’s two children Noah, 14, and Agnes, 11, with whom she is now holidaying abroad without him, writes GIRL ABOUT TOWN.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Former All Saints and Home And Away star Martin Lynes now a real estate agent in NSW
+      </title>
+<description>
+	He's best known as Dr. Luke Forlano on All Saints but these days, Martin Lynes is best known as a real estate agent on the New South Wales Central Coast.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The princess and the pooches: Princess Katalin zu Windischgraetz is using her gilded connections to create a fairy-tale ending for Marbella’s stray dogs
+      </title>
+<description>
+	Liz meets Katalin zu Windischgraetz, fashion and bona fide royalty, who's creating a fairy-tale ending for stray dogs.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Batley Bulldogs' Keegan Hirst comes out as gay and is first openly homosexual rugby player
+      </title>
+<description>
+	Married rugby league player Keegan Hirst, captain of West Yorkshire side Batley Bulldogs, has come out as gay, making him the first openly homosexual Englishman in the sport.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Agatha Christie: The strange case of her secret photo album
+      </title>
+<description>
+	The Queen of Crime was fiercely protective of her privacy, but now a new exhibition of unseen photographs reveals an unexpected carefree side to the world’s best-selling novelist.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Why second marriages bring a third more agony
+      </title>
+<description>
+	The researchers from Sweden and the UK said the findings could be down to difficult relationships with the men's new in-laws or stepchildren, as well as financial problems.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Sunrise producer sells apartment in Sydney’s Surry Hills for $1.2m
+      </title>
+<description>
+	Sunrise executive producer, Michael Pell, proved he has a solid investor head on his shoulders, after his one-bedroom apartment in Sydney sold for $500,000 more than he paid.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	'I breastfeed my girl of three AND my client's toddler... what's weird about that?'
+      </title>
+<description>
+	A small but growing band of British women regularly wet nurse other mothers’ children. Among them is Laura Merryweather, pictured with her own daughter Abbie and a friend's son.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Pixie Lott's Steffi Love doll range slated over their 'unrealistic' 18in waists 
+      </title>
+<description>
+	The 24-year-old singer has attracted criticism from eating disorder experts over the dolls’ ‘unrealistic’ dimensions, writes GIRL ABOUT TOWN.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Jeremy Corbyn's wife Laura Alvarez and her Cafe Mam coffee business
+      </title>
+<description>
+	Laura Alvarez, Jeremy Corbyn's third wife, runs a business selling organic coffee beans produced by poverty-stricken Mexican farmers, with some earning less than the country’s minimum wage.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tianjin explosion aerial photographs show devastation in Chinese city
+      </title>
+<description>
+	Shocking aerial pictures taken above the site of the colossal Tianjin explosion have revealed the full extent of the devastation wreaked by the chemical blast.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Fat or lesbian? Then don't wear my dress, says UK Herve Leger boss Patrick Couderc
+      </title>
+<description>
+	Patrick Couderc, pictured, is the UK boss of fashion house Herve Leger, and in a stunning interview he suggested that lesbians prefer to look 'butch and leisurely' and older women should have less on show.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Agents ‘killed body-in-bag spy Gareth Williams then got into flat to destroy evidence’
+      </title>
+<description>
+	An officer at the heart of the investigation into the death of Gareth Williams, who was discovered in a holdall in 2010, says detectives believe the London flat was broken into after probe began.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Downton Abbey cast film the show's last ever scene at the Ritz hotel in London
+      </title>
+<description>
+	Downton Abbey's cast and crew gathered at London's The Ritz in the early hours of yesterday morning to film the show’s final ever scenes. The show's creator, Lord Fellowes, cut an emotional figure.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Michael and James Middleton may miss Princess Charlotte's Caribbean holiday
+      </title>
+<description>
+	The Duchess of Cambridge, her sister Pippa and their mother Carole have organised the trip to the island of Mustique, which is scheduled for November.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Skipping meals makes would-be mothers less likely to give birth to a son 
+      </title>
+<description>
+	Researchers from Northwestern University in Illinois, who conducted the study, say it could be down to lower levels of glucose in the blood, affecting male foetuses more than female.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Anne Robinson admits she blows her TV and property fortune on designer clothing
+      </title>
+<description>
+	The facelift, the alcoholism, the husbands, the cash that keeps pouring in – there’s no secret Anne Robinson won’t share in this uproarious interview.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Olympic cyclist Laura Trott and Jason Kenny enjoy a bike-free break in Jamaica
+      </title>
+<description>
+	The golden cycling couple went to the couples-only Ocho Rios in Jamaica for a well-earned break from their training. The pair announced their engagement over Twitter last December.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Obamas stayed at Hay-Adams Hotel before Barack's Washington inauguration
+      </title>
+<description>
+	Just a stone's throw from the White House lies historic Hay-Adams Hotel which has played host to a range of political and royal figures over the years, from Tony Blair to Charles and Camilla.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ferguson cop Todd J Bakula investigated for bragging of 'annual Michael Brown bonus'
+      </title>
+<description>
+	Todd J Bakula, a patrolman for St Louis Country Police, bragged online that he was using his 'bonus' to go on a cycling weekend trip with his 18-months pregnant wife.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Inside Portuguese Azores islands with volcanoes and shining lakes
+      </title>
+<description>
+	The mesmerising Azores are part of the Portuguese archipelago in the Atlantic Ocean. The unspoilt islands boast craggy volcanic cones and brilliant blue lakes.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Bill Hagerty's Saga Sapphire tour around the Baltic was less-than-smooth
+      </title>
+<description>
+	Bill Hagerty was invited on a 16-day Saga Sapphire tour around the Baltic to speak on his experiences with  the world’s biggest stars. Battling bad weather and holding the attention of the crowds he sailed on.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Inside Richard Branson's Mont Rochelle hotel in South Africa
+      </title>
+<description>
+	Mont Rochelle is a  22-bedroom hotel under an hour away from Cape Town. It boasts a vineyard, fitting for being located in a wine-growing town, Franschhoek. Branson bought the hotel in 2014.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	How 'everything in Sicily is more' by Petronella Wyatt
+      </title>
+<description>
+	Sicily is the largest island in the Mediterranean, just off the Italian coast and one of the highlights is the impressive Taormina theatre features the striking Mount Etna in the background.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Family of man killed by Cedar Point park roller coaster are struggling with his death
+      </title>
+<description>
+	Debroah Mohr, the aunt of 45-year-old teacher James Young, 45, says she can't understand why he would have risked his life to collect his phone from underneath the Raptor ride in Cedar Point, Ohio.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Cecil the lion's killers 'moved his collar to cover up crime'
+      </title>
+<description>
+	Researcher Brent Stapelkamp tracked Cecil, pictured, and even took the last photo of him alive. He believes that Cecil's colour was moved by someone trying to fool investigators.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Penny Bell's daughter Lauren has now become a parent herself
+      </title>
+<description>
+	Lauren Bell said the experience of becoming a mother has helped to heal the dreadful wounds inflicted by her own mother Penny's horrific murder in 1991, which is still unsolved to this day.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Mail on Sunday's LIZ JONES reveals the terrible plight of Indian elephants 
+      </title>
+<description>
+	There are 57 elephants in Guruvayur Temple in Kerala, southern India and 12 'secret training' camps where they are beaten for years. We must release them, writes LIZ JONES in a special report.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Alton Towers crash victims Leah Washington and Joe Pugh rebuild their lives and romance
+      </title>
+<description>
+	Leah Washington and Joe Pugh were on the Smiler when it crashed into a stationary carriage on the same track at Alton Towers. Both suffered life-changing injuries. Now, they are closer than ever.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	London Fitness Guide's Celia Learmonth on the 'wellness' blog craze
+      </title>
+<description>
+	Wellness bloggers like Celia Learmonth (pictured) have rocketed from ordinary enthusiasts to power players. But their seemingly perfect lifestyles are causing more sinister health problems.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Rachel Johnson's collection of cheeky fox photographs revealed
+      </title>
+<description>
+	MoS columnist Rachel Johnson is against the culling of foxes and has collected a series of endearing pictures of the animals to help support their right to live alongside us.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	One57 apartment on NYC's Billionaire's Row is yours for $150,000-A-MONTH
+      </title>
+<description>
+	The apartment, located in the towering One57 building at the bottom of Central Park includes three bedrooms, four and a half bathrooms and a state-of-the-art kitchen, but no furniture.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Miss Cheshire Natasha Hemmings wins Miss England 2015 in Coventry
+      </title>
+<description>
+	Natasha Hemmings, 19, who is reading English literature at Nottingham University, won the beauty pageant after a glittering final at the Ricoh Arena in Coventry on Friday evening.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Elton John to sue French mags for spreading rumours about his health
+      </title>
+<description>
+	The 68-year-old star and his 52-year-old husband, David Furnish, are particularly angry about the slurs because the couple are the parents to two young boys: Zachary, four, and Elijah, two.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	MATT ROBERTS: I lost weight... but gained bingo wings  
+      </title>
+<description>
+	The PM's personal trainer with an unmissable weekly column column for anyone wanting to shape up.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Britain remembers VJ Day as the Queen leads the tributes
+      </title>
+<description>
+	The Duchess of Cornwall beamed with joy as Royal Navy veteran Jim Booth, 94, danced with her following today's ceremonies in London to mark the 70th anniversary of VJ Day.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	ISIS post pictures of 'Christian women kidnapped in Syria' 
+      </title>
+<description>
+	The names of at least two of the three women, including Susan Elias (pictured), resemble those of Assyrian families who lived near the villages which ISIS raided in February.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	American tourist Jacob Lopez claims transexual Airbnb host in Madrid sexually assaulted him
+      </title>
+<description>
+	Jacob Lopez, 19, claims the assault happened on July 4 in Madrid, Spain. He was being hosted by someone who was born male but lives as a female. The host said it was consensual and that Lopez is transphobic.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Donald Trump puts $7m Sikorsky helicopter in parking lot near Iowa State Fair
+      </title>
+<description>
+	The GOP frontrunner has arranged to set up his $7million Sikorsky S-76 helicopter in a parking lot outside the Iowa State Fair in Des Moines - after being banned from landing the aircraft on fairgrounds.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Lest We Forget: Aussie Diggers mark the 70th anniversary of the end of World War II at solemn ceremonies across Australia 
+      </title>
+<description>
+	Australian war veterans have turned out in full force across country to commemorate 70 years since end of brutal Pacific War that remembered 40,000 Australians who died in WWII.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Meet the identical twins who grew up with different interests
+      </title>
+<description>
+	Robert and William Haddock grew up in rural New Zealand as identical twins before Robert made the decision at the age of 18 to change his name to Mary and live life as a woman.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Vigilante border militiamen busted after 'stealing cocaine from fake drug cartel'
+      </title>
+<description>
+	Parris Frazier, Robert Deatherage and Erik Foster were part of the Arizona Special Operations Group militia before a sting operation in which they allegedly said they would steal and kill.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Tony Abbott says Australian Parliament and Liberal Party need more women
+      </title>
+<description>
+	Prime Minister Tony Abbott believes the Liberal Party is letting itself down by not having enough women representatives in Federal Parliament, but his cabinet still has just two women in it.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ben Simmons is basketball's next big thing and future NBA star
+      </title>
+<description>
+	Australian teenager Ben Simmons is being labelled the next big thing in basketball, and has already been compard to NBA stars like LeBron James, Kobe Bryant and Magic Johnson.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Designers speculate about what Apple's self-driving iCar might look like
+      </title>
+<description>
+	According to documents obtained by The Guardian, the technology giant is searching for a location to test the autonomous vehicles to rival designs already manufactured by Google.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Alleged victim of Alexander Pacteau said he 'would attack again'
+      </title>
+<description>
+	The woman Alexander Pacteau (pictured) was cleared of raping and sexually assaulting in Glasgow in 2013 said she wrote a letter warning that he would attack another woman.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Chinese farmer swindles thousands of dollars by opening fake BANK
+      </title>
+<description>
+	The man, whose surname is Zhang, equipped the fake China Construction Bank (file photo of real bank) outlet with card readers, passbooks and three teenage girls at the teller counter.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Missouri man's 'service snake' outrages diners at El Puente in Nixa
+      </title>
+<description>
+	The man insisted he had to keep the snake with him at El Puente Mexican Restaurant in Nixa, Missouri, despite complaints. The law states that only dogs can be service animals.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Gold Coast rescuers try to free humpback whale were paid a visit by its friend
+      </title>
+<description>
+	A seemingly straightforward rescue mission turned serious after rescuers attempting to free a young humpback whale from netting in Gold Coast bay were paid a visit by its' much larger friend.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Texas chemical supply plant rocked by explosions that caused massive fire to erupt
+      </title>
+<description>
+	A Texas chemical supply plant was rocked by a series of explosions that caused a massive fire to break out on Friday. Officials say no one was injured at the DrillChem plant in Conroe.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Stuart Valentino got kicked out by wife after drunk tattoo of a penis on thigh
+      </title>
+<description>
+	Stuart Valentino, from Southsea, Hampshire, who had previously been dubbed the ‘world’s most annoying husband’, inked the comedy phallus so it pokes out of his boxer shorts.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Photographer Ty Foster's project shows dogs' licking tongues out
+      </title>
+<description>
+	Professional photographer Ty Foster, from Connecticut, USA,  had published Lick featuring nearly 100 different dogs pulling hilarious expressions as they lick their snouts.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Deputy mayor Salim Mehajer shuts down streets for 'Australia’s Best Wedding'
+      </title>
+<description>
+	A Sydney deputy mayor  has been criticised for planning a lavish wedding which included a $50 million motorcade, without consulting with local police about traffic congestion.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Italian restaurant charges €20 'service charge' for for four coffees
+      </title>
+<description>
+	After taking in some refreshment at a bar on the Italian island of Ischia, a popular tourist spot, diners realised a €20 charge had been added to a €10.30 bill.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Celeste Barber takes parody photos of herself to look like celebrities
+      </title>
+<description>
+	Australian comedian, Celeste Barber (pictured) is setting her own social media trend as she recreates famous photos to highlight how unrealistic celebrity posts are.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Britain's youngest ovarian cancer patient had tumour the size of a rugby ball
+      </title>
+<description>
+	Emily Surridge, from Bexhill, was diagnosed with ovarian cancer at the age of two. Now, 14, the teenager has defied the odds, and doctors say there is no reason she won't have children.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Neighbour in Sydney's Parramatta's note on kids to play noisily in car park
+      </title>
+<description>
+	An infuriated resident of Parramatta, west of Sydney, has posted a passive-aggressive missive to an unknown parent who allows their children to make too much noise.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Scientists edge closer to growing a human arm in the lab
+      </title>
+<description>
+	Led by mastermind young Austrian surgeon Harald Ott, the team at Massachusetts General Hospital are aiming to create the first ever 'bio-limb' (pictured) to be attached to a monkey.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Trekking from hut to hut is an exhilarating way to discover the Austrian Alps
+      </title>
+<description>
+	Mayrhofen in the Tyrol region of Austria is handy for its proximity to Innsbruck airport (one hour by car), as well as the variety of summer activities, and can be explored on foot.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Women's tennis figures demand harsher penalties on Nick Kyrgios
+      </title>
+<description>
+	Stacey Allaster of WTA and retired tennis legend Martina Navratilova are calling for harsher penalties on Australian tennis brat Nick Kyrgios following his sex sledge on Thursday.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Comical moment black bear pushes his head through a cat door
+      </title>
+<description>
+	The curious black bear with dark brown eyes made an appearance at a man's condo located near Schweitzer Mountain in Idaho and the man quickly snapped a picture for posterity.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ormoc, Philippines ferry passenger leaps into the sea to save himself from fire
+      </title>
+<description>
+	Passengers were forced to throw themselves into the sea to escape suffocating black smoke after a passenger ferry burst into flames in the port city of Ormoc, in the Philippines, early this morning.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Southeast Asian woman smashes hair salon with sledgehammer after receiving bad haircut
+      </title>
+<description>
+	Dressed in a black top and pink shorts, the woman storms inside the Southeast Asian salon, smashing the mirrors and work surfaces of the store with the hammer in a full-blown meltdown.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Young mother took baby to hospital with condition that means she won't live past the age of FOUR - but claims doctors didn't take her seriously because she's just 19 
+      </title>
+<description>
+	Kaytee Wilson (left) noticed three-month-old daughter, Phoebe May, could not hold her own head up in September but she was not diagnosed with Sandhoff disease until May.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Young woman who lost her teeth while playing hockey was wearing a MOUTHGUARD
+      </title>
+<description>
+	WARNING GRAPHIC CONTENT: Christina Johnson suffered serious injuries after being hit in the mouth with a hockey stick in Tasmania.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Graphic designers around the world asked to photoshopp the same woman
+      </title>
+<description>
+	An online doctor's surgery asked 18 designers to amend an image of a woman in her underwear to reflect the ideal body in their country - and were left astounded by the results.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	4 British residents arrested at Calais and Teteghem over people smuggling
+      </title>
+<description>
+	The four, who all have British addresses, were arrested in France alongside four Albanians and two French women on suspicion of coordinating operations to stow away hundreds of migrants.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Researcher makes himself into a GOAT with prosthetics to follow herd in the Alps
+      </title>
+<description>
+	Thomas Thwaites, a 34-year-old researcher from London, told DailyMail.com that the he was hoping to explore a 'simpler way of life' using technology.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Reece Harding's mother says 'Aussies SHOULD be allowed to fight ISIS'
+      </title>
+<description>
+	The mother of the Gold Coast man who died fighting against ISIS, Michele Harding, has asked the Federal Government to allow Australians to fight ISIS.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Why Zurich is so much more than a city of boring bankers 
+      </title>
+<description>
+	The glorious lakeside Swiss city has an undeserving reputation as little more than a banking centre, but its beautiful old town, mountain views and vibrant cultural scene makes it a must-see.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	The Best Road Trips: When the journey really IS the best part
+      </title>
+<description>
+	Scotland's new coastal road NC500 recently wound its way into the best coastal drives in the world league table. But these images show that when it comes to scenic drives, there's a lot on offer.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ashford Castle in Ireland named best hotel in the world
+      </title>
+<description>
+	Set on a stunning 350-acre estate on Lough Corrib, the five-star Ashford Castle recently reopened to the public after undergoing a €67million (£50million) renovation.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Losing to the sea: How ten years after Katrina, Louisiana's fishing towns are disappearing into the Gulf of Mexico
+      </title>
+<description>
+	Outside of New Orleans's $14.5-billion flood protection system, efforts have lagged to protect small towns and villages that are losing land every year to erosion.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Daughter caught plagiarizing Emily Phillips' viral obituary for tribute to her mother
+      </title>
+<description>
+	When Glenna Kramer's 104-year-old mother Dorothy McElhaney (pictured) passed away in Virginia she was inspired by the first-person piece Emily Phillips wrote before she died of cancer.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Ex-Kaspersky Lab employees say security firm created fake maleware
+      </title>
+<description>
+	Two ex-employees of the Russian anti-virus firm say the company, led by Eugene Kaspersky (pictured), deliberately fed fake malware to its rivals for more than a decade.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Alzheimer's scientists studying create intelligent mice that lead to breakthrough
+      </title>
+<description>
+	Scientists, led by Leeds University, created super-intelligent mice by altering a single gene. The change also meant the mice were less likely to feel anxiety or recall fear.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	California pilot turns the engines off and glides his plane in for a safe landing
+      </title>
+<description>
+	The aircraft was en-route to Camarillo, California, when it was forced to make an emergency landing at Van Nuys Airport in Los Angeles after landing gear failed to retract properly.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Megayachts drop anchor off the Sardinian shore in ultimate display of big boy’s toys
+      </title>
+<description>
+	Dominating the crystal blue waters of the Sardinian bay of Porto Cervo, this staggering collection of megayachts are owned by billionaires from around the world.
+      </description>
+<sentiment></sentiment>
+</item>
+<item>
+<title>
+	Michael Schumacher’s daughter Gina performs at International Horse Championships
+      </title>
+<description>
+	Wearing a light-coloured Stetson and shirt with tassels, 'cowgirl' Gina Schumacher cut a determined sportswoman as she directed her horse 'Sharp Dressed Shiner' in Aachen in Germany.
+      </description>
+<sentiment></sentiment>
+</item>

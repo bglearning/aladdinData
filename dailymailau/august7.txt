@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>
+Katie Hopkins branded a 'bully' for 'fat shaming' audience member
+</title>
+<description>
+The columnist became embroiled in a heated exchange with the woman, known only as Sheryl, when discussing whether fat people ought to pay more when flying.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Preston Police searching for Jake Derrick facing burglary charges
+</title>
+<description>
+A warrant was issued for the arrest of Jake Derrick, also known as Jake Hancock, from Preston, north west of Melbourne, late Thursday night after he failed to appear in court to face burglary charges.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Photographer Jesse Holland captures her dog and daughter posing in identical images
+</title>
+<description>
+Jesse Holland, from Victoria, British Columbia, began photographing her daughter Ella and their five-year-old French bulldog/Boston terrier mix Charlie just over a year ago.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Rise of 'Pet-Nup' contracts to decide who keeps the dog if couple split 
+</title>
+<description>
+Singer Cheryl Fernandez-Versini won custody of her two chihuahuas after her 2010 divorce from footballer Ashley Cole (pictured together).
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Yoseop Choi accused of beating his baby boy to death
+</title>
+<description>
+A 5-month-old baby boy who was allegedly beaten by his New Jersey father died in the hospital on Thursday. Yoseop Choi, 38, has been charged with murder for his son's death.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Hangover make up trend in Japan sees women with red puffy eyes and greasy hair
+</title>
+<description>
+There is nothing worse than feeling hungover, but LOOKING hungover is the latest beauty trend sweeping Japan. Women apply blush under the eye and create wet-look hair to achieve the look.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+From skirts to Speedos, how men's swimsuit styles have evolved over 100 years
+</title>
+<description>
+The new clip, which was created by Mode, charts the evolution of the swimsuit over the past 100 years, beginning in 1915 when swimming dresses were the swimsuit of choice, to present day.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Wendy Zabrocki survived double suicide pact with husband of 35 years in Folkestone
+</title>
+<description>
+Melvyn and Wendy Zabrocki downed a lethal cocktail of drugs and alcohol before laying down on the bed to die at their home in Folkestone, Kent, last November, an inquest heard.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Cecil the lion’s cubs have been adopted by their uncle Jericho
+</title>
+<description>
+The infant lions have been adopted by their new pride leader, under the watchful eye of their uncle Jericho, in Hwange National Park, Zimbabwe.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Shocking moment a bull is ‘illegally’ executed with shotgun on Spanish street
+</title>
+<description>
+EXCLUSIVE: The bull, called Guapetón, was shot dead in Coria, south-west Spain, after he attacked a man during the town's annual bull running festival - sparking outrage from animal rights groups.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Groom brought a room to tears by dropping to his knees to dance with his mother
+</title>
+<description>
+In 2008, Luke Rheault, 33, from Fitchburg, Massachusetts, danced with his ALS-stricken mother Rebekah at his wedding, less than a year before she died, and didn't watch the video until now.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Migrants in Macedonia race to catch the last trains into Europe
+</title>
+<description>
+Waiting for trains that will continue their journey on to western European nations like Germany and France, the migrants were photographed at a run-down train station in the town Gevgelija.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Benefits of weight-loss surgery only last 5 years
+</title>
+<description>
+While many obese patients lose weight in the first year after bariatric operations, experts at Tel Aviv University say after five years many begin to regain the pounds they initially shed.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+Australian homeowners looking for 'smaller but nicer' houses they can afford 
+</title>
+<description>
+Despite the huge property bubble in major cities home ownership is falling in Australia, and the homes that people do own now are much smaller than they were a generation ago.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>
+PE teachers see overweight children as less intelligent and less social
+</title>
+<description>
+A new study has found PE teachers have a 'strong anti-fat bias' with some saying being obese is 'pretty much worse than dying'. So if you were bullied at school it wasn't just all in your head.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+The shocking reality for male victims of domestic violence
+</title>
+<description>
+One in three victims of domestic violence are males, but there are little support services available to these men. One man alleged to have been stabbed five times by his ex-wife (pictured).
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+Women with breast implants are THREE times more likely to commit suicide
+</title>
+<description>
+Women who get breast implants may already have psychiatric problems to do with lower self-esteem or body image disorders, according to researchers from the Vanderbilt University Medical Center.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+ISIS seize Qaryatain town in central Syria home to tens of thousands of Christians
+</title>
+<description>
+The heavily populated town of Qaryatain lies south west of Palmyra, which is home to towering Roman ruins, and is located some 50 miles from the Assad regime-held city of Homs.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+A driver and passenger have miraculously escaped a horror car crash
+</title>
+<description>
+A driver and passenger have miraculously escaped with their lives after crashing into a guard rail, which tore their vehicle apart (pictured).
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Ukrainian soldiers post photographs of their pets on front line online
+</title>
+<description>
+Ukrainian soldiers have given a rare insight into life on the frontline by surprisingly posting pictures of their beloved pet dogs and kittens.
+</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>
+Two people are found dead in a bullet-ridden car in north-west Melbourne
+</title>
+<description>
+The windscreen of the silver Ford, which was found on Taylors Road in Plumpton (pictured) - north-west of Melbourne - had been pierced by several bullet holes, with the two people inside.
+</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>
+China is selling tickets to new Earth-like planet Kepler-452b for just TWO PENCE
+</title>
+<description>
+The listing offering tickets to the potentially habitable Kepler-452b appeared on Taobao, the Chinese equivalent to eBay. But unfortunately the newly discovered exo-planet is 1,400 light years away.
+</description>
+<sentiment>neutral</sentiment>
+</item>
+</news>

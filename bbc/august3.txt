@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+<item>
+<title>Call to widen MH370 debris hunt</title>
+<description>Malaysia urges other Indian Ocean islands to be on the lookout for more possible MH370 debris, after a wing part washes up on Reunion.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Greek shares 'set to plunge 20%'</title>
+<description>The Athens Stock Exchange is set to plunge by as much as 20% on Monday when trading finally resumes after a five-week closure, traders predict.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Saudi king cuts short French holiday</title>
+<description>King Salman of Saudi Arabia cuts short a holiday on the French Riviera where the closure of a beach for his security caused an uproar.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Nigerian army frees Boko captives</title>
+<description>Nigeria's army says it has rescued 178 people, more than 100 of them children, from Boko Haram militants in the north-east of the country.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Crash grounds Russian helicopters</title>
+<description>The Russian defence ministry grounds its fleet of Mi-28 attack helicopters after a fatal accident at an air show on Sunday.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Mexican photojournalist found dead</title>
+<description>A Mexican photojournalist who said he was being threatened and harassed is found shot dead with four other people in a flat in Mexico City.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Israel teen stabbed at Gay Pride dies</title>
+<description>A teenage girl stabbed at a Gay Pride march in Jerusalem on Thursday dies from her wounds, doctors say.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Suicide attack hits Turkish troops</title>
+<description>Two Turkish soldiers are killed and dozens are wounded in a suicide attack near the border with Iran blamed on Kurdish PKK militants.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>PM criticised over Calais 'politics'</title>
+<description>The Swedish justice and migration minister accuses David Cameron of "playing politics" with the migrant crisis in Calais.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Canadian PM calls general election</title>
+<description>Canadian Prime Minister Stephen Harper announces he is dissolving parliament and calling a parliamentary election for 19 October.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Zimbabwe seeks second 'lion killer'</title>
+<description>Zimbabwe says it is seeking a second American over the illegal killing of a lion, as the outcry over the death of famed animal Cecil continues.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>TV star Cilla Black dies aged 72</title>
+<description>Singer and TV star Cilla Black, who enjoyed a 50-year showbusiness career, dies at her home in southern Spain.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>From prisoner to programmer</title>
+<description>A group of former prisoners in South Africa are teaching other prisoners how to code, to help them find work on the outside.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Calais migrants sprayed with tear gas</title>
+<description>French police use tear gas to force back a group of migrants who attempted to cut through fencing at the Channel Tunnel terminal in Calais.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Myanmar floods worst in decades</title>
+<description>A state of emergency has been declared in several regions of Myanmar after the worst flooding in decades.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Funeral for Bobbi Kristina Brown</title>
+<description>A funeral service is held in the US state of Georgia for Bobbi Kristina Brown, the daughter of the late singer Whitney Houston and the rapper Bobby Brown.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Selma civil rights march begins</title>
+<description>Civil rights campaigners in the US start an 860-mile (1,385 km) march from Selma, Alabama to Washington DC to highlight what they say is a fresh attack on equal rights for African Americans</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>BBC presenters dancing with lions</title>
+<description>Chinese lions, oranges and drummers help BBC Newsday presenters Rico Hizon and Sharanjit Leyl, celebrate the opening of the BBC's new studio in Singapore.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Keeping track of HIV in Malawi</title>
+<description>People living with HIV in Malawi are being given access to vital tests thanks to a simpler way of transporting blood.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Odebrecht: Brazilian construction giant in the crosshairs</title>
+<description>The arrest of Latin America's top construction industry boss Marcelo Odebrecht is throwing Brazil's political scene into disarray, says Daniel Gallas.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>The eurozone's nagging problems</title>
+<description>The crisis may have passed but high debt burdens and low growth mean eurozone economies are in far from rude health, says Andrew Walker.</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Viagra 'added to Chinese alcohol'</title>
+<description>Two distillers in China added Viagra to thousands of bottles of spirits and told customers it had "health-preserving qualities", food officials say.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>IOC recognises 'Ultimate Frisbee'</title>
+<description>Flying disc sports, including Ultimate Frisbee, are officially recognised by the International Olympic Committee (IOC).</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Government may begin RBS sale</title>
+<description>The Treasury could begin the process of selling part of the government's stake in Royal Bank of Scotland from Monday, according to BBC sources.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Fantastic Four 'haven't seen' film</title>
+<description>The cast of the new Marvel reboot admit they've yet to see the film, despite it coming out in a few days.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Empire State hosts wildlife display</title>
+<description>Images of endangered animals are flashed across the Empire State Building in New York to highlight the issue of potential mass extinction.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Minichiello queries lack of action</title>
+<description>British athletics coach Toni Minichiello questions why the sport has failed to act on data that appears to expose widespread doping.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Attackers kill Burundi leader's aide</title>
+<description>A close aide of Burundi's President Pierre Nkurunziza is killed in an attack on his car in the capital, Bujumbura.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>South Sudan becomes Olympic member</title>
+<description>South Sudan will compete at Rio 2016 after becoming the 206th member of the Olympic movement.</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Myanmar flood death toll 'to rise'</title>
+<description>The death toll from floods in Myanmar, that have hit 156,000 people, is expected to rise over the coming days, the United Nations warns.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
+<title>Australian Speaker Bishop quits</title>
+<description>The speaker of the lower house of the Australian parliament, Bronwyn Bishop, resigns over an expenses scandal.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Dozens face 'terror' trial in UAE</title>
+<description>Authorities in the United Arab Emirates say 41 people will go on trial for trying to "seize power and establish a caliphate" in the Gulf nation.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Al-Jazeera verdict delayed again</title>
+<description>Verdicts in the retrial of three al-Jazeera journalists in Egypt previously jailed for allegedly aiding the banned Muslim Brotherhood are delayed again.</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>The tram that survived Hiroshima</title>
+<description>The tram that survived the Hiroshima atomic bomb</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>How a group of grannies got their first holiday</title>
+<description>How a group of grannies funded their first trip to the sea</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>Joshua Wong: 'We had no clear goals' in Hong Kong protests</title>
+<description>What became of Hong Kong's youngest protest leader</description>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Which was the best travel photograph of the year?</title>
+<description>Which was the best travel photograph of the year?</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Ending the cycle of gang violence in El Salvador</title>
+<description>Tackling gang violence in El Salvador with faith and factories</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>China stocks trader counts his losses</title>
+<description>How the roller coaster Chinese stock market hit one investor</description>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>Indian tea-seller who hawks his books on Amazon</title>
+<description>India's roadside tea seller who hawks his novels on Amazon</description>
+<sentiment>positive</sentiment>
+</item>
+<item>
+<title>The Twitter bot that 'corrects' people who say 'illegal immigrant'</title>
+<description>The robot that asks people not to say 'illegal immigrant'</description>
+<sentiment>positive</sentiment>
+</item>
+</news>

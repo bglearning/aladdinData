@@ -1,310 +1,290 @@
 <item>
 <title>Bangkok bomb 'targeted foreigners'</title>
 <description>Thailand's defence minister says an attack on a Bangkok shrine that killed at least 21 people deliberately targeted foreigners.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Iran 'to work with rivals for peace'</title>
 <description>Iran wants to work with regional powers to promote peace and security after last month's nuclear deal, Vice-President Masumeh Ebtekar tells the BBC.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>City grime 'breathes out pollution'</title>
 <description>Scientists say that grime on urban surfaces does not absorb and lock away nitrogen gases - it re-releases them when hit by sunlight.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>US actor Emile Hirsch admits assault</title>
 <description>US actor Emile Hirsch, star of Into The Wild, pleads guilty to assaulting a female film executive during the Sundance Film Festival.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Shell gets final permit for Arctic</title>
 <description>Oil and gas giant Shell has been granted the final permit it needs to begin drilling below the ocean floor for oil in the Arctic.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>UN 'horrified' by Syria attacks</title>
 <description>The UN's humanitarian chief says he is "horrified" by attacks on civilians in Syria, a day after a government air raid leaves almost 100 dead.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>US in $5m push to combat heroin rise</title>
 <description>The US government unveils a $5m (£3.2m) initiative to combat the use and trafficking of heroin amid a rising number of cases, especially in the north-east.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Ancient plant 'could be first flower'</title>
 <description>Botanists in the US say an ancient plant that grew underwater in what is modern day Europe may have been the world's first known flowering plant.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Lockdown at US nuclear site ends</title>
 <description>A lockdown at a nuclear processing site in South Carolina comes to an end after a security alert triggered by a bomb-sniffing dog.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Probe into Mexico students 'blocked'</title>
 <description>Regional human rights investigators say they have been denied access to military personnel who may have witnessed the disappearance of 43 students in Mexico last September.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Trump: End birthright US citizenship</title>
 <description>Republican presidential candidate Donald Trump says he wants to end the automatic right to citizenship for US-born children of families living illegally in the United States.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Batman impersonator dies in accident</title>
 <description>An American man famed for dressing up as Batman and visiting sick children in hospital dies after he was hit by a car in Hagerstown, Maryland.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>VIDEO: Bomb blast at central Bangkok shrine</title>
 <description>A large explosion close to a shrine in the centre of the Thai capital, Bangkok, was caused by a bomb, according to police.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>VIDEO: Bangkok eyewitnesses describe horror</title>
 <description>Eyewitness accounts of a bomb explosion close to a shrine in the centre of Thailand's capital, Bangkok, killing at least 19 people and injuring more than 120.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>VIDEO: 'Thrown to ground' in Bangkok blast</title>
 <description>A couple describe the moment a bomb exploded close to a shrine in the centre of Thailand's capital, Bangkok, which killed at least 19 people and injured more than 120.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>VIDEO: Smugglers help Yazidis escape IS</title>
 <description>An Iraqi businessman whose family were held hostage by Islamic State militants is helping to smuggle other hostages out of territory held by the violent group.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>VIDEO: Eastern Ukraine violence mounting</title>
 <description>Nine people have died in a surge in fighting in eastern Ukraine between government forces and Russian-supported rebels.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>VIDEO: Muslim duo mix faith and hip hop</title>
 <description>At a time when Muslim extremism often dominates the headlines, some Muslim musicians are turning to hip hop to express their views on stereotypes and stigma.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>VIDEO: Plane wreckage found in Indonesia</title>
 <description>A search aircraft has spotted debris believed to be from the missing Trigana Air plane, according to Indonesian transport officials.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>VIDEO: Why is Uganda fighting in South Sudan?</title>
 <description>The BBC's Catherine Byaruhanga has been training with Ugandan troops who have gone to South Sudan to support President Kiir, as a deadline looms for him to agree a peace deal.</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Struggling with sexism in Latin America</title>
 <description>Look beyond the obvious, and Latin America has much in common with the Middle East when it comes to the role of women, writes Katy Watson.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Are we reckless drivers when it comes to drugs?</title>
 <description>Do we need to change our approach to antibiotics?</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Do video games make people violent?</title>
 <description>Over 200 academics have signed an open letter criticising controversial new research suggesting a link between violent video games and aggression.</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>What makes a planet habitable?</title>
 <description>It is more difficult than you might think to define what makes a planet habitable, as astrophysicist Christopher Watson explains.</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Cardinal accused of papal plagiarism</title>
 <description>Peru's El Comercio newspaper deletes two articles by Lima's archbishop and says it will not publish his work again, following allegations of plagiarism.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Bundesbank sees 'solid' German growth</title>
 <description>Economic growth in Germany is set to be "solid" in the second half of the year, the Bundesbank says, while China's weakness could affect the global economy.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Google’s modular Ara phone delayed</title>
 <description>Google delays its plans to trial its modular smartphone concept, Project Ara.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Bears get 'stressed' by drones</title>
 <description>Bears show signs of stress when drones are flown near them, according to a new study.</description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>Apple car clues emerge from letter</title>
-<description>Correspondence between Apple and an autonomous driving test site reveal nuggets of car plans.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Rap movie storms box office chart</title>
 <description>Rap movie Straight Outta Compton makes a surprise debut at the top of the US and Canada box office this weekend, with takings of $56.1m (£35.8m).</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Cilla 'gave blessing' to musical</title>
 <description>Cilla Black gave her blessing to a West End musical based on her life before she died, her agent has confirmed.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Grave records prehistoric warfare</title>
 <description>A mass grave containing at least 26 skeletons is further evidence of the brutal conflict that appears to have beset central Europe 7,000 years ago.</description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>'Drinkable book' cleans murky water</title>
-<description>Field trials show a so-called "drinkable book" can kill bacteria in drinking water, thanks to metal nanoparticles embedded in its pages.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Zero new Ebola cases in Sierra Leone</title>
 <description>For the first time since the Ebola outbreak was declared in Sierra Leone, the country has recorded zero new infections.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Diabetes cases soar 60% in a decade</title>
 <description>The number of people living with diabetes has soared by nearly 60% in the past decade, a charity warns.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Barcelona lose Super Cup to Bilbao</title>
 <description>Athletic Bilbao win the Spanish Super Cup as a 1-1 draw with Barcelona at the Nou Camp secures a 5-1 aggregate victory.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Liverpool 1-0 Bournemouth</title>
 <description>Christian Benteke's controversial winner gives Liverpool an unconvincing 1-0 victory over Bournemouth at Anfield.</description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>Women who married the enemy</title>
-<description>The Japanese women who married the enemy</description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>Waiting for the ship that could save a man's life</title>
-<description>Waiting for the ship that could save a man's life</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>South Sudan leader snubs peace deal</title>
 <description>South Sudan's President Salva Kiir fails to sign a peace deal with rebels, despite a deadline to do so or face sanctions.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>SA taxi goes over bridge, hits train</title>
 <description>At least 14 people are killed after a taxi in South Africa plunges over a bridge and collides with a train on the track below.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Bangkok explosion in pictures</title>
 <description>Images from the scene of the bomb blast at the Erawan Hindu shrine in Bangkok, Thailand, which has killed more than 20 people.</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Tianjin protests demand compensation</title>
 <description>Residents whose homes were damaged by the Tianjin explosions on 12 August stage protests calling for compensation from the Chinese government.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Shelling in east Ukraine kills nine</title>
 <description>At least nine people die in heavy artillery exchanges in eastern Ukraine, as Russian President Vladimir Putin makes a controversial visit to annexed Crimea.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Spanish bulls gore seven to death</title>
 <description>Bulls gore seven people to death during festivals across Spain in less than two months - including four over the weekend.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Mass protests held across Brazil</title>
 <description>Hundreds of thousands of people take part in protests across Brazil, calling for the impeachment of President Dilma Rousseff.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Ecuador declares volcano emergency</title>
 <description>Ecuador's President Rafael Correa declares a state of emergency over increasing activity at the Cotopaxi volcano.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Egypt imposes new anti-terror laws</title>
 <description>Egyptian President Abdul Fattah al-Sisi approves stringent new counter-terrorism laws to fight the country's growing jihadist insurgency.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Lebanon faces rubbish 'catastrophe'</title>
 <description>Lebanon's health minister warns that the country is facing a major health disaster because of the failure to collect huge amounts of rubbish.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Wildfires blaze through western US</title>
 <description>Firefighters are working to contain fast-moving wildfires moving up and down western regions of the US.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Amazon defends workplace culture</title>
 <description>Jeff Bezos, the boss of the online retailer Amazon, sends a memo to staff rejecting a New York Times report of a 'bruising' corporate culture.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>VJ Day: In pictures</title>
 <description>70th anniversary commemorations</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>China explosions: Tianjin blasts aftermath in pictures</title>
 <description>Latest images of the aftermath of Wednesday's explosions</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Smugglers help enslaved Yazidis escape Islamic State</title>
 <description>How an Iraqi businessmen secures the release of enslaved Yazidis</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>August 1985: The worst month for air disasters</title>
 <description>The single month with four air disasters</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Is France’s supermarket waste law heading for Europe?</title>
 <description>The French law that makes supermarkets give food away</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>VIDEO: The Syrian refugee who's telling his compatriots: 'Don't come to Sweden!'</title>
 <description>Advice from a Syrian refugee in Sweden</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>The US love affair with food on a stick</title>
 <description>...and 19 other unlikely foods Americans eat on a stick</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>My Lariam dreams</title>
 <description>The odd dreams people get when taking malaria drug Lariam</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>The Mobutu and Gaddafi effect</title>
 <description>The presidents who insist on going on and on</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Pizzas get the cocktail makeover</title>
 <description>How data crunching can pep up your local restaurant</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>What was in Osama Bin Laden's tape collection?</title>
 <description>What was in his huge collection of audio cassettes?</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>

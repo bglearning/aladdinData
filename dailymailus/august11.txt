@@ -5,16 +5,7 @@
 <description>
 	Keeping them in the adult system would protect the public, ruled Waukesha County, Wisconsin Circuit Judge Michael Bohren.
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Slender Man girls, 13, appear in court as judge rules they will be tried as adults for grisly attempted murder
-      </title>
-<description>
-	Keeping them in the adult system would protect the public, ruled Waukesha County, Wisconsin Circuit Judge Michael Bohren.
-      </description>
-<sentiment></sentiment>
+<sentiment>undefined</sentiment>
 </item>
 <item>
 <title>
@@ -23,7 +14,7 @@
 <description>
 	Republican incumbent Mike Bishop's campaign mocked her right away: 'Melissa Gilbert can afford to have a stylist for her dog, but cannot pay her taxes.'
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -32,7 +23,7 @@
 <description>
 	Dr Nicholas Reeves, an English archaeologist at the University of Arizona, says he made the discovery after analysing high-resolution radar scans of the walls of Tutankhamun's grave.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -41,7 +32,7 @@
 <description>
 	Freedivers swimming in Little Barrier, in the northeastern coast of New Zealand, were surprised when a pod of Orcas did laps around them while hunting.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -50,7 +41,7 @@
 <description>
 	Seventeen rowers - 13 teenage athletes and four staffers - on a 40-member U.S. team reported stomach illnesses at the World Junior Rowing Championships - a trial run for next year's Games.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -59,7 +50,7 @@
 <description>
 	Barvetta Singletary, 37, a special assistant to President Obama and the House legislative affairs liaison, was arrested on Friday following the incident.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -68,7 +59,7 @@
 <description>
 	Protesters shut down Interstate 70 outside of Ferguson in both directions during rush-hour traffic on Monday to mark the Michael Brown shooting anniversary.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -77,7 +68,7 @@
 <description>
 	Mark Davis, an ex-fundamentalist Mormon, is the brains behind a revolutionary device that allows smartphone users to project apps for use on most surfaces.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -86,7 +77,7 @@
 <description>
 	Set items from the hit show were auctioned off by Screen Bid last week. The props that earned the highest bids were all used by Jon Hamm's character, Don Draper - including his flask.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -95,7 +86,7 @@
 <description>
 	The former Real Housewives Of Beverly Hills star was allegedly caught stealing more than $600 worth of items on August 2.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>

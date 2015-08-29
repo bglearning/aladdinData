@@ -16,7 +16,7 @@
 <item>
 <title>Bangladesh 'tiger poachers' shot dead</title>
 <description>Six suspected tiger poachers are shot dead in a gunfight with Bangladeshi police in the world's largest mangrove forest, the Sundarbans.</description>
-<sentiment>negative</sentiment>
+<sentiment>undefined</sentiment>
 </item>
 <item>
 <title>Australia not curbing Vegemite sales</title>
@@ -26,12 +26,12 @@
 <item>
 <title>Spain 'violated' Gibraltar's waters</title>
 <description>Spanish vessels and helicopters committed a "clear violation of international law" after entering UK waters in Gibraltar, the Foreign Office says.</description>
-<sentiment>neutral</sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>S Korea blames North for mine blast</title>
 <description>South Korea warns the North of a "pitiless penalty" for North Korea after blaming it for a landmine blast in the demilitarized zone.</description>
-<sentiment>neutral</sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Pakistan probes child abuse scandal</title>
@@ -46,7 +46,7 @@
 <item>
 <title>Ferguson marks Michael Brown killing</title>
 <description>Hundreds pause in silence in the US town of Ferguson to mark a year since the shooting of Michael Brown, a case that sparked angry protests.</description>
-<sentiment>positive</sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Eleven dead in India temple stampede</title>
@@ -84,6 +84,11 @@
 <sentiment>negative</sentiment>
 </item>
 <item>
+<title>VIDEO: Ferguson remembers Michael Brown</title>
+<description>Hundreds of people gather in the US town of Ferguson to mark the shooting of unarmed black teenager Michael Brown by a white police officer a year ago.</description>
+<sentiment>negative</sentiment>
+</item>
+<item>
 <title>VIDEO: Typhoon Soudelor tears through China</title>
 <description>At least nine people have died in south-eastern China after a powerful typhoon caused floods and mudslides.</description>
 <sentiment>negative</sentiment>
@@ -96,12 +101,12 @@
 <item>
 <title>How does Russia view the West?</title>
 <description>Where does Russia stand vis-a-vis the West? Bridget Kendall speaks to a Russian former general, whose assessment is both reassuring and alarming, she says.</description>
-<sentiment>article</sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Can South Korea's family firms maintain their grip?</title>
 <description>South Korea's system of big family firms - the chaebols - is once again in the spotlight, says Stephen Evans.</description>
-<sentiment>article</sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>What's behind Russia's actions in Georgia?</title>
@@ -116,22 +121,27 @@
 <item>
 <title>Australians eat 32kgs chocolate a year</title>
 <description>A new survey finds Australians are eating too much junk food and food portions that are too big.</description>
-<sentiment>neutral</sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Spanish resort fines 'beach hoggers'</title>
 <description>A resort in southern Spain is fining tourists who reserve their sunbathing spot by putting towels on the sand.</description>
-<sentiment>neutral</sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>China's inflation rise misses target</title>
 <description>China's consumer inflation rate hit its highest level this year in July, edging up to 1.6% from 1.4% the month before, well below a government target of about 3%.</description>
-<sentiment>article</sentiment>
+<sentiment>neutral</sentiment>
+</item>
+<item>
+<title>Scotland to ban GM crop growing</title>
+<description>Scotland is to ban the growing of genetically modified crops, the country's rural affairs secretary announces.</description>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Web's random numbers are too weak</title>
 <description>The data scrambling systems used by millions of web servers could be much weaker than they ought to be, say researchers.</description>
-<sentiment>neutral</sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>'Biggest update' to fix Android bug</title>
@@ -151,12 +161,12 @@
 <item>
 <title>Fastest neutrino among new findings</title>
 <description>Physicists unveil a raft of new findings about neutrinos bombarding the Earth from above, below - and within.</description>
-<sentiment>neutral</sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Coasts 'final frontier' for study</title>
 <description>Archaeologists want the public's help as they attempt to tackle what they describe as the "final frontier" - England's coastline.</description>
-<sentiment>neutral</sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Cancer survival 'lagging in England'</title>
@@ -171,22 +181,22 @@
 <item>
 <title>Wenger wants response to 'accident'</title>
 <description>Arsenal boss Arsene Wenger says his side will recover from the "nerves" of their opening-day loss to West Ham.</description>
-<sentiment>neutral</sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Lowry claims maiden American title</title>
 <description>Shane Lowry of Ireland claims the biggest win of his career with a two-shot victory at the WGC-Bridgestone Invitational in Ohio.</description>
-<sentiment>neutral</sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Meeting Mali's most dedicated postman</title>
 <description>The world's proudest postman - in the most unlikely country</description>
-<sentiment>neutral</sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Weeping for a lost generation</title>
 <description>Weeping for a lost generation with my friend's brother</description>
-<sentiment>neutral</sentiment>
+<sentiment>undefined</sentiment>
 </item>
 <item>
 <title>Several dead as Mali siege ends</title>
@@ -202,6 +212,11 @@
 <title>Million affected by Myanmar flooding</title>
 <description>Nearly one million people have now been affected by flooding across Myanmar, says the government, with new warnings in place for the Irrawaddy Delta.</description>
 <sentiment>negative</sentiment>
+</item>
+<item>
+<title>Singapore celebrates 50th anniversary</title>
+<description>Singapore holds nationwide events and a military parade to mark 50 years since it became an independent nation.</description>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>OSCE cars torched in eastern Ukraine</title>
@@ -241,12 +256,17 @@
 <item>
 <title>US cinema gunman spared death penalty</title>
 <description>A jury in the US state of Colorado spares gunman James Holmes the death penalty for killing 12 people at a cinema and he will serve life in jail without parole.</description>
-<sentiment>negative</sentiment>
+<sentiment>undefined</sentiment>
 </item>
 <item>
 <title>The Stilwell Road 70 years on</title>
 <description>Findlay Kember recounts his four-year documentation of The Stillwell Road.</description>
-<sentiment>neutral</sentiment>
+<sentiment>article</sentiment>
+</item>
+<item>
+<title>The Stilwell Road 70 years on</title>
+<description>Findlay Kember recounts his four-year documentation of The Stillwell Road.</description>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Alice in Sunderland - or Llandudno?</title>
@@ -271,7 +291,7 @@
 <item>
 <title>‘I’m a professional cyberstalker'</title>
 <description>The man who targets foolish people - for their own good</description>
-<sentiment>article</sentiment>
+<sentiment>undefined</sentiment>
 </item>
 <item>
 <title>How far will India's dog-lovers go to save strays?</title>
@@ -281,7 +301,7 @@
 <item>
 <title>VIDEO: Australia's champion Flat White</title>
 <description>2015 World Barista Champion spills the beans</description>
-<sentiment>neutral</sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>The city saved from the atomic bomb</title>
@@ -291,5 +311,5 @@
 <item>
 <title>VIDEO: Kelly Osbourne's 'not racist' comment - and more trends of the week</title>
 <description>The 'not racist' comment - and more trends of the week</description>
-<sentiment>neutral</sentiment>
+<sentiment>article</sentiment>
 </item>

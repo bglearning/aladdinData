@@ -3,138 +3,138 @@
 <description><p>Atop a 17-story building in Manhattan lies a hidden sanctuary of sorts – a green space about the size of five football fields to harbor wildlife, save energy, and divert storm runoff. What was once the biggest bird-killer in the city was transformed into a lush habitat–transparent glass into inviting greenery. Susan Elbin, head of </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/theres-green-sanctuary-atop-nycs-largest-convention-center/">There&#8217;s a Green Sanctuary Atop NYC&#8217;s Largest Convention Center</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Chick-fil-A Owner Stuns Employees, Pays Them During 5 Month Shutdown</title>
 <description><p>The owner of a fast food restaurant in Austin, Texas shocked his 50 employees by paying their full salaries during a five-month period when the business shut down. Jeff Glover, who has operated the Chick-fil-A for 15 years, wanted to remodel the building to accommodate more customers, but didn&#8217;t want to hurt his </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/chick-fil-owner-shocks-employees-shutdown/">Chick-fil-A Owner Stuns Employees, Pays Them During 5 Month Shutdown</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Booming Wind and Solar Power Has Slashed Europe’s CO2 Emissions</title>
 <description><p>Windmills and solar panels are helping to clean the air in Europe – and causing greenhouse gas emissions to plummet. Renewable energy in place of dirty coal plants have slashed CO2 emissions by 8.8% each year from 2010 through 2012– the most recent year for which United Nations numbers are </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/booming-wind-and-solar-power-has-slashed-europes-co2-emissions/">Booming Wind and Solar Power Has Slashed Europe’s CO2 Emissions</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Uncanny Rescue: Cops Struggle to Free Groundhog From Tin Can on His Head (WATCH)</title>
 <description><p>This groundhog couldn’t see his shadow — or anything else for that matter. His head was wedged inside a food can. Campus police at Lehigh University in Pennsylvania came to the critter’s aid, but they apparently don’t teach groundhog rescue at the police academy. It took several tries, quite a </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/uncanny-rescue-cops-struggle-to-free-groundhog-from-tin-can-on-head-watch/">Uncanny Rescue: Cops Struggle to Free Groundhog From Tin Can on His Head (WATCH)</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Good News in History, August 15</title>
 <description><p>50 years ago today, The Beatles played to 56,000 screaming teenyboppers at Shea Stadium in New York City. A pivotal event in rock and roll, it was the first stadium concert. John Lennon later called it a career highlight, saying, “I saw the top of the mountain.” See the set list and Watch a Clip&#8230;(1965) Set List: Twist and </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/events060815/">Good News in History, August 15</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Son’s Essay Moves Stranger to Buy Family a Wheelchair-Ready Van</title>
 <description><p>A Michigan mother was stunned when she got a phone call telling her a complete stranger was buying her a new wheelchair accessible van–and it’s all thanks to her son’s essay praising his deserving mom. Michelle Garn had been struggling to start her van so she could get it to </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/sons-essay-moves-stranger-to-buy-family-a-wheelchair-ready-van/">Son’s Essay Moves Stranger to Buy Family a Wheelchair-Ready Van</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Great-Grandma Delivers Bag Lunches to Feed 200 Needy Kids Every Day</title>
 <description><p>When this great-grandmother found out kids in her county could go hungry over the summer, she decided to feed all 200 of them — every day. The school district in Gray’s Harbor County, Washington, didn’t have money to provide free or reduced price meals to low income kids over the </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/great-grandma-delivers-bag-lunches-to-feed-200-needy-kids-every-day/">Great-Grandma Delivers Bag Lunches to Feed 200 Needy Kids Every Day</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>“Friends for Life” Connects Caring People To Lonely Seniors In Need</title>
 <description><p>In the United States, more than 11 million senior citizens live alone. Everyone should have someone in their world who cares, and that’s what our group Friends For Life is all about: people taking time to care for the elderly living alone, or in nursing homes who have no visitors. We demonstrate that people </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/friends-for-life-connects-people-to-seniors-in-need/">“Friends for Life” Connects Caring People To Lonely Seniors In Need</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Rate of Uninsured Hits New Low as More Americans Get Health Coverage</title>
 <description><p>A new study shows more Americans have health insurance than ever before. According to the latest quarterly Gallup poll, the rate of uninsured adults is down to 11.4 percent. That number represents an almost 5-percent drop since the Affordable Care Act mandate took effect at the start of 2014, when an </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/rate-of-uninsured-hits-new-low-as-more-americans-get-health-coverage/">Rate of Uninsured Hits New Low as More Americans Get Health Coverage</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Barber Gives Free Haircuts to Kids If They Read Stories to Him</title>
 <description><p>It’s a deal you can’t beat — an Iowa barber traded free haircuts to kids if they would read to him while in his chair. Courtney Holmes says he wanted to help kids read more — and because of that, he got an earful about proper nutrition from 9-year-old customer </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/barber-gives-free-haircuts-to-kids-if-they-read-stories-to-him/">Barber Gives Free Haircuts to Kids If They Read Stories to Him</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Town Installs Outdoor Refrigerator so Locals Can Feed the Hungry in Spain</title>
 <description><p>People in the Basque town of Galdakao, Spain, put their leftovers in the fridge — not just the ones in their homes, but the one on the street, too. The city of about 30,000 created the country’s first communal refrigerator to help the hungry. Alvaro Saiz, who used to run </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/town-installs-outdoor-refrigerator-so-locals-can-feed-the-hungry-in-spain/">Town Installs Outdoor Refrigerator so Locals Can Feed the Hungry in Spain</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Padres Baseball Team Keeps Disabled Pitcher on Payroll for 20 Yrs to Give Insurance</title>
 <description><p>When folks say a ball team has a lot of heart, they usually mean that, win or lose, the players give it their all, every single time. For the past 20 years, though, the San Diego Padres have been showing their heart through the quiet stroke of a pen in </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/baseball-team-keeps-disabled-pitcher-on-payroll-for-20-years-to-provide-insurance/">Padres Baseball Team Keeps Disabled Pitcher on Payroll for 20 Yrs to Give Insurance</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Good News in History, August 14</title>
 <description><p>Happy 70th Birthday to the musician, actor, comedian Steve Martin, who, according to Comedy Central, is the 6th best stand-up comic of all time. On top of five Grammys, an Emmy Award and Kennedy Center Honor, he just learned he would receive the International Bluegrass Music’s Distinguished Achievement award for his bluegrass </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/events060814/">Good News in History, August 14</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Sign Up This Ball Girl Who Made Amazing Catch During Game (WATCH)</title>
 <description><p>It was the Major League Baseball play of the day — but the athlete wasn’t even on a team. A San Diego Padres ball girl casually snatched a ripping foul ball out of the air before it could fly into the stands, then nonchalantly tossed it to a kid in </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/padres-ball-girl-makes-amazing-catch-during-game-watch/">Sign Up This Ball Girl Who Made Amazing Catch During Game (WATCH)</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>101-Year-Old Woman Rappels Down Skyscrapers for Charity (WATCH)</title>
 <description><p>At 101-years-old, Doris Long occupies herself with charity work — defined as rappelling down the sides of skyscrapers to raise money for others. Her latest descent was down the side of the 560-feet tall Spinnaker Tower in Portsmouth, England to support a hospice in her hometown of Waterlooville. It’s the </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/101-yo-woman-rappels-down-skyscraper-for-charity/">101-Year-Old Woman Rappels Down Skyscrapers for Charity (WATCH)</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Young Woman Approaches Elder Eating Alone, Now Have Weekly Lunch Date</title>
 <description><p>Many of us have been there: we see a senior citizen eating alone and think, maybe I should go talk to them, or sit with them&#8230;but we’re not sure what the response will be. Brooke Oacha of  Texas,  decided it was worth a try—and the elderly lady sitting at the “table </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/young-woman-approaches-old-lady-eating-alone-now-they-have-a-weekly-lunch-date/">Young Woman Approaches Elder Eating Alone, Now Have Weekly Lunch Date</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Woman Helps Pet Owners in Poverty and Her Program is Now in 28 States</title>
 <description><p>A lot of attention is paid to helping pets get adopted—but one woman saw a need to help furry ones who already had homes. Amanda Arrington, who was the North Carolina State Director for The Humane Society of the United States a decade ago, started the Pets For Life program to provide care and information for pet owners </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/woman-starts-program-for-pet-owners-in-poverty-in-28-states/">Woman Helps Pet Owners in Poverty and Her Program is Now in 28 States</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Astronauts Grow Salad Greens, Eat Fresh Food in Space, a NASA First</title>
 <description><p>Astronaut cuisine has always consisted mainly of freeze-dried foods, but now a freshly grown vegetable garden is taking off. Astronauts aboard the International Space Station tweeted their excitement Sunday about an off-planet first: the next day’s menu would include veggies grown on board. “Fun watching these (salad greens) grow,” astronaut Kjell Lindgren tweeted, as </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/astronauts-grow-salad-greens-eat-fresh-food-in-space-a-nasa-first/">Astronauts Grow Salad Greens, Eat Fresh Food in Space, a NASA First</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Survival Rates for Ovarian Cancer Reach All Time High – Up 50%</title>
 <description><p>Women today are far more likely to survive ovarian cancer than their mothers’ would have been. After comparing the survival rate of women diagnosed with ovarian cancer between 1975 and 2011, researchers found that women diagnosed in 2006 or later were 50% less likely to die from the disease than </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/survival-rates-for-ovarian-cancer-reach-all-time-high-in-2015/">Survival Rates for Ovarian Cancer Reach All Time High – Up 50%</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Good News in History, August 13</title>
 <description><p>155 years ago today, Annie Oakley, who became the first American woman “superstar,” was born in a cabin in rural Darke County, Ohio. Phoebe Annie Mosey began hunting and trapping at age eight to support her five siblings and widowed mother. She sold the game until her skill eventually paid </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/events060813/">Good News in History, August 13</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>

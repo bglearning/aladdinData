@@ -1,25 +1,25 @@
 <item>
 <title>RSS is on a roll: Number of shakhas up 61% in 5 years</title>
 <description>A bunch of lively schoolboys form a circle around an authoritative 12-year-old in khaki shorts and a superman T-shirt at a Navi Mumbai maidan on a weekday night.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/5b083fb3/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236871899167/u/192/f/555218/c/33039/s/5b083fb3/a2.htm"><img src="http://da.feedsportal.com/r/236871899167/u/192/f/555218/c/33039/s/5b083fb3/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236871899167/u/192/f/555218/c/33039/s/5b083fb3/a2t.img" border="0"/></description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Top executives picked for 2 PSBs shun fat pay</title>
 <description>PS Jayakumar and Rakesh Sharma — the two private sector executives who have been selected to lead state-run banks — have turned down the government’s offer for a “flexible” pay package and would instead work at government scales, which is expected to result in pay cuts for them.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/5635a596/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236871899168/u/192/f/555218/c/33039/s/5635a596/a2.htm"><img src="http://da.feedsportal.com/r/236871899168/u/192/f/555218/c/33039/s/5635a596/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236871899168/u/192/f/555218/c/33039/s/5635a596/a2t.img" border="0"/></description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>PM's UAE visit: New edge to Middle East policy</title>
 <description>This trip was not originally on the cards and has been suddenly put together on the PM's urging.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/3e4f2e69/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236871899169/u/192/f/555218/c/33039/s/3e4f2e69/a2.htm"><img src="http://da.feedsportal.com/r/236871899169/u/192/f/555218/c/33039/s/3e4f2e69/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236871899169/u/192/f/555218/c/33039/s/3e4f2e69/a2t.img" border="0"/></description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>India, US start talks on aircraft carrier tech</title>
 <description>India has now kicked off discussions with the US on collaboration in technologies associated with aircraft carriers.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/1e85c00e/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236871899170/u/192/f/555218/c/33039/s/1e85c00e/a2.htm"><img src="http://da.feedsportal.com/r/236871899170/u/192/f/555218/c/33039/s/1e85c00e/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236871899170/u/192/f/555218/c/33039/s/1e85c00e/a2t.img" border="0"/></description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Won’t cave in to pressure on black money law: PM</title>
 <description>After weeks of being under opposition attack for not acting against his allegedly corrupt colleagues, Prime Minister Narendra Modi used his Independence Day speech to return fire.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/427d6a27/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236871899171/u/192/f/555218/c/33039/s/427d6a27/a2.htm"><img src="http://da.feedsportal.com/r/236871899171/u/192/f/555218/c/33039/s/427d6a27/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236871899171/u/192/f/555218/c/33039/s/427d6a27/a2t.img" border="0"/></description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>

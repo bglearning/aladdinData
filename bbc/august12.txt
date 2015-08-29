@@ -1,315 +1,305 @@
 <item>
 <title>Asia stocks down as yuan again lower</title>
 <description>Asian shares are lower as China's central bank cuts the value of the yuan against the dollar for a second consecutive day.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Ceasefire agreed for Syrian towns</title>
 <description>Rebel groups and pro-government forces have agreed a 48-hour ceasefire in three Syrian towns, activists say.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Clinton to hand over email server</title>
 <description>Hillary Clinton has agreed to hand over to the FBI the private email server that she used as secretary of state.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>NY police taking photos of homeless</title>
 <description>New York's police union is encouraging its members to take photos of homeless people to bring attention to what they view as an increase in "quality-of-life offences" in the city.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Dozens missing in China landslide</title>
 <description>About 40 people are missing after a landslide in China's northwest Shaanxi province, state media report.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Greek deal agreed 'in principle'</title>
 <description>Greece agrees a bailout deal "in principle" with its creditors, with the Athens parliament expected to vote on the plan on Thursday.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Turkey PM: Syria no-fly zone needed</title>
 <description>Turkey will continue to push for a no-fly zone in Syria and does not rule out the use of ground troops, Prime Minister Ahmet Davutoglu tells the BBC.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Mexico bans baby formula giveaways</title>
 <description>Mexican health authorities ban giveaways of baby formula at hospitals, saying the country needed to boost low breastfeeding rates.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Australian gays 'might never marry'</title>
 <description>Australia's opposition leader Bill Shorten says Australians must choose between Prime Minister Tony Abbott and same-sex marriage.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Chaos on Kos amid migrants move</title>
 <description>Police officers use batons and spray fire extinguishers as chaos breaks out during attempts to relocate migrants on Kos.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>US officer fired over fatal shooting</title>
 <description>Authorities in Texas have fired a white police officer who shot and killed an unarmed black college student.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Garcia Marquez ashes in Cartagena</title>
 <description>The ashes of Colombian author Gabriel Garcia Marquez will be taken to the Caribbean city of Cartagena in December, where they will be exhibited permanently.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>VIDEO: California fires: 1,000 homes evacuated</title>
 <description>A wildfire raging through northern California has increased in size, forcing people to leave their homes.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>VIDEO: 'Turkey a victim of Syrian crisis'</title>
 <description>In an exclusive interview with the BBC, Turkey's prime minister says his country has become a 'victim' of the Syrian crisis.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>VIDEO: Medieval 'sea monster' figure raised from sea</title>
 <description>The figurehead from the 15th century ship has been raised from the Baltic Sea near Ronneby, Sweden, more than 500 years after it sank.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>VIDEO: What does Alphabet Inc do?</title>
 <description>Google has created a new parent company called Alphabet Inc. But what does it do? Here's an A to Z of its enterprises.</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>VIDEO: Unseen Diana pictures auctioned</title>
 <description>A collection of behind-the-scenes photographs from the wedding of Prince Charles and Lady Diana in 1981 is to be auctioned in the United States.</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>VIDEO: Scuffles in Kos over immigration papers</title>
 <description>Fights break out on the Greek island of Kos between immigration officials and people who have recently arrived and are demanding documentation.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>VIDEO: How fast is the Universe fading?</title>
 <description>An international team of astronomers have scanned the Universe to find out how fast it is fading.</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>VIDEO: Why has China devalued the yuan?</title>
 <description>China has devalued its currency by the biggest amount ever, knocking nearly 2% off its value.</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Libya death sentences cast long shadow</title>
 <description>Nine people have been sentenced to death in Libya for war crimes linked to the 2011 revolution. Rana Jawad looks at what led to the verdicts and how they define Libya.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Why an Indian state is collecting hair and nails to spite Modi</title>
 <description>Why the humble fingernail is being used to spite India's PM</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Should anyone ever talk to IS?</title>
 <description>Four experts give their views on the question: should anyone ever talk to the so-called Islamic State?</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>What else does Google's Alphabet do?</title>
 <description>As Google announces its restructuring plans, we take a look at some of the activities of new parent company Alphabet Inc.</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Nefertiti 'buried with King Tut'</title>
 <description>An archaeologist says he may have found evidence that Nefertiti, the former Queen of Egypt, is secretly buried inside Tutankhamun's tomb.</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Diana and Charles pictures to be sold</title>
 <description>A collection of photographs taken at the wedding reception of Charles and Diana are to go on sale at auction.</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>32 charged over insider trade 'hack'</title>
 <description>US authorities have charged a total of 32 members of an alleged international hacking and insider trading ring.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Australia's CBA posts record results</title>
 <description>The Commonwealth Bank of Australia posts a 5% rise in full-year profits to a record A$9.1bn ($6.6bn).</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Google's new boss from humble roots</title>
 <description>With Google creating its own parent company, Alphabet, there’s a bit of moving about in the Google boardroom.</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Adobe boosts US maternity leave</title>
 <description>Adobe becomes the latest tech firm to increase parental leave in the US.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Scorsese and DiCaprio team up again</title>
 <description>Leonardo DiCaprio is to work with director Martin Scorsese for a sixth time, this time playing one of America's first serial killers, Dr HH Holmes.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Ukraine bans 38 Russian 'hate' books</title>
 <description>Ukraine blacklists leading Russian nationalists by banning 38 books seen as promoting separatism.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Eye movements 'change dream scenes'</title>
 <description>The first ever recordings from single brain cells during REM sleep suggest that flickering eyes accompany "scene changes" in a visual dream.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Robots learn to evolve and improve</title>
 <description>Engineers develop a robotic system that evolves and improves its performance.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Anti-thalidomide hero dies at 101</title>
 <description>Frances Oldham Kelsey, the Canadian doctor who played a central role in preventing thalidomide being distributed in the US, dies at 101.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Board game to train African midwives</title>
 <description>University researchers create a board game designed to help African midwives prevent women dying in childbirth.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Barcelona 5-4 Sevilla (aet)</title>
 <description>Pedro scores an extra-time winner against Sevilla in a nine-goal game to secure a record-equalling fifth Uefa Super Cup for Barcelona.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Pedro 'wants to leave Barcelona'</title>
 <description>Barcelona forward Pedro wants to leave the Spanish side, says technical secretary Robert Fernandez.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Farkhunda: The making of a martyr</title>
 <description>The lynching of a young Afghan woman falsely accused of burning the Koran prompted mass protests in March - but hopes that something in Afghanistan would change have come to nothing.</description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>The city encouraging cyclists to jump red lights</title>
-<description>A previously illegal road manoeuvre is being allowed in Paris in an attempt to make roads safer for people on bikes.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Nigeria market blast 'kills 47'</title>
 <description>An explosion at a market in Nigeria has killed at least 47 people in the north-east state of Borno, officials tell news agencies.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>UN calls for Libya deal in August</title>
 <description>As Libya peace talks begin in Geneva, the United Nations special envoy calls on the country's rival governments to reconcile this month.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>'Missile parts' at MH17 crash site</title>
 <description>Fragments of a suspected Russian missile system have been found at the site of the Flight MH17 crash in Ukraine, investigators in the Netherlands say.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Tourists 'tried to sail to US base'</title>
 <description>The Maldives military says it stopped seven tourists it claims were sailing to a highly-guarded US military base in the Indian Ocean.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Dutch teen dies in Spain bungee jump</title>
 <description>A 17-year-old Dutch girl is killed while bungee jumping from a viaduct near Santander in northern Spain.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Azeri footballer held over killing</title>
 <description>Police in Azerbaijan arrest a footballer and five other people after a journalist who criticised the striker was murdered.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Shining Path leaders caught in Peru</title>
 <description>The Peruvian government announces the capture of two leaders of the Maoist guerrilla group, Shining Path.</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Activist for Mexico's missing killed</title>
 <description>A leading Mexican activist who helped families search for missing relatives, including 43 students who disappeared last year, is killed.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Iraq's parliament backs PM's reforms</title>
 <description>Iraq's parliament approves reforms proposed by the prime minister to stamp out corruption and ease sectarian tensions.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Scores dead in blasts in eastern Iraq</title>
 <description>At least 42 people have been killed and many more injured in two bomb attacks near Baquba in eastern Iraq, local sources say.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Quarterback out after 'sucker punch'</title>
 <description>A quarterback for the New York Jets will not be able to play for at least six weeks after a team-mate "sucker-punched" him and broke his jaw.</description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Dozens held after Ferguson clashes</title>
 <description>More than 20 people have been arrested and a state of emergency declared in Ferguson, Missouri, amid protests marking the anniversary of the death of black teenager Michael Brown.</description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>The Stilwell Road 70 years on</title>
-<description>Findlay Kember recounts his four-year documentation of The Stillwell Road.</description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>Straight Life: India's recovering drug addicts</title>
 <description>Stories of recovering addicts in Kolkata</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>What happened to the Japanese-speaking Dulwich Boys?</title>
 <description>How the UK found Japanese speakers in a hurry in WW2</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Are Hindu nationalists a danger to other Indians?</title>
 <description>Are Hindu nationalists a danger to other Indians?</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>VIDEO: Why is it so hard to hire black police?</title>
 <description>The struggle to hire black police officers</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Tales of Uighur exile and emigration</title>
 <description>The Uighurs who fled China for Pakistan</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>CIA seeks recruits with disabilities</title>
 <description>CIA breaks silence and seeks diversified workforce</description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>Tony Abbott: the Barack Obama antidote?</title>
 <description>Australia's Abbott thrives despite outrage</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Who are 'Oath Keepers' in Ferguson?</title>
 <description>Why have these armed men come to Ferguson?</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>Heard the Russian jokes about Parmesan and condoms?</title>
 <description>Kremlin actions prompt uniquely Russian humour</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>The women 'live-tweeting' their periods to campaign against Trump</title>
 <description>Women 'live-tweet' periods in response to Republican candidate</description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>

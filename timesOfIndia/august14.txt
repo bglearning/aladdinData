@@ -1,25 +1,25 @@
 <item>
 <title>After ‘Act East’ push, PM Narendra Modi sets sights on West Asia</title>
 <description>Following “Act East” and an energetic Central Asia yatra, Prime Minister Narendra Modi is preparing to plunge into West Asia and Gulf — a part of India’s neighborhood that many have accused him of neglecting.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/1b40801d/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236837843997/u/192/f/555218/c/33039/s/1b40801d/a2.htm"><img src="http://da.feedsportal.com/r/236837843997/u/192/f/555218/c/33039/s/1b40801d/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236837843997/u/192/f/555218/c/33039/s/1b40801d/a2t.img" border="0"/></description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Congress can’t do without power, PM Modi says</title>
 <description>PM Narendra Modi told NDA MPs that Parliament was blocked and prevented from passing important legislations because Congress could not do without power.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/18cd6b7a/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236837843998/u/192/f/555218/c/33039/s/18cd6b7a/a2.htm"><img src="http://da.feedsportal.com/r/236837843998/u/192/f/555218/c/33039/s/18cd6b7a/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236837843998/u/192/f/555218/c/33039/s/18cd6b7a/a2t.img" border="0"/></description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Govt mulls 2-day Parliament session for GST Bill</title>
 <description>The government is sounding out political parties over scheduling a two-day session of Parliament in September ahead of the Bihar elections to pass the Goods and Services Tax Bill.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/4689a4c2/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236837843999/u/192/f/555218/c/33039/s/4689a4c2/a2.htm"><img src="http://da.feedsportal.com/r/236837843999/u/192/f/555218/c/33039/s/4689a4c2/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236837843999/u/192/f/555218/c/33039/s/4689a4c2/a2t.img" border="0"/></description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>RBI pays govt Rs 66,000 crore in dividend</title>
 <description>The Reserve Bank of India on Thursday paid a dividend of nearly Rs 66,000 crore to the government, the highest ever from the central bank in its 80-year history, and 22% more than it paid last year.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/1372dd2c/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236837844000/u/192/f/555218/c/33039/s/1372dd2c/a2.htm"><img src="http://da.feedsportal.com/r/236837844000/u/192/f/555218/c/33039/s/1372dd2c/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236837844000/u/192/f/555218/c/33039/s/1372dd2c/a2t.img" border="0"/></description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>I-Day alert: AI planes, naval bases on hit list</title>
 <description>A key input mentioned in the August 7 advisory addressed to state chief secretaries and DGPs, pointed to al-Qaida’s plans to target BJP offices, apart from commercial, aviation, tourist and railway facilities.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/31053769/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236837844001/u/192/f/555218/c/33039/s/31053769/a2.htm"><img src="http://da.feedsportal.com/r/236837844001/u/192/f/555218/c/33039/s/31053769/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236837844001/u/192/f/555218/c/33039/s/31053769/a2t.img" border="0"/></description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>

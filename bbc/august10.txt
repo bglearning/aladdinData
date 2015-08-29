@@ -59,37 +59,37 @@
 <sentiment>negative</sentiment>
 </item>
 <item>
-<title>VIDEO: PKK leader: 'Turkey is protecting IS'</title>
+<title>PKK leader: 'Turkey is protecting IS'</title>
 <description>The man currently leading the PKK says it is still open to negotiations with the the Turkish government if a ceasefire is declared.</description>
 <sentiment>neutral</sentiment>
 </item>
 <item>
-<title>VIDEO: Migrant life on the streets of Kos</title>
+<title>Migrant life on the streets of Kos</title>
 <description>Local Greek islanders say they are being overwhelmed by the number of migrants arriving from Africa.</description>
 <sentiment>positive</sentiment>
 </item>
 <item>
-<title>VIDEO: Eight dead in Texas home shooting</title>
+<title>Eight dead in Texas home shooting</title>
 <description>A family of eight people, including six children, have been found shot dead inside a house in Texas.</description>
 <sentiment>negative</sentiment>
 </item>
 <item>
-<title>VIDEO: Singapore marks 50 years of independence</title>
+<title>Singapore marks 50 years of independence</title>
 <description>Singapore holds nationwide celebrations to mark 50 years since becoming an independent state.</description>
 <sentiment>positive</sentiment>
 </item>
 <item>
-<title>VIDEO: Huge hailstones shatter plane windscreen</title>
+<title>Huge hailstones shatter plane windscreen</title>
 <description>A Delta Airlines plane was forced to make an emergency landing after hail cracked the windscreen and damaged the nose cone.</description>
 <sentiment>negative</sentiment>
 </item>
 <item>
-<title>VIDEO: Typhoon Soudelor tears through China</title>
+<title>Typhoon Soudelor tears through China</title>
 <description>At least nine people have died in south-eastern China after a powerful typhoon caused floods and mudslides.</description>
 <sentiment>negative</sentiment>
 </item>
 <item>
-<title>VIDEO: Trump: 'Nothing to apologise for'</title>
+<title>Trump: 'Nothing to apologise for'</title>
 <description>Republican presidential candidate Donald Trump defends a comment he made about a Fox News presenter during a TV debate.</description>
 <sentiment>neutral</sentiment>
 </item>
@@ -279,7 +279,7 @@
 <sentiment>article</sentiment>
 </item>
 <item>
-<title>VIDEO: Australia's champion Flat White</title>
+<title>Australia's champion Flat White</title>
 <description>2015 World Barista Champion spills the beans</description>
 <sentiment>neutral</sentiment>
 </item>
@@ -289,7 +289,7 @@
 <sentiment>positive</sentiment>
 </item>
 <item>
-<title>VIDEO: Kelly Osbourne's 'not racist' comment - and more trends of the week</title>
+<title>Kelly Osbourne's 'not racist' comment - and more trends of the week</title>
 <description>The 'not racist' comment - and more trends of the week</description>
 <sentiment>neutral</sentiment>
 </item>

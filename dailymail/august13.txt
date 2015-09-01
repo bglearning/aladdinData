@@ -5,7 +5,7 @@
 <description>
 	Jason Phythian, 43, was relaxing beside the pool at the five-star Grand Yazici Mares hotel in Icmeler, Turkey, when resort staff at stormed the pool area with fake guns and liquid cans marked with 'fuel'.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -14,7 +14,7 @@
 <description>
 	Jose Melena, 62, died in an oven at the seafood company's California, plant after a co-worker mistakenly believed he was in the bathroom and filled a pressure cooker with the tuna.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -23,7 +23,7 @@
 <description>
 	By Sharon Bernstein SACRAMENTO, Calif., Aug 12 (Reuters) - An inmate who had been imprisoned for 50 years and participated in a notorious 1971 escape attempt...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -32,7 +32,7 @@
 <description>
 	Troubled socialite Lisa Stockbridge has been jailed for more than two years for a 'sophisticated' drug dealing operation selling ecstasy and cocaine to Sydney's high society.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -41,7 +41,7 @@
 <description>
 	A Victorian MP whose private data was exposed in an Islamic State hack has spoken about his security with police. The MP's name, phone number, home suburb an...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -50,7 +50,7 @@
 <description>
 	The 44-year-old KIIS FM breakfast host likes to play it straight on-air but when the station plays some of his favourite tracks, the shock jock has some fun by enthusiastically lip syncing along.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -59,7 +59,7 @@
 <description>
 	Mother of two Doulla Giallouris has been left with a severe hairline fracture after she was hit in her left eye at about 10am on Wednesday at IGA in Fannie Bay of inner Darwin, Northern Territory.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -68,7 +68,7 @@
 <description>
 	The former president plans to undergo treatment at  Emory Healthcare in Atlanta, Georgia.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -77,7 +77,7 @@
 <description>
 	The 31-year-old model took to Instagram on Thursday morning to inform her fans that the procedure had been successfully completed and her mother Gail was now in recovery.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -86,7 +86,7 @@
 <description>
 	BEIJING, Aug 13 (Reuters) - Authorities have lost contact with 36 firefighters at the scene of two massive explosions that ripped through an industrial area ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -95,7 +95,7 @@
 <description>
 	Legions of fans tune into Bake Off every week and are inspired to purchase the show's high-tech cooking gadgets. Since Bake Off began, sales of baking items have risen by 42 per cent.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -104,7 +104,7 @@
 <description>
 	The 29-year-old is captured for the first time as Life Magazine photojournalist Dennis Stock as the trailer for James Dean biopic Life about their close friendship.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -113,7 +113,7 @@
 <description>
 	The 25-year-old revealed in the caption that the birthday girl 'regularly steals my phone & does this.' Cara has been flooded with countless well wishes from fans online.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -122,7 +122,7 @@
 <description>
 	The stunning blonde was seen while in the Meat Packing District of New York, on Wednesday, and she showed off her stunning beauty.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -131,7 +131,7 @@
 <description>
 	These tiny villages are some of the nation's best kept secrets yet it's these classic hamlets, towns and beauty spots which are the pride of Britain.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -140,7 +140,7 @@
 <description>
 	The former prime minister called for even those who hate him to unite behind another candidate because of the ‘mortal danger we are in’ if the Left-wing MP wins leadership.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -149,7 +149,7 @@
 <description>
 	By Joseph Campbell TIANJIN, China, Aug 13 (Reuters) - Two massive explosions caused by flammable goods ripped through an industrial area in the northeast Chi...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -158,7 +158,7 @@
 <description>
 	A video shows the duo jumping around and chasing one another during what looked like a playful game of tag in Estes Park, Colorado. The footage has been viewed more than 472,000 times.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -167,7 +167,7 @@
 <description>
 	Tony Blair’s wife Cherie was hired to represent General Karenzi Karake - Rwanda's head of security - after his arrest at Heathrow, writes ANDREW MALONE.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -176,7 +176,7 @@
 <description>
 	The All Blacks and a host of all-star international rugby greats have teamed up for Air New Zealand's hilarious new safety video, Men in Black Safety Defenders, and the outcome is genius.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -185,7 +185,7 @@
 <description>
 	The Royal Society for Public Health wants ‘exclusion zones’ around pubs, in parks and at the entrances to schools. The society says the new rules will prompt more people to give up.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -194,7 +194,7 @@
 <description>
 	Where is the politician  decisive enough to bring the Julian Assange farce to an end? It is costing the British taxpayer £10,000 a day — more than £3.5 million a year, writes STEPHEN GLOVER.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -203,7 +203,7 @@
 <description>
 	Abbas Sharhani was told he looked like Michael Jackson when he spent three months in Darwin detention centre after leaving his family and fleeing war-torn Iran when he just 16.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -212,7 +212,7 @@
 <description>
 	Developer Hazma Sood recently found split-view support for the iPad Mini 4 when looking through a resource file from Apple's OS X El Capitan's Safari 9 browser.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -221,7 +221,7 @@
 <description>
 	The funeral of 90-year-old George Cole is held at 11.30am in Reading Crematorium. Although he only managed an OBE despite a distinguished career, popular Cole had fans in high places.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -231,7 +231,7 @@
 	He's been vocal about his struggle with his weight.
 But it seems that Kyle Sandilands is very proud of his figure.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -240,7 +240,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 26-year-old fertility nurse from Victoria  posed with her newborn nephew – and hashtagged the shot 'Sam who?'
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -249,7 +249,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A whale surprised fishermen North of Sydney, when it nudged their boat apparently looking for help. The fisherman removed rubbish from of the whale's mouth, while taking selfies capturing the moment.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -258,7 +258,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Sandra Lee, 49, who was diagnosed with breast cancer in March, left a New York City hospital with her longtime boyfriend, New York Governor Andrew Cuomo, on Wednesday.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -267,7 +267,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Even the fiddliest of broken cosmetics can be fixed. Founder of make-up company Cosmetics A La Carte, teaches Alice Smellie how to make do and and mend her favourite lipsticks.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -276,7 +276,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 21-year-old channeled Sandy's iconic makeover look of an off-the-shoulder skintight one-piece in a new photoshoot for Sure.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -285,7 +285,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	LeAnn Rimes, 32, in a new interview revealed that her beauty regimen includes taking 40 pills a day.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -294,7 +294,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Regulator the General Medical Council has seen a 64 per cent increase in complaints between 2010 and 2013. Medico-legal action includes doctors facing disciplinary action and malpractice claims.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -303,7 +303,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A jellyfish-like creature observed floating off the coast of Angola has adherents of a parody religion shouting 'praise Flying Spaghetti Monster!'
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -312,7 +312,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Christopher Stevens reviews The Great British Bake Off (BBC1) and Great British Menu (BBC2) and he was impressed with both TV shows last night.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -321,7 +321,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 26-year-old headed straight to popular fast food eatery In-N-Out burger after the long haul flight with her entourage, despite it being before 8am.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -330,7 +330,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Ousted prime minister Thaksin Shinawatra is tipped to become the first former police officer to have his rank revoked after leaving the force, the Bangkok Po...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -339,7 +339,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Our body clocks are ruled by our circadian rhythms, which govern out mood and energy levels throughout a 24-hour period. Here are the secret ways your body clock rules your life.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -348,7 +348,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Chelsea Manning's lawyer says her client is facing charges for alleged prison infractions that carry a possible maximum sentence of indefinite solitary confinement.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -357,7 +357,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The pair were at Richmond Theatre, in South-West London, where Downton was presented with a special award by Bafta to celebrate the global success of the series.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -366,7 +366,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Quade Cooper returns as a shock starter at five-eighth with Wallabies coach Michael Cheika surprising by making six changes to his starting team for Saturday...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -375,7 +375,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Chris Huhne and Vicky Pryce's daughter posted this wedding snap online and her proud father can be seen smiling on the right of the picture two years after he was sentenced.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -384,7 +384,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Sophie Ward has now abandoned her idyllic Gloucestershire village after 27 years because her long-time partner and new wife, Korean-American writer Rena Brannan, 49, prefers the London life.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -393,7 +393,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Do women feel the pain of heartbreak more than men? A survey has suggested this is the case. Our relationship expert Bel Mooney argues that our response to difficult break ups is down to personality.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -402,7 +402,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Camila Batmanghelidjh, the founder of the scandal-hit charity, has repeatedly pointed at the 2013 study as a ringing endorsement of its operations - but its rigour has been called into question.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -411,7 +411,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Former Cabinet minister Sir Eric Pickles said the recent scandal in Tower Hamlets, where a court ordered the removal of mayor Lutfur Rahman, highlighted the risk of the problem occurring.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -420,7 +420,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The new research shows that the exercise you do in later life is more beneficial to you then than what you did in your earlier days, so it is never too late to try and make an impact on you health.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -429,7 +429,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Uggie, who suffered from a prostate tumour, was 13 years old and had spent a wooftastic decade in showbusiness, appearing in both films and television dramas, writes JAN MOIR.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -438,7 +438,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Anchor John Brown walked out live on air during Good Day Orlando on Friday in protest over Kardashian 'non-story'.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -447,7 +447,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	While the attention of the British public was fixed on the Labour leadership contest and refugee chaos in Greece, China, perhaps the greatest economic success in modern history, was grinding to a halt.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -456,7 +456,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	They've been lounging poolside by day and clubbing by night in Ibiza over recent days, but Shanina Shaik and DJ Ruckus' have moved their European getaway to the shores of Monte Carlo.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -465,7 +465,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Rob Johnson (right), 44, Marie Johnson (left), 43, allegedly told the 13-year-old girl she could only be part of the family if she had sex with them. She had moved into the home after her mother died.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -474,7 +474,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Howard Shulman has revealed the confrontation with his birth mother in New Jersey almost 40 years after he was left in the hospital bed because his parents 'couldn't handle it'.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -483,7 +483,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Foxtel's radical move to slash its Pay-TV entertainment package to $25 a month hasn't stemmed the flow of customers choosing on-video streaming rivals like Netflix.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -492,7 +492,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A Bachelor insider revealed to Daily Mail Australia on Thursday that there's no off-camera action going on under the sheets between Sam Wood and his bevy of beauties.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -501,7 +501,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The courtroom sketch artist behind the a bizarre drawing of Tom Brady looking slightly less than handsome has spoken out just as the internet overflowed with memes mocking her depiction.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -510,7 +510,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Labor wants parliament to acknowledge the ex-High Court judge presiding over the royal commission into union corruption has disqualified himself over an invi...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -519,7 +519,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	When Henry divorced his wife he couldn't imagine a life without his beloved dog Lily. The pair opted to share joint custody of the dog, which Henry claims has brought the divorcees closer than ever before.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -528,7 +528,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Defence secretary Ashton Carter is said to be ‘inclined’ to release the father-of-four, who has languished in the controversial camp without trial for more than 13 years.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -537,7 +537,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Lauren Hammond DURANGO, Colo., Aug 12 (Reuters) - The water quality of a southwestern Colorado river rendered bright orange by toxic waste spewed from an ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -546,7 +546,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	LOS ANGELES (AP) — Los Angeles police have shot and killed a woman they say may have been armed with a large knife. Police say a report that a woman had robb...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -555,7 +555,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Aug 12 (Reuters) - Andy Murray and Rafael Nadal were winners but six seeds were beaten in a day of upsets in the second round at the Rogers Cup in Montreal o...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -564,7 +564,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Myer ambassadors, Kate Peck and Rachael Finch reveal how they have turned to Latin American dancing, skipping, boxing, and even motorbike riding in an effort to get runway ready.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -573,7 +573,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 29-year-old Dutch model and her DJ husband have spent the past few weeks on the Spanish island, accompanied by four-year-old son Phyllon and one-year-old daughter Myllena.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -582,7 +582,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The dodgy dealings are revealed in this evening's episode of Undercover Benefits Cheat after a reporter, equipped with a hidden camera, obtained a job at the shop in the Midlands.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -591,7 +591,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The Duchess of York joined presenters on the US shopping channel and discussed how she had finally be able to overcome cruel jibes about her weight formerly referred to as the 'Duchess of Pork'.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -600,7 +600,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	In the cartoon, Synergy was a sentient computer programme who projected Jem's rock star appearance - as well as the band's the audio visual special effects - via her micro-projector earrings.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -609,7 +609,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	She has said that she styles herself on her older sister Kim Kardashian - and now it seems Kylie Jenner holidays just like her too. 
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -618,7 +618,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The quote 'We hold these truths to be self evident, that all men are created equal' did not feature in Dr King's speech when he gave it in 1962, but was added during the March On Washington in 1963.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -627,7 +627,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	EXCLUSIVE: Relatives desperate to learn the truth about why Tony Blair sent their sons and daughters to fight have branded the delay in the publication of the Chilcot report ‘morally reprehensible’.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -636,7 +636,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	New figures have revealed the average estate agent branch in the UK now has just 47 houses for sale – the lowest level since records began in 1978 and ten fewer homes than just four months ago.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -645,7 +645,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	MELBOURNE, Aug 13 (Reuters) - Australia coach Michael Cheika has sprung a surprise by naming Quade Cooper at flyhalf in one of six changes to the starting si...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -654,7 +654,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	SHANGHAI, Aug 13 (Reuters) - The northeastern Chinese port of Tianjin is operating as normal after two massive explosions ripped through an industrial area n...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -663,7 +663,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The sports broadcaster, 44, earned £500,000 more than she did in 2013, according to the latest accounts of her company Clearly Clare. It could be more this year after she landed new roles.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -672,7 +672,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Obama has wasted no time making it to the golf course during his annual Martha's Vineyard summer vacation. He was joined on Wednesday by NBA legends Ray Allen (left) and Alonzo Mourning.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -681,7 +681,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	34-year-old Miranda Michelle Lynch was held in a mobile home near Bessemer, Alabama, for two days while the women beat her, authorities said Wednesday.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -690,7 +690,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Tyler Seevers, 25, pleaded guilty to taking pictures of a three-year-old girl and her older sister - who is also a minor - at federal court in Pittsburgh, Pennsylvania, on Wednesday afternoon.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -699,7 +699,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BUENOS AIRES, Argentina (AP) — A U.S. federal judge in New York sanctioned Argentina on Wednesday, ruling that he will consider Argentine government assets i...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -708,7 +708,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Cancelled holidays, forgone washing machines, family homes sold. Those are the consequences of Australians not being able to get their hands on their own mon...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -717,16 +717,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Ashley, 33, and 25-year-old Vanessa channeled their inner Sixties pin ups in retro swimsuits while away on a girls' getaway to Cala Benirrás, sharing 'shameless' shots to social media of the idyllic break.
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Montreal Masters men's singles round 2 results
-      </title>
-<description>
-	Aug 13 (Infostrada Sports) - Results from the Montreal Masters Men's Singles Round 2 matches on Wednesday 16-John Isner (U.S.) beat Vasek Pospisil (Canada) 7...
-      </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -735,7 +726,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Former coach John Buchanan has learned a thing or two about loyalty from Shane Warne after he staunchly defended Michael Clarke during a live interview.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -744,7 +735,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	EXCLUSIVE: David Laws, a Liberal Democrat who lost his seat at the election having been brought back into ministerial office only two years after his fall from grace, has been subjected to the ultimate humiliation.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -753,7 +744,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	MELBOURNE, Aug 13 (Reuters) - Australia coach Michael Cheika named the following team to play New Zealand in a test at Eden Park on Saturday. Team: 15-Israel...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -762,7 +753,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Sky Muster, the first of two national broadband network satellites, will blast off from French Guiana on October 1. The satellites will provide high-speed br...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -771,7 +762,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Colleen Hughes and Linda Ridgeway Whitedeer said Cosby, 78, had sexually assaulted them in the 1970s, while Eden Tirl said he sexually harassed her on The Cosby Show set in 1989.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -780,7 +771,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Raechelle Banno has yet to appear on Home And Away. But one thing is for sure - it won't take long for her to find romance in Summer Bay.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -789,7 +780,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Aug 12 (Reuters) - Seattle Mariners right-hander Hisashi Iwakuma threw a no-hitter against the Baltimore Orioles on Wednesday in a 3-0 victory that made him ...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -798,7 +789,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Australian authorities have dismissed reports that sonar images of two box-like shapes on the floor of the Indian Ocean could be from the missing MH370 airli...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -807,7 +798,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Reality cooking series The Hotplate has been burnt in the television ratings, losing almost 150,000 viewers. Network Ten's dating show The Bachelor picked up...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -816,7 +807,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A bill that would pause coal seam gas mining across NSW is set to clear the upper house thanks to a three-way pledge by the Greens, Labor and Christian Democ...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -825,7 +816,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	EL CENTRO, Calif. (AP) — Two California men pleaded guilty to using drones to smuggle nearly 30 pounds of heroin from Mexico to the United States, authoritie...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -834,7 +825,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Heart throb David Cassidy is bankrupt and faced a DWI over recent years. His own explanation is the messy aftermath of his break-up from third wife Sue Shifrin, 66 — but that isn’t the whole truth.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -843,7 +834,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Billionaire gambling tycoon James Packer has stepped down as chairman of casino company Crown Resorts.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -852,7 +843,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 45-year-old was speaking to radio hosts Brig and Lehmo when he paused to reflect on his globe-trotting lifestyle and apparent desire to remain single
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -861,7 +852,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	People living at two rural Victorian properties have been told their groundwater has been contaminated by chemicals from a Country Fire Authority training fa...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -870,7 +861,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	People high on ice who attack health workers could face significantly tougher punishments under the latest federal government crackdown on the illicit drug. ...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -879,7 +870,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Last November's opening date of Brisbane's new stand-alone children's hospital was not realistic and posed significant risks, a Queensland government report ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -888,7 +879,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Sydney Rooster prop Jared Waerea-Hargreaves has become a father for the first time as his partner Chelsea Cormack gave birth to their daughter Zahli Rae on W...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -897,7 +888,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	There are two issues Tony Abbott doesn't want to talk too much about - same-sex marriage and climate change. Yet the first week of parliament after the winte...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -906,16 +897,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Dyson Heydon, the ex-High Court judge in charge of the royal commission into unions, is a guest speaker at a Liberal Party fundraiser. Mr Heydon will deliver...
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Unions inquisitor guest at Liberal dinner
-      </title>
-<description>
-	Dyson Heydon, the ex-High Court judge in charge of the royal commission into unions, is a guest speaker at a Liberal Party fundraiser. Mr Heydon will deliver...
-      </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -924,7 +906,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	While the world still waits to hear Tom Brady's fate, it was a bit-part player in the Deflategate circus who ended up stealing the show with court artist's Jane Rosenberg's sketches causing a stir...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -933,7 +915,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	EA Sports dropped Chicago Blackhawks star Patrick Kane from promoting and appearing on the cover of its NHL 16 video game because he is under police investig...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -942,7 +924,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Independent senator Nick Xenophon is prepared to cut a lonely figure in the parliamentary dining room as he pursues a crack down on the travel perks of MPs. ...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -951,7 +933,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	This figurehead was lifted from the sea in southern Sweden this week by divers bringing up treasures from the wreck of the 'Gribshunden', a ship which belonged to Danish King John.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -960,7 +942,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Alex Dobuzinskis Aug 12 (Reuters) - The neighbors of a Seattle girl who gained international media attention for feeding crows and collecting small object...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -969,7 +951,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Extremists from the Azov unit, a far-right militia which is defending Mariupol, eastern Ukraine, are running a week-long summer military camp, to teach children how to survive in conflict.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -978,7 +960,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Videos of the explosion in Tianjin showed flames lighting up the night sky and residents in nearby districts were quoted as saying the blast had shattered windows.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -987,7 +969,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Costa Rica coach Paulo Wanchope resigned on Wednesday after being involved in a brawl with an unidentified person during an Olympic qualifying match against Panama.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -996,7 +978,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Mike Collett LONDON, Aug 13 (Reuters) - The destination of the Premier League trophy will not be decided when current champions Chelsea meet their immedia...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1005,7 +987,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Becky Robertson, 26, pictured, has been getting up at 4.30am and working an 18-hour day to finish poorer than she was before. It's due to a pricing scandal that the public will no longer tolerate.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -1014,7 +996,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	TIANJIN, China (AP) — The latest on the explosions in China's port city of Tianjin (all times local): 6 a.m. There were scenes of devastation as dawn broke o...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1023,7 +1005,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A fortnight after Ruud Dokter launched an Under 17 League pathway for Irish kids, fellow Dutchman Ruud Gullit did a double-take in Dublin when asked had he heard of the FAI’s high performance director.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1032,16 +1014,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A new Asian investment body will be "a real game-changer" for Australia and the region, Treasurer Joe Hockey has told parliament. "It's not pie-in-the-sky st...
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	New bank 'real game-changer', Hockey says
-      </title>
-<description>
-	A new Asian investment body will be "a real game-changer" for Australia and the region, Treasurer Joe Hockey has told parliament. "It's not pie-in-the-sky st...
-      </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1050,25 +1023,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	She back on the TV screens, currently filming The Celebrity Apprentice. And Sophie Monk is back and better than ever.
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	New bank 'real game-changer', Hockey says
-      </title>
-<description>
-	A new Asian investment body will be "a real game-changer" for Australia and the region, Treasurer Joe Hockey has told parliament. "It's not pie-in-the-sky st...
-      </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	New bank 'real game-changer', Hockey says
-      </title>
-<description>
-	A new Asian investment body will be "a real game-changer" for Australia and the region, Treasurer Joe Hockey has told parliament. "It's not pie-in-the-sky st...
-      </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1077,7 +1032,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	WICHITA, Kan. (AP) — Convicted national security leaker Chelsea Manning could be placed in solitary confinement indefinitely for allegedly violating prison r...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1086,7 +1041,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 45-year-old wore a black mini dress which had a plunging neckline and showcased her very shapely legs as she made her way down some steps.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1095,7 +1050,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 24-year-old showed off her stunning figure and bronzed legs in a shimmering jade fringed dress as she attended the screening with co-star Zac Efron and their director Max Joseph.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1104,7 +1059,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Pixie Lott, 24, took her Instagram page on Wednesday while in Monaco as she enjoyed a glass of wine in the sun
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1113,7 +1068,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Jodi Anasta made everyday chores look stylish as she was spotted  on Wednesday refueling her black SUV at a petrol station in Sydney, rugged up in some winter white.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1122,7 +1077,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	LeBron James insists his health and his family will determine whether he tries for a record third basketball Olympic gold medal next summer.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1131,7 +1086,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Layden Thomas, three, was pulled out of his  family's home in Sharon, Pennsylvania, on Monday night by his heroic father, Terry Thomas, after a candle tipped over and set the property ablaze.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1140,7 +1095,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The team, from Brunel University London and Queen Mary University London, looked at data from 7,000 patients in 73 trials. Patients were asked how much pain they felt  24 hours after surgery.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -1149,7 +1104,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 26-year-old sported a striking green mesh corset and sweeping black tulle skirt ensemble for an outing in the coastal city with fellow Celebrity Apprentice contestant Richard Reid.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1158,7 +1113,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	More than 20 workers at defence shipbuilder ASC in Adelaide have lost their jobs by phone calls and text messages, the Australian Manufacturing Workers Union...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1167,7 +1122,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	For most Britons, Sir John Chilcot’s endless delay in publishing his report on the Iraq War has become a national joke. But for the families of those who died there is nothing funny about the situation.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1176,7 +1131,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A woman fleeing domestic violence stayed in an abusive relationship because she was afraid of becoming homeless, an Victorian inquiry has heard. Sarah Jayde ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1185,7 +1140,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Mark Lamport-Stokes KOHLER, Wisconsin, Aug 12 (Reuters) - The stage is set for Thursday's opening round at the 97th PGA Championship being held this week ...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1194,16 +1149,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Senior Labor figure Penny Wong has warned that giving Australians the say on same-sex marriage is a green light for hate speech. The Abbott government has fl...
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Toronto Cup women's singles round 2 results
-      </title>
-<description>
-	Aug 13 (Infostrada Sports) - Results from the Toronto Cup Women's Singles Round 2 matches on Wednesday Victoria Azarenka (Belarus) beat 3-Petra Kvitova (Czec...
-      </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1212,7 +1158,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Liverpool striker Mario Balotelli was in the mood for partying on Wednesday night as he continued to celebrate his 25th birthday. The Italian striker was joined by some of his team-mates.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1221,7 +1167,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Rita Ora, 24, channeled her inner dominatrix on Wednesday  in Soho, Manhattan.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1230,7 +1176,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Society mum and lifestyle blogger Lisa Stockbridge will face a Sydney court on Thursday after pleading guilty to supplying drugs to repay her debts. Stockbri...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1239,7 +1185,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Lisa Twaronite TOKYO, Aug 13 (Reuters) - Asian shares and the dollar crept higher in early trade on Thursday, with investors cautiously watching China's n...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1248,7 +1194,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	LAURIE WHITWELL: Tim Sherwood recruited Ray Wilkins as his assistant this summer, a familiar face in new surroundings. Wilkins is an experienced constant and his views on certain issues will never change.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1257,7 +1203,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Michelle Bridges shows off her growing baby bump as she sun bakes on a timber deck while enjoying a getaway trip with beau Steve 'Commando' Willis.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1266,7 +1212,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Juventus have enquired about Chelsea midfielders Juan Cuadrado and Ramires. The Serie A champions are trying to replace the likes of Andrea Pirlo and Arturo Vidal.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1275,7 +1221,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Jose Mourinho will resist all calls to reinstate Eva Carneiro despite a huge backlash over Chelsea’s treatment of the team doctor. On Wednesday the pressure mounted on the Portuguese boss.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1284,25 +1230,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Police are hunting two men and a woman after a man was seriously assaulted in a vicious early morning attack on the Gold Coast. The 38-year-old victim was si...
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Brazilian championship results and standings
-      </title>
-<description>
-	Aug 13 (Infostrada Sports) - Results and standings from the Brazilian championship matches on Wednesday Wednesday, August 12 Coritiba 2 Palmeiras 1 Flamengo ...
-      </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Baseball-Highlights of Wednesday's MLB games
-      </title>
-<description>
-	Aug 12 (The Sports Xchange) - Highlights of Major League Baseball games on Wednesday: - - - - Reds 7, Padres 3 Rookie starter Raisel Iglesias retired 16 stra...
-      </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1311,7 +1239,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Clara Ferreira-Marques and Rajesh Kumar Singh MUMBAI/NEW DELHI, Aug 13 (Reuters) - It took two months of courting, dozens of negotiators and final talks t...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1320,7 +1248,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Former SAS commander General Sir Michael Rose is concerned the interests of the 179 families who lost sons and daughters during the Iraq war are not being represented by the Chilcot Inquiry.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -1329,7 +1257,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 30-year-old cut a sleek silhouette in all black, her hair choppy in a blunt bob, as she headed out into the night towards her car following a long day at an East London fashion studio.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1338,7 +1266,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Kallum Higginbotham admitted he was spurred on by John Collins’ controversial comments about Scottish football before delivering the cheekiest of blows to Celtic.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1347,7 +1275,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Eva Carneiro has been the name on everybody's lips over these past few days following her very public disagreement with Jose Mourinho. Here's all you need to know about Chelsea's club doctor
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1356,7 +1284,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	SAO PAULO, Aug 12 (Reuters) - Brazilian President Dilma Rousseff said on Wednesday she would not consider quitting despite calls for her impeachment from opp...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1365,7 +1293,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The Premier League Doctors' Group have described Jose Mourinho's decision to alter the role of Eva Carneiro as 'unjust to the extreme' and accused him of putting results above player welfare.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1374,7 +1302,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Courtney Sherwood PORTLAND, Ore., Aug 12 (Reuters) - Conservationists demanded an investigation on Wednesday after newly released documents suggested the ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1383,7 +1311,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Lauren Goodger was given the perfect opportunity to show off her recent weight loss as she headed towards her local gym in Loughton, Essex during a recent outing last week.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1392,7 +1320,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The Old Village School Nursing Home in Bedfordshire was closed by the Care Quality Commission (CQC) on Friday night after inspectors uncovered appalling neglect.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1401,7 +1329,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	No one doubts that Tony Abbott is the master of the three-word slogan. "Stop the boats", "axe the tax" and "repay the debt" are just a few to have struck a c...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1410,7 +1338,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 32-year-old model and 25-year-old billionaire beau were spotted together for the first time arriving at the same airport last month followed by a loved-up outing just days later in Malibu.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1419,7 +1347,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	England all-rounder David Willey powered Northamptonshire Steelbacks into the finals of the NatWest T20 Blast with the fastest century in the format by an English batsman at Hove.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1428,7 +1356,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Stoke new boy Xherdan Shaqiri has explained manager Mark Hughes was a major factor in his club record £12million switch from Inter Milan. The Swiss midfielder has signed a five-year deal.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1437,7 +1365,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The sell-out signs were up outside once again. The production inside continues to garner rave reviews. In a city with thousands of other eye-catching productions right now at the Festival.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1446,7 +1374,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BOISE, Idaho (AP) — A federal jury in Idaho has convicted an Uzbek refugee of three terrorism-related charges after prosecutors said he worked to support a t...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1455,7 +1383,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Police whistleblowers are being victimised or ignored in Queensland and the state's corruption watchdog has become too toothless to protect them. That's the ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1464,7 +1392,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Louis van Gaal is ready to pay the Pedro's £22million release clause to bring him to Old Trafford, but how much do we really know about the quiet man of Barcelona's attack?
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1473,7 +1401,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	After breaking Geno Smith's jaw in a locker-room scrap, Ikemefuna Enemkpali appeared to be heading into oblivion after being waived by the New York Jets. Enter Rex Ryan and the Buffalo Bills.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1482,7 +1410,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Newsreader Samantha Simmonds, above, appears on camera for a living but doesn't like how she looks in family photos. Photographer John Godwin shows her how to look good from any angle.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1491,7 +1419,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	RIATH AL-SAMARRAI: Eva Carneiro is not alone. From floodlight to fans to cows to referees, it has often been someone else's fault in the mind of Jose Mourinho during his time at Chelsea. 
       </description>
-<sentiment></sentiment>
+<sentiment>neutralneutral</sentiment>
 </item>
 <item>
 <title>
@@ -1500,7 +1428,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	SEATTLE (AP) — An anti-Muslim group cannot post ads on buses in Washington state showing photos of wanted terrorists and wrongly claiming the FBI offers a $2...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1509,7 +1437,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Stores in airports across Britain continued to ask travellers for their boarding passes – and failed to cut prices, despite Treasury ministers pleading for an end to the rip-off.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1518,7 +1446,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Randall Palmer and Julie Gordon OTTAWA/VANCOUVER, Aug 12 (Reuters) - Canadian Prime Minister Stephen Harper pledged on Wednesday to track and possibly lim...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -1527,7 +1455,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	SENECA, S.C. (AP) — The U.S. Department of Justice says it will investigate the shooting death of a South Carolina teen killed during an attempted drug bust....
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1536,7 +1464,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A man is being treated in hospital for smoke inhalation after a fire destroyed the top floor of a southwest Sydney townhouse. Emergency services raced to the...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1545,7 +1473,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Actress Naomi Watts is in final negotiations for a starring role in a new film, Book of Henry. If Watts gets the gig, it will be an impressive year for her t...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1554,7 +1482,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Aug 12 (Reuters) - Seattle Mariners right-hander Hisashi Iwakuma threw a no-hitter against the Baltimore Orioles on Wednesday in a 3-0 victory that made him ...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1563,7 +1491,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Tiemoko Diallo BAMAKO, Aug 12 (Reuters) - Two gunmen wearing turbans attacked a bus station in the Malian capital late on Wednesday, seriously wounding a ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1572,7 +1500,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Manchester City are monitoring Pedro’s situation at Barcelona as the Spain star considers his future over the next 48 hours. Pedro admits he may leave the Nou Camp for first-team football.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1581,7 +1509,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Senators will vote on a motion calling for the federal government to consider urgent funding for a struggling far north Queensland cassowary centre on Thursd...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1590,7 +1518,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Kick It Out hope an updated version of its free app which accommodates multi-media clips can help provide more evidence in the ongoing battle against discrimination.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1599,7 +1527,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	MATT BARLOW: Chelsea doctor Eva Carneiro is the one in the firing line at the moment but Jose Mourinho's frustrations seem to go much deeper than his spat with the medic.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1608,7 +1536,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	HONOLULU (AP) — A Hawaii man has been sentenced to five years in prison for using Robert Allenby's credit cards after the professional golfer said he was rob...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1617,7 +1545,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Heather Watson failed to book a rematch with Serena Williams after falling at the second hurdle of the Rogers Cup. She lost to Andrea Petkovic of Germany.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1626,7 +1554,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Photos of an enormous tiger shark's corpse have emerged on Facebook, with some claiming it was pulled out of the water off Tweed Heads, in northern New South Wales, over the weekend.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1635,7 +1563,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The People's Bank of China cut the value of the yuen, pictured, this week in the biggest devaluation of their currency for 20 years in a move that has angered other nations all over the world.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1644,7 +1572,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Actor Ryan Hansen shared a photo to Instagram featuring the former couple looking happy and cordial while backstage during the Boys Of Zummer tour.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1653,7 +1581,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Andy Murray continued his quest to replace Roger Federer as world No 2 by beating Tommy Robredo to reach the third round of the Rogers Cup.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1662,7 +1590,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 42-year-old teamed her flamenco inspired crop top and maxi skirt with an unforgettable bag. Heidi has been busy with a role in America's Got Talent. She is also in Project Runway.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1671,7 +1599,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Jon Herskovitz AUSTIN, Texas, Aug 12 (Reuters) - Texas executed on Wednesday a 27-year-old man who was convicted of killing a veteran police officer in 20...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1680,7 +1608,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The former husband of Whitney Houston was inconsolable at his daughter's funeral service August 1 but clearly feels able to start facing the world again.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -1689,7 +1617,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The former IPL chief commissioner also took a dig at Congress vice-president Rahul Gandhi for calling him a criminal, saying the Congress V-P should worry about corruption in his own party.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -1698,7 +1626,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Katie Nguyen LONDON, Aug 13 (Thomson Reuters Foundation) - The torture of minority Tamils in Sri Lanka by the police and military remains a major problem ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1707,7 +1635,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The attractive brunette used her popular Instagram account to post a lengthy missive about the barbed comments she has received over recent weeks.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1716,7 +1644,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	ATLANTA (AP) — The latest on former President Jimmy Carter, who said Wednesday that he has cancer (all times local): 8 p.m. The White House says President Ba...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -1725,7 +1653,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	It has been revealed that last year alone doctors in the UK spent £900million on diabetes medications, including insulin injections and other treatments to control sufferers' blood sugar levels.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1734,7 +1662,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Stargazers across Britain were treated to a stunning lightshow overnight as hundreds of shooting stars filled the sky, with further dazzling displays expected from the annual Perseids shower tonight.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -1743,7 +1671,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	SEATAC, Wash. (AP) — The King County Sheriff's Office says an 11-year-old boy was arrested after stealing a car and leading deputies on a chase in SeaTac. De...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1752,7 +1680,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 57-year-old Basic Instinct actress recently filmed Mothers Day and will next be seen in the TNT drama series, Agent X, in which she will play the Vice President of the United States.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1761,7 +1689,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The number of requests  more than doubled to 299 between January and July, as government officials battled to crackdown on extremists using the website to spread propaganda.
       </description>
-<sentiment></sentiment>
+<sentiment>neutralneutral</sentiment>
 </item>
 <item>
 <title>
@@ -1770,7 +1698,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	About 20 asylum seekers - some from war-torn Syria - stayed at a Travelodge in Sidcup, south-east London, while dozens more are being put up at a hotel in Stockport, Greater Manchester.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -1779,7 +1707,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	American comedian Zach Galifianakis is in final talks to voice The Joker in the upcoming animated film Lego Batman. The 45-year old will join Arrested Develo...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1788,7 +1716,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	To be able to tickle the imagination of a time-challenged, weight-obsessed audience is a testimonial to the ageless appeal of these lost recipes.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -1797,7 +1725,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	SAN FRANCISCO (AP) — Northern California authorities have arrested a suspect in the robbery of news crews broadcasting live from San Francisco's picturesque ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1806,7 +1734,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Pregnant Samantha became obsessed with cleaning, bleaching four times a day. It may seem crazy but Samantha, was in the grip of a phenomenon  dubbed 'extreme nesting'.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1815,7 +1743,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	LAGRANGE, Ga. (AP) — A Georgia man who pleaded guilty to killing his wife, three of her family members and a family friend was sentenced Wednesday to life in...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1824,7 +1752,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BATON ROUGE, La. (AP) — Two national civil rights leaders are reviving criticism of a top-ranking House Republican's speech to a white supremacist group 13 y...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1833,7 +1761,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Forecasters warn that as much as a month’s rain could fall over the next two days. They are blaming a thundery area of low pressure that developed over northern Spain and is moving northwards.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1842,7 +1770,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The award-winning actor  is narrating the audio book of Appleblossom the Possum and his granddaughter Daisy Jo could not be more envious.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1851,7 +1779,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The Greens are making another attempt to have parliament establish a national corruption watchdog. The Senate on Thursday is debating a Greens bill, introduc...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1860,7 +1788,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The season’s final major is taking place at a location so remote there are more bunkers (1,000 or so) to be found on the course than residents (720 approx) in the small host hamlet of Haven.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1869,7 +1797,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The South Australian government is urging Adelaide Casino operator Skycity to make a decision about its stalled Riverbank redevelopment. "The very helpful th...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1878,7 +1806,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The user simply points their phone in the direction of any birdsong they like the sound of. The Warblr app then records a burst of it and produces a list of possible birds, ranked in order of likelihood.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1887,7 +1815,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Under the plans, by MigrationWatch chairman Lord Green of Deddington, every lorry arriving in Dover would be searched for stowaways and those caught would be taken to a 'one-stop shop'.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -1896,7 +1824,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Aug 12 (Reuters) - Dustin Johnson, back at the scene of the proverbial crime, admits that he has not brushed up on the local rules for the PGA Championship. ...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1905,7 +1833,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Energy and Climate Change Secretary Amber Rudd, pictured, said that shale gas could create jobs and energy security, but it has sparked anger among critics.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1914,7 +1842,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Carol Vorderman, 54, has landed a role promoting space science education.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1923,7 +1851,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	On Tuesday a New York court ordered the 46-year-old to send her two children back to her ex-husband Daniel Giersch in Monaco, after she had ignored an earlier order to do so
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -1932,7 +1860,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The chair of federal parliament's intelligence and security committee says the release of an Islamic State hit-list that includes Australian names shows coal...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1941,7 +1869,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The stunning presenter stepped out in London on Wednesday morning as she headed to the Smooth Radio studios, looking fine and fabulous in what can only be described as another sartorial success.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1950,7 +1878,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Katrina Kaif and Saif Ali Khan’s upcoming political thriller Phantom has been creating a buzz ever since August 28 was confirmed as the film’s release date.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1959,7 +1887,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	He may have won the Masters and US Open and finished a shot outside a play-off for the Open, but Jordan Spieth has yet to achieve his major goals for the season.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1968,7 +1896,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	In the UK, just 14 per cent of voters backed ever-closer union while support remained strong only in southern Europe. The findings will bolster David Cameron’s bid to secure a British opt-out.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1977,7 +1905,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Sam Wood wanted fireworks on The Bachelor but he wasn't expecting this - an argument  between three of the girls on Thursday night's episode ends in tears and a shock departure.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1986,7 +1914,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Despite Sam Faiers' exit from The Only Way Is Essex last year, she's still as close as ever with best friend Ferne McCann.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -1995,7 +1923,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The spontaneous combustion of a pile of towels at Richmond Football Club is being described as a "towelling inferno". Firefighters say the towels may have ha...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2004,7 +1932,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	As the police registered a case against the Border Security Force for opening fire in South Kashmir’s Pulwama district, the ruling Peoples Democratic Party blamed separatists.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2013,7 +1941,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Singer-songwriter Lucinda Williams will return to Australia later in the year for a national tour. The 62-year-old American will play two headline shows in D...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2022,7 +1950,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Steve Keating Aug 12 (Reuters) - The United States Olympic Committee (USOC) will explore a possible Los Angeles bid for the 2024 Summer Games after Boston...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2031,7 +1959,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	NEW YORK (AP) — A Nigerian man who took part in a Yemen-based al-Qaida faction's effort to spread propaganda intended to encourage terror attacks has been se...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2040,7 +1968,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	FRANKFORT, Ky. (AP) — A county clerk in Kentucky will not immediately issue marriage licenses to same-sex couples, her lawyer says, despite a federal judge o...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2049,7 +1977,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A top contractor and the personal assistant of a minister in Karnataka’s government were among those arrested after police raided a rave party which allegedly had call girls at it.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2058,7 +1986,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Ed Vaizey, the culture minister, re-opened the controversy around the switchover by suggesting that the Government was close to its target of getting listeners to switch to digital radio.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2067,25 +1995,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A plastic bag containing bullets was spotted by a rickshaw-puller around 11 am at Arya Road near an electricity pole outside the Kundan Vidya Mandir School.
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	0-Tennis-Toronto Cup women's singles round 2 results
-      </title>
-<description>
-	Aug 12 (Infostrada Sports) - Results from the Toronto Cup Women's Singles Round 2 matches on Wednesday 13-Angelique Kerber (Germany) beat Monica Puig (Puerto...
-      </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	0-Tennis-Montreal Masters men's singles round 2 results
-      </title>
-<description>
-	Aug 12 (Infostrada Sports) - Results from the Montreal Masters Men's Singles Round 2 matches on Wednesday Bernard Tomic (Australia) beat 6-Marin Cilic (Croat...
-      </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2094,7 +2004,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Vicki Smith, 45, from Tyne and Wear, thought she had met the perfect man. Little did she know her successful and 'shy' partner was really a secret bigamist who was still married to his first wife.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2103,7 +2013,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	At least eight construction sites visited by the National Green Tribunal-appointed commissioner in Delhi and Noida threw up evidence of the use of hundreds of illegal borewells.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2112,7 +2022,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Hugh Bronstein BUENOS AIRES, Aug 12 (Reuters) - Argentina's presidential front-runner wants to settle a financially hobbling suit with bondholders, woo ne...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2121,7 +2031,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Tennis fans will have to pay up to £95 to watch Andy Murray and his Great Britain team-mates take on Australia in the Davis Cup semi-finals in Glasgow next month.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2130,7 +2040,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 29-year-old actress sported a tiny LBD and leather boots grabbed a low-key bite to eat with friends in London's Mayfair on Tuesday night. 
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2139,7 +2049,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Kate Morris (left) feels her children have taken over her life and the pressures of parenthood have affected her relationship with her husband. The Londoner feels her kids corrode her marriage.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2148,7 +2058,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	St George Illawarra will almost certainly face Brisbane in Friday night's NRL clash without star halfback Benji Marshall. The former New Zealand internationa...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2157,7 +2067,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	SPOKANE, Wash. (AP) — A whistleblower on the Hanford Nuclear Reservation has reached a $4.1 million settlement with his former employer on the former nuclear...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2166,7 +2076,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Deverey Hasani-Jarod Kelley has been sentenced to five years in prison for carjacking a woman who was in labor and on her way to the hospital in Annapolis last year.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2175,7 +2085,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The discovery was made by UCLA scientists after they recorded electrical activity from individual brain cells during the dreaming phase of sleep.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -2184,7 +2094,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The recent skirmishes on the Indo-Pakistan border and a series of infiltrations leading to terror strikes have prompted the government to plan an overhaul of security apparatus in border areas.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -2193,7 +2103,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	MARK WILSON: What was that John Collins was saying about Celtic not being punished for their lapses in Scottish football? Kilmarnock held Celtic to a 2-2 draw on Wednesday at Rugby Park.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2202,7 +2112,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	CHARLOTTE AMALIE, U.S. Virgin Islands (AP) — An elderly Frenchman has pleaded guilty to more than three dozen counts of migrant smuggling in the U.S. Virgin ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2211,7 +2121,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	'Attention all assistants. Gullible looking bloke approaching, probably clueless about VAT - LOADED!'
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -2220,7 +2130,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A quarry owned by a prominent Queensland businessman didn't worsen the deadly 2011 Grantham floods, a new confidential study reportedly reveals. Residents bl...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2229,7 +2139,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Reality star Stewart looked far younger than her years when she stepped out in flared jeans and a see-through lace blouse in West Hollywood on Tuesday.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2238,7 +2148,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Three men, whose partners lost unborn children, shared their heartbreaking stories with Cosmopolitan.com, revealing how their loss helped strengthen the bonds of their marriages.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2247,7 +2157,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	WARNING: GRAPHIC CONTENT. An elderly South Korean man staged the incident in Seoul to demand an apology from Tokyo for forcing women into brothels during World War Two.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2256,7 +2166,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The manager is suing one-time business associate Jeffrey Bowler for allegedly asking for a financial settlement to avoid him launching public legal case against the pair.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2265,7 +2175,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	External Affairs Minister Sushma Swaraj pricked the Congress balloon on the Lalitgate controversy, saying she had committed no mistake and instead blaming the Grand Old Party.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2274,7 +2184,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Experts at Sheffield University discovered that the body’s defences go into ‘overdrive’ and reverse the benefits of the treatment. They found that swarms of white blood cells help tumorus regrow.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -2283,7 +2193,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	SAO PAULO, Aug 12 (Reuters) - Brazilian President Dilma Rousseff, who is struggling with record low approval ratings and a generalized loss of support in Con...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2292,7 +2202,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The CNN/ORC poll is the third survey in a row since last week's primary debate to show that The Donald is still on top in the Hawkeye State.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2301,7 +2211,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The Government wants to provide superfast internet connections to 95 per cent of the country by 2017 in a rollout led by BT. There is growing anger by people in rural areas who say they are being left behind.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2310,7 +2220,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Shane Warne has given former Test coach John Buchanan a stinging rebuke for suggesting Michael Clarke's Test captaincy eroded the 'Baggy Green' culture. Earl...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2319,7 +2229,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Manly's charge toward the NRL finals becomes even more impressive when analysis shows they've had arguably the toughest path. Just six weeks ago the proud Se...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -2328,7 +2238,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Pete Sweeney and Lu Jianxin SHANGHAI, Aug 12 (Reuters) - China's currency fell to a four-year low on Wednesday, slumping for a second day, after a central...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2337,7 +2247,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Senior BJP leader LK Advani was visibly moved by External Affairs Minister Sushma Swaraj's hard-hitting reply to the Congress charges on the Lalit Modi controversy in the Lok Sabha.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2346,7 +2256,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A probable cause affidavit  says Batesville Mayor Richard Fledderman paid 42-year-old Randy Wigle-Stevens, who is also married, $170 for sex, but the man later came back demanding more money.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2355,7 +2265,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	KALIKA MEHTA IN CANTERBURY: Australia bowled England out for 168 and took a 106-run first innings lead at stumps on an attritional day two of the solitary Women's Ashes Test.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2364,7 +2274,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BEIJING, Aug 13 (Reuters) - China's President Xi Jinping urged full efforts to rescue those injured in massive explosions caused by flammable goods at an ind...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -2373,7 +2283,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A man has been taken to hospital after 40 litres of an unknown chemical leaked from a large drum at a truck transport centre in Sydney's west. Emergency serv...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2382,16 +2292,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The head of parliament's intelligence and security committee believes Australia should launch air strikes against Islamic State targets in Syria. In a sign t...
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Clarifications and corrections 
-      </title>
-<description>
-	An article on August 3 headlined "7-10 Calais migrants get into the UK" implied Chief Constable Pughsley of Kent Police estimated 900 migrants were reaching Britain from Calais every month.
-      </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2400,7 +2301,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A man has allegedly stolen a car with a baby inside from outside a childcare centre in Telopea in Sydney. John Burgess (pictured) found the baby on the side of the road in nearby Dundas.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2409,7 +2310,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Paul told a Fox News audience that a President Trump could 'treat the country as sort of his little bully fiefdom.' He tweeted in response that Paul was 'a spoiled brat without a functioning brain.'
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2418,7 +2319,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	PC Martina Anderson and Sgt Brett Williams, who previously complained their stuffy uniforms were too hot, are working at the popular destination as part of a two-week pilot scheme.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -2427,7 +2328,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The bestselling author, 56, is selling her one bedroom, one-and-a-half bathroom co-op in New York's Greenwich Village . It features a hardwood floors, a fireplace, and a washer and dryer.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2436,7 +2337,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Two former truckies, now senators, have teamed up to warn big business against including payment clauses of up to 120 days in transport contacts. Labor's Gle...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2445,7 +2346,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	ADAM SHERGOLD AT FRATTON PARK: There was nothing flukey about this result. Not a trace of good fortune to be found. Portsmouth dumped Derby County of Capital One Cup   at a rocking Fratton Park.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2454,7 +2355,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Reno’s departure comes a few months after her tycoon fiancé Scot Young plunged to his death from their $4.7 million (£3million) home and impaled himself on the railings below.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2463,7 +2364,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	It emerged over the weekend that the only reason for the rule is to allow companies to save on VAT bills - even though many customers assumed it was a legal safety measure.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2472,7 +2373,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	JOE BERNSTEIN AT SPORTSDIRECT.COM PARK: Middlesbrough's £3.5million summer signing Cristhian Stuani scored his first goals for the club as they cruised past League One Oldham.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2481,7 +2382,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The two-and-a-half minute clip for the American Western introduces the eponymous rogues who become stranded in the mountaintop stagecoach stop together during a blizzard.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2490,7 +2391,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	JOINT BASE ELMENDORF-RICHARDSON, Alaska (AP) — Two dozen members of the Japanese Ground Self Defense Force became the first paratroopers from their country t...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -2499,7 +2400,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Letitia Stein and David Adams Aug 12 (Reuters) - Former U.S. President Jimmy Carter said on Wednesday that recent liver surgery revealed he had cancer tha...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2508,7 +2409,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Sundar Pichai, who has just been named CEO of the Google, is co-founder Larry Page's most trusted lieutenant and the person at the company most focused on emerging markets.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -2517,7 +2418,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The Bachelor's Snezana Markoski says she would be interested in starting her own little family with Sam Wood.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2526,7 +2427,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Huge billboards have been erected along the M5 telling drivers ‘it’s not what you think’ and featuring photos of models wearing only body paint. The campaign hopes people move to the region.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2535,7 +2436,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Daily Mail racing expert Sam Turner brings his hottest selections for Thursday's races at Lingfield, Beverley, Salisbury and Ffos Las.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2544,7 +2445,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	WARNING GRAPHIC CONTENT: Alex Beer, from Hoo, Kent, was rushed into hospital in agony after his arm ballooned and blistered after he was bitten by the venomous arachnid.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2553,7 +2454,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Whether it is the touch of nostalgia they bring, or simply that no matter how old we are we can't resist a sugar hit, we Brits can't get enough of the sweet stuff.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -2562,7 +2463,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Around 26 per cent of qualifications are predicted to be A or A*s, with around 8 per cent achieving the top grade. However, maths and science papers could be awarded fewer A*s.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -2571,7 +2472,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	LONDON (AP) — Researchers at Britain's Cambridge University have released letters showing how slaves were priced for sale during the 18th century, giving an ...
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -2580,7 +2481,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Manchester City held an open training session for their men's and women's first teams on Wednesday evening at the Etihad Stadium. 
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2589,7 +2490,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The former American Idol favorite was taken into custody on Wednesday after allegedly kicking Angel Reed, his girlfriend and the mother of their four-year-old daughter, in the groin.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2598,7 +2499,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The R70i Ageing Experience (pictured) was built by New York-based life insurance firm Genworth to mimic how age related diseases can impair body movement.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2607,7 +2508,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	EXCLUSIVE: Eva Carneiro has been branded a ‘celebrity doctor’, ‘cheerleader’ and ‘extremely naive’ in the wake of her very public fallout with Chelsea manager Jose Mourinho.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2616,7 +2517,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 17-year-old had surgery on June 4 after years of back and neck pain.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2625,7 +2526,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 67-year-old man arrived at Sydney's Royal North Shore Hospital on Monday at 9.30am for a routine appointment for his diabetes treatment when he suffered a stroke in the outpatient clinic toilets.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2634,7 +2535,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A video by Canadian travel series Dating Beyond Borders sees pairs of men and women from different countries evaluate the attractiveness of several very different-looking men in photos.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -2643,16 +2544,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	American actress Kristen Stewart has addressed speculation about her sexuality by saying she is unwilling to categorise herself as either gay or straight. Th...
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Music boosts recovery from surgery, reduces pain
-      </title>
-<description>
-	By Kate Kelland LONDON, Aug 13 (Reuters) - Listening to music before, during and after surgery reduces patients' pain, eases anxiety and lessens the need for...
-      </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -2661,7 +2553,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	LONDON, Aug 13 (Reuters) - The British government will give its communities minister the power to directly approve shale gas permits, taking away decision-ma...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2670,7 +2562,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	LONDON, Aug 13 (Reuters) - British supermarket Sainsbury's launched a clothing website on Thursday, providing wider access to its Tu collection as it seeks t...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2679,7 +2571,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 29-year-old Grammy winner lost 60 pounds after her first child was born in May 2014, crediting her improved figure to a sensible diet and to workouts with trainer Gunnar Peterson.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2688,7 +2580,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	JACKSON, Miss. (AP) — Susan Hrostowski remembers when Mississippi passed its law in 2000 banning same-sex couples from adopting children. It hit home for her...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2697,7 +2589,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Khloe Kardashian was left shaken and 'freaked out' after her estranged husband Lamar Odom confronted her as she left a SoulCycle class early Wednesday morning. 
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2706,7 +2598,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BOSTON (AP) — A courtroom artist whose gaunt sketches of Tom Brady at the first "Deflategate" civil suit hearing in Manhattan federal court led to a Twitter ...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2715,7 +2607,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Gwyneth Paltrow is making the most of the summer with her children with just days before they head back to school.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2724,7 +2616,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A Sydney tradie says a five-month-old baby was red and screaming when he found him dumped from a stolen car in a gutter in the freezing cold. A frantic searc...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -2733,7 +2625,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Norwich City have made a £4.5m offer for Roma striker Mattia Destro. The Italy international has fallen down the pecking order at the Serie A club with Edin Dzeko joining from Manchester City.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2742,7 +2634,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The original video was uploaded to clip-sharing app Vine by Indiana University student Kierra Santillan, where it has been viewed more than 32 million times, inspiring plenty of musical memes.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2751,7 +2643,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	SACRAMENTO, Calif. (AP) — One inmate was killed and five others were taken to an outside hospital to be treated for stab wounds after a riot Wednesday at a N...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2760,7 +2652,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A government official says Obama is throwing Hillary under the bus to clear a presidential campaign path for Joe Biden: 'I don't believe in coincidences.'
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2769,7 +2661,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	TALLAHASSEE, Fla. (AP) — A Florida congresswoman is asking a federal judge to stop state lawmakers from changing her congressional district. U.S. Rep. Corrin...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2778,7 +2670,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The woman, who has not been identified, was taken by authorities to a hospital near the central Spanish town of Villa de Don Fadrique early Wednesday morning.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2787,7 +2679,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	CHICAGO (AP) — Michael Jordan's lawyer told jurors Wednesday at a civil trial over the unauthorized use of the star's name in a steak ad that the market valu...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2796,7 +2688,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Vern Cotter has extended his Scotland contract until 2017 in a major show of faith from the Scottish Rugby Union ahead of the World Cup.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2805,7 +2697,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Sam Wood and Bec Chin enjoyed a fling in Bali last year before meeting up again on The Bachelor but experts say the reason he says he can't recall her is because 'he has lots of women or is shallow'.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2814,7 +2706,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Warrington have announced the signing of Wigan back-rower Jack Hughes on a two-year deal. The 23-year-old has spent this season on loan with Huddersfield.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2823,7 +2715,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Manchester United have been accused of undermining the progress of women’s football by steadfastly refusing to launch a female team of their own.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2832,7 +2724,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Pat Smullen is the man charged with trying to dethrone a dual Guineas winner and an Epsom Derby hero when the Irishman partners Time Test in Juddmonte International Stakes.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2841,7 +2733,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Paddington the pooch has become an Instagram hit with more than 40,000 followers who watch him donning adorable doggy garb at his home in Tasmania on the south coast of Australia.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2850,7 +2742,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	England rugby chiefs have been urged to crack down on loutish behaviour by drunk England rugby fans ahead of Saturday night’s World Cup warm-up clash against France
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2859,7 +2751,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 16-year-old was only stopped in his tracks when an American tourist spotted him trying to pack the artefact into his rucksack while visiting the historic city of Pompeii in Italy.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2868,7 +2760,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 48-year-old actress previously admitted to having an affair with a married man for two and a half years during her TED Women talk on May 28
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2877,7 +2769,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Milla Jovovich is set to begin shooting the sixth and last Resident Evil film - aptly subtitled The Final Chapter - this month with husband Paul W.S. Anderson back at the helm.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2886,7 +2778,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Vincent Kompany has urged Manchester City to bring Belgium international Kevin De Bruyne to the Etihad Stadium. Wolfsburg value the midfielder in excess of £50million.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2895,7 +2787,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Called Canary and created by Colorado-based former engineer Marc Silverman, the app aims to test mental and physical performance - and whether either is impaired - in four steps.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -2904,7 +2796,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Body-positive activists, bloggers, and models reveal the worst things strangers have said to them online. Many have been called names, lectured about their habits, and told to kill themselves.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2913,7 +2805,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A man who kidnapped and pulled five young girls into storm water drains and derelict properties in Sydney before violently raping them has plead guilty in court to a string of offences.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2922,7 +2814,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The couple reunited on Tuesday in Los Angeles after 69-year-old Goldie returned from a long holiday in St Tropez.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2931,7 +2823,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	WELLINGTON, Aug 13 (Reuters) - The Super Rugby champion Otago Highlanders are set to take on European Cup holders Toulon in Hong Kong early next year. The ma...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2940,7 +2832,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 22-year-old star was sporting the simple bling when she landed at LAX on Wednesday, and did not seem to make any attempt to hide it.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2949,7 +2841,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The factory had been producing inhaled medications but following routine testing, a cooling tower was found to contain the bacteria which can cause the potentially fatal form of pneumonia.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2958,7 +2850,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The American teenager has regularly been letting her skin breathe on her trip to the UK.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2967,7 +2859,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	SEATTLE (AP) — A couple in Seattle whose 8-year-old daughter feeds crows and pigeons is being sued by neighbors who say the birds have damaged their property...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -2976,7 +2868,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Aug 12 (Reuters) - Jason Day did not win the British Open, but says he had a calm feeling during the final round that he had never experienced the previous t...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2985,7 +2877,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	ZEBULON, N.C. (AP) — The medications produced at a GlaxoSmithKline pharmaceutical plant are safe despite the decision to close the factory after the discover...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -2994,7 +2886,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 44-year-old reality star isn’t usually one to back down - but on Tuesday’s Watch What Happens Live the Real Housewife of New York admitted some of her own personality faults.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3003,7 +2895,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Marangillette Viera-Rivera, 33, was taken into custody on Tuesday in Tampa after police found that seven 6-week-old puppies and their mother had been kept outside with no food, water or shelter from the heat.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3012,7 +2904,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BAMAKO, Aug 12 (Reuters) - Gunmen killed two police officers in an attack on the main bus station in the Malian capital Bamako on Wednesday, an intelligence ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3021,7 +2913,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Roy Hodgson accepts that he will be axed if England flop at next summer’s European Championship following clear-the-air talks with the FA’s new chief executive Martin Glenn.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3030,7 +2922,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	MATT LAWTON, CHIEF SPORTS WRITER: Jake Livermore failed a drugs test for cocaine after struggling to cope with the terrible tragedy of losing a child.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3039,7 +2931,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Aug 12 (Reuters) - The United States Olympic Committee (USOC) will explore a possible Los Angeles bid for the 2024 Summer Games after Boston pulled out of th...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3048,7 +2940,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	David Card, 75, of Dallas, has the granite marker following a settlement with Historic Auto Attractions of Roscoe, Illinois. He inherited it when he bought Oswald's mother's home and found it there.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3057,7 +2949,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 20-year-old model was spotted without shoes as she left Jonas’s Los Angeles home and headed to a hotel on Wilshire Blvd in her silver Range Rover.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3066,7 +2958,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The six beautiful winners of Redbook's second annual Real Women Style Awards cover the magazine's September issue in an unprecedented move by the publication.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3075,7 +2967,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Yvonne Adkins left three-month-old Chanelle downstairs as she drank whisky and had sex at her home in Meir, Stoke-on-Trent, Staffordshire. The next day she awoke to find her baby had died.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3084,7 +2976,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	ATLANTA (AP) — A federal appeals court in Atlanta on Wednesday allowed a lawsuit against an Alabama school board to continue over a 14-year-old girl who was ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3093,7 +2985,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BOISE, Idaho (AP) — An Idaho house where Ernest Hemingway wrote his last works before killing himself in the main entryway in 1961 has been listed on the Nat...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3102,7 +2994,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Josh Adkins, 31, of Madison County, had run off from his family at Koomer Ridge Campground in the Daniel Boone National Forest before being found on a highway Wednesday.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -3111,7 +3003,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Instead of producing biscuits on Biscuit Week, the eleven remaining contestants produced plates of treats including ingredients such as jackfruit, Goji berries, and Chinese gooseberries.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3120,7 +3012,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The British actress, 42, was spotted going make-up free for a romantic lunch with her spouse in Los Feliz, California on Tuesday.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3129,7 +3021,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The unusual phenomena which sees snails thrown into the air is believed to have been caused by part of the beach collapsing and caving in at Orcombe Point, near Exmouth in Devon.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3138,7 +3030,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Jonny Wilkinson's drop-goal that saw England lift the Webb Ellis Cup in 2003 has been voted the greatest moment in World Cup history in a survey of over 4,000 fans from 13 rugby nations.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3147,7 +3039,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Marie - who was given last week's Star Baker title by judges Mary Berry and Paul Hollywood- was eliminated from the BBC show after failing to turn her oven on in the second week of the show.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3156,7 +3048,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The boy and girl, who are believed to be aged 16 and 14, were found dead this evening at Thorpe Marsh wildlife reserve, in Trowse.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3165,7 +3057,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Italian side Palermo have made a fresh attempt to sign Arsenal striker Joel Campbell after being rebuffed last month. The 23-year-old signed a new contract with the Gunners in January.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3174,7 +3066,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	UNITED NATIONS (AP) — Security Council approval of a draft U.N. statement strongly backing intensive preparatory talks on key issues to restore peace to conf...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3183,7 +3075,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Chelsea team doctor Eva Carneiro has been a regular fixture at Stamford Bridge for six years but before her spat with Mourinho, little was known about the doctor with the eye-catching looks.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -3192,7 +3084,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BETHLEHEM, Pa. (AP) — One lucky groundhog might live to see another Groundhog Day thanks to authorities in eastern Pennsylvania. The creature roaming Lehigh ...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -3201,7 +3093,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Mel and Margaret Grogan were married in Whalley Range, Manchester, in 1973 and a family friend took photos. The snaps were then turned into slides, which the couple thought had been lost.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -3210,7 +3102,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The ACTU is pursuing its claim before the Fair Work Commission for paid domestic violence leave to be a workplace right for all workers who suffer the abuse....
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3219,7 +3111,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	On a recent trip to a park in Naperville, Illinois, nine-year-old Lilly had some trouble leading two-year-old pup Layla down the slide, and attempted to coax her.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -3228,7 +3120,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Mark Lamport-Stokes KOHLER, Wisconsin, Aug 12 (Reuters) - Jordan Spieth will command the spotlight at this week's PGA Championship in a rare bid for a thi...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3237,7 +3129,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The Story of Kullervo tells the tale of an orphan who swears revenge on a magician after being sold into slavery. It was written while the author was a 23-year-old student at Oxford University in 1914.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3246,7 +3138,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The federal government has labelled as "ridiculous" business estimates that meeting Australia's target for cutting carbon pollution will cost as much as $250...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3255,7 +3147,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Adriana, 34, and Joan, 27, traveled to Havana to shoot the Cuban-inspired spread for W magazine , donning flirty dresses while posing against stucco walls near the capital city's streets.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3264,7 +3156,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	MEMPHIS, Tenn. (AP) — The Elvis Presley "Forever" stamp is going on sale this week at post offices nationwide. Priscilla Presley, ex-wife of the King of Rock...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3273,7 +3165,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	TRENTON, N.J. (AP) — Federal safety officials who reviewed a highway crash that badly injured comedian Tracy Morgan and killed a friend were sharply critical...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3282,7 +3174,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	MADISON, Wis. (AP) — The family of a biracial man who was shot and killed by a Wisconsin police officer filed a federal civil rights lawsuit Wednesday, alleg...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3291,7 +3183,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Off-spinner Ravichandran Ashwin spun a web around Sri Lankan batsmen with a six-wicket haul as India dismissed the hosts for a paltry 183 in the first innings to gain the upper-hand.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3300,7 +3192,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	'#ihatemyjob,' the 19-year-old model joked on Instagram while sharing a sultry snap of herself posing with a nearly naked man.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3309,7 +3201,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Sunderland have opened discussions over a deal for Blackburn striker Jordan Rhodes who is valued at £12million. Rhodes has scored 73 goals in just over 130 games for the Championship side.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3318,7 +3210,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A search has resumed for a 26-year-old man who went missing after jumping into a dam near Tamworth. He had been testing a 12-foot motor boat with another man...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -3327,7 +3219,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Aston Villa will complete the signing of Adama Traore from Barcelona on Thursday. Stoke were also keen on the winger but they have since signed Xherdan Shaqiri from Inter Milan.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3336,7 +3228,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	NEW YORK (AP) — NBCUniversal is investing $200 million in digital media company Vox Media, whose brands include news site Vox, food blog Eater, the sports-fo...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3345,7 +3237,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Zachary Fagenson MIAMI, Aug 12 (Reuters) - A prominent Florida archaeologist says crews working on a high-speed rail project to connect Miami and Orlando ...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3354,7 +3246,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	OLYMPIA, Wash. (AP) — Washington state health officials say a salmonella outbreak linked to pork products has grown to 134 cases in 10 counties. Early tests ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3363,7 +3255,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Kristen Stewart refuses to define herself as 'gay or straight.'
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3372,7 +3264,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	On Wednesday the 38-year-old actress was joined by her boyfriend, sports manager David Gardner, and the couple’s seven-month-old boy Sailor as they stepped out in the West Village.
       </description>
-<sentiment></sentiment>
+<sentiment><neutral/sentiment>
 </item>
 <item>
 <title>
@@ -3381,7 +3273,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	US District Judge Richard Berman also warned the hearing in Manhattan Federal Court that, unless both sides are willing to reach a compromise, the case could stretch until 2017.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3390,7 +3282,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Bristol City will switch to Brentford striker Andre Gray if Crystal Palace's Dwight Gayle continues to hold out for a move to Norwich instead.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3399,7 +3291,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The images show the slaughtered six metre predator on board a commercial shark fishing boat in Nine Mile Reef in northern New South Wales.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3408,7 +3300,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Christine Yokan and Matt Ashbach, from Seattle, are suing neighbors Lisa and Gary Mann because their daughter Gabi (pictured with Lisa, feeds of crows in their back yard, claiming they are her 'friends'.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3417,7 +3309,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Lee Winters-Jones, who has recently undergone a hernia operation, was questioned after it was alleged he had stuffed a pair of suit trousers up his jumper at the Prestatyn store in north Wales.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3426,7 +3318,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Ed Sheeran, 24, will be awarded an honorary degree by University Campus Suffolk this autumn.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3435,7 +3327,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Joseph Ax and Nate Raymond NEW YORK, Aug 12 (Reuters) - A federal judge on Wednesday fired tough questions at a National Football League lawyer about whet...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3444,7 +3336,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	MEXICO CITY (AP) — Federal prosecutors in Mexico have asked a judge to issue arrest warrants for 22 employees of a day care center where a 2009 fire killed 4...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3453,7 +3345,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BOISE, Idaho (AP) — Here's a look at wildfires burning Wednesday around the West: ___ IDAHO-OREGON A blaze in southwestern Idaho and eastern Oregon fanned by...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3462,7 +3354,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Investigations have been launched into a "distressing" incident in which a man spent 20 hours unconscious in a Sydney hospital toilet cubicle, says NSW Healt...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3471,7 +3363,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Aug 12 (Reuters) - The Buffalo Bills claimed IK Enemkpali off waivers on Wednesday, one day after the linebacker was released by the New York Jets for breaki...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3480,7 +3372,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A body found near a Las Vegas freeway airport interchange is that of an 84-year-old Australian tourist who was reported missing from a Las Vegas Strip resort...
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -3489,16 +3381,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By David Alexander WASHINGTON, Aug 12 (Reuters) - The fight against Islamic State rebels is at a stalemate and if the U.S. military does not see progress in ...
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	PRESS DIGEST-Australian News - Aug 13
-      </title>
-<description>
-	Reuters has not verified these stories and does not vouch for their accuracy. THE AUSTRALIAN FINANCIAL REVIEW (www.afr.com) Westpac's turn to face capital ca...
-      </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3507,7 +3390,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Manchester United legend Ryan Giggs has admitted becoming the co-owner of non-league Salford City is his insurance policy against getting the sack at Old Trafford.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3516,16 +3399,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Hannah Miller, 39, was verbally abused by pupils and given less money than her male counterparts, despite 'shouldering 90 per cent of the workload', while working at Tonbridge School, Kent.
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Dutch championship top scorers
-      </title>
-<description>
-	Aug 12 (Infostrada Sports) - Top scorers of the Dutch championship on Wednesday 2 Anwar El Ghazi (Ajax Amsterdam) Sebastien Haller (Utrecht) Simon Thern (Hee...
-      </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -3534,7 +3408,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	DALLAS (AP) — A woman who says she was sexually assaulted by an Uber driver in Dallas is suing the ride-hailing company and the suspect. The Dallas Morning N...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3543,7 +3417,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Will Keane opened his Preston account as North End avoided the fate of many of their Sky Bet Championship rivals by beating Crewe 3-1 to advance in the Capital One Cup.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3552,7 +3426,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	DALLAS (AP) — A gravestone for President John F. Kennedy's assassin has been returned to Texas after an ownership dispute. David Card, 75, of Dallas, has the...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3561,7 +3435,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	RIO DE JANEIRO, Aug 12 (Reuters) - Rio de Janeiro can be "proud" of the four Olympic test events held so far in the city, the head of the Rio 2016 coordinati...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3570,7 +3444,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Sunderland winger Adam Johnson is set to undergo tests on Wednesday evening to determine the severity of the shoulder injury he suffered in training but a lengthy spell is expected.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3579,7 +3453,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	There’s more steel to Jos Buttler than meets the eye. He has not let his Ashes success distract him from his lack of runs, and knows England have never beaten Australia four times in a home summer.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3588,7 +3462,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Yasmeen Abutaleb and Nivedita Bhattacharjee SAN FRANCISCO/MUMBAI, August 12 (Reuters) - Facebook is trying to lure skeptical advertisers in India with fea...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3597,7 +3471,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	WASHINGTON, Aug 12 (Reuters) - Republican senator and presidential hopeful Marco Rubio on Wednesday denounced what he described as the "politically driven" u...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3606,7 +3480,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Cilla Black's family has confirmed that the funeral will be held next Thursday at St Mary's Church, Woolton, where she and husband Bobby Willis married in 1969 after her death on August 1.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3615,7 +3489,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	MEXICO CITY (AP) — Mexico's central bank has lowered its forecast for the country's 2015 economic growth. The Bank of Mexico is now predicting GDP will expan...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -3624,7 +3498,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	FORT WORTH, Texas (AP) — A police officer fired after fatally shooting an unarmed black college football player during a suspected burglary at a Texas car de...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3633,7 +3507,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Tajaun Boatner, 37, of Racine, Wisconsin, reportedly went on to resist  arrest when police showed up at the scene to interview him about the incident.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3642,7 +3516,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Louis Charbonneau and Michelle Nichols UNITED NATIONS, Aug 12 (Reuters) - The head of the United Nations peacekeeping mission in Central African Republic ...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3651,7 +3525,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Sportsmail has run the rule on the field ahead of the start of the 2015 US PGA Championship at Whistling Straits and has four recommendations to keep an eye on in the final major of 2015.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3660,7 +3534,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	CAIRO, Aug 12 (Reuters) - Opposition politician Abul-Ela Mady was released on Wednesday after nearly two years of pretrial detention, Mady's son Ahmed said, ...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -3669,7 +3543,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Alex Goode is facing a duel with Danny Cipriani for one England squad place, but the Saracens full back is looking beyond making the World Cup by setting his sights on Mike Brown’s No 15 shirt.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3678,7 +3552,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Christine Ouzounian had a smile on her face when she stepped out in Los Angeles and hopped into the fancy vehicle, which retails upwards from $43,000.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3687,7 +3561,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BOSTON (AP) — A federal judge is weighing the future of a proposed Indian-operated gambling hall on Massachusetts' famed Martha's Vineyard. U.S. District Cou...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3696,7 +3570,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The feature is today rolling out globally, with Twitter saying the aim is to allow users to 'express themselves' more freely. e The character limit for regular tweets, which is 140, will remain
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3705,7 +3579,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 42-year-old actress dared to bare in a plunging sheer black gown as she attended the premiere of Straight Outta Compton at the Microsoft Theater in Los Angeles on Monday.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3714,7 +3588,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	It has been revealed more than £30 million of British taxpayers’ money could be ‘squandered’ as the deadlock over the fate of  Wikileaks founder Julian Assange fate shows no sign of being broken.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3723,7 +3597,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Jenny McCarthy is hard to miss these days thanks to her bright pink hair. The on-air personality, 42, showed off her colorful new 'do and matching hot pink pumps as she left SiriusXM's studios.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3732,7 +3606,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	EXCLUSIVE - BY MARTHA KELNER: Jo Pavey is set to be retrospectively upgraded to at least a bronze medal from the Osaka World Championships in 2007.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3741,7 +3615,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	More commerce happens on mobile phones in India than in any other country. More evidence that India's biggest mall is just 5" or less.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -3750,7 +3624,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	EXCLUSIVE: The video showed Adebola, 19 - who only wishes to be known by his first name - being stopped by police probing drug dealing after they saw him 'talking on his phone' in north London.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3759,7 +3633,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Police in Pecos say say 17-month-old Avrian Villalobos died on Tuesday after his mother drove home and took two other children inside. Once she realized Avian was in the car, he was unconscious.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3768,7 +3642,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Lips pursed, glasses slipped down his nose, and sleeves rolled up, Dreyfuss looks every inch the Ponzi scheme king who swindled billions out of trusting investors.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3777,7 +3651,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Castmembers Linda Robson (Tracey), Pauline Quirke (Sharon) and Lesley Joseph (Dorien Green) were spotted filming the funeral scenes at a Chigwell, Essex churchyard on Tuesday.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3786,7 +3660,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By David Ljunggren OTTAWA, Aug 12 (Reuters) - Canadian Prime Minister Stephen Harper did not know that in order to quiet an ethics scandal his former chief o...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3795,7 +3669,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	According to Us Weekly, Kylie caught a private jet to Mexico with boyfriend on Tuesday, and it is believed that Kendall and Hailey are now travelling there to meet her.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3804,7 +3678,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Emily Simms has become The Bachelor contestant fans of the series love to hate but after nasty comments on social media the 31-year-old has told TV WEEK she has been edited to be the villain.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3813,7 +3687,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	David Beckham turned down the chance of joining his Manchester United Class of 92 pals at Salford City to work on winning an MLS franchise in America. Ryan Giggs admits Beckham was invited.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3822,7 +3696,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	SAN FRANCISCO (AP) — Police are searching for a woman who emerged from the icy bay water Wednesday morning wearing a soaking wet black dress and no shoes aft...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -3831,7 +3705,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Next month marks their third wedding anniversary, but one thinks Anne Hathaway and husband Adam Shulman prefer to stay in honeymoon phase.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3840,7 +3714,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Filming for hotly anticipated Captain American: Civil War reached new levels of extreme on Wednesday as the cast filmed a high-intensity action scene at the top of a Berlin building.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3849,7 +3723,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The two-time Oscar winner easily defied her 77 years as she got into character as retired cosmetics mogul Grace Hanson on the set of the Netflix binge-watching favourite
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3858,7 +3732,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Western Australian senator Dean Smith has announced his support for Queensland Liberal National MP Warren Entsch's cross-party bill to legalise same sex marriage.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -3867,7 +3741,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The bizarre claim was made by Edgar Mitchell, the sixth man to walk on the moon, who says UFO eye-witness accounts from high-ranking military officials back up his claims.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3876,7 +3750,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By David Ljunggren OTTAWA, Aug 12 (Reuters) - Canadian Prime Minister Stephen Harper did not know that in order to quiet an ethics scandal his former chief o...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3885,7 +3759,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	CRICKET - Australia have taken a stranglehold of the one-off women's Ashes Test, England bowled out for 168 in reply to the tourists 9 (dec)-274 in which Jes...
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -3894,7 +3768,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	ARLINGTON, Texas (AP) — The latest on the fatal shooting by police in Texas of unarmed college football player Christian Taylor (all times CDT): 3:30 p.m. A ...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -3903,7 +3777,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	After Donald Trump implied that Megyn Kelly has 'blood coming out of her wherever' during last week's GOP debate, women are using #periodsarenotaninsult on Twitter to fire back.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3912,7 +3786,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	WASHINGTON, Aug 12 (Reuters) - The United States launched its first manned air strikes against Islamic State targets from the Incirlik Air Base in Turkey on ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3921,7 +3795,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The Congress had been carrying a loaded gun for more than a fortnight looking for the opportunity to empty the magazine in government’s head. When the moment came, the gun misfired.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3930,7 +3804,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	SAN JOSE, Aug 12 (Reuters) - Costa Rica coach Paulo Wanchope resigned on Wednesday after being involved in a brawl with a security guard at the end of an Oly...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3939,7 +3813,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Samantha Armytage, who fronts the Sunrise programme with David Koch, believed she was in line for the axe ahead of landing her current TV role.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3948,7 +3822,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BUFFALO, N.Y. (AP) — About 20 percent of New York's third- through eighth-graders refused to take the statewide English and math tests given in the spring, t...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3957,7 +3831,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	New Yorker Coby Persin, 21, chatted up three young girls, aged 12, 13, and 14, by pretending to be a 15-year-old who lived nearby. They all agreed to meet him when their parents weren't around.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3966,7 +3840,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Nate Raymond and Joseph Ax NEW YORK, Aug 12 (Reuters) - A Nigerian citizen accused of receiving weapons training from al Qaeda's Yemeni affiliate and writ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3975,7 +3849,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	April King, 35, has been charged with child neglect after police saw the young boy outside Froggers Bar and Grill in Apopka, Florida, blowing into the breathalyzer as his mother avoided doing so.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -3984,7 +3858,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Award-winning Australian actor Vince Colosimo has put his stunning update Victorian terrace on the market. The Underbelly actor completed major renovations on the Melbourne property.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3993,7 +3867,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	From acting as a natural anti-depressant to giving the immune system a boost, we reveal how orgasms are good for your health, happiness and wellbeing.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4002,7 +3876,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	PORTLAND, Ore. (AP) — A suburban Portland, Oregon, man who supplied methamphetamine that was sold on a now-shuttered black market website was sentenced Wedne...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4011,7 +3885,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	AMSTERDAM, Aug 12 (Reuters) - NEC Nijmegen, runaway winners of the Dutch second division last season, marked their return to the top flight with a 1-0 home v...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4020,16 +3894,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Independent senator Jacqui Lambie is unapologetic that her call for parents to get the power to force ice addicted children into rehabilitation is confrontin...
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Serbian championship results and standings
-      </title>
-<description>
-	Aug 12 (Infostrada Sports) - Results and standings from the Serbian championship matches on Wednesday Wednesday, August 12 Borac Cacak 0 Javor 1 Red Star Bel...
-      </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4038,7 +3903,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 30-year-old mum-of-two appeared to be in better shape than ever - and proud too - as she pointed the camera into the mirror to capture a nearly-naked selfie for her 674k followers.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4047,7 +3912,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 30-year-old, who is  travelling around the continent working on front-line conservation projects, showed off his newly-grown stubble as he posed for pictures at a centre in South Africa.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4056,7 +3921,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Aug 12 (Reuters) - Tennis star Maria Sharapova again tops the list of highest earning female athletes over the past year, according to Forbes. For the 11th c...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4065,7 +3930,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By David Gaffen NEW YORK, Aug 12 (Reuters) - Stocks, the U.S. dollar, and emerging market currencies around the world remained under pressure for a second da...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4074,7 +3939,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	LAGOS, Nigeria (AP) — A helicopter traveling from an oil rig crashed into the lagoon in Nigeria's commercial capital, Lagos, killing four people on Wednesday...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4083,7 +3948,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Even playing in one of the world's most popular bands does not stop Kasabian guitarist Serge from being left starstruck, and he was stunned after hearing what Claudio Ranieri had to say.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4092,7 +3957,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Tambra Malone is hoping residents in Evington, Virginia, will attend her  son Tate's 16th birthday party at the community's Chapel Grove Baptist Church to fulfill his wish to be surrounded by others.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4101,7 +3966,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BERLIN (AP) — Switzerland is lifting some sanctions against Iran in what it calls a sign of support for the agreement between Tehran and world powers over it...
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -4110,7 +3975,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	TORONTO, Aug 12 (Reuters) - Second seed Simona Halep shook off the rust and her Wimbledon disappointment, storming into the third round of the Rogers Cup on ...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4119,7 +3984,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Katherine Davis-Young LOS ANGELES, Aug 12 (Reuters) - Three more women accused comedian Bill Cosby of sexual assault on Wednesday, providing detailed alle...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4128,7 +3993,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Allegations of malpractice by staff at British schools are probed in Exposure: Making The Grades, which airs this evening, after some teachers have accused their colleagues of cheating.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -4137,7 +4002,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	A poll of 2,012 mothers revealed that a surprising number had breastfed another woman's child. The Netmums findings showed that suckling a friend's or a sister's baby was most common.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4146,7 +4011,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Keith Coffman DENVER, Aug 12 (Reuters) - Contamination from 3 million gallons (11.3 million liters) of toxic waste that spewed from an abandoned gold mine...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4155,7 +4020,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Gertrude Chavez-Dreyfuss NEW YORK, Aug 12 (Reuters) - Bashing China is a time-honored tradition among U.S. candidates for higher public office, and no one...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4164,7 +4029,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 18-year-old model and her 25-year-old RnB star boyfriend (born Abel Tesfaye) matched in all black as they headed out to West Hollywood's The Nice Guy.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4173,25 +4038,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Islamic State have hacked and compiled the personal information of hundreds of military, political and diplomatic personnel and released it as a chilling hit list - and it includes eight Australians.
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Former U.S. President Carter says he has cancer
-      </title>
-<description>
-	Aug 12 (Reuters) - Former U.S. President Jimmy Carter said on Wednesday that recent liver surgery revealed he had cancer that had spread to other parts of hi...
-      </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Romanian championship results and standings
-      </title>
-<description>
-	Aug 12 (Infostrada Sports) - Results and standings from the Romanian championship matches on Wednesday Wednesday, August 12 FC Astra 2 Steaua Bucharest 0 FCM...
-      </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4200,7 +4047,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	'It’s like top model prison,' says Angelea Preston, who was stripped of her title in 2011 when it was discovered she had briefly worked as an escort. She speaks out for the first time.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4209,25 +4056,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 42-year-old Brit looked breezy as she took her cute pooch out for a walk at the weekend in Malibu, California; looking youthful as she flicked out her brand new long-bob haircut.
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Scottish Premiership results and standings
-      </title>
-<description>
-	Aug 12 (Infostrada Sports) - Results and standings from the Scottish Premiership matches on Wednesday Wednesday, August 12 Hearts 2 Motherwell 0 Inverness Ca...
-      </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Jimmy Carter says he has cancer, revealed by recent surgery
-      </title>
-<description>
-	ATLANTA (AP) — Former U.S. President Jimmy Carter says he has cancer and will undergo treatment at an Atlanta hospital. Carter announced the diagnosis in a s...
-      </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4236,7 +4065,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Mineola, New York, resident Dawn Ardolino Policastro, 40, offered to carry the baby of her identical twin Allison Ardolino Dinkelacker after a battle with cancer made another pregnancy risky.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -4245,7 +4074,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Caroline Valetkevitch Aug 12 (Reuters) - U.S. stocks rebounded in afternoon trading on Wednesday to end little changed as energy shares and Apple rebounde...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4254,7 +4083,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	There are now just over two million stay-at-home mothers in the UK, down from 2.8million 20 years ago, according to the Office for National Statistics.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4263,7 +4092,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	MAIDUGURI, Aug 12 (Reuters) - At least six people have been killed during a raid by Boko Haram militants outside Nigeria's northeastern city Maiduguri in Bor...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4272,7 +4101,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Researchers at the University of California, Berkley found the larger Pacific striped octopus use a hunting technique straight from the school playground (pictured).
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -4281,7 +4110,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Elizabeth Hurley, 50, regal figure on Tuesday as she filmed scenes for The Royals in London.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4290,25 +4119,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Mark Lamport-Stokes KOHLER, Wisconsin, Aug 12 (Reuters) - Camilo Villegas has endured a roller-coaster ride of form since his career-best year on the PGA ...
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Dutch championship results and standings
-      </title>
-<description>
-	Aug 12 (Infostrada Sports) - Results and standings from the Dutch championship matches on Wednesday Wednesday, August 12 Groningen 1 Twente Enschede 1 NEC Ni...
-      </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Dutch championship summaries
-      </title>
-<description>
-	Aug 12 (Infostrada Sports) - Summaries from the Dutch championship matches on Wednesday Wednesday, August 12 NEC Nijmegen 1 Navarone Foor 88 Excelsior 0 Half...
-      </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4317,7 +4128,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The Italian consortium of Parmigiano Reggiano cheese is outraged by the association with PornHub and has accused the website of damaging their product by associating it with 'vile' pornography.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4326,7 +4137,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Don Lock, a keen cyclist, was knifed after a crash involving his car and another vehicle on the A24 at Findon, near Worthing, West Sussex, on July 16.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4335,7 +4146,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	HELENA, Mont. (AP) — Yellowstone National Park officials say preliminary autopsy results confirm that a hiker whose body was found last week was killed by a ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4344,7 +4155,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	BEIJING (AP) — Huge explosions sparked at a warehouse for dangerous material in the northeastern Chinese port of Tianjin have killed at least seven people an...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4353,7 +4164,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	David Conley, 48, who is charged with three counts of capital murder following the mass-shooting in the Houston home on Saturday night, has given two interviews from jail this week.
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4362,7 +4173,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Extending the city's limits isn't a new idea. Columbia University student researchers in 2011 thought up an idea for a land mass between Lower Manhattan and Governors Island (idea pictured).
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -4371,7 +4182,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Sophia's owner, Alyson Payne, pictured, from Leigh, would have done anything to save her beloved dog but vets said the best thing she could do was make her final months comfortable.
       </description>
-<sentiment></sentiment>
+<sentiment>positive</sentiment>
 </item>
 <item>
 <title>
@@ -4380,7 +4191,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The 31-year-old Emmy nominee is a former Marine and Juilliard grad best known for his role as actor/carpenter Adam Sackler on HBO's Girls
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4389,7 +4200,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Australian authorities believe they may have spotted parts of ill-fated plane MH370 on the bottom of the southern Indian Ocean but won't be able to check them for several months.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4398,7 +4209,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The surgery can take osteoarthritis and rheumatoid arthritis patients back to a point in time when they were less disabled, experts from the University of Nebraska Medical Center, found.
       </description>
-<sentiment></sentiment>
+<sentiment>article</sentiment>
 </item>
 <item>
 <title>
@@ -4407,7 +4218,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	ONTARIO, Calif. (AP) — Authorities say several hundred people were evacuated from a terminal at LA/Ontario International Airport after a phony novelty grenad...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4416,7 +4227,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	WASHINGTON, Aug 12 (Reuters) - The United States said on Wednesday it was "deeply concerned" by long prison terms handed down by military courts in Thailand ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4425,7 +4236,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	The parents of a 15-year-old Connecticut boy who killed himself in 2013 filed a wrongful death suit Wednesday against the schools and town government in the ...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4434,7 +4245,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Pedro picked up his 20th winners medal on Tuesday. If United complete the signing of the 28-year-old they will be bringing one of football's most decorated players to the Premier League.
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4443,16 +4254,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	Sophia Bush has opened up on how the shock death of her ex-boyfriend left her  crushed, and revealed her struggle to stay confident despite the 'crazy' pressure put on women in Hollywood.
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Austrian championship results and standings
-      </title>
-<description>
-	Aug 12 (Infostrada Sports) - Results and standings from the Austrian championship matches on Wednesday Wednesday, August 12 Austria Vienna 2 Rapid Vienna 5 A...
-      </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4461,7 +4263,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	OAK BLUFFS, Mass. (AP) — President Barack Obama is set to welcome South Korean President Park Geun-hye (goon-hay) to the White House in October. Obama and Pa...
       </description>
-<sentiment></sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -4470,7 +4272,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	LOWER LAKE, Calif. (AP) — Erratic winds fanned a wildfire burning through rugged hills in Northern California on Wednesday, pushing the flames across two cou...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4479,16 +4281,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	By Omar Fahmy and Igor Ilic CAIRO/ZAGREB, Aug 12 (Reuters) - An Egyptian group allied to Islamic State has published a photograph it said showed the beheaded...
       </description>
-<sentiment></sentiment>
-</item>
-<item>
-<title>
-	Swiss championship results and standings
-      </title>
-<description>
-	Aug 12 (Infostrada Sports) - Results and standings from the Swiss championship matches on Wednesday Wednesday, August 12 Young Boys 0 FC Lugano 1 FC Basel 3 ...
-      </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4497,5 +4290,5 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	JERUSALEM, Aug 12 (Reuters) - Supporters of a hunger-striking Palestinian prisoner clashed with Israeli right-wingers on Wednesday near the hospital where he...
       </description>
-<sentiment></sentiment>
+<sentiment>negative</sentiment>
 </item>

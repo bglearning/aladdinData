@@ -1,25 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>PM Modi, UAE honchos decide to raise up to $75 billion for infrastructure fund</title>
-<description>India and the United Arab Emirates on Monday decided to set up a multi-billion dollar fund to tap into investment opportunities in the country’s infrastructure sector.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/2789d3c4/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236859868049/u/192/f/555218/c/33039/s/2789d3c4/a2.htm"><img src="http://da.feedsportal.com/r/236859868049/u/192/f/555218/c/33039/s/2789d3c4/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236859868049/u/192/f/555218/c/33039/s/2789d3c4/a2t.img" border="0"/></description>
+<description>India and the United Arab Emirates on Monday decided to set up a multi-billion dollar fund to tap into investment opportunities in the country’s infrastructure sector.</description>
 <sentiment>positive</sentiment>
 </item>
 <item>
 <title>Bomb attack in central Bangkok kills 19: Police</title>
-<description>A bomb exploded on Monday outside a religious shrine in a bustling hub of the Thai capital, killing at least 19 people and injuring more than 120 others in an attack authorities said targeted foreigners.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/22c639e0/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236859868050/u/192/f/555218/c/33039/s/22c639e0/a2.htm"><img src="http://da.feedsportal.com/r/236859868050/u/192/f/555218/c/33039/s/22c639e0/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236859868050/u/192/f/555218/c/33039/s/22c639e0/a2t.img" border="0"/></description>
+<description>A bomb exploded on Monday outside a religious shrine in a bustling hub of the Thai capital, killing at least 19 people and injuring more than 120 others in an attack authorities said targeted foreigners.</description>
 <sentiment>negative</sentiment>
 </item>
 <item>
 <title>Discoms inflated dues by Rs 8,000cr: CAG</title>
-<description>The three private power distribution companies (discoms) in the capital inflated their dues to be recovered from consumers by almost Rs 8,000 crore, the Comptroller and Auditor General has said in its report on the discoms and claimed that there is scope for reducing tariffs in the city.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/21dffc11/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236859868051/u/192/f/555218/c/33039/s/21dffc11/a2.htm"><img src="http://da.feedsportal.com/r/236859868051/u/192/f/555218/c/33039/s/21dffc11/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236859868051/u/192/f/555218/c/33039/s/21dffc11/a2t.img" border="0"/></description>
+<description>The three private power distribution companies (discoms) in the capital inflated their dues to be recovered from consumers by almost Rs 8,000 crore, the Comptroller and Auditor General has said in its report on the discoms and claimed that there is scope for reducing tariffs in the city.</description>
 <sentiment>neutral</sentiment>
 </item>
 <item>
 <title>1,260km of Delhi roads to be redesigned</title>
-<description>The Delhi government is embarking on a massive exercise of “redesigning” all roads that are more than 60ft wide.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/28a8ca09/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236859868052/u/192/f/555218/c/33039/s/28a8ca09/a2.htm"><img src="http://da.feedsportal.com/r/236859868052/u/192/f/555218/c/33039/s/28a8ca09/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236859868052/u/192/f/555218/c/33039/s/28a8ca09/a2t.img" border="0"/></description>
+<description>The Delhi government is embarking on a massive exercise of “redesigning” all roads that are more than 60ft wide.</description>
 <sentiment>positive</sentiment>
 </item>
 <item>
 <title>MEA nixed plan to get info on Netaji from Russia</title>
-<description>Classified documents reveal differences between the PMO and external affairs ministry may have killed government’s intention to seek information from the Russian government on Netaji Subhash Bose’s disappearance.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/43cf42e0/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236859868053/u/192/f/555218/c/33039/s/43cf42e0/a2.htm"><img src="http://da.feedsportal.com/r/236859868053/u/192/f/555218/c/33039/s/43cf42e0/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236859868053/u/192/f/555218/c/33039/s/43cf42e0/a2t.img" border="0"/></description>
+<description>Classified documents reveal differences between the PMO and external affairs ministry may have killed government’s intention to seek information from the Russian government on Netaji Subhash Bose’s disappearance.</description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

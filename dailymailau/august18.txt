@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Bangkok bomb blast kills at least 21 near Erawan shrine
@@ -1015,3 +1017,4 @@
       </description>
 <sentiment></sentiment>
 </item>
+</news>

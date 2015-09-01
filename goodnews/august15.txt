@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Son’s Essay Moves Stranger to Buy Family a Wheelchair-Ready Van</title>
 <description><p>A Michigan mother was stunned when she got a phone call telling her a complete stranger was buying her a new wheelchair accessible van–and it’s all thanks to her son’s essay praising his deserving mom. Michelle Garn had been struggling to start her van so she could get it to </p>
@@ -138,3 +140,4 @@
 </description>
 <sentiment>positive</sentiment>
 </item>
+</news>

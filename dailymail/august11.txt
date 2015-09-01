@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Auva'a, Turner to return for Rabbitohs
@@ -4378,3 +4380,4 @@ trade officials since April 2010 and every top-ranking officeholder was targeted
       </description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

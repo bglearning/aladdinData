@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Bumble Bee to pay $6million after death of worker accidentally cooked in a 270-degree oven with six tons of canned tuna
@@ -1205,3 +1207,4 @@ Okinawa.
       </description>
 <sentiment></sentiment>
 </item>
+</news>

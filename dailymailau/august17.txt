@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Tick of It's Chris Langham says: 'My ego led me to download child pornography'
@@ -970,3 +972,4 @@
       </description>
 <sentiment></sentiment>
 </item>
+</news>

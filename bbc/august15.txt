@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Japan and S Korea remember WW2</title>
 <description>Japan and South Korea are marking 70 years since the end of WW2, when Japan's surrender freed Korea from a 35-year occupation.</description>
@@ -293,3 +295,4 @@
 <description>The grannies who sent 200 cards on their first ever holiday</description>
 <sentiment>article</sentiment>
 </item>
+</news>

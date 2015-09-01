@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	FBI seize Hillary’s emails after finding she had two messages classified as 'above top secret' on private server
@@ -1528,3 +1530,4 @@
       </description>
 <sentiment></sentiment>
 </item>
+</news>

@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Bulletproof, Fireproof, Eco-friendly Homes Are Made of Plastic Bottles</title>
 <description><p>People from Africa to Latin America are recycling bottles and using them to build fireproof, bulletproof, environmentally-friendly homes. For about a quarter the cost of a conventional home, folks can build a two-bedroom house from 14,000 recycled plastic bottles by using the technique known as “bottle walls.” Teen’s Device to Clear Plastic </p>
@@ -138,3 +140,4 @@
 </description>
 <sentiment>positive</sentiment>
 </item>
+</news>

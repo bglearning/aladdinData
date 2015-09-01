@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Michael Clarke hits out at reports WAGS distracted Australian cricket team at Ashes
@@ -925,3 +927,4 @@
       </description>
 <sentiment></sentiment>
 </item>
+</news>

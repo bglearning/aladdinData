@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Africa Celebrates One Year Without A Single New Case of Polio</title>
 <description><p>August 11 marked one year since the last wild polio case was detected anywhere on the entire continent of Africa. Although it does not yet merit an official polio-free certification, the milestone reminds everyone at the United Nations and the Kick Polio Out of Africa Campaign of the important progress </p>
@@ -138,3 +140,4 @@
 </description>
 <sentiment>positive</sentiment>
 </item>
+</news>

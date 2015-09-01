@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Video of shark under surfers shows how close they came to being dinner 
@@ -954,3 +956,4 @@ other units.
       </description>
 <sentiment></sentiment>
 </item>
+</news>

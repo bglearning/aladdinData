@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Jesinta Campbell reveals how she got THOSE abs for David Jones fashion launch
@@ -871,3 +873,4 @@
       </description>
 <sentiment></sentiment>
 </item>
+</news>

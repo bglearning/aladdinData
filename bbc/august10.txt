@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Activist for Mexico's missing killed</title>
 <description>A leading Mexican activist who helped families search for missing relatives, including 43 students who disappeared last year, is killed.</description>
@@ -293,3 +295,4 @@
 <description>The 'not racist' comment - and more trends of the week</description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

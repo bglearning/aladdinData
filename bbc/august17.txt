@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Egypt imposes new anti-terror laws</title>
 <description>Egyptian President Abdul Fattah al-Sisi approves stringent new counter-terror laws to fight the country's growing Islamist insurgency.</description>
@@ -248,3 +250,4 @@
 <description>Waiting for the ship that could save a man's life</description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

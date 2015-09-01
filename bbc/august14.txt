@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Chemical team probes China blast site</title>
 <description>The Chinese army sends more than 200 specialists in handling chemicals to Tianjin, where two explosions have left 50 dead and 700 injured, state media report.</description>
@@ -293,3 +295,4 @@
 <description>What web address did Google miss out on?</description>
 <sentiment>article</sentiment>
 </item>
+</news>

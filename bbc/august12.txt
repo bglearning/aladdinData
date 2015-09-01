@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Asia stocks down as yuan again lower</title>
 <description>Asian shares are lower as China's central bank cuts the value of the yuan against the dollar for a second consecutive day.</description>
@@ -303,3 +305,4 @@
 <description>Women 'live-tweet' periods in response to Republican candidate</description>
 <sentiment>article</sentiment>
 </item>
+</news>

@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Donald Trump's wife Melania Trump would be the First Lady to pose in the NUDE
@@ -1105,3 +1107,4 @@
       </description>
 <sentiment></sentiment>
 </item>
+</news>

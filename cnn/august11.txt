@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Meet the men who work down here</title>
 <description></description>
@@ -123,3 +125,4 @@
 <description>At 20,237 feet, Alaska's Mount McKinley (also known as Denali) is the highest mountain in North America.</description>
 <sentiment>article</sentiment>
 </item>
+</news>

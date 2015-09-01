@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Astronaut Reveals His 1969 Customs Form: Places Visited – “Moon”</title>
 <description><p>46 years after men first walked on the moon, we are reminded that while rocket fuel powered the Apollo 11 spacecraft, governments still run on paperwork. Buzz Aldrin, the second man to walk on the moon, still has the US Customs form from his return trip back to Earth and </p>
@@ -138,3 +140,4 @@
 </description>
 <sentiment>positive</sentiment>
 </item>
+</news>

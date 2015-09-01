@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Anne Hathaway displays her perfectly toned bikini body as she continues holiday in Ibiza with husband Adam Shulman
@@ -4498,3 +4500,4 @@
       </description>
 <sentiment></sentiment>
 </item>
+</news>

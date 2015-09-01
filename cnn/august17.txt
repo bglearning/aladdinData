@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Sri Lanka goes to the polls: Why it matters</title>
 <description><br clear='all'/><br/><br/><a href="http://rc.feedsportal.com/r/234567239262/u/192/f/676993/c/35494/s/49095955/sc/39/rc/1/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567239262/u/192/f/676993/c/35494/s/49095955/sc/39/rc/1/rc.img" border="0"/></a><br/><br/><a href="http://rc.feedsportal.com/r/234567239262/u/192/f/676993/c/35494/s/49095955/sc/39/rc/2/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567239262/u/192/f/676993/c/35494/s/49095955/sc/39/rc/2/rc.img" border="0"/></a><br/><br/><a href="http://rc.feedsportal.com/r/234567239262/u/192/f/676993/c/35494/s/49095955/sc/39/rc/3/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567239262/u/192/f/676993/c/35494/s/49095955/sc/39/rc/3/rc.img" border="0"/></a><img width='1' height='1' src='http://rss.cnn.com/c/35494/f/676993/s/49095955/sc/39/mf.gif' border='0'/></description>
@@ -122,3 +124,4 @@
 <description>Wildfires continued to ravage three western states Sunday, with scores of homes and cabins lost, and many more menaced by flames.<br clear='all'/><br/><br/><a href="http://rc.feedsportal.com/r/234567305858/u/192/f/676993/c/35494/s/49061abb/sc/31/rc/1/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567305858/u/192/f/676993/c/35494/s/49061abb/sc/31/rc/1/rc.img" border="0"/></a><br/><br/><a href="http://rc.feedsportal.com/r/234567305858/u/192/f/676993/c/35494/s/49061abb/sc/31/rc/2/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567305858/u/192/f/676993/c/35494/s/49061abb/sc/31/rc/2/rc.img" border="0"/></a><br/><br/><a href="http://rc.feedsportal.com/r/234567305858/u/192/f/676993/c/35494/s/49061abb/sc/31/rc/3/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567305858/u/192/f/676993/c/35494/s/49061abb/sc/31/rc/3/rc.img" border="0"/></a><img width='1' height='1' src='http://rss.cnn.com/c/35494/f/676993/s/49061abb/sc/31/mf.gif' border='0'/></description>
 <sentiment>negative</sentiment>
 </item>
+</news>

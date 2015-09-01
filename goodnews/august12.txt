@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Robin Williams’ Compassion Lives On Through Son’s Service in Prisons</title>
 <description><p>A year after Robin Williams’ death, his son Zak is carrying on the comedian’s legacy of humanitarian service. The actor’s oldest child is using his business education to teach prison inmates how to manage their finances after they’re released. Zak Williams, by his own estimate, could have coasted through life, </p>
@@ -138,3 +140,4 @@
 </description>
 <sentiment>positive</sentiment>
 </item>
+</news>

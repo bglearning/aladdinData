@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>School Police Officer Adopts 6-yo Boy Who Seemed ‘Unadoptable’</title>
 <description><p>Students in this South Carolina school district are taught from an early age that police officers are their friends, thanks to a resource-officer program that brings cops into classrooms. For a lucky foster kid, one policeman turned into more than just a friend. Master Deputy Mike Gibson went from working at the District 6 Child </p>
@@ -138,3 +140,4 @@
 </description>
 <sentiment>positive</sentiment>
 </item>
+</news>

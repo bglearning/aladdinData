@@ -1,25 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>ISIS link: Lens on Gulf students studying in Uttar Pradesh</title>
-<description>Commissioner asks DMs, SSPs to look out for students spending more than what their families earn<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/84a5d67/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236854856708/u/192/f/555218/c/33039/s/84a5d67/a2.htm"><img src="http://da.feedsportal.com/r/236854856708/u/192/f/555218/c/33039/s/84a5d67/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236854856708/u/192/f/555218/c/33039/s/84a5d67/a2t.img" border="0"/></description>
+<description>Commissioner asks DMs, SSPs to look out for students spending more than what their families earn</description>
 <sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Live: Modi in UAE's Masdar, a zero-carbon city</title>
-<description><img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/2a8cf655/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236854856709/u/192/f/555218/c/33039/s/2a8cf655/a2.htm"><img src="http://da.feedsportal.com/r/236854856709/u/192/f/555218/c/33039/s/2a8cf655/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236854856709/u/192/f/555218/c/33039/s/2a8cf655/a2t.img" border="0"/></description>
+<description></description>
 <sentiment>neutral</sentiment>
 </item>
 <item>
 <title>UAE allots land for first temple in Abu Dhabi</title>
-<description>On the occasion of PM Narendra Modi's visit, a long wait for Indian community in UAE ended as the government there announced its decision to allot land for building a temple in Abu Dhabi.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/5f7a2e69/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236854856710/u/192/f/555218/c/33039/s/5f7a2e69/a2.htm"><img src="http://da.feedsportal.com/r/236854856710/u/192/f/555218/c/33039/s/5f7a2e69/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236854856710/u/192/f/555218/c/33039/s/5f7a2e69/a2t.img" border="0"/></description>
+<description>On the occasion of PM Narendra Modi's visit, a long wait for Indian community in UAE ended as the government there announced its decision to allot land for building a temple in Abu Dhabi.</description>
 <sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Want to see UAE as top ally in trade: PM Modi</title>
-<description>PM Narendra Modi on Sunday said he wanted to see UAE emerge as India’s foremost partner in trade and counterterror measures.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/1555d680/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236854856711/u/192/f/555218/c/33039/s/1555d680/a2.htm"><img src="http://da.feedsportal.com/r/236854856711/u/192/f/555218/c/33039/s/1555d680/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236854856711/u/192/f/555218/c/33039/s/1555d680/a2t.img" border="0"/></description>
+<description>PM Narendra Modi on Sunday said he wanted to see UAE emerge as India’s foremost partner in trade and counterterror measures.</description>
 <sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Lahiri finishes tied fifth at PGA Championship</title>
-<description>Indian golfer Anirban Lahiri created history and scaled new highs by finishing at a creditable fifth position on Sunday in the PGA Championship.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/1cb3a317/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236854856712/u/192/f/555218/c/33039/s/1cb3a317/a2.htm"><img src="http://da.feedsportal.com/r/236854856712/u/192/f/555218/c/33039/s/1cb3a317/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236854856712/u/192/f/555218/c/33039/s/1cb3a317/a2t.img" border="0"/></description>
+<description>Indian golfer Anirban Lahiri created history and scaled new highs by finishing at a creditable fifth position on Sunday in the PGA Championship.</description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

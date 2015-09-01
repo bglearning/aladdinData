@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Americans Can Donate AC Units to Seniors Who Can’t Afford Repairs</title>
 <description><p>Instead of roasting in the oppressive heat of a Mississippi summer, an 81-year-old woman is breathing easier thanks to a donated air conditioner. It’s more than just a cool thing to do. Donating an air conditioner, new or used, can save someone’s life. John Armstrong of the Harrison County Senior Resource </p>
@@ -138,3 +140,4 @@
 </description>
 <sentiment>positive</sentiment>
 </item>
+</news>

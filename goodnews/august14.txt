@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Sign Up This Ball Girl Who Made Amazing Catch During Game (WATCH)</title>
 <description><p>It was the Major League Baseball play of the day — but the athlete wasn’t even on a team. A San Diego Padres ball girl casually snatched a ripping foul ball out of the air before it could fly into the stands, then nonchalantly tossed it to a kid in </p>
@@ -138,3 +140,4 @@
 </description>
 <sentiment>positive</sentiment>
 </item>
+</news>

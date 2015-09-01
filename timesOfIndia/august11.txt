@@ -1,25 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>India-born Sundar Pichai is new CEO of Google</title>
-<description>India-born Sundar Pichai was named CEO of Google on Tuesday by the company’s founders Larry Page and Sergei Brin in course of a re-organization that created a mother company called Alphabet.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/52ef1fb6/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236853592195/u/192/f/555218/c/33039/s/52ef1fb6/a2.htm"><img src="http://da.feedsportal.com/r/236853592195/u/192/f/555218/c/33039/s/52ef1fb6/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236853592195/u/192/f/555218/c/33039/s/52ef1fb6/a2t.img" border="0"/></description>
+<description>India-born Sundar Pichai was named CEO of Google on Tuesday by the company’s founders Larry Page and Sergei Brin in course of a re-organization that created a mother company called Alphabet.</description>
 <sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Lok Sabha set for slugfest over LaMo today</title>
-<description>Samajwadi Party chief Mulayam Singh Yadav’s outburst against Parliament being held to ransom to the whims of one party took Congress by surprise on Monday and opened the doors to a possible discussion on ‘Lalitgate’ and foreign minister Sushma Swaraj.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/1af8aac6/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236853592196/u/192/f/555218/c/33039/s/1af8aac6/a2.htm"><img src="http://da.feedsportal.com/r/236853592196/u/192/f/555218/c/33039/s/1af8aac6/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236853592196/u/192/f/555218/c/33039/s/1af8aac6/a2t.img" border="0"/></description>
+<description>Samajwadi Party chief Mulayam Singh Yadav’s outburst against Parliament being held to ransom to the whims of one party took Congress by surprise on Monday and opened the doors to a possible discussion on ‘Lalitgate’ and foreign minister Sushma Swaraj.</description>
 <sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Was Gujarat riots 'Mangal raj', Nitish asks PM</title>
-<description>CM Nitish Kumar on Sunday raised the issue of Gujarat riots of 2002, hours after PM Modi warned about the return of "jungle raj" in Bihar if JD(U)-RJD alliance were to come to power after the assembly elections, while addressing a rally at Gaya.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/6f422b51/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236853592197/u/192/f/555218/c/33039/s/6f422b51/a2.htm"><img src="http://da.feedsportal.com/r/236853592197/u/192/f/555218/c/33039/s/6f422b51/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236853592197/u/192/f/555218/c/33039/s/6f422b51/a2t.img" border="0"/></description>
+<description>CM Nitish Kumar on Sunday raised the issue of Gujarat riots of 2002, hours after PM Modi warned about the return of "jungle raj" in Bihar if JD(U)-RJD alliance were to come to power after the assembly elections, while addressing a rally at Gaya.</description>
 <sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Govt lists GST Bill for passage in RS today</title>
-<description>The government will on Tuesday bring the much-awaited bill on GST for passage in the Rajya Sabha.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/2aa80b0/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236853592198/u/192/f/555218/c/33039/s/2aa80b0/a2.htm"><img src="http://da.feedsportal.com/r/236853592198/u/192/f/555218/c/33039/s/2aa80b0/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236853592198/u/192/f/555218/c/33039/s/2aa80b0/a2t.img" border="0"/></description>
+<description>The government will on Tuesday bring the much-awaited bill on GST for passage in the Rajya Sabha.</description>
 <sentiment>positive</sentiment>
 </item>
 <item>
 <title>‘Just 4 of 26 hanged since ’91 Muslims’</title>
-<description>Just four of the 26 persons executed in India since 1991 belonged to the Muslim community, and yet a perception has been created by some media channels in the aftermath of the hanging of Yakub Memon that members of the minority community are being targeted, said government sources.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/3b9ee86e/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236853592199/u/192/f/555218/c/33039/s/3b9ee86e/a2.htm"><img src="http://da.feedsportal.com/r/236853592199/u/192/f/555218/c/33039/s/3b9ee86e/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236853592199/u/192/f/555218/c/33039/s/3b9ee86e/a2t.img" border="0"/></description>
+<description>Just four of the 26 persons executed in India since 1991 belonged to the Muslim community, and yet a perception has been created by some media channels in the aftermath of the hanging of Yakub Memon that members of the minority community are being targeted, said government sources.</description>
 <sentiment>negative</sentiment>
 </item>
+</news>

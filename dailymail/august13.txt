@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Hotel staff at Turkish resort packed with British holidaymakers stage mock ISIS attack with fake guns and cans of 'fuel' just six weeks after Tunisian beach massacre
@@ -111,7 +113,7 @@
 	Taylor Swift posts ridiculous snaps of Cara Delevingne to celebrate her 23rd birthday
       </title>
 <description>
-	The 25-year-old revealed in the caption that the birthday girl 'regularly steals my phone & does this.' Cara has been flooded with countless well wishes from fans online.
+	The 25-year-old revealed in the caption that the birthday girl 'regularly steals my phone and does this.' Cara has been flooded with countless well wishes from fans online.
       </description>
 <sentiment>neutral</sentiment>
 </item>
@@ -4292,3 +4294,4 @@ But it seems that Kyle Sandilands is very proud of his figure.
       </description>
 <sentiment>negative</sentiment>
 </item>
+</news>

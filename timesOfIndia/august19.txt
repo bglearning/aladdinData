@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Nitish, Kejriwal share stage in Delhi; slam Centre's interference</title>
 <description>Speaking at Bihar Samman Sammaroh as chief guest on the invitation of Arvind Kejriwal, Nitish slammed the Centre for interfering with the states.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/551d5a53/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236868038667/u/192/f/555218/c/33039/s/551d5a53/a2.htm"><img src="http://da.feedsportal.com/r/236868038667/u/192/f/555218/c/33039/s/551d5a53/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236868038667/u/192/f/555218/c/33039/s/551d5a53/a2t.img" border="0"/></description>
@@ -23,3 +25,4 @@
 <description>The global e-commerce industry generates over $1.2 million every 30 seconds, with a major chunk of the sector's revenue being cornered through social media, says a joint study by Assocham-Deloitte.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/28190ed6/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236868038671/u/192/f/555218/c/33039/s/28190ed6/a2.htm"><img src="http://da.feedsportal.com/r/236868038671/u/192/f/555218/c/33039/s/28190ed6/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236868038671/u/192/f/555218/c/33039/s/28190ed6/a2t.img" border="0"/></description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Man v. marmot! Panicked man desperately tries to get confused rodent out of his home by swearing at him and calling him 'Dude'
@@ -1077,7 +1079,7 @@
 <description>
 	WASHINGTON (AP) — A knife-wielding woman who was shot by a District of Columbia police officer has been charged with assault and arson. Police announced char...
       </description>
-<sentiment>positive</sentiment>
+<sentiment>negative</sentiment>
 </item>
 <item>
 <title>
@@ -4185,3 +4187,4 @@ But, to look at Simon Cowell, there's little evidence of that - especially as he
       </description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

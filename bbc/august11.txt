@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Japan restarts Sendai nuclear plant</title>
 <description>Japan has restarted its first nuclear reactor under new safety rules since all plants were shut down after the 2011 Fukushima disaster.</description>
@@ -134,7 +136,7 @@
 <sentiment>neutral</sentiment>
 </item>
 <item>
-<title>Premier League & NBC agree new deal</title>
+<title>Premier League and NBC agree new deal</title>
 <description>The Premier League announces a new deal with American broadcaster NBC to show live football matches for the next six years.</description>
 <sentiment>neutral</sentiment>
 </item>
@@ -293,3 +295,4 @@
 <description>When living abroad costs you your vote</description>
 <sentiment>article</sentiment>
 </item>
+</news>

@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Bangkok bomber 'is part of network'</title>
 <description>The bomb attack that killed 20 people at Bangkok's Erawan shrine on Monday was carried out by a "network", Thailand's chief of police says.</description>
@@ -303,3 +305,4 @@
 <description>The French law that will force supermarkets to give food away</description>
 <sentiment>article</sentiment>
 </item>
+</news>

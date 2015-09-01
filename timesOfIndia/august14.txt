@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>After ‘Act East’ push, PM Narendra Modi sets sights on West Asia</title>
 <description>Following “Act East” and an energetic Central Asia yatra, Prime Minister Narendra Modi is preparing to plunge into West Asia and Gulf — a part of India’s neighborhood that many have accused him of neglecting.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/1b40801d/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236837843997/u/192/f/555218/c/33039/s/1b40801d/a2.htm"><img src="http://da.feedsportal.com/r/236837843997/u/192/f/555218/c/33039/s/1b40801d/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236837843997/u/192/f/555218/c/33039/s/1b40801d/a2t.img" border="0"/></description>
@@ -23,3 +25,4 @@
 <description>A key input mentioned in the August 7 advisory addressed to state chief secretaries and DGPs, pointed to al-Qaida’s plans to target BJP offices, apart from commercial, aviation, tourist and railway facilities.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/31053769/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236837844001/u/192/f/555218/c/33039/s/31053769/a2.htm"><img src="http://da.feedsportal.com/r/236837844001/u/192/f/555218/c/33039/s/31053769/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236837844001/u/192/f/555218/c/33039/s/31053769/a2t.img" border="0"/></description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

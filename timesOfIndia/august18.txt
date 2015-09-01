@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>PM Modi, UAE honchos decide to raise up to $75 billion for infrastructure fund</title>
 <description>India and the United Arab Emirates on Monday decided to set up a multi-billion dollar fund to tap into investment opportunities in the country’s infrastructure sector.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/2789d3c4/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236859868049/u/192/f/555218/c/33039/s/2789d3c4/a2.htm"><img src="http://da.feedsportal.com/r/236859868049/u/192/f/555218/c/33039/s/2789d3c4/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236859868049/u/192/f/555218/c/33039/s/2789d3c4/a2t.img" border="0"/></description>
@@ -23,3 +25,4 @@
 <description>Classified documents reveal differences between the PMO and external affairs ministry may have killed government’s intention to seek information from the Russian government on Netaji Subhash Bose’s disappearance.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/43cf42e0/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236859868053/u/192/f/555218/c/33039/s/43cf42e0/a2.htm"><img src="http://da.feedsportal.com/r/236859868053/u/192/f/555218/c/33039/s/43cf42e0/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236859868053/u/192/f/555218/c/33039/s/43cf42e0/a2t.img" border="0"/></description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

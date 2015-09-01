@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Bangkok bomb 'targeted foreigners'</title>
 <description>Thailand's defence minister says an attack on a Bangkok shrine that killed at least 21 people deliberately targeted foreigners.</description>
@@ -288,3 +290,4 @@
 <description>What was in his huge collection of audio cassettes?</description>
 <sentiment>article</sentiment>
 </item>
+</news>

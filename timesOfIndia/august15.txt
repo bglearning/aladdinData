@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Live: Not even one allegation of corruption against my govt, PM Modi says</title>
 <description><img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/318328cf/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236876123437/u/192/f/555218/c/33039/s/318328cf/a2.htm"><img src="http://da.feedsportal.com/r/236876123437/u/192/f/555218/c/33039/s/318328cf/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236876123437/u/192/f/555218/c/33039/s/318328cf/a2t.img" border="0"/></description>
@@ -23,3 +25,4 @@
 <description><img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/685611c3/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236876123441/u/192/f/555218/c/33039/s/685611c3/a2.htm"><img src="http://da.feedsportal.com/r/236876123441/u/192/f/555218/c/33039/s/685611c3/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236876123441/u/192/f/555218/c/33039/s/685611c3/a2t.img" border="0"/></description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

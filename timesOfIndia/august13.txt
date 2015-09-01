@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Terminator redux? Robot kills a man in a factory at Haryana's Manesar</title>
 <description>This one’s straight out of a Terminator film. Sharp welding sticks jutting out of the robotic arm of a machine pierced a worker killing him at a factory here on Wednesday.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/13313734/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236860468901/u/192/f/555218/c/33039/s/13313734/a2.htm"><img src="http://da.feedsportal.com/r/236860468901/u/192/f/555218/c/33039/s/13313734/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236860468901/u/192/f/555218/c/33039/s/13313734/a2t.img" border="0"/></description>
@@ -23,3 +25,4 @@
 <description>With increasing prevalence of life-style diseases in India, one out of four Indians is at risk of dying from non-communicable diseases like diabetes, cardio-vascular ailments or cancer before the age of 70, according to estimates of various global and domestic organizations.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/207788f1/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236860468905/u/192/f/555218/c/33039/s/207788f1/a2.htm"><img src="http://da.feedsportal.com/r/236860468905/u/192/f/555218/c/33039/s/207788f1/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236860468905/u/192/f/555218/c/33039/s/207788f1/a2t.img" border="0"/></description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Man v. marmot! Panicked man desperately tries to get confused rodent out of his home by swearing at him and calling him 'Dude'
@@ -174,7 +176,7 @@
 	NY man says it's difficult to have sex after his toe was cut during pedicure
       </title>
 <description>
-	A New York man says it's 'extremely difficult' to have sex after his toe was cut with a banned tool during a pedicure. Steven Clarke is suing Lilac Nail & Spa for getting a botched pedicure last summer.
+	A New York man says it's 'extremely difficult' to have sex after his toe was cut with a banned tool during a pedicure. Steven Clarke is suing Lilac Nail and Spa for getting a botched pedicure last summer.
       </description>
 <sentiment>negative</sentiment>
 </item>
@@ -1544,7 +1546,7 @@ But, to look at Simon Cowell, there's little evidence of that - especially as he
 	MALAYSIA PRESS-Malaysia's Themed Attractions ready to float shares-New Straits Times
       </title>
 <description>
-	Malaysia's Themed Attractions Resorts & Hotels Sdn Bhd is ready to float its shares on the local bourse after amassing development in its portfolio valued at...
+	Malaysia's Themed Attractions Resorts and Hotels Sdn Bhd is ready to float its shares on the local bourse after amassing development in its portfolio valued at...
       </description>
 <sentiment>neutral</sentiment>
 </item>
@@ -2693,10 +2695,10 @@ But, to look at Simon Cowell, there's little evidence of that - especially as he
 </item>
 <item>
 <title>
-	Dolce & Gabbana's new dress a five-year-old can make for £58
+	Dolce and Gabbana's new dress a five-year-old can make for £58
       </title>
 <description>
-	Charlotte Kemp and her daughter Martha, 5, love Dolce & Gabbana's new collection of dresses covered in children's drawings but don't fancy splashing out £2,300. So they scribble their own.
+	Charlotte Kemp and her daughter Martha, 5, love Dolce and Gabbana's new collection of dresses covered in children's drawings but don't fancy splashing out £2,300. So they scribble their own.
       </description>
 <sentiment>neutral</sentiment>
 </item>
@@ -4185,3 +4187,4 @@ But, to look at Simon Cowell, there's little evidence of that - especially as he
       </description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

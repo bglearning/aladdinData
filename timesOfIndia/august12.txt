@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Doctor panics, flees; stand-in punctures Mumbai man's wrong lung, kills him</title>
 <description>A first-year resident doctor at Sion Hospital, suffering from a panic attack, ran away from a busy ward last Tuesday, unleashing a chain of events that ended in the death of a patient.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/7fa882de/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236859423580/u/192/f/555218/c/33039/s/7fa882de/a2.htm"><img src="http://da.feedsportal.com/r/236859423580/u/192/f/555218/c/33039/s/7fa882de/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236859423580/u/192/f/555218/c/33039/s/7fa882de/a2t.img" border="0"/></description>
@@ -23,3 +25,4 @@
 <description>In 2004, Sundar Pichai was trying to persuade one of his colleagues at management consultancy McKinsey not to leave the firm to join Google.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/2935baa7/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236859423584/u/192/f/555218/c/33039/s/2935baa7/a2.htm"><img src="http://da.feedsportal.com/r/236859423584/u/192/f/555218/c/33039/s/2935baa7/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236859423584/u/192/f/555218/c/33039/s/2935baa7/a2t.img" border="0"/></description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

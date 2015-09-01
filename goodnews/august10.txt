@@ -1,7 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Astronaut Reveals His 1969 Customs Form: Places Visited – “Moon”</title>
 <description><p>46 years after men first walked on the moon, we are reminded that while rocket fuel powered the Apollo 11 spacecraft, governments still run on paperwork. Buzz Aldrin, the second man to walk on the moon, still has the US Customs form from his return trip back to Earth and </p>
-<p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/buzz-aldrin-reveals-his-1969-customs-form-for-the-moon/">Astronaut Reveals His 1969 Customs Form: Places Visited &#8211; “Moon”</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
+<p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/buzz-aldrin-reveals-his-1969-customs-form-for-the-moon/">Astronaut Reveals His 1969 Customs Form: Places Visited 8211; “Moon”</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
 </item>
@@ -14,7 +16,7 @@
 </item>
 <item>
 <title>Comfortable High Heels For Women Designed by Orthopedic Nurse</title>
-<description><p>Uncomfortable high heels in your closet may soon get the boot, once you&#8217;ve seen the innovative shoes by an orthopedic nurse turned Italian shoe designer. The defining step came for Julie Lopez at her daughter’s wedding when her feet, which have bunions, hurt so much she ended up going barefoot </p>
+<description><p>Uncomfortable high heels in your closet may soon get the boot, once you  8217;ve seen the innovative shoes by an orthopedic nurse turned Italian shoe designer. The defining step came for Julie Lopez at her daughter’s wedding when her feet, which have bunions, hurt so much she ended up going barefoot </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/comfortable-high-heels-women-designed-orthopedic-nurse/">Comfortable High Heels For Women Designed by Orthopedic Nurse</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
@@ -35,7 +37,7 @@
 </item>
 <item>
 <title>Good News in History, August 9</title>
-<description><p>On this day 85 years ago, the cartoon character Betty Boop made her first appearance. Created by Max Fleischer as a caricature of a Jazz age flapper for his animated Talkartoon series, she became one of the best-known and popular cartoon characters in the world. Watch a clip&#8230; (1930) (From </p>
+<description><p>On this day 85 years ago, the cartoon character Betty Boop made her first appearance. Created by Max Fleischer as a caricature of a Jazz age flapper for his animated Talkartoon series, she became one of the best-known and popular cartoon characters in the world. Watch a clip 8230; (1930) (From </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/events060809/">Good News in History, August 9</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
@@ -49,7 +51,7 @@
 </item>
 <item>
 <title>Record Number of Tourists Flocking to Greece Provide Needed Cash</title>
-<description><p>Despite the economic crisis in Greece that brought it to the brink of leaving the Euro–or perhaps because of it, in a show of support–millions of tourists are flocking to Athens providing a needed boost for local businesses. Aegean Airlines, Greece&#8217;s largest airline, told Reuters that passenger traffic was up </p>
+<description><p>Despite the economic crisis in Greece that brought it to the brink of leaving the Euro–or perhaps because of it, in a show of support–millions of tourists are flocking to Athens providing a needed boost for local businesses. Aegean Airlines, Greece 8217;s largest airline, told Reuters that passenger traffic was up </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/crisis-comfort-tourists-flocking-to-greece/">Record Number of Tourists Flocking to Greece Provide Needed Cash</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
@@ -91,7 +93,7 @@
 </item>
 <item>
 <title>Study Shows Drinking Coffee Could Cut Risk of Diabetes by Half</title>
-<description><p>&#160; Besides a jolt of caffeine to get you through your day, a long-term study shows that coffee may have additional ‘perks’… Researchers say an inflammation-lowering effect of the beverage could be the reason coffee drinkers were 54 percent less likely to develop type 2 diabetes as non-coffee drinkers, as </p>
+<description><p>160; Besides a jolt of caffeine to get you through your day, a long-term study shows that coffee may have additional ‘perks’… Researchers say an inflammation-lowering effect of the beverage could be the reason coffee drinkers were 54 percent less likely to develop type 2 diabetes as non-coffee drinkers, as </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/study-shows-drinking-coffee-could-cut-risk-of-diabetes-by-half/">Study Shows Drinking Coffee Could Cut Risk of Diabetes by Half</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
@@ -99,7 +101,7 @@
 <item>
 <title>Stranger’s Facebook Post Spurs Kindness for Widowed Dad -WATCH</title>
 <description><p>Last week, a father was shocked by the kindness that rained down on him, courtesy of a fellow parent and the strangers she rallied on Facebook. Marc Sable had just lost his wife, Belinda, 28, to ovarian cancer, and as an overnight custodian was wondering how he was possibly going to provide for </p>
-<p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/strangers-facebook-post-spurs-kindness-for-widowed-dad-watch/">Stranger&#8217;s Facebook Post Spurs Kindness for Widowed Dad -WATCH</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
+<p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/strangers-facebook-post-spurs-kindness-for-widowed-dad-watch/">Stranger8217;s Facebook Post Spurs Kindness for Widowed Dad -WATCH</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
 </item>
@@ -126,8 +128,8 @@
 </item>
 <item>
 <title>Beyond Carrot Sticks: Serve Great Party Foods That Don’t Pack on Pounds</title>
-<description><p>When you&#8217;re watching what you eat, party can sound like a four letter word. Have no fear: if you&#8217;re throwing the shindig yourself—or attending someone else’s— nibbles nutritionist Tanya Zuckerbrot gave us these suggestions to keep you on a nutritious, yet yummy, track. OUT: Crab Cakes   IN: Shrimp Cocktail Classic crab </p>
-<p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/beyond-carrot-sticks-serve-great-party-foods-that-dont-pack-on-pounds/">Beyond Carrot Sticks: Serve Great Party Foods That Don&#8217;t Pack on Pounds</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
+<description><p>When you 8217;re watching what you eat, party can sound like a four letter word. Have no fear: if you 8217;re throwing the shindig yourself—or attending someone else’s— nibbles nutritionist Tanya Zuckerbrot gave us these suggestions to keep you on a nutritious, yet yummy, track. OUT: Crab Cakes   IN: Shrimp Cocktail Classic crab </p>
+<p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/beyond-carrot-sticks-serve-great-party-foods-that-dont-pack-on-pounds/">Beyond Carrot Sticks: Serve Great Party Foods That Don 8217;t Pack on Pounds</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
 </item>
@@ -138,3 +140,4 @@
 </description>
 <sentiment>positive</sentiment>
 </item>
+</news>

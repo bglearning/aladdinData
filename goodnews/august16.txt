@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>There’s a Green Sanctuary Atop NYC’s Largest Convention Center</title>
 <description><p>Atop a 17-story building in Manhattan lies a hidden sanctuary of sorts – a green space about the size of five football fields to harbor wildlife, save energy, and divert storm runoff. What was once the biggest bird-killer in the city was transformed into a lush habitat–transparent glass into inviting greenery. Susan Elbin, head of </p>
@@ -138,3 +140,4 @@
 </description>
 <sentiment>positive</sentiment>
 </item>
+</news>

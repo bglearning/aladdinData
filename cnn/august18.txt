@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Battle for marriage equality is far from over</title>
 <description><br clear='all'/><br/><br/><a href="http://rc.feedsportal.com/r/234567390551/u/192/f/676993/c/35494/s/4910cd45/sc/14/rc/1/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567390551/u/192/f/676993/c/35494/s/4910cd45/sc/14/rc/1/rc.img" border="0"/></a><br/><br/><a href="http://rc.feedsportal.com/r/234567390551/u/192/f/676993/c/35494/s/4910cd45/sc/14/rc/2/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567390551/u/192/f/676993/c/35494/s/4910cd45/sc/14/rc/2/rc.img" border="0"/></a><br/><br/><a href="http://rc.feedsportal.com/r/234567390551/u/192/f/676993/c/35494/s/4910cd45/sc/14/rc/3/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567390551/u/192/f/676993/c/35494/s/4910cd45/sc/14/rc/3/rc.img" border="0"/></a><img width='1' height='1' src='http://rss.cnn.com/c/35494/f/676993/s/4910cd45/sc/14/mf.gif' border='0'/></description>
@@ -118,3 +120,4 @@
 <description>Authorities triggered an emergency response on Monday -- including barring all incoming traffic -- at a South Carolina nuclear site because of what was described as "a potential security event."<br clear='all'/><br/><br/><a href="http://rc.feedsportal.com/r/234567380851/u/192/f/676993/c/35494/s/490fbaca/sc/7/rc/1/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567380851/u/192/f/676993/c/35494/s/490fbaca/sc/7/rc/1/rc.img" border="0"/></a><br/><br/><a href="http://rc.feedsportal.com/r/234567380851/u/192/f/676993/c/35494/s/490fbaca/sc/7/rc/2/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567380851/u/192/f/676993/c/35494/s/490fbaca/sc/7/rc/2/rc.img" border="0"/></a><br/><br/><a href="http://rc.feedsportal.com/r/234567380851/u/192/f/676993/c/35494/s/490fbaca/sc/7/rc/3/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567380851/u/192/f/676993/c/35494/s/490fbaca/sc/7/rc/3/rc.img" border="0"/></a><img width='1' height='1' src='http://rss.cnn.com/c/35494/f/676993/s/490fbaca/sc/7/mf.gif' border='0'/></description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

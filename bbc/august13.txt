@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Massive blasts hit north China city</title>
 <description>At least 17 people are killed and hundreds injured, state media report, as huge explosions rock the northern Chinese port city of Tianjin.</description>
@@ -283,3 +285,4 @@
 <description>Are Hindu nationalists a danger to other Indians?</description>
 <sentiment>article</sentiment>
 </item>
+</news>

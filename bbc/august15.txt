@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Japan and S Korea remember WW2</title>
 <description>Japan and South Korea are marking 70 years since the end of WW2, when Japan's surrender freed Korea from a 35-year occupation.</description>
@@ -149,8 +151,8 @@
 <sentiment>neutral</sentiment>
 </item>
 <item>
-<title>V&A costing 'not robust enough'</title>
-<description>A review into the £80m price tag of Dundee's V&A museum concludes that the way the costs were estimated was not "sufficiently robust".</description>
+<title>VnA costing 'not robust enough'</title>
+<description>A review into the £80m price tag of Dundee's VnA museum concludes that the way the costs were estimated was not "sufficiently robust".</description>
 <sentiment>neutral</sentiment>
 </item>
 <item>
@@ -174,7 +176,7 @@
 <sentiment>neutral</sentiment>
 </item>
 <item>
-<title>Day & Jones lead when play abandoned</title>
+<title>Day and Jones lead when play abandoned</title>
 <description>Australians Jason Day and Matt Jones are tied for the lead at the US PGA Championship as a storm sees the second round abandoned.</description>
 <sentiment>neutral</sentiment>
 </item>
@@ -293,3 +295,4 @@
 <description>The grannies who sent 200 cards on their first ever holiday</description>
 <sentiment>article</sentiment>
 </item>
+</news>

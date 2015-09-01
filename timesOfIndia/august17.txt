@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>ISIS link: Lens on Gulf students studying in Uttar Pradesh</title>
 <description>Commissioner asks DMs, SSPs to look out for students spending more than what their families earn<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/84a5d67/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236854856708/u/192/f/555218/c/33039/s/84a5d67/a2.htm"><img src="http://da.feedsportal.com/r/236854856708/u/192/f/555218/c/33039/s/84a5d67/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236854856708/u/192/f/555218/c/33039/s/84a5d67/a2t.img" border="0"/></description>
@@ -23,3 +25,4 @@
 <description>Indian golfer Anirban Lahiri created history and scaled new highs by finishing at a creditable fifth position on Sunday in the PGA Championship.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/1cb3a317/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236854856712/u/192/f/555218/c/33039/s/1cb3a317/a2.htm"><img src="http://da.feedsportal.com/r/236854856712/u/192/f/555218/c/33039/s/1cb3a317/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236854856712/u/192/f/555218/c/33039/s/1cb3a317/a2t.img" border="0"/></description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

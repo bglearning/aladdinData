@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Bulletproof, Fireproof, Eco-friendly Homes Are Made of Plastic Bottles</title>
 <description><p>People from Africa to Latin America are recycling bottles and using them to build fireproof, bulletproof, environmentally-friendly homes. For about a quarter the cost of a conventional home, folks can build a two-bedroom house from 14,000 recycled plastic bottles by using the technique known as “bottle walls.” Teen’s Device to Clear Plastic </p>
@@ -7,7 +9,7 @@
 </item>
 <item>
 <title>4 Year-old Advertises to be Flower Girl and Lands a Wedding at Courthouse</title>
-<description><p>A four-year-old girl made a wish and her mom devised a brilliant plan to make it come true. It would involve a fancy dress, a basket of flowers, and a sign that read: “Can I be your flower girl?” Don&#8217;t worry. Her mother didn&#8217;t suggest she stand in the streets–not this </p>
+<description><p>A four-year-old girl made a wish and her mom devised a brilliant plan to make it come true. It would involve a fancy dress, a basket of flowers, and a sign that read: “Can I be your flower girl?” Dont worry. Her mother didnt suggest she stand in the streets–not this </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/4-year-old-advertises-to-be-flower-girl-and-lands-a-wedding-at-courthouse/">4 Year-old Advertises to be Flower Girl and Lands a Wedding at Courthouse</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
@@ -22,7 +24,7 @@
 <item>
 <title>Elderly Man’s Home is Repainted by Strangers After Kids Make Fun Of It</title>
 <description><p>Leonard Bullock is one of those guys who sits on his porch every day. And a railroad track inspector named Josh Cyganik has made it a point to wave to the 75-year-old every day for four years. Josh and his fellow workers begin every day in the railroad yard across the street from Leonard’s </p>
-<p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/elderly-mans-home-is-repainted-by-strangers-after-kids-make-fun-of-it/">Elderly Man&#8217;s Home is Repainted by Strangers After Kids Make Fun Of It</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
+<p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/elderly-mans-home-is-repainted-by-strangers-after-kids-make-fun-of-it/">Elderly Mans Home is Repainted by Strangers After Kids Make Fun Of It</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
 </item>
@@ -35,14 +37,14 @@
 </item>
 <item>
 <title>Swipe Right For Unconditional Love: App Pairs You With Adoptable Pets</title>
-<description><p>Wouldn&#8217;t it be nice if you knew that whoever you “swiped right” for would love you back, unconditionally? With the new AllPaws app, that nicety is a reality. The app, available for iPhone and iPad, helps prospective pet owners filter through adoptable pups and kittens in shelters across the U.S. and </p>
+<description><p>Wouldnt it be nice if you knew that whoever you “swiped right” for would love you back, unconditionally? With the new AllPaws app, that nicety is a reality. The app, available for iPhone and iPad, helps prospective pet owners filter through adoptable pups and kittens in shelters across the U.S. and </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/swipe-right-on-app-that-pairs-you-with-adoptable-pets/">Swipe Right For Unconditional Love: App Pairs You With Adoptable Pets</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
 </item>
 <item>
 <title>National S’mores Day: Animal Activists Now Have Vegan Marshmallows</title>
-<description><p>Vegans now have a gelatin-free marshmallow to celebrate with on National S&#8217;mores Day. Besides being vegan, Dandies are the first non-GMO verified marshmallows on the market, and are produced in a facility free of dairy, eggs, peanuts, tree-nuts, and, of course, gelatin. They are also free of artificial ingredients, high </p>
+<description><p>Vegans now have a gelatin-free marshmallow to celebrate with on National Smores Day. Besides being vegan, Dandies are the first non-GMO verified marshmallows on the market, and are produced in a facility free of dairy, eggs, peanuts, tree-nuts, and, of course, gelatin. They are also free of artificial ingredients, high </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/on-national-smores-day-vegan-marshmallows-are-here/">National S’mores Day: Animal Activists Now Have Vegan Marshmallows</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
@@ -57,7 +59,7 @@
 <item>
 <title>Astronaut Reveals His 1969 Customs Form: Places Visited – “Moon”</title>
 <description><p>46 years after men first walked on the moon, we are reminded that while rocket fuel powered the Apollo 11 spacecraft, governments still run on paperwork. Buzz Aldrin, the second man to walk on the moon, still has the US Customs form from his return trip back to Earth and </p>
-<p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/buzz-aldrin-reveals-his-1969-customs-form-for-the-moon/">Astronaut Reveals His 1969 Customs Form: Places Visited &#8211; “Moon”</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
+<p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/buzz-aldrin-reveals-his-1969-customs-form-for-the-moon/">Astronaut Reveals His 1969 Customs Form: Places Visited  “Moon”</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
 </item>
@@ -70,7 +72,7 @@
 </item>
 <item>
 <title>Comfortable High Heels For Women Designed by Orthopedic Nurse</title>
-<description><p>Uncomfortable high heels in your closet may soon get the boot, once you&#8217;ve seen the innovative shoes by an orthopedic nurse turned Italian shoe designer. The defining step came for Julie Lopez at her daughter’s wedding when her feet, which have bunions, hurt so much she ended up going barefoot </p>
+<description><p>Uncomfortable high heels in your closet may soon get the boot, once you 8217;ve seen the innovative shoes by an orthopedic nurse turned Italian shoe designer. The defining step came for Julie Lopez at her daughter’s wedding when her feet, which have bunions, hurt so much she ended up going barefoot </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/comfortable-high-heels-women-designed-orthopedic-nurse/">Comfortable High Heels For Women Designed by Orthopedic Nurse</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
@@ -91,7 +93,7 @@
 </item>
 <item>
 <title>Good News in History, August 9</title>
-<description><p>On this day 85 years ago, the cartoon character Betty Boop made her first appearance. Created by Max Fleischer as a caricature of a Jazz age flapper for his animated Talkartoon series, she became one of the best-known and popular cartoon characters in the world. Watch a clip&#8230; (1930) (From </p>
+<description><p>On this day 85 years ago, the cartoon character Betty Boop made her first appearance. Created by Max Fleischer as a caricature of a Jazz age flapper for his animated Talkartoon series, she became one of the best-known and popular cartoon characters in the world. Watch a clip8230; (1930) (From </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/events060809/">Good News in History, August 9</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
@@ -105,7 +107,7 @@
 </item>
 <item>
 <title>Record Number of Tourists Flocking to Greece Provide Needed Cash</title>
-<description><p>Despite the economic crisis in Greece that brought it to the brink of leaving the Euro–or perhaps because of it, in a show of support–millions of tourists are flocking to Athens providing a needed boost for local businesses. Aegean Airlines, Greece&#8217;s largest airline, told Reuters that passenger traffic was up </p>
+<description><p>Despite the economic crisis in Greece that brought it to the brink of leaving the Euro–or perhaps because of it, in a show of support–millions of tourists are flocking to Athens providing a needed boost for local businesses. Aegean Airlines, Greece8217;s largest airline, told Reuters that passenger traffic was up </p>
 <p>The post <a rel="nofollow" href="http://www.goodnewsnetwork.org/crisis-comfort-tourists-flocking-to-greece/">Record Number of Tourists Flocking to Greece Provide Needed Cash</a> appeared first on <a rel="nofollow" href="http://www.goodnewsnetwork.org">Good News Network</a>.</p>
 </description>
 <sentiment>positive</sentiment>
@@ -138,3 +140,4 @@
 </description>
 <sentiment>positive</sentiment>
 </item>
+</news>

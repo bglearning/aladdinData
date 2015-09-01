@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>India-born Sundar Pichai is new CEO of Google</title>
 <description>India-born Sundar Pichai was named CEO of Google on Tuesday by the company’s founders Larry Page and Sergei Brin in course of a re-organization that created a mother company called Alphabet.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/52ef1fb6/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236853592195/u/192/f/555218/c/33039/s/52ef1fb6/a2.htm"><img src="http://da.feedsportal.com/r/236853592195/u/192/f/555218/c/33039/s/52ef1fb6/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236853592195/u/192/f/555218/c/33039/s/52ef1fb6/a2t.img" border="0"/></description>
@@ -23,3 +25,4 @@
 <description>Just four of the 26 persons executed in India since 1991 belonged to the Muslim community, and yet a perception has been created by some media channels in the aftermath of the hanging of Yakub Memon that members of the minority community are being targeted, said government sources.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/3b9ee86e/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236853592199/u/192/f/555218/c/33039/s/3b9ee86e/a2.htm"><img src="http://da.feedsportal.com/r/236853592199/u/192/f/555218/c/33039/s/3b9ee86e/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236853592199/u/192/f/555218/c/33039/s/3b9ee86e/a2t.img" border="0"/></description>
 <sentiment>negative</sentiment>
 </item>
+</news>

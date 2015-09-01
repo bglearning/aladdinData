@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>RSS is on a roll: Number of shakhas up 61% in 5 years</title>
 <description>A bunch of lively schoolboys form a circle around an authoritative 12-year-old in khaki shorts and a superman T-shirt at a Navi Mumbai maidan on a weekday night.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/5b083fb3/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236871899167/u/192/f/555218/c/33039/s/5b083fb3/a2.htm"><img src="http://da.feedsportal.com/r/236871899167/u/192/f/555218/c/33039/s/5b083fb3/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236871899167/u/192/f/555218/c/33039/s/5b083fb3/a2t.img" border="0"/></description>
@@ -23,3 +25,4 @@
 <description>After weeks of being under opposition attack for not acting against his allegedly corrupt colleagues, Prime Minister Narendra Modi used his Independence Day speech to return fire.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/427d6a27/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/236871899171/u/192/f/555218/c/33039/s/427d6a27/a2.htm"><img src="http://da.feedsportal.com/r/236871899171/u/192/f/555218/c/33039/s/427d6a27/a2.img" border="0"/></a><img width="1" height="1" src="http://pi.feedsportal.com/r/236871899171/u/192/f/555218/c/33039/s/427d6a27/a2t.img" border="0"/></description>
 <sentiment>neutral</sentiment>
 </item>
+</news>

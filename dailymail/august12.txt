@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>
 	Malcolm Turnbull defies Prime Minister Tony Abbott on same-sex marriage vote, refusing to back a referendum on the issue
@@ -2514,10 +2516,10 @@ One in ten of the 18 to 25-year-olds said they had never even read a novel.
 </item>
 <item>
 <title>
-	Athletics-USA Track & Field refutes allegation by athlete
+	Athletics-USA Track and Field refutes allegation by athlete
       </title>
 <description>
-	Aug 11 (Reuters) - USA Track & Field (USATF) on Tuesday released a detailed breakdown of how it spends its money in response to an allegation made by runner ...
+	Aug 11 (Reuters) - USA Track and Field (USATF) on Tuesday released a detailed breakdown of how it spends its money in response to an allegation made by runner ...
       </description>
 <sentiment>neutral</sentiment>
 </item>
@@ -2730,7 +2732,7 @@ One in ten of the 18 to 25-year-olds said they had never even read a novel.
 </item>
 <item>
 <title>
-	New Tate & Lyle leaves sour taste
+	New Tate and Lyle leaves sour taste
       </title>
 <description>
 	Bakers say the icing sugar  needs sieving much more and have called on the firm to revert back to its original formula. They claim it is now almost impossible to produce intricate designs.
@@ -3297,10 +3299,10 @@ One in ten of the 18 to 25-year-olds said they had never even read a novel.
 </item>
 <item>
 <title>
-	M&S's new clothing boss rings womenswear changes
+	M and S's new clothing boss rings womenswear changes
       </title>
 <description>
-	LONDON, Aug 11 (Reuters) - Marks & Spencer, Britain's biggest clothing retailer, has parted company with its head of womenswear less than a month after the b...
+	LONDON, Aug 11 (Reuters) - Marks and Spencer, Britain's biggest clothing retailer, has parted company with its head of womenswear less than a month after the b...
       </description>
 <sentiment>neutral</sentiment>
 </item>
@@ -4330,3 +4332,4 @@ One in ten of the 18 to 25-year-olds said they had never even read a novel.
       </description>
 <sentiment>negative</sentiment>
 </item>
+</news>

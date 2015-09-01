@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
 <item>
 <title>Japan short on contrition?</title>
 <description><br clear='all'/><br/><br/><a href="http://rc.feedsportal.com/r/234567198848/u/192/f/676993/c/35494/s/4902fba8/sc/11/rc/1/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567198848/u/192/f/676993/c/35494/s/4902fba8/sc/11/rc/1/rc.img" border="0"/></a><br/><br/><a href="http://rc.feedsportal.com/r/234567198848/u/192/f/676993/c/35494/s/4902fba8/sc/11/rc/2/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567198848/u/192/f/676993/c/35494/s/4902fba8/sc/11/rc/2/rc.img" border="0"/></a><br/><br/><a href="http://rc.feedsportal.com/r/234567198848/u/192/f/676993/c/35494/s/4902fba8/sc/11/rc/3/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567198848/u/192/f/676993/c/35494/s/4902fba8/sc/11/rc/3/rc.img" border="0"/></a><img width='1' height='1' src='http://rss.cnn.com/c/35494/f/676993/s/4902fba8/sc/11/mf.gif' border='0'/></description>
@@ -123,3 +125,4 @@
 <description><br clear='all'/><br/><br/><a href="http://rc.feedsportal.com/r/234567150692/u/192/f/676993/c/35494/s/48f8e9c6/sc/28/rc/1/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567150692/u/192/f/676993/c/35494/s/48f8e9c6/sc/28/rc/1/rc.img" border="0"/></a><br/><br/><a href="http://rc.feedsportal.com/r/234567150692/u/192/f/676993/c/35494/s/48f8e9c6/sc/28/rc/2/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567150692/u/192/f/676993/c/35494/s/48f8e9c6/sc/28/rc/2/rc.img" border="0"/></a><br/><br/><a href="http://rc.feedsportal.com/r/234567150692/u/192/f/676993/c/35494/s/48f8e9c6/sc/28/rc/3/rc.htm" rel="nofollow"><img src="http://rc.feedsportal.com/r/234567150692/u/192/f/676993/c/35494/s/48f8e9c6/sc/28/rc/3/rc.img" border="0"/></a><img width='1' height='1' src='http://rss.cnn.com/c/35494/f/676993/s/48f8e9c6/sc/28/mf.gif' border='0'/></description>
 <sentiment>article</sentiment>
 </item>
+</news>

@@ -1205,7 +1205,7 @@ other units.
 	Oscar for wine snobbery goes to Emma Thompson writes SEBASTIAN SHAKESPEARE
       </title>
 <description>
-	The 56-year-old actress extols expensive vintages in a foreword to a new book, exploring & Tasting Wine, by Berry Bros & Rudd, writes SEBASTIAN SHAKESPEARE.
+	The 56-year-old actress extols expensive vintages in a foreword to a new book, exploring and Tasting Wine, by Berry Bros and Rudd, writes SEBASTIAN SHAKESPEARE.
       </description>
 <sentiment>neutral</sentiment>
 </item>
@@ -2943,7 +2943,7 @@ other units.
 	Iggy Azalea delivers a racy performance on Lip Sync Battle
       </title>
 <description>
-	In a new episode of the show which airs on August 13, the 25-year-old gives a very raunchy performance of '90s R&B hit Freak Me by Silk.
+	In a new episode of the show which airs on August 13, the 25-year-old gives a very raunchy performance of '90s R and B hit Freak Me by Silk.
       </description>
 <sentiment>neutral</sentiment>
 </item>
@@ -3264,7 +3264,7 @@ other units.
 </item>
 <item>
 <title>
-	Astronaut Chris Hadfield's hilarious response on Q&A whether he got travel expenses
+	Astronaut Chris Hadfield's hilarious response on Q and A whether he got travel expenses
       </title>
 <description>
 	Canadian astronaut Chris Hadfield would be one incredibly wealthy man if he could claim travel allowance for the 166 days that he time spent in space.
@@ -3611,7 +3611,7 @@ trade officials since April 2010 and every top-ranking officeholder was targeted
 	US STOCKS-Wall St rallies with energy, materials; Google jumps after the bell
       </title>
 <description>
-	By Caroline Valetkevitch Aug 10 (Reuters) - U.S. stocks climbed on Monday, giving the S&P 500 its biggest increase since May as indexes rebounded sharply fro...
+	By Caroline Valetkevitch Aug 10 (Reuters) - U.S. stocks climbed on Monday, giving the S and P 500 its biggest increase since May as indexes rebounded sharply fro...
       </description>
 <sentiment>neutral</sentiment>
 </item>
@@ -4187,7 +4187,7 @@ trade officials since April 2010 and every top-ranking officeholder was targeted
 	US STOCKS-Wall St jumps with energy, materials; Berkshire deal a boost
       </title>
 <description>
-	By Caroline Valetkevitch Aug 10 (Reuters) - U.S. stocks climbed on Monday, giving the S&P 500 its biggest gain since May as indexes bounced back sharply from...
+	By Caroline Valetkevitch Aug 10 (Reuters) - U.S. stocks climbed on Monday, giving the S and P 500 its biggest gain since May as indexes bounced back sharply from...
       </description>
 <sentiment>neutral</sentiment>
 </item>

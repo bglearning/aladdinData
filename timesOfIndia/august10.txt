@@ -2,12 +2,12 @@
 <news>
 <item>
 <title>11 killed, 50 injured in temple stampede in Jharkhand</title>
-<description>"Ten men and a woman died as the devotees tried to overtake each other around 4 am," Deputy Commissioner of police, Deogarh Amit Kumar told PTI.<img width='1' height='1' src='http://rss.feedsportal.com/c/33039/f/555218/p/1/s/491ebfc2/sc/3/mf.gif' border='0'/><br/><br/><a href="http://da.feedsportal.com/r/233139106320/u/192/f/555218/c/33039/s/491ebfc2/a2.htm"></description>
+<description>"Ten men and a woman died as the devotees tried to overtake each other around 4 am," Deputy Commissioner of police, Deogarh Amit Kumar told PTI.</description>
 <sentiment>negative</sentiment>
 </item>
 <item>
 <title>More Kashmiri youths joining militants: Cops</title>
-<description>The surge in terrorist activity in Jammu & Kashmir in recent weeks coincides with an increasing number of local youth joining the ranks of the militants, say the Army and the state police.</description>
+<description>The surge in terrorist activity in Jammu and Kashmir in recent weeks coincides with an increasing number of local youth joining the ranks of the militants, say the Army and the state police.</description>
 <sentiment>negative</sentiment>
 </item>
 <item>

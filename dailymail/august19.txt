@@ -698,7 +698,7 @@
 	Steven Tyler to headline music festival with country band
       </title>
 <description>
-	NASHVILLE, Tenn. (AP) — Aerosmith's Steven Tyler will be performing with country band Loving Mary next month at the inaugural Pilgrimage Music & Cultural Fes...
+	NASHVILLE, Tenn. (AP) — Aerosmith's Steven Tyler will be performing with country band Loving Mary next month at the inaugural Pilgrimage Music and Cultural Fes...
       </description>
 <sentiment></sentiment>
 </item>

@@ -136,7 +136,7 @@
 <sentiment>neutral</sentiment>
 </item>
 <item>
-<title>Premier League & NBC agree new deal</title>
+<title>Premier League and NBC agree new deal</title>
 <description>The Premier League announces a new deal with American broadcaster NBC to show live football matches for the next six years.</description>
 <sentiment>neutral</sentiment>
 </item>

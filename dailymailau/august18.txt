@@ -74,10 +74,10 @@
 </item>
 <item>
 <title>
-	Australia's marriage equality debate heats up again on ABC's Q&A
+	Australia's marriage equality debate heats up again on ABC's QnA
       </title>
 <description>
-	Australian politicians Sam Dastyari and Richard Di Natale have clashed with traditional marriage advocates on ABC's Q&A, as the debate surrounding marriage equality.
+	Australian politicians Sam Dastyari and Richard Di Natale have clashed with traditional marriage advocates on ABC's QnA, as the debate surrounding marriage equality.
       </description>
 <sentiment></sentiment>
 </item>

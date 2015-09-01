@@ -151,8 +151,8 @@
 <sentiment>neutral</sentiment>
 </item>
 <item>
-<title>V&A costing 'not robust enough'</title>
-<description>A review into the £80m price tag of Dundee's V&A museum concludes that the way the costs were estimated was not "sufficiently robust".</description>
+<title>V and A costing 'not robust enough'</title>
+<description>A review into the £80m price tag of Dundee's VnA museum concludes that the way the costs were estimated was not "sufficiently robust".</description>
 <sentiment>neutral</sentiment>
 </item>
 <item>
@@ -176,7 +176,7 @@
 <sentiment>neutral</sentiment>
 </item>
 <item>
-<title>Day & Jones lead when play abandoned</title>
+<title>Day and Jones lead when play abandoned</title>
 <description>Australians Jason Day and Matt Jones are tied for the lead at the US PGA Championship as a storm sees the second round abandoned.</description>
 <sentiment>neutral</sentiment>
 </item>

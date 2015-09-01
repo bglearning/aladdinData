@@ -33,7 +33,7 @@
 <item>
 <title>Shanghai's new breed of 'speakeasy' bars</title>
 <description>Drinking in Shanghai is fun.</description>
-<sentiment><neutral/sentiment>
+<sentiment>neutral</sentiment>
 </item>
 <item>
 <title>Astronauts eat first 'home-grown' food</title>

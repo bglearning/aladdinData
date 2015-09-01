@@ -427,7 +427,7 @@ other units.
 </item>
 <item>
 <title>
-	Astronaut Chris Hadfield's hilarious response on Q&A whether he got travel expenses
+	Astronaut Chris Hadfield's hilarious response on QnA whether he got travel expenses
       </title>
 <description>
 	Canadian astronaut Chris Hadfield would be one incredibly wealthy man if he could claim travel allowance for the 166 days that he time spent in space.

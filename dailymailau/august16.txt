@@ -101,10 +101,10 @@
 </item>
 <item>
 <title>
-	AT&T 'helped U.S. NSA to spy on internet traffic': Edward Snowden reveals documents suggesting telecommunications powerhouse assisted spy agency
+	AT and T 'helped U.S. NSA to spy on internet traffic': Edward Snowden reveals documents suggesting telecommunications powerhouse assisted spy agency
       </title>
 <description>
-	The company supposedly gave technical assistance  in carrying out a secret court order allowing wiretapping of communications at the UN headquarters, an AT&T customer.
+	The company supposedly gave technical assistance  in carrying out a secret court order allowing wiretapping of communications at the UN headquarters, an ATnT customer.
       </description>
 <sentiment></sentiment>
 </item>

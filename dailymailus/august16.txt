@@ -119,10 +119,10 @@
 </item>
 <item>
 <title>
-	AT&T 'helped U.S. NSA to spy on internet traffic': Edward Snowden reveals documents suggesting telecommunications powerhouse assisted spy agency
+	ATnT 'helped U.S. NSA to spy on internet traffic': Edward Snowden reveals documents suggesting telecommunications powerhouse assisted spy agency
       </title>
 <description>
-	The company supposedly gave technical assistance  in carrying out a secret court order allowing wiretapping of communications at the UN headquarters, an AT&T customer.
+	The company supposedly gave technical assistance  in carrying out a secret court order allowing wiretapping of communications at the UN headquarters, an ATnT customer.
       </description>
 <sentiment></sentiment>
 </item>
@@ -365,7 +365,7 @@
 	Parachutists 'seriously injured' during Chicago's Air and Water Show
       </title>
 <description>
-	Two male parachutists were seriously injured during the Chicago Air & Water Show on Saturday. Both men were taken to Northwestern Memorial Hospital in serious-to-critical condition.
+	Two male parachutists were seriously injured during the Chicago Air and Water Show on Saturday. Both men were taken to Northwestern Memorial Hospital in serious-to-critical condition.
       </description>
 <sentiment></sentiment>
 </item>
@@ -803,10 +803,10 @@
 </item>
 <item>
 <title>
-	Girl with Down syndrome takes center stage in precious Livie & Luca campaign
+	Girl with Down syndrome takes center stage in precious Livie and Luca campaign
       </title>
 <description>
-	Four-year-old Cora Slocum from Martinez, California, is the star of a back-to-school campaign for children's shoe company Livie & Luca, with the company saying she is 'born to shine'
+	Four-year-old Cora Slocum from Martinez, California, is the star of a back-to-school campaign for children's shoe company Livie and Luca, with the company saying she is 'born to shine'
       </description>
 <sentiment></sentiment>
 </item>

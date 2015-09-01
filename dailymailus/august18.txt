@@ -556,7 +556,7 @@ in eastern Pennsylvania.
 	Nick Gordon breaks silence following Bobbi Kristina's death with emotional tweet
       </title>
 <description>
-	'I'm so happy/blessed that I had @REALbkBrown in my life. i will always & forever love you,' Gordon tweeted on Monday. The daughter of Whitney Houston died on July 26 in Georgia.
+	'I'm so happy/blessed that I had @REALbkBrown in my life. i will always and forever love you,' Gordon tweeted on Monday. The daughter of Whitney Houston died on July 26 in Georgia.
       </description>
 <sentiment></sentiment>
 </item>

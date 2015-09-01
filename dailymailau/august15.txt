@@ -470,10 +470,10 @@
 </item>
 <item>
 <title>
-	Girl with Down syndrome takes center stage in precious Livie & Luca campaign
+	Girl with Down syndrome takes center stage in precious Livie and Luca campaign
       </title>
 <description>
-	Four-year-old Cora Slocum from Martinez, California, is the star of a back-to-school campaign for children's shoe company Livie & Luca, with the company saying she is 'born to shine'
+	Four-year-old Cora Slocum from Martinez, California, is the star of a back-to-school campaign for children's shoe company Livie and Luca, with the company saying she is 'born to shine'
       </description>
 <sentiment></sentiment>
 </item>

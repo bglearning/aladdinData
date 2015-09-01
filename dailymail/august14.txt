@@ -560,10 +560,10 @@
 </item>
 <item>
 <title>
-	Britain's 20 most romantic hotels and B&Bs
+	Britain's 20 most romantic hotels and B and Bs
       </title>
 <description>
-	All this week, we’ve been revealing the Glories of Secret Britain in a series of articles. Today, Alastair Sawday reveals his 20 favourite unsung hotels and B&Bs.
+	All this week, we’ve been revealing the Glories of Secret Britain in a series of articles. Today, Alastair Sawday reveals his 20 favourite unsung hotels and BnBs.
       </description>
 <sentiment>article</sentiment>
 </item>
@@ -3305,10 +3305,10 @@
 </item>
 <item>
 <title>
-	Daryl Hall of Hall & Oates is slapped with divorce papers from Amanda Aspinall
+	Daryl Hall of Hall and Oates is slapped with divorce papers from Amanda Aspinall
       </title>
 <description>
-	Hall & Oates has been doing well, currently touring through North America, but Daryl Hall, 68, has just been received divorce papers from his wife Amanda Aspinall.
+	Hall and Oates has been doing well, currently touring through North America, but Daryl Hall, 68, has just been received divorce papers from his wife Amanda Aspinall.
       </description>
 <sentiment>neutral</sentiment>
 </item>
@@ -3845,7 +3845,7 @@
 </item>
 <item>
 <title>
-	Fund manager Q&A: Real estate funds can rebound
+	Fund manager QnA: Real estate funds can rebound
       </title>
 <description>
 	LOS ANGELES (AP) — It's a great time to be a landlord. You just wouldn't know it by looking at how real estate investment trusts are faring this year. Demand...

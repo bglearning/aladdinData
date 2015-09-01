@@ -569,10 +569,10 @@
 </item>
 <item>
 <title>
-	AT&T 'helped U.S. NSA to spy on internet traffic': Edward Snowden reveals documents suggesting telecommunications powerhouse assisted spy agency
+	ATnT 'helped U.S. NSA to spy on internet traffic': Edward Snowden reveals documents suggesting telecommunications powerhouse assisted spy agency
       </title>
 <description>
-	The company supposedly gave technical assistance  in carrying out a secret court order allowing wiretapping of communications at the UN headquarters, an AT&T customer.
+	The company supposedly gave technical assistance  in carrying out a secret court order allowing wiretapping of communications at the UN headquarters, an ATnT customer.
       </description>
 <sentiment></sentiment>
 </item>
@@ -2194,7 +2194,7 @@ But there was no sign of her when actress Michelle Dockery arrived at the last-e
 	Parachutists 'seriously injured' during Chicago's Air and Water Show
       </title>
 <description>
-	Two male parachutists were seriously injured during the Chicago Air & Water Show on Saturday. Both men were taken to Northwestern Memorial Hospital in serious-to-critical condition.
+	Two male parachutists were seriously injured during the Chicago Air and Water Show on Saturday. Both men were taken to Northwestern Memorial Hospital in serious-to-critical condition.
       </description>
 <sentiment></sentiment>
 </item>
@@ -2641,10 +2641,10 @@ But there was no sign of her when actress Michelle Dockery arrived at the last-e
 </item>
 <item>
 <title>
-	Documents reveal details behind AT&T-NSA partnership
+	Documents reveal details behind ATnT-NSA partnership
       </title>
 <description>
-	WASHINGTON (AP) — Under a decades-old program with the government, telecom giant AT&T in 2003 led the way on a new collection capability that the National Se...
+	WASHINGTON (AP) — Under a decades-old program with the government, telecom giant ATnT in 2003 led the way on a new collection capability that the National Se...
       </description>
 <sentiment></sentiment>
 </item>
@@ -2767,7 +2767,7 @@ But there was no sign of her when actress Michelle Dockery arrived at the last-e
 </item>
 <item>
 <title>
-	Pakistan trying to destabilise J&K government says Singh
+	Pakistan trying to destabilise JnK government says Singh
       </title>
 <description>
 	The Jammu and Kashmir Deputy Chief Minister alleged that Pakistan wants to destabilise the BJP-PDP coalition government in the state, because it is baffled by the alliance.
@@ -3541,10 +3541,10 @@ But there was no sign of her when actress Michelle Dockery arrived at the last-e
 </item>
 <item>
 <title>
-	2 parachutists injured at Chicago Air & Water Show
+	2 parachutists injured at Chicago Air and Water Show
       </title>
 <description>
-	CHICAGO (AP) — Two parachutists were seriously injured Saturday during the Chicago Air & Water Show, including one who witnesses say clipped the top of a hig...
+	CHICAGO (AP) — Two parachutists were seriously injured Saturday during the Chicago Air and Water Show, including one who witnesses say clipped the top of a hig...
       </description>
 <sentiment></sentiment>
 </item>
@@ -3847,10 +3847,10 @@ But there was no sign of her when actress Michelle Dockery arrived at the last-e
 </item>
 <item>
 <title>
-	AT&T helped U.S. NSA in spying on Internet traffic -N.Y. Times
+	ATnT helped U.S. NSA in spying on Internet traffic -N.Y. Times
       </title>
 <description>
-	WASHINGTON, Aug 15 (Reuters) - Telecommunications powerhouse AT&T Inc has provided extensive assistance to the U.S. National Security Agency as the spy agenc...
+	WASHINGTON, Aug 15 (Reuters) - Telecommunications powerhouse ATnT Inc has provided extensive assistance to the U.S. National Security Agency as the spy agenc...
       </description>
 <sentiment></sentiment>
 </item>

@@ -3173,7 +3173,7 @@
 	Brussels orders that Fairy liquid bottles should carry a warning that it's an irritant
       </title>
 <description>
-	Bosses at Procter & Gamble, which makes Fairy Liquid, pictured, are said to be furious about the new bureaucratic legislation from EU politicians forcing it to be labelled as hazardous.
+	Bosses at Procter and Gamble, which makes Fairy Liquid, pictured, are said to be furious about the new bureaucratic legislation from EU politicians forcing it to be labelled as hazardous.
       </description>
 <sentiment></sentiment>
 </item>
@@ -3197,10 +3197,10 @@
 </item>
 <item>
 <title>
-	Girl with Down syndrome takes center stage in precious Livie & Luca campaign
+	Girl with Down syndrome takes center stage in precious Livie and Luca campaign
       </title>
 <description>
-	Four-year-old Cora Slocum from Martinez, California, is the star of a back-to-school campaign for children's shoe company Livie & Luca, with the company saying she is 'born to shine'
+	Four-year-old Cora Slocum from Martinez, California, is the star of a back-to-school campaign for children's shoe company Livie and Luca, with the company saying she is 'born to shine'
       </description>
 <sentiment></sentiment>
 </item>

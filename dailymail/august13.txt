@@ -113,7 +113,7 @@
 	Taylor Swift posts ridiculous snaps of Cara Delevingne to celebrate her 23rd birthday
       </title>
 <description>
-	The 25-year-old revealed in the caption that the birthday girl 'regularly steals my phone & does this.' Cara has been flooded with countless well wishes from fans online.
+	The 25-year-old revealed in the caption that the birthday girl 'regularly steals my phone and does this.' Cara has been flooded with countless well wishes from fans online.
       </description>
 <sentiment>neutral</sentiment>
 </item>
@@ -3266,7 +3266,7 @@ But it seems that Kyle Sandilands is very proud of his figure.
 <description>
 	On Wednesday the 38-year-old actress was joined by her boyfriend, sports manager David Gardner, and the couple’s seven-month-old boy Sailor as they stepped out in the West Village.
       </description>
-<sentiment><neutral/sentiment>
+      <sentiment>neutral</sentiment>
 </item>
 <item>
 <title>

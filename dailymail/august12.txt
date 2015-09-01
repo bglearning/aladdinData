@@ -1881,7 +1881,7 @@ new service that guarantees pizza at your door in just 15 minutes. The initiativ
 <description>
 	Robbie Neilson entered the war of words on Tuesday surrounding John Collins’ weekend comments by insisting the Celtic No 2 may have been disrespectful to Scottish football.
       </description>
-<sentiment><neutral/sentiment>
+      <sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -2516,10 +2516,10 @@ One in ten of the 18 to 25-year-olds said they had never even read a novel.
 </item>
 <item>
 <title>
-	Athletics-USA Track & Field refutes allegation by athlete
+	Athletics-USA Track and Field refutes allegation by athlete
       </title>
 <description>
-	Aug 11 (Reuters) - USA Track & Field (USATF) on Tuesday released a detailed breakdown of how it spends its money in response to an allegation made by runner ...
+	Aug 11 (Reuters) - USA Track and Field (USATF) on Tuesday released a detailed breakdown of how it spends its money in response to an allegation made by runner ...
       </description>
 <sentiment>neutral</sentiment>
 </item>
@@ -2732,7 +2732,7 @@ One in ten of the 18 to 25-year-olds said they had never even read a novel.
 </item>
 <item>
 <title>
-	New Tate & Lyle leaves sour taste
+	New Tate and Lyle leaves sour taste
       </title>
 <description>
 	Bakers say the icing sugar  needs sieving much more and have called on the firm to revert back to its original formula. They claim it is now almost impossible to produce intricate designs.
@@ -3061,7 +3061,7 @@ One in ten of the 18 to 25-year-olds said they had never even read a novel.
 <description>
 	KIERAN GILL AT GRIFFIN PARK: Brentford were humiliated in the Capital One Cup by Oxford United as the League Two outfit thumped the Championship side on Tuesday night.
       </description>
-<sentiment><neutral/sentiment>
+      <sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3169,7 +3169,7 @@ One in ten of the 18 to 25-year-olds said they had never even read a novel.
 <description>
 	LAURIE WHITWELL AT THE CITY GROUND: Tom Bradshaw scored in the fifth minute of added time to send Walsall into the second round of the Capital One Cup.
       </description>
-<sentiment><neutral/sentiment>
+      <sentiment>neutral</sentiment>
 </item>
 <item>
 <title>
@@ -3299,10 +3299,10 @@ One in ten of the 18 to 25-year-olds said they had never even read a novel.
 </item>
 <item>
 <title>
-	M&S's new clothing boss rings womenswear changes
+	MnS's new clothing boss rings womenswear changes
       </title>
 <description>
-	LONDON, Aug 11 (Reuters) - Marks & Spencer, Britain's biggest clothing retailer, has parted company with its head of womenswear less than a month after the b...
+	LONDON, Aug 11 (Reuters) - Marks and Spencer, Britain's biggest clothing retailer, has parted company with its head of womenswear less than a month after the b...
       </description>
 <sentiment>neutral</sentiment>
 </item>

@@ -389,10 +389,10 @@
 </item>
 <item>
 <title>
-	Australia's marriage equality debate heats up again on ABC's Q&A
+	Australia's marriage equality debate heats up again on ABC's QnA
       </title>
 <description>
-	Australian politicians Sam Dastyari and Richard Di Natale have clashed with traditional marriage advocates on ABC's Q&A, as the debate surrounding marriage equality.
+	Australian politicians Sam Dastyari and Richard Di Natale have clashed with traditional marriage advocates on ABC's QnA, as the debate surrounding marriage equality.
       </description>
 <sentiment></sentiment>
 </item>
@@ -1724,7 +1724,7 @@
 	HMRC may have to return billions to firms who paid too much tax
       </title>
 <description>
-	Her Majesty’s Revenue & Customs has revealed the worst-case-scenario figure if it loses its disputes with companies which believe they have paid too much tax.
+	Her Majesty’s Revenue and Customs has revealed the worst-case-scenario figure if it loses its disputes with companies which believe they have paid too much tax.
       </description>
 <sentiment></sentiment>
 </item>
@@ -2136,10 +2136,10 @@ The Wild star also has to pay a $4,750 fine.
 </item>
 <item>
 <title>
-	UN to contact AT&T about report US wiretapped Internet at UN
+	UN to contact ATnT about report US wiretapped Internet at UN
       </title>
 <description>
-	UNITED NATIONS (AP) — The United Nations said Monday it plans to contact telecom giant AT&T about a report that it allowed the U.S. National Security Agency ...
+	UNITED NATIONS (AP) — The United Nations said Monday it plans to contact telecom giant ATnT about a report that it allowed the U.S. National Security Agency ...
       </description>
 <sentiment></sentiment>
 </item>
@@ -2199,10 +2199,10 @@ The Wild star also has to pay a $4,750 fine.
 </item>
 <item>
 <title>
-	Geelani warns of 'serious consequences' if J&K land is given to Army veterans
+	Geelani warns of 'serious consequences' if JnK land is given to Army veterans
       </title>
 <description>
-	Hardline Hurriyat Conference faction leader Syed Ali Shah Geelani rejected any plan of the Government of India to permanently settle retired Indian army personnel or their children in J&K.
+	Hardline Hurriyat Conference faction leader Syed Ali Shah Geelani rejected any plan of the Government of India to permanently settle retired Indian army personnel or their children in JnK.
       </description>
 <sentiment></sentiment>
 </item>
@@ -3734,7 +3734,7 @@ D23 expo, giving fans their first look at the stand -alone film, which stars Bri
 	Nick Gordon breaks silence following Bobbi Kristina's death with emotional tweet
       </title>
 <description>
-	'I'm so happy/blessed that I had @REALbkBrown in my life. i will always & forever love you,' Gordon tweeted on Monday. The daughter of Whitney Houston died on July 26 in Georgia.
+	'I'm so happy/blessed that I had @REALbkBrown in my life. i will always and forever love you,' Gordon tweeted on Monday. The daughter of Whitney Houston died on July 26 in Georgia.
       </description>
 <sentiment></sentiment>
 </item>
@@ -3830,7 +3830,7 @@ D23 expo, giving fans their first look at the stand -alone film, which stars Bri
 </item>
 <item>
 <title>
-	Stevie Wonder & Duran Duran to headline Life Is Beautiful Las Vegas festival
+	Stevie Wonder and Duran Duran to headline Life Is Beautiful Las Vegas festival
       </title>
 <description>
 	The three-year-old festival combines art programmes, learning sessions and live performances by some of the world’s biggest musicians over 11 city blocks in the heart of Downtown Las Vegas.
